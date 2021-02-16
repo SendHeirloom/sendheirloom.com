@@ -1,0 +1,54 @@
+backend:
+  name: github
+  repo: SendHeirloom/sendheirloom.com-cms
+  branch: main
+
+media_folder: "src/static/images"
+public_folder: "/static/images"
+
+# Please run "npx netlify-cms-proxy-server" for local backend
+local_backend: true
+# publish_mode: editorial_workflow
+collections:
+  - label: "Blog"
+    name: "blog"
+    folder: "src/posts"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - widget: select
+        label: "tags"
+        name: "tags"
+        multiple: true
+        create: true
+        options: []
+  - label: "Settings"
+    name: "settings"
+    editor:
+      preview: false
+    files:
+      - label: "Navigation"
+        name: "items"
+        file: "src/_data/navigation.yaml"
+        fields:
+          - label: Nav Items
+            name: items
+            widget: list
+            allow_add: false
+            collapsed: false
+            fields:
+              - { label: Title, name: text, widget: string }
+              - { label: URL, name: url, widget: string }
+      - label: "Meta Settings"
+        name: "settings"
+        file: "src/_data/settings.yaml"
+        fields:
+          - { label: Name, name: name, widget: string }
+          - { label: Author, name: author, widget: string }
+          - { label: URL, name: url, widget: string }

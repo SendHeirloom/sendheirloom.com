@@ -1,0 +1,8 @@
+---
+items:
+  - text: Design
+    url: "/design"
+  - text: FAQ
+    url: "/faq"
+  - text: Contact
+    url: "/contact"

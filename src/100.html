@@ -1,0 +1,101 @@
+---
+layout: default
+title: Celebrate Someone’s 100th Birthday with a Free Heirloom Card
+path: 100
+---
+
+<div class="MarkdownPage">
+  <div class="Column">
+    <main>
+      <div class="Markdown">
+        <h1>Free Video Book For Those Turning 100!</h1>
+        <br />
+        <p>We are proud to offer a <strong>free</strong> video book delivered to anyone turning one hundred years old.</p>
+
+        <p>
+          Your loved one has spent a lifetime nurturing others and now they deserve to be shown the wonderful fruits of their labor.
+          We can’t think of a better way than by allowing them to see you and their other family and friends.
+        </p>
+
+        <p>
+          Simply fill out this form and we will help you order
+          a free video book which will be delivered directly to your loved one full of the precious videos you have selected.
+        </p>
+
+        <br />
+      </div>
+
+      <div id=thanks style="margin: 0 2em; padding: 1em; border: 2px solid var(--pink)" hidden=true>
+        <h2>One Last Step!</h2>
+        <p>To finalize your submission please share a photo of your birthday honoree to our FB page and tag <a href="https://facebook.com/sendheirloomofficial" class="Link">@SendHeirloomOfficial</a>. We will be in touch soon!</p>
+      </div>
+
+      <div style="width: 20em; margin: 0 auto; max-width: 100%">
+        <form id=form action="https://formspree.io/f/xgeprqlr" method="POST">
+          <input type="text" name="_gotcha" style="display:none" />
+          <input type="hidden" name="_next" value="https://sendheirloom.com/100/?thanks" />
+
+          <div class="Stack">
+            <div class="FormField">
+              <div class="FormField--text">
+                <label for="title">Your Name</label>
+              </div>
+              <input type="text" class="Input" name="sender-name" required>
+            </div>
+
+            <div class="FormField">
+              <div class="FormField--text">
+                <label for="title">Your Email</label>
+                <div style="font-size: 0.8em">So we can send you a code to order your free video book.</div>
+              </div>
+              <input type="email" class="Input" name="_replyto" required>
+            </div>
+
+            <div class="FormField">
+              <div class="FormField--text">
+                <label for="title">Your Loved One’s Name</label>
+                <div style="font-size: 0.8em">The one turning 100!</div>
+              </div>
+              <input type="text" class="Input" name="recipient-name" autocomplete="off" required>
+            </div>
+
+            <div class="FormField">
+              <div class="FormField--text">
+                <label for="title">Your Loved One’s Birthday</label>
+                <div style="font-size: 0.8em">Provide the day you celebrate it if you're unsure.</div>
+              </div>
+              <input type="date" class="Input" name="birthdate" autocomplete="off" required style='min-height: 56px'>
+            </div>
+
+            <div class="FormField">
+              <div class="FormField--text">
+                <label for="title">Please Tell What You Love About <output content='recipient-name'>Them</output></label>
+              </div>
+              <textarea class="Input" name="info" autocomplete="off" style='min-height: 10em'></textarea>
+            </div>
+
+            <div>
+              <input class="Button Button-is-primary" type="submit" value="Submit" />
+            </div>
+
+          </div>
+        </form>
+
+        <script>
+          (function(){
+            if (document.location.search === "?thanks"){
+              form.hidden = true
+              thanks.hidden = false
+              history.replaceState(null, "", document.location.origin + document.location.pathname)
+            }
+
+            const input = document.querySelector('input[name="recipient-name"]')
+            input.addEventListener('input', function(){
+              document.querySelector('output[content="recipient-name"]').innerHTML = input.value || 'Them'
+            });
+          })()
+        </script>
+      </div>
+    </main>
+  </div>
+</div>

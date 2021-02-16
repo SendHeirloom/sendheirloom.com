@@ -1,0 +1,54 @@
+<div class="Dialog---backdrop" dialog-backdrop>
+  <div class="Dialog Dialog-is-small" aria-labelledby="dialog-sms-title" dialog="sms">
+    <h2 class="Dialog--title" id="dialog-sms-title">Text yourself a link to Heirloom</h2>
+
+    <p class="Dialog--subtitle">Our iOS App is where you can build, preview, and send your Heirloom Video Book. Let us text you a link to the app.</p>
+
+    <form dialog-form>
+      <div class="Dialog--content">
+        <div class="Stack">
+          <div class="FormField">
+            <div class="FormField--text">
+              <label for="input">Phone number</label>
+            </div>
+            <input type="text" class="Input" name="phone" id="phone" spellcheck="false" required dialog-autofocus />
+          </div>
+        </div>
+      </div>
+
+      <div class="Dialog--output" dialog-output>
+        <div style="font-size: .7em; margin-bottom: .5em; opacity: .8">Data messaging rates may apply.</div>
+      </div>
+
+      <div class="Dialog--actions">
+        <button class="Button Button-is-bordered Button-is-primary" type="submit" dialog-submit>Send</button>
+      </div>
+    </form>
+
+    <div class="Dialog--close-positioner">
+      <button class="Button Button-is-close" aria-label="Close" dialog-close>
+        <svg viewBox="0 0 8 8"><path stroke="currentColor" stroke-width=".75" d="M0 0 L8 8 M8 0 L0 8"/></svg>
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="Dialog---backdrop" dialog-backdrop>
+  <div class="Dialog Dialog-is-small" dialog="review">
+    <div class="Dialog--content">
+      <div class="Review---dialog-full" dialog-content></div>
+    </div>
+
+    <div class="Dialog--actions">
+      <button class="Button Button-is-bordered" dialog-close>Done</button>
+    </div>
+
+    <div class="Dialog--close-positioner">
+      <button class="Button Button-is-close" aria-label="Close" dialog-close>
+        <svg viewBox="0 0 8 8"><path stroke="currentColor" stroke-width=".75" d="M0 0 L8 8 M8 0 L0 8"/></svg>
+      </button>
+    </div>
+  </div>
+</div>
+
+

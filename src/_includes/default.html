@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="favicon.ico" rel="icon" type="image/x-icon"/>
+
+    <meta name="apple-itunes-app" content="app-id=1529517957"/>
+    <meta name="ahrefs-site-verification" content="dce95d3a69667056fabb8256a1d3d624380656c6dc06b5ad0f5f850db8fc022f">
+
+    <title>
+      {{title}}
+    </title>
+    <meta property="og:title" content="{{title}}"/>
+    <meta name="twitter:title" content="{{title}}"/>
+
+    {% if description %}
+      <meta name="description" content="{{description}}"/>
+      <meta property="og:description" content="{{description}}"/>
+      <meta name="twitter:description" content="{{description}}"/>
+    {% endif %}
+
+    {% if social_image %}
+      <meta property="og:image" content="{{ social_image }}"/>
+    {% else %}
+      <meta property="og:image" content="https://sendheirloom.com/resources/images/og-image.png"/>
+    {% endif %}
+
+    <meta name="twitter:creator" content="@SendHeirloom"/>
+    <meta name="twitter:card" content="summary_large_image"/>
+
+    {% block head %}{% endblock %}
+
+    <script src="/static/js/focus-visible-polyfill.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Aleo" rel="stylesheet"/>
+    <link rel="stylesheet" href="/static/css/style.css"/>
+
+    <!-- This is still in here manually as Segment doesn't seem to support the G- style ids -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1SNRMNQ1TQ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-1SNRMNQ1TQ');
+    </script>
+
+    <script>
+      !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on","addSourceMiddleware","addIntegrationMiddleware","setAnonymousId","addDestinationMiddleware"];analytics.factory=function(e){return function(){var t=Array.prototype.slice.call(arguments);t.unshift(e);analytics.push(t);return analytics}};for(var e=0;e<analytics.methods.length;e++){var key=analytics.methods[e];analytics[key]=analytics.factory(key)}analytics.load=function(key,e){var t=document.createElement("script");t.type="text/javascript";t.async=!0;t.src="https://cdn.segment.com/analytics.js/v1/" + key + "/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n);analytics._loadOptions=e};analytics.SNIPPET_VERSION="4.13.1";
+      analytics.load("0g3mmy7JdDlA1uJVxDWif64Fvqyt1Wxk");
+      analytics.page();
+      }}();
+    </script>
+
+    <script src="/static/js/dialog.js"></script>
+  </head>
+  <body>
+    {% block top_of_body %}{% endblock %}
+
+    {% include "./partials/navbar.html" %}
+
+    {{ content | safe }}
+
+    {% include "./partials/footer.html" %}
+
+    <script type="text/javascript">
+      window.omnisend = window.omnisend || [];
+      omnisend.push(["accountID", "5fc941e78a48f7337bc16d92"]);
+      omnisend.push(["track", "$pageViewed"]);
+      !function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="https://omnisrc.com/inshop/launcher-v2.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)}();
+    </script>
+
+    {% block bottom_of_body %}{% endblock %}
+  </body>
+</html>
