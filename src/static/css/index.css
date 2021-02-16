@@ -266,7 +266,7 @@ html {
 
 .Footer--legal {
   text-align: center;
-  padding-top: 2em;
+  padding: 2em 0;
 }
 
 .MarkdownPage {
