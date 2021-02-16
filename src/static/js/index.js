@@ -63,8 +63,7 @@
       }
     })
 
-    document.querySelectorAll("[data-open-email-dialog]").forEach(el => {
-      console.log('x', el)
+    document.querySelectorAll("[intent='open-email-dialog']").forEach(el => {
       el.addEventListener("click", event => {
         event.preventDefault()
         dialog.open()
