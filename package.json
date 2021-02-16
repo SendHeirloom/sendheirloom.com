@@ -1,10 +1,11 @@
 {
   "scripts": {
-    "start": "npm-run-all --parallel css eleventy",
+    "start": "npm-run-all --parallel css-style css-tailwind eleventy",
     "eleventy": "eleventy --serve",
     "debug": "set DEBUG=* & eleventy",
-    "css": "postcss src/static/css/style.css --o _tmp/static/css/style.css --watch",
-    "build": "cross-env NODE_ENV=production eleventy && cross-env NODE_ENV=production postcss src/static/css/style.css --o _site/static/css/style.css"
+    "css-style": "postcss src/static/css/style.css --o _tmp/static/css/style.css --watch",
+    "css-tailwind": "postcss src/static/css/tailwind.css --o _tmp/static/css/tailwind.css --watch",
+    "build": "cross-env NODE_ENV=production eleventy && cross-env NODE_ENV=production postcss src/static/css/style.css --o _site/static/css/style.css && cross-env NODE_ENV=production postcss src/static/css/tailwind.css --o _site/static/css/tailwind.css"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0",
@@ -21,6 +22,7 @@
   "dependencies": {
     "autoprefixer": "^10.1.0",
     "postcss": "^8.2.1",
-    "postcss-import": "^14.0.0"
+    "postcss-import": "^14.0.0",
+    "tailwindcss": "^2.0.3"
   }
 }

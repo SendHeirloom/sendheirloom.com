@@ -26,6 +26,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy({
     "./_tmp/static/css/style.css": "./static/css/style.css",
+    "./_tmp/static/css/tailwind.css": "./static/css/tailwind.css",
     "./src/admin/config.yml": "./admin/config.yml",
   });
 

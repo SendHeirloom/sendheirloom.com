@@ -22,12 +22,9 @@ collections:
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - widget: select
+      - widget: list
         label: "tags"
         name: "tags"
-        multiple: true
-        create: true
-        options: []
   - label: "Settings"
     name: "settings"
     editor:
