@@ -408,4 +408,16 @@ description: Mail a video book to your grandma. Send 10 minutes of your own vide
 {% include "partials/sms_dialog.html" %}
 {% include "partials/email_dialog.html" %}
 
+<script>
+if (window.netlifyIdentity) {
+  window.netlifyIdentity.on("init", user => {
+    if (!user) {
+      window.netlifyIdentity.on("login", () => {
+        document.location.href = "/admin/";
+      });
+    }
+  });
+}
+</script>
+
 <script async src="/static/js/index.js"></script>
