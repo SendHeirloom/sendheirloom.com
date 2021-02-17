@@ -33,6 +33,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/static/images");
   eleventyConfig.addPassthroughCopy("./src/static/js");
   eleventyConfig.addPassthroughCopy("./src/static/audio");
+  eleventyConfig.addPassthroughCopy("./src/static/press");
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
 
   // Minify HTML
