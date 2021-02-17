@@ -93,6 +93,8 @@
     })
 
     const sendSMS = async function(number) {
+      window.analytics && window.analytics.track("app-install-attempt");
+
       outputEl.innerHTML = ""
       submitEl.setAttribute("disabled", "")
 
@@ -128,13 +130,15 @@
       toast("Your message has been sent!")
     }
 
-    if (!isMobileOrTablet()) {
-      const links = document.querySelectorAll(`a[intent="build-book"]`);
-      for (var i=links.length; i--;){
+    const links = document.querySelectorAll(`a[intent="build-book"]`);
+    for (var i=links.length; i--;){
+      if (!isMobileOrTablet()) {
         links[i].addEventListener('click', (e) => {
           e.preventDefault()
           SMSDialog.open()
         })
+      } else {
+        window.analytics && window.analytics.trackLink(links[i], "app-install-attempt");
       }
     }
 
