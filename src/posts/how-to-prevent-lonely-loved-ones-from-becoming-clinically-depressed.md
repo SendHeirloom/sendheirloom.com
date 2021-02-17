@@ -9,13 +9,13 @@ tags:
 ---
 Most of us know what it means to be lonely. We can feel it. Maybe we have felt sad because a friend is no longer around us or our family has moved away. This seems quite natural and easy to explain. Now consider when this state of sadness grows deeper and lasts longer with no means of making it stop. This may now be defined as "depression."
 
-![](/static/images/blog/how-to-prevent-lonely-loved-ones-from-becoming-clinically-depressed/3.jpg)
+![An older woman](/static/images/blog/how-to-prevent-lonely-loved-ones-from-becoming-clinically-depressed/3.jpg)
 
 Our world's recent and current state of the pandemic has brought most of us to this first state of separation and isolation. At no fault of our own we are more alone, more separated. Consider those who have no means of leaving their home, no independent means of participating with others, no ability to be with their most important others.
 
 Most of us know the simple and understandable "rules" that support a healthy lifestyle. We know about balanced nutrition, physical movement, sleep, hydration and social engagement. The recent and ongoing pandemic has forced all of us to rethink and in some cases move away from these rules as restrictions and limitations are in place. For those with the least resources and flexibility of choice, their level of health and wellness simply declines.
 
-![](/static/images/blog/how-to-prevent-lonely-loved-ones-from-becoming-clinically-depressed/1.jpg)
+![An older person](/static/images/blog/how-to-prevent-lonely-loved-ones-from-becoming-clinically-depressed/1.jpg)
 
 A [recent study](https://www.geekwire.com/2020/covid-19-accelerates-tech-initiatives-help-lonely-seniors-addressing-double-pandemic-isolation/) of health and social service providers by the University of Washington has alarmingly labeled the social isolation experienced as a result of necessary confinement as the "double pandemic." These findings have led to expectations that the effect may linger well past the lifting of restrictions, including "exacerbated problems of dementia, depression, suicide risk, and disrupted care."
 
@@ -23,7 +23,7 @@ It's not a big leap to think that this sudden and lingering isolation has and wi
 
 Social connection can be an action or a feeling that we all have when we connect with others. I know how proud I feel when someone calls to chat or ask my advice. I also know how comforted I feel when I can tell others about my stress, needs or even my fears. Even when logically unobtainable and a risk to our health, we seek this social support.
 
-![](/static/images/blog/how-to-prevent-lonely-loved-ones-from-becoming-clinically-depressed/2.jpg)
+![An older person](/static/images/blog/how-to-prevent-lonely-loved-ones-from-becoming-clinically-depressed/2.jpg)
 
 Before this forced isolation, many seniors may have enjoyed routine activities that offered hidden health benefits. Simple trips up and down the grocery store aisle that provided much needed exercise, visual and brain stimulation, and independence are now on pause. Communal meals within senior living communities are on hold, removing the motivating reasons for getting properly dressed and maintaining physical appearances. The simple social activities of in-person games and exercises have been replaced with sole similar activities, hardly encouraging or as fun by any measure.
 

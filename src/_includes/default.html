@@ -21,8 +21,14 @@
       <meta name="twitter:description" content="{{description}}"/>
     {% endif %}
 
+    {% if og_type %}
+      <meta property="og:type" content="{{og_type}}"/>
+    {% else %}
+      <meta property="og:type" content="website"/>
+    {% endif %}
+
     {% if social_image %}
-      <meta property="og:image" content="{{ social_image }}"/>
+      <meta property="og:image" content="{{social_image}}"/>
     {% else %}
       <meta property="og:image" content="https://sendheirloom.com/resources/images/og-image.png"/>
     {% endif %}

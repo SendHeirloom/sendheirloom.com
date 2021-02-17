@@ -15,7 +15,7 @@ Consider these thoughtful gift ideas that will help nurture your bond from a dis
 
 ## DIY Gifts
 
-![](/static/images/blog/gifts-grandparents-actually-want/crafts.jpg)
+![Arts & Crafts](/static/images/blog/gifts-grandparents-actually-want/crafts.jpg)
 
 A Do-It-Yourself (DIY) gift, simply meaning a hand-crafted item that your grandparent will know was built with the only real gift they want, your love. Stop yourself from thinking about what you can't make, or what you have never made. There is another place and time for that list. Consider instead what your grandparent wants most to feel. Grandparents simply don't see what is missing in their grandchildren: skills, talent, creativity. They see what is there: effort, expression, uniqueness.
 
@@ -23,7 +23,7 @@ A Do-It-Yourself (DIY) gift, simply meaning a hand-crafted item that your grandp
 
 Consider a gift that brings your grandparent back to one of their past hobbies. What did they enjoy doing before their family grew and their time became more limited?
 
-![](/static/images/blog/gifts-grandparents-actually-want/garden.jpg)
+![A Garden](/static/images/blog/gifts-grandparents-actually-want/garden.jpg)
 
 Perhaps your grandparent loved gardening; large gardens with big crops. Now they live in a small, neat, easy to care for apartment. You can return them to their very successful and healthy hobby with some imagination and motivation. Consider a [hydroponic garden](https://www.thespruce.com/beginners-guide-to-hydroponics-1939215) or a series of window box herb gardens.
 
@@ -33,7 +33,7 @@ Is your grandparent a good cook? Consider joining together the family's generati
 
 The gift of literature may be your loved ones' lifelong pleasure to one that was shelved as they were busy raising a family. Now they can return to this pleasure with a few ideas.
 
-![](/static/images/blog/gifts-grandparents-actually-want/tea.jpg)
+![Tea Service](/static/images/blog/gifts-grandparents-actually-want/tea.jpg)
 
 Check out [book-of-the-month](https://www.bookofthemonth.com/?irclickid=X%3AT0Lk3uRxyLUYB05-R4sULoUkEWEGUprzeoyY0&utm_medium=affiliate&utm_source=impact&utm_campaign=36676&irgwc=1) clubs. Or, the simpler, and frankly much cheaper way: a library card. When elders move, such as from their family home to a senior residence, their nearby library may change. You can contact their local library, provide all the necessary sign up information and a library card account is now their key to the world of literature. Libraries often have arrangements with senior centers for deliveries of ordered books. And don't miss the benefits of books on tape, or CD, or virtual e-books.
 
@@ -43,7 +43,7 @@ We have recently discovered my 92-year-old mother has an affinity for biographie
 
 Consider materials you have at the ready. The photographs and videos in your phone are documented treasured moments, whether they find your recipient in the video or they invite your grandparent to be there for the first time.
 
-![](/static/images/blog/gifts-grandparents-actually-want/photos.jpg)
+![A Memory Book](/static/images/blog/gifts-grandparents-actually-want/photos.jpg)
 
 If your grandparent doesn't have wifi or a smartphone, our product (sold on this website) solves that. We make it possible for special moments to be shared with family and friends, even when those you love don't have access to the internet.
 
@@ -53,7 +53,7 @@ The Heirloom video book is a physical video album full of your videos on an inte
 
 Plan an outing that meets the desire of togetherness with both the people of the present and the past.
 
-![](/static/images/blog/gifts-grandparents-actually-want/old-city.jpg)
+![An Old City](/static/images/blog/gifts-grandparents-actually-want/old-city.jpg)
 
 I once organized a day of remembrance for my mother and two brothers. We started at my mother's first house, where she lived as a child and then traveled through the city to her elementary school, and onward. We ended at the home where she raised the three of us. This time, this day, these sites brought back decades of happy memories. We shared stories, and created new memories, too. If you are able to do this together safely masked at this time, go for it. If not, how about presenting her with an album of pictures of these locations and personalized memories offered by many members of her family.
 
@@ -61,7 +61,7 @@ I once organized a day of remembrance for my mother and two brothers. We started
 
 How about asking your grandmother to spend the day teaching you something? Recall the physical distancing we are maintaining and perhaps have a speaker phone nearby as you recreate her masterpieces in your kitchen with grandma providing all the coaching, encouragement, laughter and togetherness from a safe distance.
 
-![](/static/images/blog/gifts-grandparents-actually-want/kitchen.jpg)
+![A Kitchen](/static/images/blog/gifts-grandparents-actually-want/kitchen.jpg)
 
 These gifts ideas as simply suggestions to possibly redirect your gift shopping away from the already produced objects to the ones that actually emote your emotional goals. Your grandparent may have already provided you with all the gift giving hints you need. Just think back a little, bring yourself joy and your gift will surely do the same in their lives.
 
