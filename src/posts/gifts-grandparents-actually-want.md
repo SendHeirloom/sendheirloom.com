@@ -3,6 +3,7 @@ title: Gifts Grandparents Actually Want
 description: Five gifts your grandma and grandpa will cherish.
 author: Dr. Randee Bloom
 date: 2021-02-10T00:55:29.298Z
+social_image: /static/images/blog/gifts-grandparents-actually-want/crafts.jpg
 tags:
   - gifts
   - grandparents
