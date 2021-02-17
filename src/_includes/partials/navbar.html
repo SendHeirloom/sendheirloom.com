@@ -21,7 +21,8 @@
       {% if navigation.items %}
         <div class="Header--links">
           {% for item in navigation.items %}
-            <a href="{{ item.url }}" class="Link Link-without-underline Header--link">{{ item.text }}</a>
+            {# We include both Tailwinds and internal classes so the header works in both environments #}
+            <a href="{{ item.url }}" class="Link Link-without-underline Header--link font-heading">{{ item.text }}</a>
           {% endfor %}
         </div>
       {% endif %}

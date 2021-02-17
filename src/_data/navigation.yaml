@@ -1,5 +1,7 @@
 ---
 items:
+  - text: Blog
+    url: "/blog"
   - text: Design
     url: "/design"
   - text: FAQ
