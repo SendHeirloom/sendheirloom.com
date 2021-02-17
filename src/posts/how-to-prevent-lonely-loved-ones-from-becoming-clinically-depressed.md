@@ -3,6 +3,7 @@ title: How to Prevent Lonely Loved Ones From Becoming Clinically Depressed
 description: Actionable tools you can use to help a loved one struggling with loneliness.
 author: Dr. Randee Bloom
 date: 2021-02-02T23:55:39.970Z
+social_image: /static/images/uploads/3-1-.jpg
 tags:
   - depression
   - help
