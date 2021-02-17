@@ -13,7 +13,11 @@ module.exports = {
     extend: {
       colors: {},
     },
+    fontFamily: {
+      heading: 'Aleo, Georgia, Times, "Times New Roman", serif',
+      body: 'Avenir, "Avenir Next", "Segoe UI", system-ui, Helvetica, "Helvetica Neue", sans-serif'
+    }
   },
   variants: {},
-  plugins: [],
+  plugins: [require("@tailwindcss/typography")]
 };
