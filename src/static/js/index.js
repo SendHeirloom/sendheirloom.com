@@ -93,7 +93,7 @@
     })
 
     const sendSMS = async function(number) {
-      window.analytics && window.analytics.track("app-install-attempt");
+      window.dataLayer && window.dataLayer.push({'event': 'app-install-attempt'});
 
       outputEl.innerHTML = ""
       submitEl.setAttribute("disabled", "")
@@ -138,7 +138,21 @@
           SMSDialog.open()
         })
       } else {
-        window.analytics && window.analytics.trackLink(links[i], "app-install-attempt");
+        links[i].addEventListener('click', (e) => {
+          window.dataLayer && window.dataLayer.push({'event': 'app-install-attempt'})
+          var el = e.target
+          var isMeta = (e.metaKey || e.altKey || e.ctrlKey || e.shiftKey)
+
+          if (el.target != '_blank' && !isMeta) {
+            var href = el.getAttribute('href')
+            e.preventDefault()
+
+            // Give the analytics time to submit
+            setTimeout(() => {
+              window.location.href = href
+            }, 300);
+          }
+        })
       }
     }
 
