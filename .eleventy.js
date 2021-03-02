@@ -2,6 +2,7 @@ const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function (eleventyConfig) {
   // Disable automatic use of your .gitignore
@@ -9,6 +10,10 @@ module.exports = function (eleventyConfig) {
 
   // Merge data instead of overriding
   eleventyConfig.setDataDeepMerge(true);
+
+  // Add plugins
+  // This fellow also gives us the absoluteUrl filter:
+  eleventyConfig.addPlugin(pluginRss);
 
   // human readable date
   eleventyConfig.addFilter("readableDate", (dateObj) => {
