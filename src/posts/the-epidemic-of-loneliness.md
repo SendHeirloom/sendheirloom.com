@@ -8,6 +8,8 @@ tags: []
 ---
 When people think about health they tend to think about behaviors like getting enough exercise, eating nutritious foods, sleeping, not smoking, and drinking alcohol in moderation, if at all. All of this is good, well, and important. But something that frequently gets overlooked is the importance of connection. Consider this: in a massive study out of Brigham Young University in 2010, researchers followed more than 300,000 people for an average of 7.5 years. They [learned](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316) that the mortality risks associated with loneliness exceeded those associated with obesity and physical inactivity, and were comparable to the risks of smoking.
 
+![](/static/images/uploads/screen-shot-2021-02-27-at-9.20.33-am.png)
+
 Unfortunately, starting in around 2018, experts from across scientific disciplines began to agree that we are in the midst of an epidemic of loneliness. The causes are many, but chief among them is an obsession with productivity, optimization, and busyness, which crowds out time spent on meaningful connection. This trend began *before* the COVID-19 pandemic. Since then, things have only worsened.
 
 While all age groups are affected by loneliness, perhaps none is affected more so than older people. Their families often live elsewhere. Many are no longer working, which means that they don't have the built in community of colleagues. And they are vulnerable in other unique ways.
@@ -18,4 +20,4 @@ In my own [writing](https://www.amazon.com/gp/product/0593329899?tag=randohouse
 
 Will Heirloom solve the loneliness crisis? Of course not. But it will bring a smile to a loved one's face, counter a depressive thought or feeling, and warm their heart. And this is a good start.
 
-***Brad Stulberg ([@Bstulberg](https://twitter.com/Bstulberg)) researches, writes, and coaches on mental health, well-being, and sustainable success. He is cofounder of [The Growth Equation](https://thegrowtheq.com/) and bestselling author of the book* [Peak Performance](https://www.amazon.com/gp/product/162336793X/ref=as_li_tl?ie=UTF8&tag=outsonli02-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=162336793X&linkId=b273d13d9b377c15000bd3f4552a53b1)*.***
+***Brad Stulberg (@Bstulberg) researches, writes, and coaches on mental health, well-being, and sustainable success. He is cofounder of The Growth Equation and bestselling author of the book Peak Performance.***
