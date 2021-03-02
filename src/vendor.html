@@ -1,0 +1,34 @@
+---
+layout: default
+title: Heirloom | Visit the iOS App
+description: "Visit the Heirloom iOS App to complete your order"
+---
+
+<link rel="stylesheet" href="/static/css/tailwind.css"/>
+
+<div x-data="getVendorSale()" x-on:branch-loaded.window="sale = $event.detail.sale" class="container max-w-2xl font-body font-medium">
+  <h1 class="font-heading text-2xl my-6">Complete your <span x-text="vendorName"></span> order.</h1>
+  <h2 class="text-xl my-2">Welcome <span x-text="sale.customer_first_name"></span>,</h2>
+
+  <p class="mb-3">
+    Our iOS App is where you can build, preview, and send your Heirloom Video Book. Let us text you a link to the app.</p>
+  </p>
+
+  <form x-on:submit="sendBranchSMS()" x-on:submit.prevent id="branch-sms-form">
+    <div class="flex flex-col mb-4">
+      <label for="mb-2 uppercase font-bold text-lg text-grey-darkest">Phone number</label>
+      <input type="text" class="border py-2 px-3 text-grey-darkest" name="phone" id="phone" spellcheck="false" required autofocus />
+    </div>
+
+    <button class="Button Button-is-bordered Button-is-primary" type="submit">Send</button>
+
+    <output class="block pt-2 text-sm"></output>
+  </form>
+
+  <p class="mt-3 text-sm">
+    Don’t have an iPhone or iPad? Stay tuned, in just a few weeks we’ll have a way for you to order your Video Books directly from your computer.
+  </p>
+</div>
+
+<script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.8.1/dist/alpine.min.js" defer></script>
+<script src="/static/js/branch.js"></script>
