@@ -1,6 +1,6 @@
 ---
-title: "The Loneliness Epidemic "
-description: "We are overlooking the importance of connection. "
+title: "The Rising Toll of Loneliness "
+description: "The feeling of belonging makes us happier and safer. "
 author: Brad Stulberg
 date: 2021-03-01T22:54:02.305Z
 social_image: /static/images/uploads/screen-shot-2021-02-27-at-9.20.33-am.png
