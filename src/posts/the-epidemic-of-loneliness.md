@@ -1,6 +1,6 @@
 ---
 title: "The Loneliness Epidemic "
-description: "We Are Overlooking the Importance of Connection. "
+description: "We are overlooking the importance of connection. "
 author: Brad Stulberg
 date: 2021-03-01T22:54:02.305Z
 social_image: /static/images/uploads/screen-shot-2021-02-27-at-9.20.33-am.png
