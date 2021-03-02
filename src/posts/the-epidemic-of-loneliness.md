@@ -4,7 +4,8 @@ description: "We Are Overlooking the Importance of Connection. "
 author: By Brad Stulberg
 date: 2021-03-01T22:54:02.305Z
 social_image: /static/images/uploads/screen-shot-2021-02-27-at-9.20.33-am.png
-tags: []
+tags:
+  - "#mentalhealth"
 ---
 When people think about health they tend to think about behaviors like getting enough exercise, eating nutritious foods, sleeping, not smoking, and drinking alcohol in moderation, if at all. All of this is good, well, and important. But something that frequently gets overlooked is the importance of connection. Consider this: in a massive study out of Brigham Young University in 2010, researchers followed more than 300,000 people for an average of 7.5 years. They [learned](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316) that the mortality risks associated with loneliness exceeded those associated with obesity and physical inactivity, and were comparable to the risks of smoking.
 
