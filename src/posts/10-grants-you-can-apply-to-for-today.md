@@ -5,9 +5,11 @@ author: Ashley Kenny
 date: 2021-03-05T04:07:07.516Z
 social_image: /static/images/uploads/grant.png
 ---
-A good idea isn’t enough.  All startups require some funding and most funding comes with strings attached.  But a few grants are designed to be debt free and if you know where and when to apply and have a compelling business idea, they can be a great way to earn funding for your new startup business or nonprofit. 
+
 
 ![Most types of grants, unlike loans, are sources of free money that generally do not have to be repaid. Grants can come from the government or private or nonprofit organization.](/static/images/uploads/grant.png "Grants")
+
+A good idea isn’t enough.  All startups require some funding and most funding comes with strings attached.  But a few grants are designed to be debt free and if you know where and when to apply and have a compelling business idea, they can be a great way to earn funding for your new startup business or nonprofit. 
 
 While researching funding options for my new business, [Heirloom](http://heirloom), I explored grants for new businesses.  Whether seeking funding support to launch or level up, here are a few grants you can apply for today. 
 
@@ -29,8 +31,6 @@ The InnovateHER Challenge is sponsored by the Coastal Bend Business Innovation C
  [The Growth Grant](https://www.nase.org/become-a-member/member-benefits/business-resources/growth-grants)\
 This business development grant is worth up to $4,000 to members of the National Association for the Self-Employed. Applicants provide a detailed explanation of how the funds will improve business growth and success. Awards can be used toward marketing, advertising, hiring employees, expanding facilities and other specific business needs. Grant applications are always welcomed and reviewed the following quarter upon receipt. Association membership fee required.
 
-
-
 **Grants for Nonprofits** 
 
 [The Pollination Project ](https://thepollinationproject.org/pre-screen-quiz/)\
@@ -46,4 +46,4 @@ This government supported site is packed full of helpful information, tools, edu
 [America’s Seed Fund](https://seedfund.nsf.gov/apply/?utm_source=google&utm_medium=cpc&utm_campaign=psc&utm_term=keyword&utm_content=now_open) \
 The National Science Foundation (NSF) supports this congressionally mandated program granting project, helping startups and small businesses (fewer than 500 employees), working within the US transform their ideas into marketable products and services. Annual total awards exceed $200 million to entrepreneurs fostering innovation and creating jobs in the US. Seed capital is offered for defined periods of time when the company is immersed in the NSF network, receiving training and mentorship. Companies with no prior government work must register, as detailed on this site.
 
-***Ashley Kenny** spent the last 15-years producing ground-breaking, award-winning documentaries for organizations like National Geographic, Al Jazeera America and The Atlantic, many earning awards like the Edward R. Murrow and Alfred I. duPont Awards. Ashley is the founder of Heirloom and lives in Washington, DC.*
+**\*Ashley Kenny** spent the last 15-years producing ground-breaking, award-winning documentaries for organizations like National Geographic, Al Jazeera America and The Atlantic, many earning awards like the Edward R. Murrow and Alfred I. duPont Awards. Ashley is the founder of Heirloom and lives in Washington, DC.*
