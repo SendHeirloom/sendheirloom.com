@@ -11,7 +11,7 @@ tags:
     repaid. Grants can come from the government or private or nonprofit
     organization.
 ---
-A good idea isn’t enough.  All startups require some funding and most funding comes with strings attached.  But a few grants are designed to be debt free and if you know where and when to apply and have a compelling business idea, they can be a great way to earn funding for your new startup business or nonprofit. 
+A good idea isn’t enough.  All startups require some funding and most funding comes with strings attached.  But a few grants are designed to be debt free and if you know where and when to apply, and have a compelling business idea, they can be a great way to earn funding for your new startup business or nonprofit. 
 
 While researching funding options for my new business, [Heirloom](http://heirloom), I explored different grant opportunities. Whether seeking funding support to launch or level up, here are a few grants you can apply for today. 
 
