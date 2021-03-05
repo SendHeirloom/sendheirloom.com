@@ -1,5 +1,5 @@
 ---
-title: 10 Grants You Can Apply To For Today
+title: 10 Grants We Applied For
 description: Free Money For Your Business or Nonprofit Organization
 author: Ashley Kenny
 date: 2021-03-05T04:07:07.516Z
@@ -11,6 +11,10 @@ tags:
     repaid. Grants can come from the government or private or nonprofit
     organization.
 ---
+![](/static/images/uploads/screen-shot-2021-03-05-at-9.47.04-am.png)
+
+
+
 A good idea isn’t enough.  All startups require some funding and most funding comes with strings attached.  But a few grants are designed to be debt free and if you know where and when to apply, and have a compelling business idea, they can be a great way to earn funding for your new startup business or nonprofit. 
 
 While researching funding options for my new business, [Heirloom](http://heirloom), I explored different grant opportunities. Whether seeking funding support to launch or level up, here are a few grants you can apply for today. 
@@ -49,7 +53,7 @@ This grant is valued up to $30,000 offered to US 501(c)3 nonprofit organizations
 This government supported site is packed full of helpful information, tools, education and support for companies searching for relevant federal grant funding. Federal funding opportunities are for organizations and entities supporting the development and management of government programs and projects. Each awarding agency defines the specific eligibility along with application requirements and deadlines. Search tools assist with your research, including keywords and specific opportunity titles.\
 \
 [America’s Seed Fund](https://seedfund.nsf.gov/apply/?utm_source=google&utm_medium=cpc&utm_campaign=psc&utm_term=keyword&utm_content=now_open) \
-The National Science Foundation (NSF) supports this congressionally mandated program granting project, helping startups and small businesses (fewer than 500 employees), working within the US transform their ideas into marketable products and services. Annual total awards exceed $200 million to entrepreneurs fostering innovation and creating jobs in the US. Seed capital is offered for defined periods of time when the company is immersed in the NSF network, receiving training and mentorship. Companies with no prior government work must register, as detailed on this site.
+The National Science Foundation supports this congressionally mandated program granting project, helping startups and small businesses (fewer than 500 employees), working within the US transform their ideas into marketable products and services. Annual total awards exceed $200 million to entrepreneurs fostering innovation and creating jobs in the US. Seed capital is offered for defined periods of time when the company is immersed in the NSF network, receiving training and mentorship. Companies with no prior government work must register, as detailed on this site.
 
 
 
