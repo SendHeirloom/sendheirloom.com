@@ -7,7 +7,7 @@ social_image: /static/images/uploads/grant.png
 ---
 
 
-![Most types of grants, unlike loans, are sources of free money that generally do not have to be repaid. Grants can come from the government or private or nonprofit organization.](/static/images/uploads/grant.png "Grants")
+![Most types of grants, unlike loans, are sources of free money that generally do not have to be repaid. Grants can come from the government or private or nonprofit organization.](/static/images/uploads/screen-shot-2021-03-04-at-11.25.08-pm.png "Grants")
 
 A good idea isn’t enough.  All startups require some funding and most funding comes with strings attached.  But a few grants are designed to be debt free and if you know where and when to apply and have a compelling business idea, they can be a great way to earn funding for your new startup business or nonprofit. 
 
