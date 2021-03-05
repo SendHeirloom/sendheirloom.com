@@ -4,6 +4,12 @@ description: Free Money For Your Business or Nonprofit Organization
 author: Ashley Kenny
 date: 2021-03-05T04:07:07.516Z
 social_image: /static/images/uploads/grant.png
+tags:
+  - Most types of grants
+  - unlike loans
+  - are sources of free money that generally do not have to be
+    repaid. Grants can come from the government or private or nonprofit
+    organization.
 ---
 A good idea isn’t enough.  All startups require some funding and most funding comes with strings attached.  But a few grants are designed to be debt free and if you know where and when to apply and have a compelling business idea, they can be a great way to earn funding for your new startup business or nonprofit. 
 
