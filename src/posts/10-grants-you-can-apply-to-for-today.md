@@ -55,4 +55,4 @@ The National Science Foundation supports this congressionally mandated program g
 
 
 
-***Ashley Kenny** spent the last 15-years producing ground-breaking, award-winning documentaries for organizations like National Geographic, Al Jazeera America and The Atlantic, many earning awards like the Edward R. Murrow and Alfred I. duPont Awards. Ashley is the founder of [Heirloom](sendheirloom.com) and lives in Washington, DC.*
+***Ashley Kenny** spent the last 15-years producing ground-breaking, award-winning documentaries for organizations like National Geographic, Al Jazeera America and The Atlantic, many earning awards like the Edward R. Murrow and Alfred I. duPont Awards. She is the founder of [Heirloom](sendheirloom.com) and lives in Washington, DC.*
