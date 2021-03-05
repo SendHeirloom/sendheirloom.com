@@ -71,4 +71,6 @@ The act of offering your time and talent to help others, without the expectation
 
 We all hope for the day when our public health and medical professionals tell us we can return to normal socialization. For our seniors this will mean active days, complete with social engagements, visitors and outings, leading to less loneliness and more joy overall.
 
-**Dr. Randee Bloom, RN, MBA, PhD** *is a retired nurse and healthcare administrator. She has a PhD in nonprofit management and serves on the board of several national healthcare nonprofits. Dr. Bloom is a national volunteer ambassador for AARP and two of her children, Ashley and Zack, are the founders of Heirloom. Dr. Bloom's own mother is in her 90's and is forced to remain isolated to protect her health as COVID-19 remains uncontrolled.*
+
+
+***Dr. Randee Bloom, RN, MBA, PhD** is a retired nurse and healthcare administrator. She has a PhD in nonprofit management and serves on the board of several national healthcare nonprofits. Dr. Bloom is a national volunteer ambassador for AARP and two of her children, Ashley and Zack, are the founders of Heirloom. Dr. Bloom's own mother is in her 90's and is forced to remain isolated to protect her health as COVID-19 remains uncontrolled.*
