@@ -5,7 +5,7 @@ author: Dr. Randee Bloom
 date: 2021-03-07T21:52:09.433Z
 social_image: /static/images/uploads/screen-shot-2021-03-07-at-4.57.14-pm.png
 ---
-![Families can create a more risk-free environment for aging loved ones.](/static/images/uploads/screen-shot-2021-03-07-at-4.57.14-pm.png)
+![Families can create a more risk-free environment for aging loved ones.](/static/images/uploads/screen-shot-2021-03-07-at-4.57.14-pm.png "Aging")
 
 Let’s face it, our bodies have an expiration date.  A time limit where our physical self gradually stops working the way it had in the past.  This requires us to make changes to our environment, add some safety measures, and learn to use specialized devices, and that’s for the lucky ones who are able to stay home. 
 
@@ -37,6 +37,4 @@ The rest of the solutions lay within your family unit. Have all your family memb
 
 Thinking about this topic, what I’m most perplexed by is the inevitably we share. We hope that we live a long life, measured in years that pass into the “elderly” classification, hoping we become elderly ourselves. Our lifetime of experiences and education should create a natural elevation in value rather than disregard because of some natural physical frailties.
 
-
-
-***Dr. Randee Bloom, RN, MBA, PhD** is a retired nurse and healthcare administrator. She has a PhD in nonprofit management and serves on the board of several national healthcare nonprofits. Dr. Bloom is a national volunteer ambassador for AARP and two of her children, Ashley and Zack, are the founders of Heirloom. Dr. Bloom's own mother is in her 90's and is forced to remain isolated to protect her health as COVID-19 remains uncontrolled.*
+**\*Dr. Randee Bloom, RN, MBA, PhD** is a retired nurse and healthcare administrator. She has a PhD in nonprofit management and serves on the board of several national healthcare nonprofits. Dr. Bloom is a national volunteer ambassador for AARP and two of her children, Ashley and Zack, are the founders of Heirloom. Dr. Bloom's own mother is in her 90's and is forced to remain isolated to protect her health as COVID-19 remains uncontrolled.*
