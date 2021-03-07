@@ -4,6 +4,8 @@ description: "How families of seniors can reduce household risks. "
 author: Dr. Randee Bloom
 date: 2021-03-07T21:52:09.433Z
 social_image: /static/images/uploads/screen-shot-2021-03-07-at-4.57.14-pm.png
+tags:
+  - Aging
 ---
 ![Families can create a more risk-free environment for aging loved ones.](/static/images/uploads/screen-shot-2021-03-07-at-4.57.14-pm.png "Aging")
 
