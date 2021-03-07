@@ -1,5 +1,5 @@
 ---
-title: "Ways to Keep your Aging Loved Safe at Home "
+title: "Ways to Keep Your Aging Loved Ones Safe at Home "
 description: "How families of seniors can reduce household risks. "
 author: Dr. Randee Bloom
 date: 2021-03-07T21:52:09.433Z
