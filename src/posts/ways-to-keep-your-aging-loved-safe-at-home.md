@@ -1,6 +1,6 @@
 ---
 title: "Ways to Keep your Aging Loved Safe at Home "
-description: How Families Can Reduce Household Risks
+description: How Families of Seniors Can Reduce Household Risks
 author: Dr. Randee Bloom
 date: 2021-03-07T21:52:09.433Z
 social_image: /static/images/uploads/screen-shot-2021-03-07-at-4.57.14-pm.png
