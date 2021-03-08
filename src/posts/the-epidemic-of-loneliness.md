@@ -21,6 +21,4 @@ In my own [writing](https://www.amazon.com/gp/product/0593329899?tag=randohouse
 
 Will Heirloom solve the loneliness crisis? Of course not. But it will bring a smile to a loved one's face, counter a depressive thought or feeling, and warm their heart. And this is a good start.
 
-
-
 ***Brad Stulberg** (@Bstulberg) researches, writes, and coaches on mental health, well-being, and sustainable success. He is cofounder of The Growth Equation and bestselling author of the book Peak Performance.*
