@@ -17,7 +17,7 @@ A good idea isn’t enough.  All startups require some funding and most funding
 
 While researching funding options for my new business, [Heirloom](http://heirloom), I explored a few different grant opportunities. Whether seeking funding support to launch or level up, here are a few grants you can apply for today. 
 
-**Business Grants**
+#### **Business Grants**
 
 [The FedEx Grant](https://www.fedex.com/en-us/small-business/grant-contest.html)\
 This grant is structured as a contest with a chance to be awarded one of 12 grants valued up to $50,000 for small, growing business. Nonprofits and franchised or direct seller businesses are not eligible. Entries can be submitted until March 9, 2021.
@@ -37,7 +37,7 @@ This grant offers an annual award for emerging silver jewelry artists and design
 [The Growth Grant](https://www.nase.org/become-a-member/member-benefits/business-resources/growth-grants)\
 This business development grant is worth up to $4,000 to members of the National Association for the Self-Employed. Applicants provide a detailed explanation of how the funds will improve business growth and success. Awards can be used toward marketing, advertising, hiring employees, expanding facilities and other specific business needs. Grant applications are always welcomed and reviewed the following quarter upon receipt. Association membership fee required.
 
-**Grants for Nonprofits** 
+#### **Grants for Nonprofits** 
 
 [The Pollination Project ](https://thepollinationproject.org/pre-screen-quiz/)\
 This unique organization seeks to contribute beyond their initial support toward a worldwide impact through the awarding grants demonstrating community-driven grassroots initiatives seeking to empower individuals and inspire others. Any charitable work that aims to better the world is considered, recognizing the importance of effective seed funding. Ongoing grant applications are welcome recognizing their effort to award a new project $1,000 in seed funding each day of the year. Awardees are then welcomed to access business support development including connectivity with others. 
@@ -45,7 +45,7 @@ This unique organization seeks to contribute beyond their initial support toward
 [The Ben & Jerry’s Foundation Grant](https://benandjerrysfoundation.org/the-grassroots-organizing-for-social-change-program/)\
 This grant is valued up to $30,000 offered to US 501(c)3 nonprofit organizations with annual budgets under $500,000.  Successful grants generally are to grassroots, constituent-led organizations focused on activities and strategies used for creating social change. Pre-application deadline is May 1, 2021 with a final due date of August 16, 2021.
 
-**Government-funded Grants** 
+#### **Government-funded Grants** 
 
 [GRANTS.gov](http://grants.gov)\
 This government supported site is packed full of helpful information, tools, education and support for companies searching for relevant federal grant funding. Federal funding opportunities are for organizations and entities supporting the development and management of government programs and projects. Each awarding agency defines the specific eligibility along with application requirements and deadlines. Search tools assist with your research, including keywords and specific opportunity titles.\
@@ -53,4 +53,4 @@ This government supported site is packed full of helpful information, tools, edu
 [America’s Seed Fund](https://seedfund.nsf.gov/apply/?utm_source=google&utm_medium=cpc&utm_campaign=psc&utm_term=keyword&utm_content=now_open) \
 The National Science Foundation supports this congressionally mandated program granting project, helping startups and small businesses (fewer than 500 employees), working within the US transform their ideas into marketable products and services. Annual total awards exceed $200 million to entrepreneurs fostering innovation and creating jobs in the US. Seed capital is offered for defined periods of time when the company is immersed in the NSF network, receiving training and mentorship. Companies with no prior government work must register, as detailed on this site.
 
-**\*Ashley Kenny** spent the last 15-years producing ground-breaking, award-winning documentaries for organizations like National Geographic, Al Jazeera America and The Atlantic, many earning awards like the Edward R. Murrow and Alfred I. duPont Awards. She is the founder of [Heirloom](sendheirloom.com) and lives in Washington, DC.*
+***Ashley Kenny** spent the last 15-years producing ground-breaking, award-winning documentaries for organizations like National Geographic, Al Jazeera America and The Atlantic, many earning awards like the Edward R. Murrow and Alfred I. duPont Awards. She is the founder of [Heirloom](sendheirloom.com) and lives in Washington, DC.*
