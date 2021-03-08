@@ -30,25 +30,25 @@ Before this forced isolation, many seniors may have enjoyed routine activities t
 
 While we can't remove the masks or return to full social engagement at this time, we can use our cleverness and affection to improve their daily lives. Consider if some of these actions will improve the daily lives of those you know and care about that are socially isolated.
 
-## Bring Back Old Hobbies
+#### Bring Back Old Hobbies
 
 You may recall some of the hobbies or interests chosen by your loved senior in years past. Try and recreate these activities within the forced limits. For the reader, libraries now offer safe on-line ordering and protected pick-up, including books in larger print. Ask yours about audio books that are already loaded into easy to use devices. Maybe your senior is looking for news of their favorite sports or celebrities. Consider a new surprise magazine subscription delivered directly to their mailbox.
 
-## Encourage A New Hobby Or Interest
+#### Encourage A New Hobby Or Interest
 
 Benefit from all you know about your loved senior as you explore ideas for new hobbies. How about bringing the gardener inside with a new house plant to manage. Or offer to deliver supplies for a new hobby such as drawing or knitting. Many people, possibility in a depressed state, are unable to consider a new venture. Presented as an opportunity to create objects of art for others, such as their grandchildren, may be just the trick.
 
-## Use The Technology You Have
+#### Use The Technology You Have
 
 Telephone communication has become an even more vital means of social connection. You may find value in exploring local and national programs that offer seniors a friendly voice. AARP's Friendly Voice program welcomes seniors to sign up for a social call from a trained volunteer. (Learn more by calling 888-281-0145.)
 
-## Seek Out New Tech
+#### Seek Out New Tech
 
 Many seniors are simply never going to learn to bridge their barriers to operate computers, iPads or even smartphones. However, advances in technology are bringing helpful tools to the hands of those in forced social isolation. Consider how products can provide much needed connections, even for those with little or no experience or knowledge in their use. An expansive report by the National Council for Biotechnology Information of the National Institutes of Health [reported](https://www.ncbi.nlm.nih.gov/books/NBK557966/) that IT provides a means to deliver targeted, personalized interventions that can directly address the challenges of loneliness and social isolation.
 
 Consider sending a senior you love an Heirloom Video Book (available on this site), which offers non-tech users a personalized physical book with an integrated video player that automatically plays when opened. This small business' mission is to make it possible for special moments to be shared with family and friends, even when those you love don't have access to the internet or a smartphone.
 
-## Start Your Own Friendly Call Program
+#### Start Your Own Friendly Call Program
 
 This effort can be as simple as organizing your family, including the younger members, to call your senior on a regular basis. And, to encourage the calls try helping your senior keep notes for the next call: talk about their meals, their favorite books and movies, a special memory they shared together, a funny story when they were the grandchild's age. With a little pre-planning, you can fill a 15 minute phone call. Consider asking your senior some engaging questions:
 
@@ -59,18 +59,16 @@ This effort can be as simple as organizing your family, including the younger me
 
 And remember, you can write down their answers and save them in a family journal, or record them to save your senior's voice and exact words.
 
-## Welcome A New Family Member
+#### Welcome A New Family Member
 
 While not for everyone, a small and easy to care for new pet may be just the friend that can safely visit and offer companionship. After checking with your seniors' living arrangement, consider suggesting a new pet. Possibly a caged bird, a fishbowl full of new creatures or small cat can become a real mood-booster. The responsibility of providing care and the stimulation of watching the pet can become a daily activity, energizing the senior and creating a companionship that is safe at this time.
 
 A new company, [Joy For All Companion Pets](https://joyforall.com/?gclid=CjwKCAiApNSABhAlEiwANuR9YNP2N0XuCJZviipZelK8PvQSFkNJ_SZIThWRbpFR2foGEq3Gw5xMDxoCLj8QAvD_BwE&gclid=CjwKCAiApNSABhAlEiwANuR9YNP2N0XuCJZviipZelK8PvQSFkNJ_SZIThWRbpFR2foGEq3Gw5xMDxoCLj8QAvD_BwE), was created to bring companionship and fun to aging loved ones. Their robotic dog and cat toys are designed to comfort older adults. Focusing on the health and wellness space, the creators were convinced that creating engaging products that foster meaningful connections through play, joy and happiness would have a positive impact on seniors.
 
-## Volunteer
+#### Volunteer
 
 The act of offering your time and talent to help others, without the expectation of payment, is an altruistic act we named volunteering. We all must learn that this act should also be known as good for the doer. Volunteering offers many benefits, none more important than the feeling of belonging and promoting your sense of purpose. Consider exploring for opportunities that your isolated senior can do from the safety of their home. AARP's [Create the Good](http://createthegood.org/) website allows you to search for volunteer opportunities. It's loaded with helpful tips to Do-It-Yourself Volunteer projects. Consider, for example, intergenerational programs that encourage a senior to help a young child, possibly by reading to them via telephone or sharing pen pal letters and art work.
 
 We all hope for the day when our public health and medical professionals tell us we can return to normal socialization. For our seniors this will mean active days, complete with social engagements, visitors and outings, leading to less loneliness and more joy overall.
-
-
 
 ***Dr. Randee Bloom, RN, MBA, PhD** is a retired nurse and healthcare administrator. She has a PhD in nonprofit management and serves on the board of several national healthcare nonprofits. Dr. Bloom is a national volunteer ambassador for AARP and two of her children, Ashley and Zack, are the founders of Heirloom. Dr. Bloom's own mother is in her 90's and is forced to remain isolated to protect her health as COVID-19 remains uncontrolled.*
