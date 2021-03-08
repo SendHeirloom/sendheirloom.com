@@ -1,6 +1,6 @@
 ---
 title: 10 Grants We Applied For
-description: Free Money For Your Business or Nonprofit Organization
+description: Where to get free money for your business or nonprofit organization.
 author: Ashley Kenny
 date: 2021-03-05T04:07:07.516Z
 social_image: /static/images/uploads/screen-shot-2021-03-05-at-9.47.04-am.png
