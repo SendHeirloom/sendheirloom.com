@@ -5,7 +5,7 @@ author: Brad Stulberg
 date: 2021-03-01T22:54:02.305Z
 social_image: /static/images/uploads/older-man.jpg
 tags:
-  - "Mental Health"
+  - Mental Health
 ---
 When people think about health they tend to think about behaviors like getting enough exercise, eating nutritious foods, sleeping, not smoking, and drinking alcohol in moderation, if at all. All of this is good, well, and important. But something that frequently gets overlooked is the importance of connection. Consider this: in a massive study out of Brigham Young University in 2010, researchers followed more than 300,000 people for an average of 7.5 years. They [learned](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316) that the mortality risks associated with loneliness exceeded those associated with obesity and physical inactivity, and were comparable to the risks of smoking.
 
@@ -21,4 +21,4 @@ In my own [writing](https://www.amazon.com/gp/product/0593329899?tag=randohouse
 
 Will Heirloom solve the loneliness crisis? Of course not. But it will bring a smile to a loved one's face, counter a depressive thought or feeling, and warm their heart. And this is a good start.
 
-***Brad Stulberg (@Bstulberg) researches, writes, and coaches on mental health, well-being, and sustainable success. He is cofounder of The Growth Equation and bestselling author of the book Peak Performance.***
+***Brad Stulberg** (@Bstulberg) researches, writes, and coaches on mental health, well-being, and sustainable success. He is cofounder of The Growth Equation and bestselling author of the book Peak Performance.*
