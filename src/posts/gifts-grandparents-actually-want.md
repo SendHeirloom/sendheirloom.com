@@ -48,7 +48,7 @@ Consider materials you have at the ready. The photographs and videos in your pho
 
 If your grandparent doesn't have wifi or a smartphone, our product (sold on this website) solves that. We make it possible for special moments to be shared with family and friends, even when those you love don't have access to the internet.
 
-The Heirloom video book is a physical video album full of your videos on an integrated video player that automatically plays when opened. Videos are uploaded via the Heirloom iOS app, which allows users to drag-and-drop videos, preview the video before finalizing the order, select a custom book cover and add a message inside the cover.
+The [Heirloom](https://sendheirloom.com/) video book is a physical video album full of your videos on an integrated video player that automatically plays when opened. Videos are uploaded via the Heirloom iOS app, which allows users to drag-and-drop videos, preview the video before finalizing the order, select a custom book cover and add a message inside the cover.
 
 ## Gift of Time Travel
 
@@ -66,6 +66,4 @@ How about asking your grandmother to spend the day teaching you something? Recal
 
 These gifts ideas as simply suggestions to possibly redirect your gift shopping away from the already produced objects to the ones that actually emote your emotional goals. Your grandparent may have already provided you with all the gift giving hints you need. Just think back a little, bring yourself joy and your gift will surely do the same in their lives.
 
-
-
-***Dr. Randee Bloom, RN, MBA, PhD** is a retired nurse and healthcare administrator. She has a PhD in nonprofit management and serves on the board of several national healthcare nonprofits. Dr. Bloom is a national volunteer ambassador for AARP and two of her children, Ashley and Zack, are the founders of Heirloom. Dr. Bloom's own mother is in her 90's and is forced to remain isolated to protect her health as COVID-19 remains uncontrolled.*
+**\*Dr. Randee Bloom, RN, MBA, PhD** is a retired nurse and healthcare administrator. She has a PhD in nonprofit management and serves on the board of several national healthcare nonprofits. Dr. Bloom is a national volunteer ambassador for AARP and two of her children, Ashley and Zack, are the founders of Heirloom. Dr. Bloom's own mother is in her 90's and is forced to remain isolated to protect her health as COVID-19 remains uncontrolled.*
