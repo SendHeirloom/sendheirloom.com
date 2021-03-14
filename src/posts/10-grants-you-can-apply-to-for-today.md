@@ -3,7 +3,7 @@ title: 10 Grants We Applied For
 description: Where to get free money for your business or nonprofit organization.
 author: Ashley Kenny
 date: 2021-03-05T04:07:07.516Z
-social_image: /static/images/uploads/screen-shot-2021-03-05-at-9.47.04-am.png
+social_image: https://ucarecdn.com/0788d5e8-20e4-4647-8347-eeee86abe037/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 tags:
   - Most types of grants
   - unlike loans
@@ -11,7 +11,7 @@ tags:
     repaid. Grants can come from the government or private or nonprofit
     organization.
 ---
-![](/static/images/uploads/screen-shot-2021-03-05-at-9.47.04-am.png)
+![](https://ucarecdn.com/f754bcca-1437-4f81-8aa9-db514ab8857e/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
 A good idea isn’t enough.  All startups require some funding and most funding comes with strings attached.  But a few grants are designed to be debt free and if you know where and when to apply, and have a compelling business idea, they can be a great way to earn funding for your new startup business or nonprofit. 
 
