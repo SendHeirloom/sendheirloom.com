@@ -5,6 +5,12 @@ backend:
 
 media_folder: "src/static/images/uploads"
 public_folder: "/static/images/uploads"
+media_library:
+  name: uploadcare
+  config:
+    publicKey: 0b06d37093f82aff1ff1
+  settings:
+    defaultOperations: '/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/'
 
 # Please run "npx netlify-cms-proxy-server" for local backend
 local_backend: true
