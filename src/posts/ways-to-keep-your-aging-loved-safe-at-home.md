@@ -3,11 +3,11 @@ title: "Ways to Keep Your Aging Loved One Safe at Home "
 description: "How families of seniors can reduce household risks. "
 author: Dr. Randee Bloom
 date: 2021-03-07T21:52:09.433Z
-social_image: /static/images/uploads/screen-shot-2021-03-07-at-4.57.14-pm.png
+social_image: https://ucarecdn.com/89322761-3a90-4feb-a875-1e4dbee8582f/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 tags:
   - Aging
 ---
-![Families can create a more risk-free environment for aging loved ones.](/static/images/uploads/screen-shot-2021-03-07-at-4.57.14-pm.png "Aging")
+![Families can create a more risk-free environment for aging loved ones.](https://ucarecdn.com/fef35d6a-2fce-426a-a33f-1baa17aa9ae8/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Aging")
 
 Let’s face it, our bodies have an expiration date.  A time limit where our physical self gradually stops working the way it had in the past.  This requires us to make changes to our environment, add some safety measures, and learn to use specialized devices, and that’s for the lucky ones who are able to stay home. 
 
