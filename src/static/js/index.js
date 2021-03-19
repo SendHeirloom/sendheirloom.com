@@ -93,7 +93,10 @@
     })
 
     const sendSMS = async function(number) {
+      // Deprecated, GA doesn't like hyphens
       window.dataLayer && window.dataLayer.push({'event': 'app-install-attempt'});
+
+      window.dataLayer && window.dataLayer.push({'event': 'app_install_attempt'});
 
       outputEl.innerHTML = ""
       submitEl.setAttribute("disabled", "")
@@ -139,7 +142,11 @@
         })
       } else {
         links[i].addEventListener('click', (e) => {
-          window.dataLayer && window.dataLayer.push({'event': 'app-install-attempt'})
+          // Deprecated, GA doesn't like hyphens
+          window.dataLayer && window.dataLayer.push({'event': 'app-install-attempt'});
+
+          window.dataLayer && window.dataLayer.push({'event': 'app_install_attempt'});
+
           var el = e.target
           var isMeta = (e.metaKey || e.altKey || e.ctrlKey || e.shiftKey)
 
