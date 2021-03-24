@@ -10,7 +10,7 @@ tags:
 ---
 When I reach creative director and legendary food stylist [Victoria Granof](https://www.instagram.com/victoriagranof/?hl=en) over the phone, she’s slightly concerned—instead of receiving the eight raw chickens she requested, she’s received a mistaken delivery of 80 pounds of chicken. (Yes, you read that correctly.) And though that may sound bizarre, maybe even a little terrifying, it’s all in a day’s work for Granof, who’s lent her food-styling and directorial genius to major brands, magazines, and cookbooks alike, creating bold, lush images that are the stuff Pinterest boards are made of. She took a break from cutting up radicchio to chat with [Heirloom](https://sendheirloom.com/) about her family’s unusual (and edible) beauty rituals, the food that makes tough conversations easier, and the precious objects she wants to leave behind.
 
-<img src="https://ucarecdn.com/28e008c3-68cb-446a-b6ed-1fa9f1e58629/-/resize/1000x/-/stretch/off/-/format/auto/-/progressive/yes/" alt="Ice Cream Cone" style="width: 500px; margin: 0 auto" />
+<img src="https://ucarecdn.com/28e008c3-68cb-446a-b6ed-1fa9f1e58629/-/resize/1000x/-/stretch/off/-/format/auto/-/progressive/yes/" alt="Ice Cream Cone" title="@rachaelraymag, @stephaniehanes" style="width: 500px; margin: 0 auto" />
 
 #### Where did you grow up?
 
@@ -22,7 +22,7 @@ My great-grandmother was from Turkey near Troy—as in Helen of Troy—and on Su
 
 Also, when I was a kid, we didn't have air conditioning, so on hot days after my dad got home from work, we would pack a picnic and drive down and eat dinner at a little spot called Mother's Beach. There was a big Armenian population nearby and they’d all be grilling kebabs outside, so it smelled incredible. Going to the beach for cool air on summer nights is a very good memory.
 
-![](https://ucarecdn.com/a6ff7ee0-7a5a-466b-8e68-b96dd3f16ca7/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Victoria Granof as a child ")
+<img src="https://ucarecdn.com/a6ff7ee0-7a5a-466b-8e68-b96dd3f16ca7/-/resize/1000x/-/stretch/off/-/format/auto/-/progressive/yes/" alt="Victoria Granof as a child" style="width: 500px; margin: 0 auto" />
 
 #### When you became a mom, did you think a lot about creating your own traditions?
 
@@ -32,7 +32,7 @@ Oh God, one hundred percent. In fact, I styled a book for my friend a few years 
 
 On Sunday nights, we have Zoom dinners with our family in California. When my mom can figure out how to use the technology, she comes: She’s very smart—she used to be a judge—but she's not always clear on what device she is supposed to use. But yes, best-case scenario, I Zoom with my mom, my three sisters, sometimes their husbands, my nieces, and nephew. The beauty of those dinners is that I can eat my own food the way I like it. That side of the family is Jewish, so we also had a Passover Seder and all of us cooked the same thing. Then I made little cookbooks for everybody with my grandmother's old recipes, which I took a lot of time recreating. That's fun, except I haven't sent them out to anybody yet—maybe should just email them a PDF?
 
-![](https://ucarecdn.com/f759808b-67a8-4425-b5af-305a0a38a278/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Cake with style ")
+<img src="https://ucarecdn.com/f759808b-67a8-4425-b5af-305a0a38a278/-/resize/1000x/-/stretch/off/-/format/auto/-/progressive/yes/" alt="A beautiful cake" style="width: 500px; margin: 0 auto" />
 
 #### Did your family take home movies when you were a kid?
 
@@ -46,7 +46,7 @@ I recorded a lot of videos of Theo when he was younger, but now as soon as he se
 
 Oh there are so many. There's one that I play all the time: He was probably three, and he’s standing shirtless on a stool at home. He’s saying “Okay, get ready, everybody. My name is Theo, and here’s my song,” and he's puffing his chest out. And the song is, “Oh, my mommy never lets me eat candy, never everrrrr….” Also, in our old neighborhood, there was a woman who lived around the corner who had a cherry tree in her yard. And when the trees were bearing fruit, we were allowed to come over and pick it. I have some beautiful pictures of him wearing tiny denim overalls, picking cherries and then stuffing them in his mouth. Juice everywhere.
 
-![](https://ucarecdn.com/06f68a55-4d2d-4b87-a44a-bb3c68a536f6/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Theo's song ")
+<img src="https://ucarecdn.com/06f68a55-4d2d-4b87-a44a-bb3c68a536f6/-/resize/1000x/-/stretch/off/-/format/auto/-/progressive/yes/" alt="A child playing the harmonica" style="width: 500px; margin: 0 auto" />
 
 #### What are the heirlooms you'd like to pass on to Theo and future generations?
 
