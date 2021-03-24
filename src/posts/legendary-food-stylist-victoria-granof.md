@@ -1,6 +1,6 @@
 ---
-title: "Legendary Food Stylist Victoria Granof's Family Heirlooms: A Coffee Set,
-  Booties & A Hand-Embroidered Shirt"
+title: "Food Stylist Victoria Granof's Heirlooms: A Coffee Set, Booties & A
+  Hand-Embroidered Shirt"
 description: "A New Heirloom Series with Molly Simms "
 author: "Molly Simms "
 date: 2021-03-24T15:42:38.059Z
