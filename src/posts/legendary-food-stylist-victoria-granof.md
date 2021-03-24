@@ -1,7 +1,7 @@
 ---
 title: "Food Stylist Victoria Granof's Family Heirlooms: A Turkish Coffee Set,
   Baby Booties & A Hand-Embroidered Shirt"
-description: "A new series about family and traditions from writer Molly Simms "
+description: "A new series about family and tradition from guest writer Molly Simms "
 author: "Molly Simms "
 date: 2021-03-24T15:42:38.059Z
 social_image: https://ucarecdn.com/c88df416-c057-4e54-8581-0c6a8a3b0742/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
