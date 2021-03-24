@@ -1,6 +1,6 @@
 ---
-title: "Food Stylist Victoria Granof's Family Heirlooms: A Turkish Coffee Set,
-  Baby Booties & A Hand-Embroidered Shirt"
+title: "Family Heirlooms: A Food Stylist Dishes About the Treasures She'll Never
+  Let Go"
 description: "A new series about family and tradition from guest writer Molly Simms "
 author: "Molly Simms "
 date: 2021-03-24T15:42:38.059Z
@@ -51,3 +51,5 @@ Oh there are so many. There's one that I play all the time: He was probably thre
 #### What are the heirlooms you'd like to pass on to Theo and future generations?
 
 So many things: Theo’s baby booties, and a little Ukrainian hand-embroidered shirt I got him when he was small—I’m saving it in a bin for posterity. Another big one is something from my great grandmother, the one with the olive oil. She was born in 1890, and after she died, she passed down a Turkish coffee set that’s probably from the late 1700s or early 1800s. It’s so beautiful, brass with little china cups within the brass holders, and the tray. The cups have all been broken and repaired, and that's what's so beautiful about them.
+
+***Molly Simms** is a writer, editor and content strategist. The award-winning former senior editor of O, the Oprah Magazine, she's a CT native, is \*not quite\* 5'4" but pretends she is on medical forms, and has seen Pee Wee's Big Adventure at least 15 times. To say hello, visit her at [molly-simms.com](http://molly-simms.com/).*
