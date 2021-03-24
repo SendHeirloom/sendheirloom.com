@@ -10,7 +10,7 @@ tags:
 ---
 When I reach creative director and legendary food stylist [Victoria Granof](https://www.instagram.com/victoriagranof/?hl=en) over the phone, she’s slightly concerned—instead of receiving the eight raw chickens she requested, she’s received a mistaken delivery of 80 pounds of chicken. (Yes, you read that correctly.) And though that may sound bizarre, maybe even a little terrifying, it’s all in a day’s work for Granof, who’s lent her food-styling and directorial genius to major brands, magazines, and cookbooks alike, creating bold, lush images that are the stuff Pinterest boards are made of. She took a break from cutting up radicchio to chat with [Heirloom](https://sendheirloom.com/) about her family’s unusual (and edible) beauty rituals, the food that makes tough conversations easier, and the precious objects she wants to leave behind.
 
-![@rachaelraymag, @stephaniehanes](https://ucarecdn.com/28e008c3-68cb-446a-b6ed-1fa9f1e58629/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "@rachaelraymag, @stephaniehanes")
+<img src="https://ucarecdn.com/28e008c3-68cb-446a-b6ed-1fa9f1e58629/-/resize/1000x/-/stretch/off/-/format/auto/-/progressive/yes/" alt="Ice Cream Cone" style="width: 500px; margin: 0 auto" />
 
 #### Where did you grow up?
 
