@@ -92,11 +92,16 @@
       sendSMS(data.phone)
     })
 
-    const sendSMS = async function(number) {
-      // Deprecated, GA doesn't like hyphens
-      window.dataLayer && window.dataLayer.push({'event': 'app-install-attempt'});
+    const sendEvent = function() {
+      // For GTM. Have not been able to get events to actually propagate.
+      window.dataLayer && window.dataLayer.push({'event': 'app_install_attempt'})
 
-      window.dataLayer && window.dataLayer.push({'event': 'app_install_attempt'});
+      // Leading to a manual install of GA:
+      window.gtag && window.gtag('event', 'app_install_attempt')
+    }
+
+    const sendSMS = async function(number) {
+      sendEvent()
 
       outputEl.innerHTML = ""
       submitEl.setAttribute("disabled", "")
@@ -142,10 +147,7 @@
         })
       } else {
         links[i].addEventListener('click', (e) => {
-          // Deprecated, GA doesn't like hyphens
-          window.dataLayer && window.dataLayer.push({'event': 'app-install-attempt'});
-
-          window.dataLayer && window.dataLayer.push({'event': 'app_install_attempt'});
+          sendEvent()
 
           var el = e.target
           var isMeta = (e.metaKey || e.altKey || e.ctrlKey || e.shiftKey)
