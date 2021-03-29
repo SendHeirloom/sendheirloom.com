@@ -7,6 +7,16 @@
     document.body.appendChild(el)
   }
 
+  const parseQuery = function(queryString) {
+    var query = {};
+    var pairs = (queryString[0] === '?' ? queryString.substr(1) : queryString).split('&');
+    for (var i = 0; i < pairs.length; i++) {
+      var pair = pairs[i].split('=');
+      query[decodeURIComponent(pair[0])] = decodeURIComponent(pair[1] || '');
+    }
+    return query;
+  }
+
   const renderDialogError = function(el, message) {
     const p = document.createElement("p")
     p.className = "Dialog--error-text"
@@ -106,10 +116,19 @@
       outputEl.innerHTML = ""
       submitEl.setAttribute("disabled", "")
 
+      const query = parseQuery(document.location.search)
+      let passAlong = {}
+      for (const [key, value] of Object.entries(query)){
+        if (key.indexOf("utm_") === 0){
+          passAlong[key] = value
+        }
+      }
+
       const resp = await fetch("https://texter.sendheirloom.com/send-link-to-app", {
         method: "POST",
         body: JSON.stringify({
-          phoneNumber: number
+          phoneNumber: number,
+          params: passAlong,
         })
       })
       const body = await resp.json()
