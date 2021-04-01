@@ -157,6 +157,7 @@
       toast("Your message has been sent!")
     }
 
+    /*
     const links = document.querySelectorAll(`a[intent="build-book"]`);
     for (var i=links.length; i--;){
       if (!isMobileOrTablet()) {
@@ -183,6 +184,7 @@
         })
       }
     }
+    */
 
     window.SMSDialog = dialog
   }
