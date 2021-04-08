@@ -31,7 +31,7 @@ Emergency preparedness actions can also be enacted, much like for any residence.
 
 Does his or her home environment promote safe physical activity throughout the day, within physical limitations? Simple walking, possibly with assistive devices, can be encouraged. Self-exercise programs, safely from a chair, can energize, strengthen and assist with multiple physical functioning and mental stimulation.  Providing a few simple exercise-focused items such as minimal pound hand weights and foot stationary petals can be just the answer. 
 
-Here is a great opportunity for the younger family members to play with their elder distantly, sharing exercise moves safely or mentally challenging games on the phone. Consider how a child can be filmed doing fun exercises and this “show” can be shared with your elder on a device like an [Heirloom](http://sendheirloom.com) video book, which is available on this website. Your elder can watch this show daily knowing their muscles and bond with their grandchild is strengthened.
+Here is a great opportunity for the younger family members to play with their elder distantly, sharing exercise moves safely or mentally challenging games on the phone. Consider how a child can be filmed doing fun exercises and this “show” can be shared with your elder on a device like an [Heirloom](https://sendheirloom.com) video book, which is available on this website. Your elder can watch this show daily knowing their muscles and bond with their grandchild is strengthened.
 
 #### Future and Forward Thinking
 
