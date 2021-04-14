@@ -30,7 +30,12 @@
       headers: {
         'Content-Type': 'application/json'
       },
-      body: JSON.stringify({email})
+      body: JSON.stringify({
+        email,
+        source: "website",
+        campaign: "website-dialog",
+        sendWelcomeMessage: true
+      })
     })
 
     const body = await resp.json()
