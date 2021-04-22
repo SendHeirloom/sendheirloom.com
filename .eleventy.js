@@ -3,6 +3,29 @@ const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const Image = require("@11ty/eleventy-img");
+
+async function imageShortcode(src, alt, widths, sizes, classes) {
+  // widths is a argument specify which sizes to actually encode the image in (defined only in widths)
+  // For example "800px 1200px"
+  // sizes is a argument specifying which size image to load in which situation.
+  // For example "(min-width: 30em) 1200px, 800px"
+  let metadata = await Image(src, {
+    formats: ["avif", "webp", "jpeg"],
+    widths: (widths && widths.split(" ")) || [null],
+    outputDir: "./_site/img/",
+  });
+
+  let imageAttributes = {
+    alt,
+    sizes,
+    class: classes,
+    loading: "lazy",
+    decoding: "async",
+  };
+
+  return Image.generateHTML(metadata, imageAttributes);
+}
 
 module.exports = function (eleventyConfig) {
   // Disable automatic use of your .gitignore
@@ -55,6 +78,8 @@ module.exports = function (eleventyConfig) {
 
     return content;
   });
+
+  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
 
   // Let Eleventy transform HTML files as nunjucks
   // So that we can use .html instead of .njk

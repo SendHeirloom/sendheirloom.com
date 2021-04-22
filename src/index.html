@@ -35,7 +35,7 @@ description: Mail a video book to your mom. Send 10 minutes of your own videos i
             </div>
           </div>
           <div class="AspectRatio" style="--ratio: calc(1896 / 1078)">
-            <img alt="Woman holding Heirloom video book" class="AspectRatio--content" src="/static/images/grandma-holding-heirloom-video-book.png"/>
+            {% image "./src/static/images/grandma-holding-heirloom-video-book.png", "Woman holding Heirloom video book", "", "", "AspectRatio--content" %}
           </div>
         </div>
         <div class="GrandmaHandsSectionVideoMockup--content-accompanying-text">
@@ -62,7 +62,7 @@ description: Mail a video book to your mom. Send 10 minutes of your own videos i
   </script>
 </div>
 
-<div class="Section Section-is-solid Section-is-white" style="padding: 1em 1em 0; border-top-width: 0; background-color: #DDD;">
+<div class="Section Section-is-solid Section-is-white" style="padding: 1em 1em 0; border-top-width: 0; background-color: #e2dcdd;">
   <img desktop-only style="margin: 0 auto 1em; display: block; max-width: 100%; width: 50em; padding-left: 3em" src="/static/images/logo-banner.svg" alt="A description of how Heirloom works." />
   <img mobile-only style="margin: 0 auto; display: block; max-width: 100%; width: 50em; padding-left: 1em; padding-bottom: 1em" src="/static/images/logo-banner.svg" alt="A description of how Heirloom works." />
 </div>
@@ -229,7 +229,7 @@ description: Mail a video book to your mom. Send 10 minutes of your own videos i
         <a class="Link Link-is-block Link-without-underline" href="https://www.youtube.com/embed/cMefllFFP4o" data-youtube="cMefllFFP4o">
           <span is-visually-hidden>Video</span>
           <div class="AspectRatio" style="--ratio: calc(4 / 3)">
-            <img alt="Woman watching Heirloom video book" class="AspectRatio--content" src="/static/images/grandma/watching.png"/>
+            {% image "./src/static/images/grandma/watching.png", "Woman watching Heirloom video book", "", "", "AspectRatio--content" %}
           </div>
         </a>
         <div class="Illustration--play-button-wrapper">
@@ -284,16 +284,16 @@ description: Mail a video book to your mom. Send 10 minutes of your own videos i
               </div>
               <div class="ImageSwipe--images" data-image-swipe-images>
                 <div class="ImageSwipe--image">
-                  <img alt="Heirloom book collection" src="/static/images/product/cards-collection.jpg"/>
+                  {% image "./src/static/images/product/cards-collection.jpg", "Heirloom book collection", "972", "", "" %}
                 </div>
                 <div class="ImageSwipe--image">
-                  <img alt="Heirloom book with box" src="/static/images/product/card-happy-with-box.jpg"/>
+                  {% image "./src/static/images/product/card-happy-with-box.jpg", "Heirloom book with box", "972", "", "" %}
                 </div>
                 <div class="ImageSwipe--image">
-                  <img alt="Heirloom book with love cover" src="/static/images/product/card-love.jpg"/>
+                  {% image "./src/static/images/product/card-love.jpg", "Heirloom book with love cover", "972", "", "" %}
                 </div>
                 <div class="ImageSwipe--image">
-                  <img alt="Heirloom book with flower cover" src="/static/images/product/card-flowers.jpg"/>
+                  {% image "./src/static/images/product/card-flowers.jpg", "Heirloom book with flowers cover", "972", "", "" %}
                 </div>
               </div>
               <div class="ImageSwipe--progress" data-image-swipe-progress>
@@ -312,17 +312,17 @@ description: Mail a video book to your mom. Send 10 minutes of your own videos i
   <div class="WhatsInBoxFooter" larger-than-tablet-only>
     <div>
       <div class="AspectRatio" style="--ratio: calc(4 / 3)">
-        <img class="AspectRatio--content" src="/static/images/product/card-flowers.jpg" alt="Heirloom book with flower cover"/>
+        {% image "./src/static/images/product/card-flowers.jpg", "Heirloom book with flowers cover", "694", "", "AspectRatio--content" %}
       </div>
     </div>
     <div>
       <div class="AspectRatio" style="--ratio: calc(4 / 3)">
-        <img class="AspectRatio--content" src="/static/images/product/card-happy-with-box.jpg" alt="Heirloom book with box"/>
+        {% image "./src/static/images/product/card-happy-with-box.jpg", "Heirloom book with box", "694", "", "AspectRatio--content" %}
       </div>
     </div>
     <div>
       <div class="AspectRatio" style="--ratio: calc(4 / 3)">
-        <img class="AspectRatio--content" src="/static/images/product/card-love.jpg" alt="Heirloom book with love cover"/>
+        {% image "./src/static/images/product/card-love.jpg", "Heirloom book with love cover", "694", "", "AspectRatio--content" %}
       </div>
     </div>
   </div>
@@ -334,7 +334,7 @@ description: Mail a video book to your mom. Send 10 minutes of your own videos i
       <div class="Illustration Illustration-is-rounded">
         <a class="Link Link-is-block Link-without-underline" href="/static/images/grandma-fran.jpg">
           <div class="AspectRatio" style="--ratio: calc(150 / 191)">
-            <img alt="Grandma Fran" class="AspectRatio--content" src="/static/images/grandma-fran.jpg"/>
+            {% image "./src/static/images/grandma-fran.jpg", "Grandma Fran", "800", "", "AspectRatio--content" %}
           </div>
         </a>
       </div>
@@ -382,7 +382,7 @@ description: Mail a video book to your mom. Send 10 minutes of your own videos i
       <div class="Illustration Illustration-is-rounded">
         <a class="Link Link-is-block Link-without-underline" href="/static/images/iphone-app-mockup-video-editor.png">
           <div class="AspectRatio" style="--ratio: calc(1148 / 1328)">
-            <img class="AspectRatio--content" src="/static/images/iphone-app-mockup-video-editor.png" alt="A screenshot of our iPhone app"/>
+            {% image "./src/static/images/iphone-app-mockup-video-editor.png", "A screenshot of our iPhone app", "", "", "AspectRatio--content" %}
           </div>
         </a>
       </div>

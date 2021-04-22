@@ -868,6 +868,7 @@ html {
 
 .FloatingHeartCTA {
   width: 300px;
+  height: 125px;
   position: fixed;
   bottom: 1em;
   right: 1em;
