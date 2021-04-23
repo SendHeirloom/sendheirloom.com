@@ -855,10 +855,6 @@ html {
   }
 }
 
-.HeartCTASection {
-  padding: 1em;
-}
-
 .HeartCTA {
   width: 300px;
   max-width: 100%;
@@ -877,4 +873,21 @@ html {
   padding: 1em;
   background-color: var(--background-color);
   z-index: 1000;
+}
+
+.InBottomCorner {
+  display: flex;
+  width: 300px;
+  position: fixed;
+  bottom: 1em;
+  right: 1em;
+  box-shadow: 0 0 4px white;
+  padding: 0.5em 1em;
+  background-color: var(--background-color);
+  z-index: 1000;
+}
+
+.CTASection {
+  display: flex;
+  padding: 1em;
 }
