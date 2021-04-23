@@ -891,3 +891,11 @@ html {
   display: flex;
   padding: 1em;
 }
+
+[hide-until-optimized] {
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+[hide-until-optimized][optimized] {
+  opacity: 1;
+}

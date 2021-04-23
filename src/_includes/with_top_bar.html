@@ -1,7 +1,21 @@
 {% extends "./default.html" %}
 
 {% block top_of_body %}
-<div class="TopBanner">
+<div class="TopBanner" hide-until-optimized>
   <span class="TopBanner--accented">Limited Time Offer:</span> Get a 15% off for Mother's Day with promo code MOM15.
 </div>
+
+<script>
+(function(){
+  window.dataLayer = window.dataLayer || []
+  window.dataLayer.hide = {
+    end: function(){
+      var hidden = document.querySelectorAll('[hide-until-optimized]')
+      for (var i=hidden.length; i--;){
+        hidden[i].setAttribute('optimized', true)
+      }
+    }
+  }
+})()
+</script>
 {% endblock %}
