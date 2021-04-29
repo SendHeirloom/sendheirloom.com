@@ -857,6 +857,7 @@ html {
 
 .HeartCTA {
   width: 300px;
+  height: 100px;
   max-width: 100%;
   display: block;
   margin: 0 auto;
