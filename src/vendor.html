@@ -7,7 +7,7 @@ description: "Visit the Heirloom iOS App to complete your order"
 <link rel="stylesheet" href="/static/css/tailwind.css"/>
 
 <div x-data="getVendorSale()" x-on:branch-loaded.window="sale = $event.detail.sale" class="container max-w-2xl font-body font-medium">
-  <h1 class="font-heading text-2xl my-6">Complete your <span x-text="vendorName"></span> order.</h1>
+  <h1 class="font-heading text-2xl my-6">Complete your order.</h1>
   <h2 class="text-xl my-2">Welcome <span x-text="sale.customer_first_name"></span>,</h2>
 
   <p class="mb-3">
