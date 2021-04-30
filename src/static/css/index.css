@@ -900,3 +900,8 @@ html {
 [hide-until-optimized][optimized] {
   opacity: 1;
 }
+
+.MailAVideoCard--buttons > div {
+  /* Center Shopify button */
+  margin: 0 auto;
+}
