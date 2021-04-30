@@ -8,8 +8,12 @@
 <script>
 (function(){
   window.dataLayer = window.dataLayer || []
+
+  var prevHide = window.dataLayer.hide && window.dataLayer.hide.end;
   window.dataLayer.hide = {
     end: function(){
+      prevHide && prevHide();
+
       var hidden = document.querySelectorAll('[hide-until-optimized]')
       for (var i=hidden.length; i--;){
         hidden[i].setAttribute('optimized', true)
