@@ -472,7 +472,19 @@ var initShopifyButton = function () {
     end: function(){
       prevHide && prevHide();
 
-      initShopifyButton()
+      var tries = 0;
+      var intv = setInterval(function(){
+        tries++
+        var node = document.getElementById('product-component-1619800828955');
+
+        if (tries > 10 || node) {
+          clearInterval(intv);
+        }
+
+        if (node) {
+          initShopifyButton()
+        }
+      }, 500)
     }
   }
 })()
