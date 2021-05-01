@@ -1,6 +1,6 @@
 ---
-title: Not sure what to send in your video book?
-description: "Try recording a personal message as you build your video book. "
+title: Not sure what to send in your video book?  Record a message.
+description: Here are some ideas for what to say!
 author: Ashley Kenny
 date: 2021-05-01T03:58:16.656Z
 social_image: https://ucarecdn.com/d4de45ce-464b-4b6a-aa81-98392c4c0cfb/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
