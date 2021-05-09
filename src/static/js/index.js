@@ -322,6 +322,7 @@
 
 // This is explicitly to include the Shopify CTA which is being added as an experiment using
 // Google Optimize
+// It's not currently active and can be deleted if we give up on the embedded Shopify cart idea.
 var initShopifyButton = function () {
   var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
   if (window.ShopifyBuy) {
