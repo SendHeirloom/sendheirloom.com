@@ -9,15 +9,21 @@
 (function(){
   window.dataLayer = window.dataLayer || []
 
+  var show = function(){
+    var hidden = document.querySelectorAll('[hide-until-optimized]')
+    for (var i=hidden.length; i--;){
+      hidden[i].setAttribute('optimized', true)
+    }
+  }
+
+  setTimeout(show, 2000)
+
   var prevHide = window.dataLayer.hide && window.dataLayer.hide.end;
   window.dataLayer.hide = {
     end: function(){
-      prevHide && prevHide();
+      prevHide && prevHide()
 
-      var hidden = document.querySelectorAll('[hide-until-optimized]')
-      for (var i=hidden.length; i--;){
-        hidden[i].setAttribute('optimized', true)
-      }
+      show()
     }
   }
 })()
