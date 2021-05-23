@@ -5,8 +5,12 @@ description: "  “I’ve always had a bit of a hard time communicating my feeli
   from that.”"
 author: Herica De Casas
 date: 2021-05-23T20:19:50.637Z
-social_image: /static/images/og-image.png
+social_image: https://ucarecdn.com/3f18bea2-ca09-4caf-97ad-5739c0ad29c3/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 ---
+![](https://ucarecdn.com/24a41c45-ce3a-47a8-b915-066b9f4d7179/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
+
+
+
 Heirloom is here to help make that special bond with your dad stronger. We want to make it easy for you to share how you feel about your dad on Father’s Day. What better way to share how you feel than with a keepsake Dad can keep forever.
 
 #### Here are 5 ideas to build the perfect Father’s Day video book
@@ -29,22 +33,16 @@ Stuck on how to do this? Try this:
 * Upload the video clips to the [website video book builder](create.sendheirloom.com). 
 * Ship Dad the video book!
 
-
-
 3. #### Upload clips from all your most recent moments you have together.
 
 * Find all your favorite recent clips with Dad (from the last 1-5 years)
 * Upload the video clips to the [website video book builder](create.sendheirloom.com). Up to 10 min of video.
 * Mail Dad’s video book!
 
-
-
 4. #### Still have VHS cassettes? Upload memorable clips from your childhood together.
 
 * Get the cassettes digitized at a local Walgreens, CVS, or Photo Center or use a digitizing service.
 * Upload the video clips to the [website video book builder](create.sendheirloom.com). Up to 10 min of video.  
-
-
 
 5. #### A fun combination of these ideas!
 
