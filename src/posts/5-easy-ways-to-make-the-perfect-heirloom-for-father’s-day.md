@@ -9,7 +9,7 @@ social_image: https://ucarecdn.com/e5b1756a-678c-4c9a-a9b7-5d65f14b3370/-/resize
 ---
 Heirloom is here to help make that special bond with your dad stronger. We want to make it easy for you to share how you feel about your dad on Father’s Day. What better way to share how you feel than with a keepsake Dad can keep forever.
 
-![](https://ucarecdn.com/24a41c45-ce3a-47a8-b915-066b9f4d7179/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
+![](https://ucarecdn.com/ecf7088b-25ef-4220-9068-4431b9d542bc/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
 #### Here are 5 ideas to build the perfect Father’s Day video book
 
