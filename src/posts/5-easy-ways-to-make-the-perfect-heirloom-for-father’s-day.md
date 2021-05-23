@@ -28,19 +28,19 @@ Stuck on how to do this? Try this:
 
 * Message your friends and family to record a Happy Father’s Day message to your Dad. (Make sure it’s recorded with the screen tilted horizontally!)
 * Have them email you the video greeting.
-* Upload the video clips to the [website video book builder](create.sendheirloom.com). 
+* Upload the video clips to the [website video book builder](create.sendheirloom.com). Up to 10 min of video.
 * Ship Dad the video book!
 
 3. #### Upload clips from all your most recent moments you have together.
 
 * Find all your favorite recent clips with Dad (from the last 1-5 years)
-* Upload the video clips to the [website video book builder](create.sendheirloom.com). Up to 10 min of video.
+* Upload the video clips to the [website video book builder](create.sendheirloom.com). 
 * Mail Dad’s video book!
 
 4. #### Still have VHS cassettes? Upload memorable clips from your childhood together.
 
 * Get the cassettes digitized at a local Walgreens, CVS, or Photo Center or use a digitizing service.
-* Upload the video clips to the [website video book builder](create.sendheirloom.com). Up to 10 min of video.  
+* Upload the video clips to the [website video book builder](create.sendheirloom.com).  
 
 5. #### A fun combination of these ideas!
 
@@ -56,5 +56,3 @@ Here’s a quick sample script for a Father’s Day video book:
 
 **\
 Make this Father’s Day stand out as special by sharing some meaningful moments and messages.**
-
-**\> Insert Call To Action: \[Build A Video Book]**
