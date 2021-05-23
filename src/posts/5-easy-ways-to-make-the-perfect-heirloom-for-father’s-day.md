@@ -6,6 +6,8 @@ description: "  “I’ve always had a bit of a hard time communicating my feeli
 author: Herica De Casas
 date: 2021-05-23T20:19:50.637Z
 social_image: https://ucarecdn.com/e5b1756a-678c-4c9a-a9b7-5d65f14b3370/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
+tags:
+  - Father
 ---
 Heirloom is here to help make that special bond with your Dad stronger. We want to make it easy for you to share how you feel about your Dad on Father’s Day. What better way to share how you feel than with a keepsake Dad can keep forever.
 
