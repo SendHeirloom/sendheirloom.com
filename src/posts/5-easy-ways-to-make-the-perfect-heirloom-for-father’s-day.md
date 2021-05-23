@@ -1,5 +1,5 @@
 ---
-title: 5 Easy Ways to Make the Perfect Heirloom for Father’s Day
+title: 5 Easy Ways to Make the Perfect Father’s Day Video Book
 description: "  “I’ve always had a bit of a hard time communicating my feelings
   with my dad. We’re very different people; I am super emotive- and he’s far
   from that.”"
