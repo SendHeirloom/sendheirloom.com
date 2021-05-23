@@ -13,7 +13,7 @@ Heirloom is here to help make that special bond with your dad stronger. We want 
 
 #### Here are 5 ideas to build the perfect Father’s Day video book
 
-1. ###### Record a message from you.
+1. #### Record a message from you.
 
 Stuck on what to say? Try these prompts:
 
