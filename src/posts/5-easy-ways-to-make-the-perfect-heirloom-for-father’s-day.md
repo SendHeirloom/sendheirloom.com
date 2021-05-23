@@ -5,17 +5,15 @@ description: "  “I’ve always had a bit of a hard time communicating my feeli
   from that.”"
 author: Herica De Casas
 date: 2021-05-23T20:19:50.637Z
-social_image: https://ucarecdn.com/3f18bea2-ca09-4caf-97ad-5739c0ad29c3/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
+social_image: https://ucarecdn.com/e5b1756a-678c-4c9a-a9b7-5d65f14b3370/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 ---
-![](https://ucarecdn.com/24a41c45-ce3a-47a8-b915-066b9f4d7179/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
-
-
-
 Heirloom is here to help make that special bond with your dad stronger. We want to make it easy for you to share how you feel about your dad on Father’s Day. What better way to share how you feel than with a keepsake Dad can keep forever.
+
+![](https://ucarecdn.com/ecf7088b-25ef-4220-9068-4431b9d542bc/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
 #### Here are 5 ideas to build the perfect Father’s Day video book
 
-1. ###### Record a message from you.
+1. #### Record a message from you.
 
 Stuck on what to say? Try these prompts:
 
