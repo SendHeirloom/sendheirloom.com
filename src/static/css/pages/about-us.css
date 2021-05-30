@@ -1,0 +1,161 @@
+.bg-grey {
+    background: var(--background-color);
+}
+
+.AboutUs .Column {
+    width: 995px;
+}
+
+.AboutUs main .Markdown {
+    text-align: center;
+    padding: 63px 0;
+}
+
+.AboutUs h1 {
+    display: inline-block;
+    position: relative;
+}
+
+.AboutUs .TwoUp {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.AboutUs .TwoUp--content:last-child {
+    margin-left: 1.5em;
+    flex: 1;
+}
+
+.AboutUs .TwoUp--content:first-child {
+    margin-right: 1.5em;
+    flex: 1;
+}
+
+.AboutUs .TwoUp--illustration {
+    width: 20.35em;
+}
+
+.AboutUs--slider {
+    max-width: 53em;
+    margin: 0 auto;
+}
+
+.AboutUs--slider .item {
+    margin: 0 auto;
+    width: var(--width);
+    max-width: 71%;
+}
+
+.AboutUs--slider .item .PhotoCaption {
+    position: static;
+    display: block;
+    margin: 0 44px;
+    padding: 13px 0;
+    background: var(--blue);
+    text-align: center;
+    max-width: calc(100% - 88px);
+}
+
+.AboutUs--slider .owl-nav {
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.AboutUs--slider .owl-nav button:hover {
+    background: transparent !important;
+}
+
+.AboutUs--slider .owl-next {
+    transform: rotate(180deg);
+}
+
+.AboutUs--slider.owl-theme .owl-dots {
+    margin-top: 24px;
+}
+
+.AboutUs--slider.owl-theme .owl-dots .owl-dot span {
+    width: 16px;
+    height: 16px;
+    background: transparent;
+    border: 1px solid #C4C4C4;
+}
+
+.AboutUs--slider.owl-theme .owl-dots .owl-dot.active span {
+    background: #535353;
+    border-color: #535353;
+}
+
+
+@media (max-width: 960px) {
+    .AboutUs .Section-is-solid {
+        padding-top: 3.3em;
+        padding-bottom: 3.3em;
+    }
+
+    .AboutUs .TwoUp {
+        flex-direction: row;
+        width: 100%;
+    }
+
+    .AboutUs .TwoUp--illustration,
+    .AboutUs .TwoUp--content {
+        margin-top: 0;
+        margin-bottom: auto;
+    }
+
+    .AboutUs .PhotoCaption {
+        font-size: 1em;
+    }
+
+    .AboutUs .TwoUp--illustration {
+        width: 18.35em;
+        order: inherit;
+    }
+}
+
+@media (max-width: 767px) {
+    .AboutUs .Section-is-solid {
+        padding-top: 2em;
+        padding-bottom: 2em;
+    }
+
+    .AboutUs .Section-pt-m-0 {
+        padding-top: 0;
+    }
+
+    .AboutUs--slider .item {
+        max-width: 100%;
+    }
+
+    .AboutUs--slider .owl-nav {
+        display: none;
+    }
+
+    .AboutUs .TwoUp {
+        flex-direction: column;
+    }
+
+    .AboutUs .TwoUp--illustration {
+        order: -1;
+        margin-bottom: 40px;
+        width: 100%;
+    }
+
+    .AboutUs .TwoUp--content:last-child {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .AboutUs .TwoUp--content {
+        width: 100%;
+    }
+
+    .AboutUs--slider .item .PhotoCaption {
+        margin-left: 0;
+        margin-right: 0;
+        max-width: 100%;
+    }
+}

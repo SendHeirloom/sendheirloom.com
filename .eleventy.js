@@ -63,6 +63,14 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/static/audio");
   eleventyConfig.addPassthroughCopy("./src/static/press");
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
+  
+  eleventyConfig.addPassthroughCopy({
+    'node_modules/jquery/dist/jquery.min.js': 'assets/jquery.min.js',
+    'node_modules/owl.carousel/dist/owl.carousel.min.js': 'assets/owl.carousel.min.js',
+    
+    'node_modules/owl.carousel/dist/assets/owl.carousel.min.css': 'assets/owl.carousel.min.css',
+    'node_modules/owl.carousel/dist/assets/owl.theme.default.min.css': 'assets/owl.theme.default.min.css',
+  });
 
   // Minify HTML
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
