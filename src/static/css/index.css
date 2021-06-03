@@ -3,6 +3,11 @@ html {
   --column-padding-horizontal: 1rem;
 }
 
+body.mobile-menu-opened {
+  overflow: hidden;
+  height: 100vh;
+}
+
 .Column {
   margin: 0 auto;
   width: var(--column-width);
@@ -126,6 +131,7 @@ html {
     bottom: -.5em;
     margin-top: auto;
     margin-bottom: auto;
+    z-index: 10;
   }
 
   .Header--mobile-links-toggle-bar {
@@ -140,11 +146,11 @@ html {
     margin-bottom: 6px;
   }
 
-  .Header[data-is-open] .Header--mobile-links-toggle-bar:first-child {
+  .Header.data-is-open .Header--mobile-links-toggle-bar:first-child {
     transform: translateY(4px) rotate(-45deg);
   }
 
-  .Header[data-is-open] .Header--mobile-links-toggle-bar:last-child {
+  .Header.data-is-open .Header--mobile-links-toggle-bar:last-child {
     transform: translateY(-4px) rotate(45deg);
   }
 
@@ -157,23 +163,25 @@ html {
   }
 
   .Header--links {
-    position: absolute;
+    position: fixed;
+    z-index: 5;
+    top: 80px;
+    right: 0;
+    width: 100%;
+    height: 100%;
     font-size: 1.5em;
-    top: calc(100% + .25em);
-    right: -.5em;
     flex-direction: column;
     align-items: flex-end;
-    background: #fff;
+    background: var(--background-color);
     padding: .5em 0;
     border-radius: .25em;
-    box-shadow: 0 0 0 1px rgba(0, 0, 0, .05), 0 .1em .4em -.1em rgba(0, 0, 0, .2);
     opacity: 0;
     pointer-events: none;
     transform: translateY(-.25em);
     transition: opacity .3s ease, transform .3s ease;
   }
 
-  .Header[data-is-open] .Header--links {
+  .Header.data-is-open .Header--links {
     opacity: 1;
     transform: translateY(0);
     pointer-events: all;
@@ -183,9 +191,7 @@ html {
     border-radius: 0;
     margin: 0;
     width: 100%;
-    text-align: right;
-    padding-left: 1.25em;
-    padding-right: 1em;
+    text-align: center;
   }
 
   .Header--links .Header--link:last-child {
@@ -321,11 +327,11 @@ html {
   }
 }
 
-.MailAVideoCard h1 span {
+span.line {
   position: relative;
 }
 
-.MailAVideoCard h1 span::after {
+span.line::after {
   content: "";
   position: absolute;
   left: -.05em;
@@ -335,20 +341,18 @@ html {
   z-index: -1;
 }
 
-.MailAVideoCard h1 span:nth-child(1)::after {
+span.line--light-green::after {
   opacity: .52;
   background: var(--light-green);
 }
 
-.MailAVideoCard h1 span:nth-child(2)::after {
-  /*background: var(--beige);*/
-  background: #ecd3bc;
+span.line--white::after {
   background: #fff;
   box-shadow: 0 1px #dad8d8;
   left: .05em;
 }
 
-.MailAVideoCard h1 span:nth-child(3)::after {
+span.line--pink::after {
   background: var(--pink);
 }
 
@@ -481,7 +485,6 @@ html {
   font-size: 2.75em;
   line-height: 1.2;
   font-weight: bold;
-  margin-bottom: 1rem;
   letter-spacing: -.01em;
   text-align: center;
   padding: 0 .25em;
@@ -549,6 +552,57 @@ html {
   right: 0;
   width: 40%;
 }
+
+.Illustration-with-framing-3::before {
+  background: var(--red);
+  right: 0;
+  width: 39%;
+}
+
+.Illustration-with-framing-3::after {
+  background: var(--blue);
+  opacity: 1;
+  left: 0;
+  width: 40%;
+}
+
+.PhotoCaption {
+  position: absolute;
+  bottom: -1em;
+  right: 0;
+  background: #fff;
+  font-size: 1.2em;
+  padding: 8px;
+  width: var(--width);
+}
+.PhotoCaption--left-0 {
+  left: 0;
+  right: auto;
+}
+.PhotoCaption--left-40 {
+  left: 40px;
+  right: auto;
+}
+.PhotoCaption--right-40 {
+  left: auto;
+  right: 40px;
+}
+
+@media (max-width: 960px) {
+  .PhotoCaption--left-tablet-0 {
+    left: 0;
+    right: auto;
+  }
+  .PhotoCaption--full-width-tablet {
+    width: 100%;
+  }
+}
+@media (max-width: 767px) {
+  .PhotoCaption--full-width-tablet {
+    text-align: center;
+  }
+}
+
 
 .Illustration--play-button-wrapper {
   pointer-events: none;

@@ -17,6 +17,7 @@ html {
   --red-rgb: 218, 61, 87;
   --light-green-rgb: 151, 192, 202;
   --green-rgb: 36, 114, 132;
+  --blue-rgb: 194, 214, 220, 1;
 
   --backdrop-background-color-rgb: 255, 255, 255;
   --dialog-background-color-rgb: 255, 255, 255;
@@ -34,6 +35,7 @@ html {
   --red: rgb(var(--red-rgb));
   --light-green: rgb(var(--light-green-rgb));
   --green: rgb(var(--green-rgb));
+  --blue: rgb(var(--blue-rgb));
 
   --backdrop-background-color: rgb(var(--backdrop-background-color-rgb));
   --dialog-background-color: rgb(var(--dialog-background-color-rgb));

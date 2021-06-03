@@ -2,8 +2,8 @@
 items:
   - text: Blog
     url: "/blog/"
-  - text: Design
-    url: "/design/"
+  - text: About Us
+    url: "/about-us/"
   - text: FAQ
     url: "/faq/"
   - text: Contact
