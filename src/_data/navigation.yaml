@@ -2,7 +2,7 @@
 items:
   - text: Blog
     url: "/blog/"
-  - text: About Us
+  - text: About
     url: "/about-us/"
   - text: FAQ
     url: "/faq/"
