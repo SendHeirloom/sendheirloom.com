@@ -74,7 +74,6 @@ body.mobile-menu-opened {
 .Header--links {
   display: flex;
   margin-left: auto;
-  font-family: var(--serif-font-family);
 }
 
 .Header--link {
