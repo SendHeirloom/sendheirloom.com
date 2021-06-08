@@ -127,7 +127,6 @@ input:checked + div.checkbox-replacement svg {
 
     const email = emailField.value
 
-    console.log(emailOptInField.checked, typeof emailOptInField.checked)
     if (emailOptInField.checked){
       emailButton.setAttribute('disabled', '')
       const resp = await window.subscribeEmail(email)
@@ -135,6 +134,8 @@ input:checked + div.checkbox-replacement svg {
 
       if (resp.ok) {
         setStep('quantity')
+        qtyField.focus()
+        qtyField.select()
       } else if (resp.code === "no-email") {
         emailOutput.innerHTML = "Please provide a valid email address."
       } else {
@@ -143,6 +144,8 @@ input:checked + div.checkbox-replacement svg {
       }
     } else {
       setStep('quantity')
+      qtyField.focus()
+      qtyField.select()
     }
   })
 
