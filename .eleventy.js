@@ -11,7 +11,7 @@ async function imageShortcode(src, alt, widths, sizes, classes) {
   // sizes is a argument specifying which size image to load in which situation.
   // For example "(min-width: 30em) 1200px, 800px"
   let metadata = await Image(src, {
-    formats: ["png", "avif", "webp", "jpeg"],
+    formats: ["avif", "webp", "jpeg", "png"],
     widths: (widths && widths.split(" ")) || [null],
     outputDir: "./_site/img/",
   });
