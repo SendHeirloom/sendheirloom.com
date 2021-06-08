@@ -447,6 +447,13 @@ span.line--pink::after {
   background: #000;
 }
 
+.Logo-banner--item {
+  display: block;
+  max-width: 100%;
+  width: 50em;
+  margin: 0 auto 1em auto;
+}
+
 .PressKitBlocks {
   display: flex;
   flex-wrap: wrap;
@@ -479,6 +486,12 @@ span.line--pink::after {
 .Section-is-solid.Section-is-white {
   border-top: .5em solid #fff;
   border-bottom: .5em solid #fff;
+}
+
+.Section-is-solid.Logo-banner {
+  padding: 1em 1em 0;
+  border-top-width: 0;
+  background: #e2dcdd;
 }
 
 .Section--title {
