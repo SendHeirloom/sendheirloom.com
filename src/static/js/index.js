@@ -47,6 +47,9 @@
     return body
   }
 
+  // Used in the Order Dialog
+  window.subscribeEmail = subscribe
+
   const initEmailDialog = () => {
     const el = document.querySelector(`[dialog="email"]`)
     if (!el) return
