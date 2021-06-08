@@ -14,8 +14,8 @@ module.exports = {
       colors: {},
     },
     fontFamily: {
-      heading: 'Aleo, Georgia, Times, "Times New Roman", serif',
-      body: 'Avenir, "Avenir Next", "Segoe UI", system-ui, Helvetica, "Helvetica Neue", sans-serif'
+      serif: 'Aleo,Georgia,Times,"Times New Roman",serif',
+      sans: 'Avenir,"Avenir Next","Segoe UI",system-ui,Helvetica,"Helvetica Neue",sans-serif'
     }
   },
   variants: {},

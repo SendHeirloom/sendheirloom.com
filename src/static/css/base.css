@@ -55,6 +55,14 @@ html {
   --line-width: .0625em;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--serif-font-family);
+}
+
+p {
+  font-family: var(--sans-serif-font-family);
+}
+
 @media (max-width: 1080px) {
   html {
     --font-size: 18px;
