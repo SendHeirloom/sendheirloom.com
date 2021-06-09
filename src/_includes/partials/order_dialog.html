@@ -154,7 +154,7 @@ input:checked + div.checkbox-replacement svg {
       orderId: orderId,
       verification,
     })
-    return fetch(`http://localhost:8088/vendor-sale/status?${ params.toString() }`)
+    return fetch(`https://api.sendheirloom.com/vendor-sale/status?${ params.toString() }`)
       .then(response => response.json())
       .then(response => {
         if (response.deeplinkURL){
