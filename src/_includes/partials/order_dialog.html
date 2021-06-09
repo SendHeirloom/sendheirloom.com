@@ -128,6 +128,14 @@ input:checked + div.checkbox-replacement svg {
   document.querySelectorAll("[intent='open-order-dialog']").forEach(el => {
     el.addEventListener("click", event => {
       event.preventDefault()
+
+      setStep('email')
+      qtyField.value = "1"
+      emailOutput.innerHTML = ""
+      qtyOutput.innerHTML = ""
+      emailButton.removeAttribute('disabled')
+      qtyButton.removeAttribute('disabled')
+
       dialog.open()
 
       // Google Ads Begin Checkout Event
@@ -139,16 +147,6 @@ input:checked + div.checkbox-replacement svg {
 
   function close(){
     dialog.close()
-
-    setTimeout(function(){
-      setStep('email')
-
-      qtyField.value = "1"
-      emailOutput.innerHTML = ""
-      qtyOutput.innerHTML = ""
-      emailButton.removeAttribute('disabled')
-      qtyButton.removeAttribute('disabled')
-    }, 0)
   }
 
   function checkForLink(orderId, verification) {
