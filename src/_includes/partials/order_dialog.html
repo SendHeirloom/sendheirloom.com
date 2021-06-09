@@ -59,6 +59,26 @@
         <div class="Dialog--actions">
           <button class="Button Button-is-bordered Button-is-primary" type="submit" dialog-submit>Review Order</button>
         </div>
+      </form>
+    </div>
+
+    <div step="thanks" hidden>
+      <h2 class="Dialog--title" id="dialog-order-title">Thanks!</h2>
+      <p class="Dialog--content">Thank you for your order. You will receive an email with a link to upload your videos in a few moments.</p>
+
+      <p class="Dialog--content" if-qty-greater-than-one hidden>
+        The link will allow you to build one video book at a time. If you would like to send the same book to multiple addresses, we can help:
+        <br />
+        <a class="Link" href="mailto:help@sendheirloom.com">Send us an email</a>.
+      </p>
+
+      <div class="Dialog--actions">
+        <div when-link-loaded hidden>
+          <p class="Dialog--content mb-2 font-bold">
+            Ready now? Start building your <span if-qty-greater-than-one hidden>first</span> video book:
+          </p>
+          <a class="Button Button-is-bordered Button-is-primary m-auto block" dialog-submit>Go to Book Builder</a>
+        </div>
       </div>
     </div>
 
@@ -84,6 +104,7 @@ input:checked + div.checkbox-replacement svg {
   const dialogEl = document.querySelector('[dialog="order"]')
   const dialog = new Dialog(dialogEl)
 
+  // TODO Use something like Alpine.js
   const emailStep = dialogEl.querySelector('[step="email"]')
   const emailForm = emailStep.querySelector('form')
   const emailField = emailForm.querySelector('input[name="email"]')
@@ -97,12 +118,22 @@ input:checked + div.checkbox-replacement svg {
   const qtyOutput = qtyStep.querySelector('[dialog-output]')
   const qtyButton = qtyForm.querySelector('[type="submit"]')
 
+  const thanksStep = dialogEl.querySelector('[step="thanks"]')
+  const thanksAction = thanksStep.querySelector('[when-link-loaded]')
+  const thanksButton = thanksAction.querySelector('[dialog-submit]')
+  const thanksGreaters = thanksStep.querySelectorAll('[if-qty-greater-than-one]')
+
   const closeButton = dialogEl.querySelector('[dialog-close]')
 
   document.querySelectorAll("[intent='open-order-dialog']").forEach(el => {
     el.addEventListener("click", event => {
       event.preventDefault()
       dialog.open()
+
+      // Google Ads Begin Checkout Event
+      gtag('event', 'conversion', {
+        'send_to': 'AW-470754614/gCvFCPqF6b4CELbKvOAB',
+      });
     })
   })
 
@@ -118,6 +149,65 @@ input:checked + div.checkbox-replacement svg {
       emailButton.removeAttribute('disabled')
       qtyButton.removeAttribute('disabled')
     }, 0)
+  }
+
+  function checkForLink(orderId, verification) {
+    const params = new URLSearchParams({
+      orderId: orderId,
+      verification,
+    })
+    return fetch(`http://localhost:8088/vendor-sale/status?${ params.toString() }`)
+      .then(response => response.json())
+      .then(response => {
+        if (response.deeplinkURL){
+          return response.deeplinkURL
+        } else {
+          throw new Error(response.message)
+        }
+      })
+  }
+
+  let intv
+  function pollForLink(orderId, verification){
+    function poll(){
+      if (intv) clearTimeout(intv)
+
+      checkForLink(orderId, verification)
+        .then((link) => {
+          thanksButton.setAttribute('href', link)
+          thanksAction.hidden = false
+        }, (error) => {
+          if (error !== "Sale not found, try again shortly."){
+            console.log('Error loading link', error)
+          }
+
+          intv = setTimeout(poll, 1000)
+        })
+    }
+
+    poll()
+  }
+
+  const urlSearchParams = new URLSearchParams(window.location.search);
+  const params = Object.fromEntries(urlSearchParams.entries());
+  if (params['flow'] === 'order' && params['step'] === 'thanks'){
+    setStep('thanks')
+    dialog.open()
+
+    if (+params['qty'] > 1) {
+      for (let i=thanksGreaters.length; i--;){
+        thanksGreaters[i].hidden = false
+      }
+    }
+
+    pollForLink(params['orderId'], params['verification'])
+
+    gtag('event', 'conversion', {
+      'send_to': 'AW-470754614/wz7uCNquwr4CELbKvOAB',
+      'value': (+params['value'] / 100) || 0,
+      'currency': 'USD',
+      'transaction_id': params['orderId'],
+    });
   }
 
   emailForm.addEventListener('submit', async function(e){
@@ -158,7 +248,20 @@ input:checked + div.checkbox-replacement svg {
     const email = emailField.value
 
     qtyButton.setAttribute('disabled', '')
-    document.location = `https://order.sendheirloom.com/cart/40142616920227:${ qty }?channel=buy_button&email=${ encodeURIComponent(email) }`
+
+    const cb = () => {
+      document.location = `https://order.sendheirloom.com/cart/40142616920227:${ qty }?channel=buy_button&email=${ encodeURIComponent(email) }`
+    }
+
+    setTimeout(cb, 3000)
+
+    // Google Ads Begin Checkout Event
+    gtag('event', 'conversion', {
+      'send_to': 'AW-470754614/mUrOCO2c6b4CELbKvOAB',
+      'value': 49.0 * qty,
+      'currency': 'USD',
+      'event_callback': cb
+    });
   })
 
   function setStep(newStep){
