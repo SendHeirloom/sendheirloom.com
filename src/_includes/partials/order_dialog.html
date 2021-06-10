@@ -270,7 +270,7 @@ input:checked + div.checkbox-replacement svg {
 
     setTimeout(cb, 3000)
 
-    fbq('track', 'InitiateCheckout', {value: 49.0 * qty});
+    fbq('track', 'InitiateCheckout', {currency: 'USD', value: 49.0 * qty});
 
     // Google Ads Begin Checkout Event
     gtag('event', 'conversion', {
