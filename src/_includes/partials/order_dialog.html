@@ -137,7 +137,9 @@ input:checked + div.checkbox-replacement svg {
 
       dialog.open()
 
-      // Google Ads Begin Checkout Event
+      fbq('track', 'AddToCart');
+
+      // Google Ads Add To Cart Event
       gtag('event', 'conversion', {
         'send_to': 'AW-470754614/gCvFCPqF6b4CELbKvOAB',
       });
@@ -185,6 +187,12 @@ input:checked + div.checkbox-replacement svg {
     poll()
   }
 
+  // Facebook doesn't have Google's ability to ignore subsequent conversions by ID
+  let alreadyTriggeredFacebookPurchases = {}
+  try {
+    alreadyTriggeredFacebookPurchases = JSON.parse(localStorage.alreadyTriggeredFacebookPurchases)
+  } catch (e) {}
+
   const urlSearchParams = new URLSearchParams(window.location.search);
   const params = Object.fromEntries(urlSearchParams.entries());
   if (params['flow'] === 'order' && params['step'] === 'thanks'){
@@ -199,9 +207,19 @@ input:checked + div.checkbox-replacement svg {
 
     pollForLink(params['orderId'], params['verification'])
 
+    const value = +params['value'] / 100 || 0
+
+    if (!alreadyTriggeredFacebookPurchases[params['orderId']]){
+      fbq('track', 'Purchase', {currency: 'USD', value});
+
+      alreadyTriggeredFacebookPurchases[params['orderId']] = true
+      localStorage.alreadyTriggeredFacebookPurchases = JSON.stringify(alreadyTriggeredFacebookPurchases)
+    }
+
+    // Google Ads Purchase Event
     gtag('event', 'conversion', {
       'send_to': 'AW-470754614/wz7uCNquwr4CELbKvOAB',
-      'value': (+params['value'] / 100) || 0,
+      'value': value,
       'currency': 'USD',
       'transaction_id': params['orderId'],
     });
@@ -251,6 +269,8 @@ input:checked + div.checkbox-replacement svg {
     }
 
     setTimeout(cb, 3000)
+
+    fbq('track', 'InitiateCheckout', {value: 49.0 * qty});
 
     // Google Ads Begin Checkout Event
     gtag('event', 'conversion', {
