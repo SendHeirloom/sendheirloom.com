@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/config.json"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"

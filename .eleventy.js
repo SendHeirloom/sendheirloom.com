@@ -72,6 +72,8 @@ module.exports = function (eleventyConfig) {
     'node_modules/owl.carousel/dist/assets/owl.theme.default.min.css': 'assets/owl.theme.default.min.css',
   });
 
+  eleventyConfig.addPassthroughCopy("./src/config.json");
+
   // Minify HTML
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
     // Eleventy 1.0+: use this.inputPath and this.outputPath instead
