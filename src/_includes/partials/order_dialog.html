@@ -143,6 +143,11 @@ input:checked + div.checkbox-replacement svg {
       gtag('event', 'conversion', {
         'send_to': 'AW-470754614/gCvFCPqF6b4CELbKvOAB',
       });
+
+      gtag('event', "AddToCart", {
+        'event_category': "Preorder Flow",
+        'event_label': "Preorder Add To Cart",
+      });
     })
   })
 
@@ -223,6 +228,12 @@ input:checked + div.checkbox-replacement svg {
       'currency': 'USD',
       'transaction_id': params['orderId'],
     });
+
+    gtag('event', "Purchase", {
+      'event_category': "Preorder Flow",
+      'event_label': "Preorder Purchase",
+      'value': value,
+    });
   }
 
   emailForm.addEventListener('submit', async function(e){
@@ -278,6 +289,12 @@ input:checked + div.checkbox-replacement svg {
       'value': 49.0 * qty,
       'currency': 'USD',
       'event_callback': cb
+    });
+
+    gtag('event', "BeginCheckout", {
+      'event_category': "Preorder Flow",
+      'event_label': "Begin Shopify Checkout",
+      'value': 49.0 * qty,
     });
   })
 
