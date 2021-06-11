@@ -2,8 +2,8 @@
   "builder": {
     "messages": {
       "errorReplacingUploadPage": "",
-      "uploadPage": "",
-      "coverSelectionPage": ""
+      "uploadPage": "Due to the unprecendented demand from the Today Show (!) we are unfortunately running low on several book styles. Please feel free to continue your upload. If you don’t see the style you were hoping for please try again after the holiday.",
+      "coverSelectionPage": "Due to the unprecendented demand from the Today Show (!) we are unfortunately running low on several book styles. If you don’t see the style you were hoping for please try again after the holiday."
     }
   }
 }
