@@ -127,24 +127,28 @@ input:checked + div.checkbox-replacement svg {
   const urlSearchParams = new URLSearchParams(window.location.search);
   const params = Object.fromEntries(urlSearchParams.entries());
 
+  function open() {
+    if (params['email']) {
+      setStep('quantity')
+      qtyField.focus()
+      qtyField.select()
+    } else {
+      setStep('email')
+      qtyField.value = "1"
+      emailOutput.innerHTML = ""
+      qtyOutput.innerHTML = ""
+      emailButton.removeAttribute('disabled')
+      qtyButton.removeAttribute('disabled')
+    }
+
+    dialog.open()
+  }
+
   document.querySelectorAll("[intent='open-order-dialog']").forEach(el => {
     el.addEventListener("click", event => {
       event.preventDefault()
 
-      if (params['email']) {
-        setStep('quantity')
-        qtyField.focus()
-        qtyField.select()
-      } else {
-        setStep('email')
-        qtyField.value = "1"
-        emailOutput.innerHTML = ""
-        qtyOutput.innerHTML = ""
-        emailButton.removeAttribute('disabled')
-        qtyButton.removeAttribute('disabled')
-      }
-
-      dialog.open()
+      open()
 
       fbq('track', 'AddToCart');
 
@@ -241,6 +245,8 @@ input:checked + div.checkbox-replacement svg {
       'event_label': "Preorder Purchase",
       'value': value,
     });
+  } else if (params['flow'] === 'order'){
+    open()
   }
 
   emailForm.addEventListener('submit', async function(e){
