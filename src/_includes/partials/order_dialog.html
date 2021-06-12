@@ -124,16 +124,25 @@ input:checked + div.checkbox-replacement svg {
 
   const closeButton = dialogEl.querySelector('[dialog-close]')
 
+  const urlSearchParams = new URLSearchParams(window.location.search);
+  const params = Object.fromEntries(urlSearchParams.entries());
+
   document.querySelectorAll("[intent='open-order-dialog']").forEach(el => {
     el.addEventListener("click", event => {
       event.preventDefault()
 
-      setStep('email')
-      qtyField.value = "1"
-      emailOutput.innerHTML = ""
-      qtyOutput.innerHTML = ""
-      emailButton.removeAttribute('disabled')
-      qtyButton.removeAttribute('disabled')
+      if (params['email']) {
+        setStep('quantity')
+        qtyField.focus()
+        qtyField.select()
+      } else {
+        setStep('email')
+        qtyField.value = "1"
+        emailOutput.innerHTML = ""
+        qtyOutput.innerHTML = ""
+        emailButton.removeAttribute('disabled')
+        qtyButton.removeAttribute('disabled')
+      }
 
       dialog.open()
 
@@ -156,11 +165,11 @@ input:checked + div.checkbox-replacement svg {
   }
 
   function checkForLink(orderId, verification) {
-    const params = new URLSearchParams({
+    const lParams = new URLSearchParams({
       orderId: orderId,
       verification,
     })
-    return fetch(`https://api.sendheirloom.com/vendor-sale/status?${ params.toString() }`)
+    return fetch(`https://api.sendheirloom.com/vendor-sale/status?${ lParams.toString() }`)
       .then(response => response.json())
       .then(response => {
         if (response.deeplinkURL){
@@ -198,8 +207,6 @@ input:checked + div.checkbox-replacement svg {
     alreadyTriggeredFacebookPurchases = JSON.parse(localStorage.alreadyTriggeredFacebookPurchases)
   } catch (e) {}
 
-  const urlSearchParams = new URLSearchParams(window.location.search);
-  const params = Object.fromEntries(urlSearchParams.entries());
   if (params['flow'] === 'order' && params['step'] === 'thanks'){
     setStep('thanks')
     dialog.open()
@@ -271,7 +278,7 @@ input:checked + div.checkbox-replacement svg {
     qtyField.disabled = true
     const qty = +(qtyField.value) || 1
 
-    const email = emailField.value
+    const email = emailField.value || params['email'] || ''
 
     qtyButton.setAttribute('disabled', '')
 
