@@ -4,6 +4,14 @@ items:
     url: "/blog/"
   - text: About
     url: "/about-us/"
+  - text: Occasions
+    items:
+      - text: "Birthday"
+        url: "/send-birthday-video-gift/"
+      - text: "Wedding"
+        url: "/wedding-video-gifts/"
+      - text: "Memorial"
+        url: "/mail-memorial-video-book/"
   - text: FAQ
     url: "/faq/"
   - text: Contact

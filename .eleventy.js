@@ -38,7 +38,7 @@ module.exports = function (eleventyConfig) {
   // This fellow also gives us the absoluteUrl filter:
   eleventyConfig.addPlugin(pluginRss);
 
-  // human readable date
+  // Human readable date
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
       "d LLL yyyy"
