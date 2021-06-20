@@ -21,11 +21,243 @@
       {% if navigation.items %}
         <div class="Header--links">
           {% for item in navigation.items %}
-            {# We include both Tailwinds and internal classes so the header works in both environments #}
-            <a href="{{ item.url }}" class="Link Link-without-underline Header--link font-heading">{{ item.text }}</a>
+            {% if item.items %}
+              <div class="Header-links--menu">
+                <label class="Header--link" for="{{ item.text }}-toggle">
+                  {{ item.text }}
+                </label>
+                <input class="Header-nested--toggle" id="{{ item.text }}-toggle" type="checkbox" is-visually-hidden />
+                <ul class="Header-nested--links">
+                  {% for innerItem in item.items %}
+                    <li>
+                      <a href="{{ innerItem.url }}" class="Link Link-without-underline Header--link font-heading">{{ innerItem.text }}</a>
+                  {% endfor %}
+                </ul>
+              </div>
+            {% else %}
+              {# We include both Tailwinds and internal classes so the header works in both environments #}
+              <a href="{{ item.url }}" class="Link Link-without-underline Header--link font-heading">{{ item.text }}</a>
+            {% endif %}
           {% endfor %}
         </div>
       {% endif %}
     </div>
   </div>
 </header>
+
+<style>
+.Header {
+  position: relative;
+  padding: .8em 0 0;
+  z-index: 10;
+}
+
+.Header--content {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.Header--logo-area {
+  display: flex;
+  align-items: center;
+}
+
+.Header--download-button {
+  margin-left: 1.2em;
+  font-size: .8em;
+  padding-left: 1em;
+  padding-right: 1em;
+  height: 2em;
+  line-height: 2;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.Header--links {
+  display: flex;
+  margin-left: auto;
+}
+
+.Header--link {
+  --hover-background: rgba(var(--accent-color-rgb), .1);
+  position: relative;
+  line-height: 1;
+  padding: .45em .8em .35em;
+}
+
+.Header--link:last-child {
+  margin-right: -.5em;
+}
+
+.Header--link:active {
+  color: var(--accent-color);
+  background: var(--hover-background);
+}
+
+@media (hover: hover) {
+  .Header--link:hover {
+    color: var(--accent-color);
+    background: var(--hover-background);
+  }
+}
+
+.Header--link-is-active::after {
+  content: "—";
+  position: absolute;
+  bottom: -.5em;
+  left: 0;
+  right: 0;
+  text-align: center;
+  opacity: .5;
+}
+
+.Header--mobile-links-toggle {
+  display: none;
+}
+
+.Header-links--menu {
+  position: relative;
+  background-color: #e5e7eb;
+}
+.Header-links--menu label {
+  cursor: pointer;
+  display: block;
+}
+.Header-nested--links {
+  display: none;
+  position: absolute;
+  padding: 0.25em 0 0;
+  text-align: left;
+  width: 100%;
+}
+.Header-nested--toggle:checked + .Header-nested--links {
+  display: block;
+  background-color: #ffe1de;
+}
+.Header-nested--links .Header--link {
+  display: block;
+  width: 100%;
+  padding: 0.5em 0.25em 0.5em 0.5em;
+}
+
+
+@media (max-width: 960px) {
+  .Header--content {
+    display: flex;
+  }
+
+  .Header--mobile-links-toggle {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.5em;
+    height: 2.5em;
+    right: 0;
+    top: -.5em;
+    bottom: -.5em;
+    margin-top: auto;
+    margin-bottom: auto;
+    z-index: 10;
+  }
+
+  .Header--mobile-links-toggle-bar {
+    position: relative;
+    height: 2px;
+    width: 100%;
+    background: currentColor;
+    transition: transform .3s ease;
+  }
+
+  .Header--mobile-links-toggle-bar:first-child {
+    margin-bottom: 6px;
+  }
+
+  .Header.data-is-open .Header--mobile-links-toggle-bar:first-child {
+    transform: translateY(4px) rotate(-45deg);
+  }
+
+  .Header.data-is-open .Header--mobile-links-toggle-bar:last-child {
+    transform: translateY(-4px) rotate(45deg);
+  }
+
+  .Header--mobile-links-toggle button {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: .6em;
+  }
+
+  .Header--links {
+    position: fixed;
+    z-index: 5;
+    top: 80px;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    font-size: 1.5em;
+    flex-direction: column;
+    align-items: flex-end;
+    background: var(--background-color);
+    padding: .5em 0;
+    border-radius: .25em;
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(-.25em);
+    transition: opacity .3s ease, transform .3s ease;
+  }
+
+  .Header.data-is-open .Header--links {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: all;
+  }
+
+  .Header--link {
+    border-radius: 0;
+    margin: 0;
+    width: 100%;
+    text-align: center;
+  }
+
+  .Header--links .Header--link:last-child {
+    margin-right: 0;
+  }
+
+  .Header--link-is-active {
+    color: var(--accent-color);
+    background: var(--hover-background);
+  }
+
+  .Header--link-is-active::after {
+    display: none;
+  }
+
+  .Header--download-button {
+    font-size: .9em;
+    padding-left: .8em;
+    padding-right: .8em;
+    margin-left: .8em;
+    height: 1.8em;
+  }
+
+  .Header-links--menu {
+    width: 100%;
+    text-align: center;
+    background-color: transparent;
+  }
+
+  .Header-nested--links {
+    position: static;
+    text-align: center;
+  }
+}
+
+@media (max-width: 414px) {
+  .Header--logo-link {
+    font-size: .9em;
+  }
+}
+</style>
