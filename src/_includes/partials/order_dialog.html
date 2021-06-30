@@ -126,6 +126,9 @@ input:checked + div.checkbox-replacement svg {
 
   const urlSearchParams = new URLSearchParams(window.location.search);
   const params = Object.fromEntries(urlSearchParams.entries());
+  if (params['flow'] === 'order'){
+    window.history.replaceState({}, document.title, window.location.pathname)
+  }
 
   function open() {
     if (params['email']) {
@@ -141,8 +144,74 @@ input:checked + div.checkbox-replacement svg {
       qtyButton.removeAttribute('disabled')
     }
 
+    if (params['qty']) {
+      qtyField.value = params['qty']
+    }
+
     dialog.open()
   }
+
+  // Facebook likes identifying information hashed
+  async function hash(val){
+    const encoder = new TextEncoder()
+    const data = encoder.encode(val)
+    return buf2hex(await crypto.subtle.digest('SHA-256', data))
+  }
+
+  function buf2hex(buffer){
+    return [...new Uint8Array(buffer)].map(x => x.toString(16).padStart(2, '0')).join('')
+  }
+
+  function getCookie(name){
+    const re = new RegExp(name + "=([^;]+)");
+    const value = re.exec(document.cookie);
+    return (value != null) ? unescape(value[1]) : null;
+  }
+
+  async function fbTrack(eventName, props) {
+    let event = {
+      event_name: eventName,
+      event_id: props.id,
+      user_data: {},
+      custom_data: {
+        num_items: props.quantity,
+        order_id: props.orderId,
+        content_name: props.contentName,
+      },
+    }
+
+    const fbp = getCookie('_fbp')
+    const fbc = getCookie('_fbc')
+    if (fbp) event.user_data.fbp = fbp
+    if (fbc) event.user_data.fbc = fbc
+
+    if (props.value !== undefined) {
+      event.custom_data.value = props.value
+      event.custom_data.currency = 'USD'
+    }
+
+    if (props.email){
+      event.user_data.em = [await hash(props.email)]
+    } else if (props.hashedEmail) {
+      event.user_data.em = [props.hashedEmail]
+    }
+
+    fetch("https://work.sendheirloom.com/event", {
+      method: 'POST',
+      mode: 'no-cors',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        source: 'client',
+        event,
+      }),
+    })
+  }
+
+  fbTrack('ViewContent', {
+    contentName: 'homepage',
+  })
 
   document.querySelectorAll("[intent='open-order-dialog']").forEach(el => {
     el.addEventListener("click", event => {
@@ -150,7 +219,14 @@ input:checked + div.checkbox-replacement svg {
 
       open()
 
-      fbq('track', 'AddToCart');
+      // Don't count our event twice
+      const randomId = Math.random().toString()
+
+      // Using the pixel
+      fbq('track', 'AddToCart', {}, {eventID: randomId});
+
+      // Using the conversion api:
+      fbTrack('AddToCart', {id: randomId, contentName: 'Video Book'});
 
       // Google Ads Add To Cart Event
       gtag('event', 'conversion', {
@@ -205,12 +281,6 @@ input:checked + div.checkbox-replacement svg {
     poll()
   }
 
-  // Facebook doesn't have Google's ability to ignore subsequent conversions by ID
-  let alreadyTriggeredFacebookPurchases = {}
-  try {
-    alreadyTriggeredFacebookPurchases = JSON.parse(localStorage.alreadyTriggeredFacebookPurchases)
-  } catch (e) {}
-
   if (params['flow'] === 'order' && params['step'] === 'thanks'){
     setStep('thanks')
     dialog.open()
@@ -222,15 +292,18 @@ input:checked + div.checkbox-replacement svg {
     }
 
     pollForLink(params['orderId'], params['verification'])
-
     const value = +params['value'] / 100 || 0
 
-    if (!alreadyTriggeredFacebookPurchases[params['orderId']]){
-      fbq('track', 'Purchase', {currency: 'USD', value});
+    fbTrack('Purchase', {
+      value,
+      quantity: params['qty'],
+      orderId: params['orderId'],
+      id: params['orderId'],
+      hashedEmail: params['hashedEm'],
+      contentName: 'Video Book',
+    })
 
-      alreadyTriggeredFacebookPurchases[params['orderId']] = true
-      localStorage.alreadyTriggeredFacebookPurchases = JSON.stringify(alreadyTriggeredFacebookPurchases)
-    }
+    fbq('track', 'Purchase', {currency: 'USD', value}, {eventID: params['orderId']});
 
     // Google Ads Purchase Event
     gtag('event', 'conversion', {
@@ -255,6 +328,12 @@ input:checked + div.checkbox-replacement svg {
     emailOutput.innerHTML = ""
 
     const email = emailField.value
+
+    if (email){
+      gtag('config', 'GA_MEASUREMENT_ID', {
+        'user_id': hash(email),
+      });
+    }
 
     if (emailOptInField.checked){
       emailButton.setAttribute('disabled', '')
@@ -294,7 +373,11 @@ input:checked + div.checkbox-replacement svg {
 
     setTimeout(cb, 3000)
 
-    fbq('track', 'InitiateCheckout', {currency: 'USD', value: 49.0 * qty});
+    // Don't count our event twice
+    const randomId = Math.random().toString()
+
+    fbq('track', 'InitiateCheckout', {currency: 'USD', value: 49.0 * qty}, {eventID: randomId})
+    fbTrack('InitiateCheckout', {value: 49.0 * qty, quantity: qty, email, id: randomId, contentName: 'Video Book'})
 
     // Google Ads Begin Checkout Event
     gtag('event', 'conversion', {
