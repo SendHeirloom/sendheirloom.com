@@ -233,7 +233,7 @@ input:checked + div.checkbox-replacement svg {
         'send_to': 'AW-470754614/gCvFCPqF6b4CELbKvOAB',
       });
 
-      gtag('event', "AddToCart", {
+      gtag('event', "add_to_cart", {
         'event_category': "Preorder Flow",
         'event_label': "Preorder Add To Cart",
       });
@@ -313,11 +313,20 @@ input:checked + div.checkbox-replacement svg {
       'transaction_id': params['orderId'],
     });
 
-    gtag('event', "Purchase", {
+    gtag('event', "purchase", {
+      'transaction_id': params['orderId'],
       'event_category': "Preorder Flow",
       'event_label': "Preorder Purchase",
+      'currency': 'USD',
       'value': value,
     });
+
+    window.heap && heap.track('Purchase', {
+      'order_id': params['orderId'],
+      'price': value,
+      'currency': 'USD',
+      'hashed_email': params['hashedEm'],
+    })
   } else if (params['flow'] === 'order'){
     open()
   }
@@ -385,7 +394,7 @@ input:checked + div.checkbox-replacement svg {
       'event_callback': cb
     });
 
-    gtag('event', "BeginCheckout", {
+    gtag('event', "begin_checkout", {
       'event_category': "Preorder Flow",
       'event_label': "Begin Shopify Checkout",
     });
