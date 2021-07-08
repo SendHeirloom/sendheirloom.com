@@ -376,21 +376,18 @@ input:checked + div.checkbox-replacement svg {
     // Don't count our event twice
     const randomId = Math.random().toString()
 
-    fbq('track', 'InitiateCheckout', {currency: 'USD', value: 49.0 * qty}, {eventID: randomId})
-    fbTrack('InitiateCheckout', {value: 49.0 * qty, quantity: qty, email, id: randomId, contentName: 'Video Book'})
+    fbq('track', 'InitiateCheckout', {}, {eventID: randomId})
+    fbTrack('InitiateCheckout', {quantity: qty, email, id: randomId, contentName: 'Video Book'})
 
     // Google Ads Begin Checkout Event
     gtag('event', 'conversion', {
       'send_to': 'AW-470754614/mUrOCO2c6b4CELbKvOAB',
-      'value': 49.0 * qty,
-      'currency': 'USD',
       'event_callback': cb
     });
 
     gtag('event', "BeginCheckout", {
       'event_category': "Preorder Flow",
       'event_label': "Begin Shopify Checkout",
-      'value': 49.0 * qty,
     });
   })
 
