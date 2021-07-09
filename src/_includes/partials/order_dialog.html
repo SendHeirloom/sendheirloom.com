@@ -321,12 +321,22 @@ input:checked + div.checkbox-replacement svg {
       'value': value,
     });
 
-    window.heap && heap.track('Purchase', {
-      'order_id': params['orderId'],
-      'price': value,
-      'currency': 'USD',
-      'hashed_email': params['hashedEm'],
-    })
+    const heapIntv = setInterval(function(){
+      // Heap loads async as a part of GTM
+      if (window.heap){
+        clearInterval(heapIntv)
+
+        heap.track('Purchase', {
+          'order_id': params['orderId'],
+          'price': value,
+          'currency': 'USD',
+          'hashed_email': params['hashedEm'],
+        })
+
+        heap.identify(params['hashedEm'])
+      }
+    }, 2000)
+
   } else if (params['flow'] === 'order'){
     open()
   }
@@ -414,3 +424,6 @@ input:checked + div.checkbox-replacement svg {
 
 })()
 </script>
+
+<!-- ShareASale Tracking -->
+<script src="https://www.dwin1.com/19038.js" type="text/javascript" defer="defer"></script>
