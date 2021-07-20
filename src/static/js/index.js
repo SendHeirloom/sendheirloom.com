@@ -24,7 +24,7 @@
     el.appendChild(p)
   }
 
-  const subscribe = async email => {
+  const subscribe = async (email, event) => {
     const resp = await fetch("https://texter.sendheirloom.com/subscribe/email", {
       method: 'POST',
       headers: {
@@ -34,7 +34,8 @@
         email,
         source: "website",
         campaign: "website-dialog",
-        sendWelcomeMessage: true
+        sendWelcomeMessage: true,
+        event: event,
       })
     })
 

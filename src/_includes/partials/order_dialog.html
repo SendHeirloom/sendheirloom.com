@@ -356,7 +356,7 @@ input:checked + div.checkbox-replacement svg {
 
     if (emailOptInField.checked){
       emailButton.setAttribute('disabled', '')
-      const resp = await window.subscribeEmail(email)
+      const resp = await window.subscribeEmail(email, "Preorder Add To Cart")
       emailButton.removeAttribute('disabled')
 
       if (resp.ok) {
