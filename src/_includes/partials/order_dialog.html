@@ -1,5 +1,43 @@
 <div class="Dialog---backdrop" dialog-backdrop>
   <div class="Dialog Dialog-is-small" aria-labelledby="dialog-order-title" dialog="order">
+    <div step="how-it-works">
+      <h2 class="Dialog--title" id="dialog-order-title">Order a Video Book</h2>
+
+      <p class="Dialog--subtitle">Here's a quick overview of how the ordering process works:</p>
+
+      <form dialog-form>
+        <div class="Dialog--content" dialog-content>
+          <div class="Stack">
+            <ul class="List-steps">
+              <li>
+                <div class="List-steps--step">Step One</div>
+                <div class="List-steps--content">Order as many video books as you'd like through this form.
+                </div>
+              </li>
+              <li>
+                <div class="List-steps--step">Step Two</div>
+                <div class="List-steps--content">You’ll immediately receive an email with a link to begin building your video book.</div>
+              </li>
+              <li>
+                <div class="List-steps--step">Step Three</div>
+                <div class="List-steps--content">Select up to 10 min of video from your computer or phone.</div>
+              </li>
+              <li>
+                <div class="List-steps--step">Step Four</div>
+                <div class="List-steps--content">Heirloom mails your video book in 48 hours and it arrives in 5 business days.</div>
+              </li>
+            </ul>
+
+        <div class="Dialog--actions">
+          <button class="Button Button-is-bordered Button-is-primary" type="submit" dialog-submit>Got it!</button>
+        </div>
+        <div>
+          <small>Would you rather build your video book first? <a class="Link" href="https://create.sendheirloom.com">Visit our book builder</a>.</small>
+        </div>
+      </form>
+    </div>
+
+
     <div step="email">
       <h2 class="Dialog--title" id="dialog-order-title">Order a Video Book</h2>
 
@@ -96,12 +134,17 @@ input:checked + div.checkbox-replacement {
 input:checked + div.checkbox-replacement svg {
   display: block
 }
+[dialog="order"] .List-steps--step {
+  font-size: 1em;
+}
 </style>
 
 <script>
 (function(){
   const dialogEl = document.querySelector('[dialog="order"]')
   const dialog = new Dialog(dialogEl)
+
+  const howItWorksForm = dialogEl.querySelector('[step="how-it-works"] form')
 
   // TODO Use something like Alpine.js
   const emailStep = dialogEl.querySelector('[step="email"]')
@@ -130,13 +173,18 @@ input:checked + div.checkbox-replacement svg {
     window.history.replaceState({}, document.title, window.location.pathname)
   }
 
-  function open() {
+  function open(showHowItWorks) {
     if (params['email']) {
       setStep('quantity')
       qtyField.focus()
       qtyField.select()
     } else {
-      setStep('email')
+      if (showHowItWorks) {
+        setStep('how-it-works')
+      } else {
+        setStep('email')
+      }
+
       qtyField.value = "1"
       emailOutput.innerHTML = ""
       qtyOutput.innerHTML = ""
@@ -213,32 +261,53 @@ input:checked + div.checkbox-replacement svg {
     contentName: 'homepage',
   })
 
-  document.querySelectorAll("[intent='open-order-dialog']").forEach(el => {
-    el.addEventListener("click", event => {
-      event.preventDefault()
-
-      open()
-
-      // Don't count our event twice
-      const randomId = Math.random().toString()
-
-      // Using the pixel
-      fbq('track', 'AddToCart', {}, {eventID: randomId});
-
-      // Using the conversion api:
-      fbTrack('AddToCart', {id: randomId, contentName: 'Video Book'});
-
-      // Google Ads Add To Cart Event
-      gtag('event', 'conversion', {
-        'send_to': 'AW-470754614/gCvFCPqF6b4CELbKvOAB',
-      });
-
-      gtag('event', "add_to_cart", {
-        'event_category': "Preorder Flow",
-        'event_label': "Preorder Add To Cart",
-      });
-    })
+  bindEvent(true)
+  gtag('event', 'optimize.callback', {
+    name: 'RDw2bqg4RFyl0yicUjNtqw',
+    callback: function(variant){
+      variant = variant || 0
+      console.log("Variant", variant)
+      if (variant === 0){
+        // The original dialog
+        bindEvent(false)
+      } else if (variant === 2){
+        // Show a how it works in the dialog
+        bindEvent(true)
+      } else {
+        // Let the original link just take the person away
+        // Note tracking the first two events won't work in this path yet
+      }
+    }
   })
+
+  function bindEvent(showHowItWorks){
+    document.querySelectorAll("[intent='open-order-dialog']").forEach(el => {
+      el.addEventListener("click", event => {
+        event.preventDefault()
+
+        open(showHowItWorks)
+
+        // Don't count our event twice
+        const randomId = Math.random().toString()
+
+        // Using the pixel
+        fbq('track', 'AddToCart', {}, {eventID: randomId});
+
+        // Using the conversion api:
+        fbTrack('AddToCart', {id: randomId, contentName: 'Video Book'});
+
+        // Google Ads Add To Cart Event
+        gtag('event', 'conversion', {
+          'send_to': 'AW-470754614/gCvFCPqF6b4CELbKvOAB',
+        });
+
+        gtag('event', "add_to_cart", {
+          'event_category': "Preorder Flow",
+          'event_label': "Preorder Add To Cart",
+        });
+      })
+    })
+  }
 
   function close(){
     dialog.close()
@@ -320,26 +389,15 @@ input:checked + div.checkbox-replacement svg {
       'currency': 'USD',
       'value': value,
     });
-
-    const heapIntv = setInterval(function(){
-      // Heap loads async as a part of GTM
-      if (window.heap){
-        clearInterval(heapIntv)
-
-        heap.track('Purchase', {
-          'order_id': params['orderId'],
-          'price': value,
-          'currency': 'USD',
-          'hashed_email': params['hashedEm'],
-        })
-
-        heap.identify(params['hashedEm'])
-      }
-    }, 2000)
-
   } else if (params['flow'] === 'order'){
     open()
   }
+
+  howItWorksForm.addEventListener('submit', function(e){
+    e.preventDefault()
+
+    setStep('email')
+  })
 
   emailForm.addEventListener('submit', async function(e){
     e.preventDefault()
