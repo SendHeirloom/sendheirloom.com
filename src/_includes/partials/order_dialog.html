@@ -176,18 +176,13 @@ input:checked + div.checkbox-replacement svg {
     window.history.replaceState({}, document.title, window.location.pathname)
   }
 
-  function open(showHowItWorks) {
+  function open() {
     if (params['email']) {
       setStep('quantity')
       qtyField.focus()
       qtyField.select()
     } else {
-      if (showHowItWorks) {
-        setStep('how-it-works')
-      } else {
-        setStep('email')
-      }
-
+      setStep('how-it-works')
       qtyField.value = "1"
       emailOutput.innerHTML = ""
       qtyOutput.innerHTML = ""
@@ -264,52 +259,32 @@ input:checked + div.checkbox-replacement svg {
     contentName: 'homepage',
   })
 
-  gtag('event', 'optimize.callback', {
-    name: 'RDw2bqg4RFyl0yicUjNtqw',
-    callback: function(variant){
-      variant = variant || 0
-      console.log("Variant", variant)
-      if (variant === 0){
-        // The original dialog
-        bindEvent(false)
-      } else if (variant === 2){
-        // Show a how it works in the dialog
-        bindEvent(true)
-      } else {
-        // Let the original link just take the person away
-        // Note tracking the first two events won't work in this path yet
-      }
-    }
-  })
+  document.querySelectorAll("[intent='open-order-dialog']").forEach(el => {
+    el.addEventListener("click", event => {
+      event.preventDefault()
 
-  function bindEvent(showHowItWorks){
-    document.querySelectorAll("[intent='open-order-dialog']").forEach(el => {
-      el.addEventListener("click", event => {
-        event.preventDefault()
+      open()
 
-        open(showHowItWorks)
+      // Don't count our event twice
+      const randomId = Math.random().toString()
 
-        // Don't count our event twice
-        const randomId = Math.random().toString()
+      // Using the pixel
+      fbq('track', 'AddToCart', {}, {eventID: randomId});
 
-        // Using the pixel
-        fbq('track', 'AddToCart', {}, {eventID: randomId});
+      // Using the conversion api:
+      fbTrack('AddToCart', {id: randomId, contentName: 'Video Book'});
 
-        // Using the conversion api:
-        fbTrack('AddToCart', {id: randomId, contentName: 'Video Book'});
+      // Google Ads Add To Cart Event
+      gtag('event', 'conversion', {
+        'send_to': 'AW-470754614/gCvFCPqF6b4CELbKvOAB',
+      });
 
-        // Google Ads Add To Cart Event
-        gtag('event', 'conversion', {
-          'send_to': 'AW-470754614/gCvFCPqF6b4CELbKvOAB',
-        });
-
-        gtag('event', "add_to_cart", {
-          'event_category': "Preorder Flow",
-          'event_label': "Preorder Add To Cart",
-        });
-      })
+      gtag('event', "add_to_cart", {
+        'event_category': "Preorder Flow",
+        'event_label': "Preorder Add To Cart",
+      });
     })
-  }
+  })
 
   function close(){
     dialog.close()
