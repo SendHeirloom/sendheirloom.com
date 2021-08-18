@@ -1,9 +1,68 @@
 {
-  "builder": {
-    "messages": {
-      "errorReplacingUploadPage": "",
-      "uploadPage": "",
-      "coverSelectionPage": ""
-    }
-  }
+   "builder":{
+      "messages":{
+         "errorReplacingUploadPage":"",
+         "uploadPage":"",
+         "coverSelectionPage":""
+      }
+   },
+   "shipping":[
+      {
+         "shippingName":"Standard",
+         "alternativeShippingName":[
+            "Economy"
+         ],
+         "schedulingAllowed":true,
+         "deliveryBusinessDays":9,
+         "deliveryOverride":{
+            "linkText":"",
+            "arrivesBy":"",
+            "displayFrom":"",
+            "displayTo":""
+         }
+      },
+      {
+         "shippingName":"Standard (Prepaid)",
+         "alternativeShippingName":[
+            "Economy"
+         ],
+         "schedulingAllowed":true,
+         "deliveryBusinessDays":9,
+         "deliveryOverride":{
+            "linkText":"",
+            "arrivesBy":"2",
+            "displayFrom":"",
+            "displayTo":""
+         }
+      },
+      {
+         "shippingName":"Express",
+         "alternativeShippingName":[
+            "Expedited"
+         ],
+         "schedulingAllowed":false,
+         "deliveryBusinessDays":3,
+         "deliveryOverride":{
+            "linkText":"",
+            "arrivesBy":"",
+            "displayFrom":"",
+            "displayTo":""
+         }
+      },
+      {
+         "shippingName":"Express (Prepaid)",
+         "alternativeShippingName":[
+            "Expedited"
+         ],
+         "schedulingAllowed":false,
+         "deliveryBusinessDays":3,
+         "deliveryOverride":{
+            "linkText":"",
+            "arrivesBy":"",
+            "displayFrom":"",
+            "displayTo":""
+         }
+      }
+   ]
 }
+
