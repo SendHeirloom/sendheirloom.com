@@ -1,3 +1,5 @@
+<script src="https://js.stripe.com/v3/"></script>
+
 <div class="Dialog---backdrop" dialog-backdrop>
   <div class="Dialog Dialog-is-small" aria-labelledby="dialog-order-title" dialog="order">
     <div step="how-it-works">
@@ -118,6 +120,49 @@
       </div>
     </div>
 
+    <div step="pay" hidden>
+      <h1 class="text-xl mb-2">Complete your purchase</h1>
+
+      <form dialog-form>
+        <div class="Dialog--content" dialog-content>
+          <div class="Stack">
+            <div>
+              Purchase <a class="Link" data-action="change-quantity"><output class="quantity"></output></a>
+              &nbsp;video book<span if-qty-greater-than-one hidden>s</span> <span if-qty-greater-than-one hidden>(<output class="unit-price"></output>&nbsp;each)</span>
+              for a total of&nbsp;<output class="total-price"></output>
+            </div>
+
+            <div class="FormField">
+              <div id="card-element" class="Input" style="height: 43px"><!--Stripe.js injects the Card Element--></div>
+            </div>
+
+            <div class="text-xs mt-2">Express shipping options will be available when you build your video book. <a class="Link" data-action="apply-discount">Apply discount code.</a></div>
+            <div class="pay-discount-section mt-3 flex" hidden>
+              <label class="w-8/12 mr-2 text-xs">
+                Discount code
+                <input type="text" class="Input text-xs h-8" />
+              </label>
+              <button class="Button Button-is-bordered w-4/12 h-8 self-end">Apply</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="Dialog--actions">
+          <button class="Button Button-is-bordered Button-is-primary" type="submit" dialog-submit>
+            <div class="spinner" id="spinner" hidden></div>
+            <span id="button-text">Buy now</span>
+          </button>
+        </div>
+
+        <p id="card-error" role="alert" class="bg-red-100 p-4" hidden></p>
+
+        <p class="result-message" hidden>
+          Purchase successful!
+        </p>
+
+      </form>
+    </div>
+
     <div class="Dialog--close-positioner">
       <button class="Button Button-is-close" aria-label="Close" dialog-close>
         <svg viewBox="0 0 8 8"><path stroke="currentColor" stroke-width=".75" d="M0 0 L8 8 M8 0 L0 8"/></svg>
@@ -139,6 +184,104 @@ input:checked + div.checkbox-replacement svg {
 [dialog="order"] .List-steps--content {
   font-size: 0.8em;
   padding-bottom: 0.5em;
+}
+[hidden] {
+  display: none;
+}
+
+.result-message {
+  line-height: 22px;
+  font-size: 16px;
+}
+
+.result-message a {
+  color: rgb(89, 111, 214);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+#card-error {
+  color: rgb(105, 115, 134);
+  text-align: left;
+  font-size: 13px;
+  line-height: 17px;
+  margin-top: 12px;
+}
+
+/* spinner/processing state, errors */
+.spinner,
+.spinner:before,
+.spinner:after {
+  border-radius: 50%;
+}
+.spinner {
+  color: #ffffff;
+  font-size: 22px;
+  text-indent: -99999px;
+  margin: 0px auto;
+  position: relative;
+  width: 20px;
+  height: 20px;
+  box-shadow: inset 0 0 0 2px;
+  -webkit-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  transform: translateZ(0);
+}
+.spinner:before,
+.spinner:after {
+  position: absolute;
+  content: "";
+}
+.spinner:before {
+  width: 10.4px;
+  height: 20.4px;
+  background: #da3d57;
+  border-radius: 20.4px 0 0 20.4px;
+  top: -0.2px;
+  left: -0.2px;
+  -webkit-transform-origin: 10.4px 10.2px;
+  transform-origin: 10.4px 10.2px;
+  -webkit-animation: loading 2s infinite ease 1.5s;
+  animation: loading 2s infinite ease 1.5s;
+}
+.spinner:after {
+  width: 10.4px;
+  height: 10.2px;
+  background: #da3d57;
+  border-radius: 0 10.2px 10.2px 0;
+  top: -0.1px;
+  left: 10.2px;
+  -webkit-transform-origin: 0px 10.2px;
+  transform-origin: 0px 10.2px;
+  -webkit-animation: loading 2s infinite ease;
+  animation: loading 2s infinite ease;
+}
+
+@-webkit-keyframes loading {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes loading {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  form {
+    width: 80vw;
+  }
 }
 </style>
 
@@ -166,9 +309,19 @@ input:checked + div.checkbox-replacement svg {
   const thanksStep = dialogEl.querySelector('[step="thanks"]')
   const thanksAction = thanksStep.querySelector('[when-link-loaded]')
   const thanksButton = thanksAction.querySelector('[dialog-submit]')
-  const thanksGreaters = thanksStep.querySelectorAll('[if-qty-greater-than-one]')
+
+  const payStep = dialogEl.querySelector('[step="pay"]')
+  const payForm = payStep.querySelector('form[dialog-form]')
+  const payButton = payStep.querySelector('button[dialog-submit]')
+  const payCard = payStep.querySelector('#card-element')
+  const payError = payStep.querySelector('#card-error')
+  const payResult = payStep.querySelector('.result-message')
+  const payChangeQuantityLink = payStep.querySelector('a[data-action="change-quantity"]')
+  const payDiscountLink = payStep.querySelector('a[data-action="apply-discount"]')
+  const payDiscountSection = payStep.querySelector('.pay-discount-section')
 
   const closeButton = dialogEl.querySelector('[dialog-close]')
+  const greaters = dialogEl.querySelectorAll('[if-qty-greater-than-one]')
 
   const urlSearchParams = new URLSearchParams(window.location.search);
   const params = Object.fromEntries(urlSearchParams.entries());
@@ -176,11 +329,32 @@ input:checked + div.checkbox-replacement svg {
     window.history.replaceState({}, document.title, window.location.pathname)
   }
 
+  let cost = 49
+  let applyDiscount = false
+  let PAY_HERE = false
+
+  gtag('event', 'optimize.callback', {
+    name: 'gbJEH0R2QEysUAgfeKBzpA',
+    callback: function(variant){
+      variant = variant || 0
+      console.log("Variant", variant)
+      if (variant === 1){
+        // Pay with Stripe here
+        PAY_HERE = true
+      }
+
+      // or pay with Shopify
+    }
+  })
+
   function open() {
     if (params['email']) {
       setStep('quantity')
       qtyField.focus()
       qtyField.select()
+    } else if (params['pay']) {
+      setStep('pay')
+      initPayment()
     } else {
       setStep('how-it-works')
       qtyField.value = "1"
@@ -290,6 +464,12 @@ input:checked + div.checkbox-replacement svg {
     dialog.close()
   }
 
+  function renderGreaters(qty){
+    for (let i=greaters.length; i--;){
+      greaters[i].hidden = (qty <= 1)
+    }
+  }
+
   function checkForLink(orderId, verification) {
     const lParams = new URLSearchParams({
       orderId: orderId,
@@ -327,45 +507,46 @@ input:checked + div.checkbox-replacement svg {
     poll()
   }
 
-  if (params['flow'] === 'order' && params['step'] === 'thanks'){
-    setStep('thanks')
-    dialog.open()
-
-    if (+params['qty'] > 1) {
-      for (let i=thanksGreaters.length; i--;){
-        thanksGreaters[i].hidden = false
-      }
-    }
-
-    pollForLink(params['orderId'], params['verification'])
-    const value = +params['value'] / 100 || 0
+  function handlePurchase(p){
+    pollForLink(p['orderId'], p['verification'])
+    const value = +p['value'] / 100 || 0
 
     fbTrack('Purchase', {
       value,
-      quantity: params['qty'],
-      orderId: params['orderId'],
-      id: params['orderId'],
-      hashedEmail: params['hashedEm'],
+      quantity: p['qty'],
+      orderId: p['orderId'],
+      id: p['orderId'],
+      hashedEmail: p['hashedEm'],
+      email: p['email'],
       contentName: 'Video Book',
     })
 
-    fbq('track', 'Purchase', {currency: 'USD', value}, {eventID: params['orderId']});
+    fbq('track', 'Purchase', {currency: 'USD', value}, {eventID: p['orderId']});
 
     // Google Ads Purchase Event
     gtag('event', 'conversion', {
       'send_to': 'AW-470754614/wz7uCNquwr4CELbKvOAB',
       'value': value,
       'currency': 'USD',
-      'transaction_id': params['orderId'],
+      'transaction_id': p['orderId'],
     });
 
     gtag('event', "purchase", {
-      'transaction_id': params['orderId'],
+      'transaction_id': p['orderId'],
       'event_category': "Preorder Flow",
       'event_label': "Preorder Purchase",
       'currency': 'USD',
       'value': value,
     });
+  }
+
+  if (params['flow'] === 'order' && params['step'] === 'thanks'){
+    setStep('thanks')
+    dialog.open()
+
+    renderGreaters(+params['qty'])
+
+    handlePurchase(params)
   } else if (params['flow'] === 'order'){
     open()
   }
@@ -421,11 +602,19 @@ input:checked + div.checkbox-replacement svg {
 
     qtyButton.setAttribute('disabled', '')
 
-    const cb = () => {
-      document.location = `https://order.sendheirloom.com/cart/40142616920227:${ qty }?channel=buy_button&email=${ encodeURIComponent(email) }`
-    }
+    let cb = () => {}
+    if (!PAY_HERE){
+      cb = () => {
+        document.location = `https://order.sendheirloom.com/cart/40142616920227:${ qty }?channel=buy_button&email=${ encodeURIComponent(email) }`
+      }
 
-    setTimeout(cb, 3000)
+      setTimeout(cb, 3000)
+    } else {
+      setStep('pay')
+      initPayment()
+
+      qtyField.disabled = qtyButton.disabled = false
+    }
 
     // Don't count our event twice
     const randomId = Math.random().toString()
@@ -436,7 +625,7 @@ input:checked + div.checkbox-replacement svg {
     // Google Ads Begin Checkout Event
     gtag('event', 'conversion', {
       'send_to': 'AW-470754614/mUrOCO2c6b4CELbKvOAB',
-      'event_callback': cb
+      'event_callback': cb,
     });
 
     gtag('event', "begin_checkout", {
@@ -444,6 +633,169 @@ input:checked + div.checkbox-replacement svg {
       'event_label': "Begin Shopify Checkout",
     });
   })
+
+  payDiscountLink.addEventListener('click', function(e){
+    e.preventDefault()
+
+    payDiscountSection.hidden = false
+    payDiscountLink.hidden = true
+  })
+
+  payDiscountSection.querySelector('button').addEventListener('click', function(e){
+    e.preventDefault()
+    payDiscountSection.hidden = true
+
+    cost = 39
+    applyDiscount = true
+
+    renderCosts()
+
+    initPayment()
+  })
+
+  payChangeQuantityLink.addEventListener('click', function(e) {
+    e.preventDefault()
+
+    setStep('quantity')
+  })
+
+  function round(val) {
+    return Math.floor(val * 10e2 + 0.5) / 10e2
+  }
+
+  function renderCosts(){
+    const quantity = +(qtyField.value) || 1
+
+    payStep.querySelector('output.total-price').textContent = "$" + round(quantity * cost)
+    payStep.querySelector('output.unit-price').textContent = "$" + cost
+    payStep.querySelector('output.quantity').textContent = quantity
+
+    renderGreaters(quantity)
+  }
+
+  function initPayment(){
+    // var stripe = Stripe("pk_test_51JPwtdAHAhN8nuhgoOcZtasegdGpbhZMlCKPdmFy5TxDpVhtMIIDLlu3uZdvi5MoNH7JXsKC3LkstaKHN9cQRfxL000gpQa6U7");
+    var stripe = Stripe("pk_live_51JPwtdAHAhN8nuhgn3MvHmOe3dya0HLjA8UH1PuvF83vWQfG2vjscPXl07fnca1GOqSrjMP0DxNJ6zorBnvn39We00UF94fL3X");
+
+    const quantity = +(qtyField.value) || 1
+    renderCosts()
+
+    // Disable the button until we have Stripe set up on the page
+    payButton.disabled = true;
+    fetch("https://api.sendheirloom.com/payment/intent", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        quantity: quantity || +params['qty'],
+        email: emailField.value || params['email'],
+        applyDiscount: applyDiscount,
+      }),
+    })
+      .then(function(result) {
+        return result.json();
+      })
+      .then(function(data) {
+        var elements = stripe.elements();
+
+        var style = {
+          base: {
+            color: "#32325d",
+            fontFamily: 'Avenir, "Avenir Next", "Segoe UI", system-ui, Helvetica, "Helvetica Neue", sans-serif',
+            fontSmoothing: "antialiased",
+            fontSize: "16px",
+            "::placeholder": {
+              color: "#32325d"
+            }
+          },
+          invalid: {
+            fontFamily: 'Avenir, "Avenir Next", "Segoe UI", system-ui, Helvetica, "Helvetica Neue", sans-serif',
+            color: "#fa755a",
+            iconColor: "#fa755a"
+          }
+        };
+
+        var card = elements.create("card", { style: style });
+        // Stripe injects an iframe into the DOM
+        card.mount("#card-element");
+
+        card.on("change", function (event) {
+          // Disable the Pay button if there are no card details in the Element
+          payButton.disabled = event.empty;
+          if (event.error){
+            payError.textContent = event.error.message
+            payError.hidden = false
+          }
+        });
+
+        payForm.addEventListener("submit", function(event) {
+          event.preventDefault();
+          // Complete payment when the submit button is clicked
+          payWithCard(stripe, card, data.clientSecret);
+        });
+      });
+
+    // Calls stripe.confirmCardPayment
+    // If the card requires authentication Stripe shows a pop-up modal to
+    // prompt the user to enter authentication details without leaving your page.
+    var payWithCard = function(stripe, card, clientSecret) {
+      payError.hidden = true
+
+      loading(true);
+      stripe
+        .confirmCardPayment(clientSecret, {
+          payment_method: {
+            card: card
+          }
+        })
+        .then(function(result) {
+          if (result.error) {
+            // Show error to your customer
+            showError(result.error.message);
+          } else {
+            // The payment succeeded!
+            orderComplete(result.paymentIntent.id);
+          }
+        });
+    };
+
+    // Shows a success message when the payment is complete
+    var orderComplete = function(paymentIntentId) {
+      loading(false);
+      payResult.hidden = false;
+      payButton.disabled = true;
+
+      setStep('thanks')
+      handlePurchase({
+        value: 100 * quantity * cost,
+        qty: quantity,
+        orderId: paymentIntentId,
+        email: emailField.value || params['email'],
+      })
+    };
+
+    // Show the customer the error from Stripe if their card fails to charge
+    var showError = function(errorMsgText) {
+      loading(false);
+      payError.textContent = errorMsgText;
+      payError.hidden = false
+    };
+
+    // Show a spinner on payment submission
+    var loading = function(isLoading) {
+      if (isLoading) {
+        // Disable the button and show a spinner
+        payButton.disabled = true;
+        payStep.querySelector("#spinner").hidden = false
+        payStep.querySelector("#button-text").hidden = true
+      } else {
+        payButton.disabled = false;
+        payStep.querySelector("#spinner").hidden = true
+        payStep.querySelector("#button-text").hidden = false
+      }
+    };
+  }
 
   function setStep(newStep){
     const steps = dialogEl.querySelectorAll('[step]')
