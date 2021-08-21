@@ -5,6 +5,8 @@ author: Randee Bloom, RN, MBA PhD
 date: 2021-08-21T20:19:50.080Z
 social_image: https://ucarecdn.com/28142e7d-1992-4d14-8e67-82b303e3ecd6/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 ---
+![](https://ucarecdn.com/37bff596-125b-4956-a0a7-f09f2e7f93dd/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Randee Bloom with her 3 grandsons")
+
 This year Grandparents Day falls on September 12, 2021 and believe it or not, the foundation for the celebratory day came from a 9-year old, Russell Capper, in 1969. 
 
 This loving child wrote to then President Richard Nixon, asking for a dedicated day to celebrate and honor grandparents. Several other citizens joined this advocacy effort and in 1978, then President Jimmy Carter signed the proclamation. National Grandparents Day, to be celebrated on the first Sunday after Labor Day, was first celebrated in 1979.
