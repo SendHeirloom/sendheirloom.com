@@ -21,4 +21,4 @@ It’s an opportunity for both the honorees (grandparents) and the grateful reci
 
 This [designed day](https://www.kiro7.com/news/trending/grandparents-day-2020-history-holiday/2XPZYAKUMRBRNFDHDHRWBBZ7YQ/#:~:text=Grandparents%20Day%20is%20an%20annual,a%20dedicated%20day%20for%20grandparents.), like all holidays, help to focus our thoughts, define some coveted actions, and create a foundational platform for honoring grandparents. This day can signal a specific opportunity for grandparents to show the love they have for their children’s children and in turn guide the children to awareness of the importance and treasure within their grandparents and all older people.
 
-*Click for ideas on How to Celebrate Grandparent’s Day*
+*Click for ideas on [How to Celebrate Grandparent’s Day](https://sendheirloom.com/posts/10-ways-to-celebrate-grandparents-day/)*
