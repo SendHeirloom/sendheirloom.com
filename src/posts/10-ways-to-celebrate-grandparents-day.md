@@ -5,7 +5,7 @@ author: Randee Bloom, RN, MBA PhD
 date: 2021-08-21T20:26:15.623Z
 social_image: https://ucarecdn.com/d753f9f4-85c4-4a0a-8017-29f97b5170f1/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 ---
-![Kids on scooters ](https://ucarecdn.com/76036a8b-a478-429c-9eb0-e9a62399366f/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Randee on a walk with her 3 grandkids ")
+<img src="https://ucarecdn.com/76036a8b-a478-429c-9eb0-e9a62399366f/-/resize/1000x/-/stretch/off/-/format/auto/-/progressive/yes/" alt="Randee on a walk with her 3 grandkids" style="width: 500px; margin: 0 auto" />
 
 Our Mother’s Day and Father’s Day are each written with apostrophes, while Grandparents Day is officially not. Researchers site the holiday’s advocate Marian McQuade as envisioning the celebration not of one just for the Grandparent but rather the connection to grandparents. With this simple writing style we can remind ourselves that grandparents are also welcomed to honor their position and with it their developed legacy to future generations.
 
