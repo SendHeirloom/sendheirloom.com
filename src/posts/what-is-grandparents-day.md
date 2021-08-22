@@ -5,7 +5,7 @@ author: Randee Bloom, RN, MBA PhD
 date: 2021-08-21T20:19:50.080Z
 social_image: https://ucarecdn.com/28142e7d-1992-4d14-8e67-82b303e3ecd6/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 ---
-![](https://ucarecdn.com/37bff596-125b-4956-a0a7-f09f2e7f93dd/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Randee Bloom with her 3 grandsons")
+<img src="https://ucarecdn.com/37bff596-125b-4956-a0a7-f09f2e7f93dd/-/resize/1000x/-/stretch/off/-/format/auto/-/progressive/yes/" alt="Randee on a walk with her 3 grandsons" style="width: 500px; margin: 0 auto" />
 
 This year Grandparents Day falls on September 12, 2021 and believe it or not, the foundation for the celebratory day came from a 9-year old, Russell Capper, in 1969. 
 
