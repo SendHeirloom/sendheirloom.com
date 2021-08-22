@@ -5,25 +5,25 @@ author: Randee Bloom, RN, MBA PhD
 date: 2021-08-21T20:26:15.623Z
 social_image: https://ucarecdn.com/d753f9f4-85c4-4a0a-8017-29f97b5170f1/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 ---
-![Kids on scooters ](https://ucarecdn.com/76036a8b-a478-429c-9eb0-e9a62399366f/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Randee on a walk with her 3 grandkids ")
+<img src="https://ucarecdn.com/76036a8b-a478-429c-9eb0-e9a62399366f/-/resize/1000x/-/stretch/off/-/format/auto/-/progressive/yes/" alt="Randee on a walk with her 3 grandkids" style="width: 500px; margin: 0 auto" />
 
 Our Mother’s Day and Father’s Day are each written with apostrophes, while Grandparents Day is officially not. Researchers site the holiday’s advocate Marian McQuade as envisioning the celebration not of one just for the Grandparent but rather the connection to grandparents. With this simple writing style we can remind ourselves that grandparents are also welcomed to honor their position and with it their developed legacy to future generations.
 
 Here are some fun ideas for how to celebrate Grandparents Day on September 12, 2021. 
 
- **As a Family Day**\
+**As a Family Day**\
 How about arranging for a casual gathering, in person and virtual, making sure that those you wish to honor and hopefully wish to honor you back are in attendance. The simplicity of this idea honors the core tenant of the holiday’s design. In fact, one of the most instrumental advocates for this holiday, [Marian McQuade](https://grandparenteffect.com/we-have-this-woman-to-thank-for-grandparents-day/), held that this holiday should not be turned commercial.
 
- **Plant a Tree (not water required)**\
+**Plant a Tree (not water required)**\
 [Think Family Tree](https://www.twinkl.com/resource/us2-ss-7-grandparents-day-family-tree-activity). Consider drawing the obvious tree with branches and fill in the names and details of as many past and present generations that you can. Your kids may help with small pictures of these treasured family members. Your grandchildren will enjoy learning how their lives are different and surprisingly the same in many ways, too.
 
- **Create a Time Capsule**\
+**Create a Time Capsule**\
 Families can work together throughout the year collecting items or writing down stories they want to include in next years’ Time Capsule. Begin the project this year and enjoy all the shared surprises. And make a plan for when the capsule, maybe just “buried” in your closet, will be opened and shared.
 
- **Volunteer Together**\
+**Volunteer Together**\
 Volunteer service offers opportunities to contribute to the welfare and benefit of the recipient. Consider, as well, the benefit to the doer. And in this specific case, the relationship between doers. Grandparents and grandchildren can explore local opportunities to serve together, within their individual physical limitations and developed shared interests. Additional opportunities are available for more stay-near-home and [do-it-yourself projects](https://createthegood.aarp.org/volunteer-guides/) suggested by AARP, all with this one goal in common. Serving others while bonding together.
 
- **Begin A Book Club (comic books allowed)**\
+**Begin A Book Club (comic books allowed)**\
 Grandparents often hold a special place in a young person’s heart because of their devotion to their safety while not being overwhelming responsible for a lifetime. Thus, the extra cookie for dessert or later-than-usual bedtime when together becomes a “secret between the couple” that further bonds their precious relationship. As the child ages some of these “secrets” may become less important and grandparents may feel more out-of-touch with the child. Consider developing new connections with such shared experiences as a book club with a very limited membership! The child can pick the book and after reading it together or separately, great discussions can arise.
 
 **Document Your History**\
@@ -38,8 +38,9 @@ Helping your child become a good conversationalist is a skill they will benefit 
  **Pass on the Love of a Hobby**\
 Your grandchildren may know you love to knit, especially every night when their snuggle under your handmade blankets. But, do they know about some other of your [hobbies or special skills](https://www.parents.com/parenting/dynamics/grandparents/sweet-ways-for-kids-to-celebrate-grandparents-day/)? Maybe you are an “expert” playing card shuffler, magician, baseball catcher or pianist. Our grandchildren not only can learn a lot from us but usually want to. There is so much good that can happen and last a lifetime. The child may actually like or even show some shared talent once introduced to the hobby or skill. They most certainly may remember when they first tried and you will show up in the memory.
 
- **Be Active Together**The best way to keep you young and your grandkids healthy is to get moving. It can be a short walk or fun scooter ride down the sidewalk. Just get up and moving! You will see things you can’t predict, learn along the way and make some memories, too.
+ **Be Active Together**\
+The best way to keep you young and your grandkids healthy is to get moving. It can be a short walk or fun scooter ride down the sidewalk. Just get up and moving! You will see things you can’t predict, learn along the way and make some memories, too.
 
  The celebration of every holiday has one thing in common. The opportunity to pause from our daily lives’ tasks and responsibilities and focus. Grandparents Day offers this opportunity with the focus begin both inward and around us. Consider this opportunity and make your own traditions and meaningful memories that can last many lifetimes.
 
- *Click to learn about the History of Grandparents Day*
+ *Click to learn about the [History of Grandparents Day](https://sendheirloom.com/posts/what-is-grandparents-day/)*
