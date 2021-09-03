@@ -651,6 +651,16 @@ span.line--pink::after {
   width: 20em;
   max-width: 100%;
 }
+@media (max-width: 1024px) {
+  .Review {
+    width: 50%;
+  }
+}
+@media (max-width: 425px) {
+  .Review {
+    width: 100%;
+  }
+}
 
 .Review--stars {
   height: 1.25em;
@@ -726,7 +736,7 @@ span.line--pink::after {
   }
 
   .Review {
-    width: 21em;
+    width: 100%;
   }
 
   .Review--title {
@@ -734,6 +744,51 @@ span.line--pink::after {
     overflow: visible;
   }
 }
+
+.owl-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.owl-nav .owl-prev:focus,
+.owl-nav .owl-next:focus {
+  outline: none;
+}
+.owl-nav .owl-prev {
+  margin-left: -4em;
+}
+.owl-nav .owl-next {
+  margin-right: -4em;
+  transform: rotate(180deg);
+}
+@media (max-width: 1440px) {
+  .owl-nav .owl-prev {
+    margin-left: -30px;
+  }
+  .owl-nav .owl-next {
+    margin-right: -30px;
+  }
+}
+@media (max-width: 768px) {
+  .owl-nav .owl-prev {
+    margin-left: -3em;
+  }
+  .owl-nav .owl-next {
+    margin-right: -3em;
+  }
+}
+@media (max-width: 768px) {
+  .owl-nav .owl-prev svg,
+  .owl-nav .owl-next svg {
+    height: 3em;
+  }
+}
+
+
 
 .DesignSection {
   font-family: var(--system-font-family);
