@@ -347,7 +347,15 @@ span.line--pink::after {
 @media( max-width: 960px ) {
   .Section-is-solid.How-it-works {
     padding-top: 0;
-  } 
+  }
+
+  .Whats-video-book {
+    padding-top: 2em;
+  }
+
+  .Row-is-center-tablet {
+    justify-content: center;
+  }
 }
 
 .Section--title {
@@ -591,6 +599,7 @@ span.line--pink::after {
 @media (max-width: 414px) {
   .AboutDesign ul {
     width: 100%;
+    margin-bottom: .7em;
   }
 }
 .AboutDesign ul li {
@@ -603,6 +612,9 @@ span.line--pink::after {
 .AboutDesign .TwoUp--illustration {
   width: 30em;
 }
+.AboutDesign .ImageSwipe--progress > b {
+  border: 2px solid;
+} 
 .IllustrationGrid {
   display: flex;
   flex-wrap: wrap;
@@ -767,21 +779,19 @@ span.line--pink::after {
 }
 @media (max-width: 1440px) {
   .owl-nav .owl-prev {
-    margin-left: -30px;
+    margin-left: -4em;
   }
   .owl-nav .owl-next {
-    margin-right: -30px;
+    margin-right: -4em;
   }
 }
 @media (max-width: 768px) {
   .owl-nav .owl-prev {
-    margin-left: -3em;
+    margin-left: -2.5em;
   }
   .owl-nav .owl-next {
-    margin-right: -3em;
+    margin-right: -2.5em;
   }
-}
-@media (max-width: 768px) {
   .owl-nav .owl-prev svg,
   .owl-nav .owl-next svg {
     height: 3em;
