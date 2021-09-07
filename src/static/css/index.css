@@ -919,3 +919,13 @@ span.line--pink::after {
   /* Center Shopify button */
   margin: 0 auto;
 }
+
+@media (min-width: 960px ){
+  .scale-on-hover-desktop {
+    transition: all .35s linear;
+  }
+  .scale-on-hover-desktop:hover {
+    z-index: 100;
+    transform: scale(1.5);
+  }
+}
