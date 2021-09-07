@@ -780,18 +780,18 @@ span.line--pink::after {
 }
 @media (max-width: 1440px) {
   .owl-nav .owl-prev {
-    margin-left: -4em;
+    margin-left: -2em;
   }
   .owl-nav .owl-next {
-    margin-right: -4em;
+    margin-right: -2em;
   }
 }
 @media (max-width: 768px) {
   .owl-nav .owl-prev {
-    margin-left: -2.5em;
+    margin-left: -1.8em;
   }
   .owl-nav .owl-next {
-    margin-right: -2.5em;
+    margin-right: -1.8em;
   }
   .owl-nav .owl-prev svg,
   .owl-nav .owl-next svg {
