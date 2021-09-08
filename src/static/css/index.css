@@ -47,6 +47,13 @@ body.mobile-menu-opened {
   font-size: 2.5em;
   width: 2.625em;
   height: .7262247839em;
+  position: relative;
+}
+.Logo--overlay {
+  position: absolute;
+  bottom: -24px;
+  right: -34px;
+  width: 90px;
 }
 
 .Separator {
