@@ -47,6 +47,13 @@ body.mobile-menu-opened {
   font-size: 2.5em;
   width: 2.625em;
   height: .7262247839em;
+  position: relative;
+}
+.Logo--overlay {
+  position: absolute;
+  bottom: -24px;
+  right: -34px;
+  width: 90px;
 }
 
 .Separator {
@@ -73,6 +80,18 @@ body.mobile-menu-opened {
   margin: 0;
 }
 
+h3.my-0 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ul.list-in-text {
+  font-size: .9em;
+  padding-left: 2.5em;
+}
+ul.list-in-text li {
+  margin-bottom: 0;
+} 
 ul.List-steps {
   list-style: none;
   padding-left: 0;
@@ -329,13 +348,21 @@ span.line--pink::after {
 .Section-is-solid.Logo-banner {
   padding: 1em 1em 0;
   border-top-width: 0;
-  background: #e2dcdd;
+  background: #d8d3d4;
 }
 
 @media( max-width: 960px ) {
   .Section-is-solid.How-it-works {
     padding-top: 0;
-  } 
+  }
+
+  .Whats-video-book {
+    padding-top: 2em;
+  }
+
+  .Row-is-center-tablet {
+    justify-content: center;
+  }
 }
 
 .Section--title {
@@ -560,22 +587,52 @@ span.line--pink::after {
   }
 }
 
-.WhatsInBoxFooter {
+.AboutDesign ul {
+  list-style: none;
+  width:50%;
+  display: inline-block;
+}
+
+@media (min-width: 961px) {
+  .AboutDesign h2 {
+    margin-top: -70px !important;
+  }
+
+  .AboutDesign p,
+  .AboutDesign ul {
+    font-size:.9em;
+  }
+}
+@media (max-width: 414px) {
+  .AboutDesign ul {
+    width: 100%;
+    margin-bottom: .7em;
+  }
+}
+.AboutDesign ul li {
+  line-height: 1;
+}
+
+.AboutDesign .TwoUp--content {
+  width: 17em;
+}
+.AboutDesign .TwoUp--illustration {
+  width: 30em;
+}
+.AboutDesign .ImageSwipe--progress > b {
+  border: 2px solid;
+} 
+.IllustrationGrid {
   display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 59em;
-  max-width: 100%;
-  margin: 4em auto 0;
-  padding: 0 3em;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
-
-.WhatsInBoxFooter > div {
-  flex: 1;
+.IllustrationGrid > div {
+  flex: 0 0 32%;
 }
-
-.WhatsInBoxFooter > div + div {
+.IllustrationGrid > div > div{
   margin-left: .5em;
+  margin-bottom: .5em;
 }
 
 .Review---wall {
@@ -612,6 +669,16 @@ span.line--pink::after {
   flex-direction: column;
   width: 20em;
   max-width: 100%;
+}
+@media (max-width: 1024px) {
+  .Review {
+    width: 50%;
+  }
+}
+@media (max-width: 425px) {
+  .Review {
+    width: 100%;
+  }
 }
 
 .Review--stars {
@@ -688,7 +755,7 @@ span.line--pink::after {
   }
 
   .Review {
-    width: 21em;
+    width: 100%;
   }
 
   .Review--title {
@@ -696,6 +763,49 @@ span.line--pink::after {
     overflow: visible;
   }
 }
+
+.owl-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.owl-nav .owl-prev:focus,
+.owl-nav .owl-next:focus {
+  outline: none;
+}
+.owl-nav .owl-prev {
+  margin-left: -4em;
+}
+.owl-nav .owl-next {
+  margin-right: -4em;
+  transform: rotate(180deg);
+}
+@media (max-width: 1440px) {
+  .owl-nav .owl-prev {
+    margin-left: -2em;
+  }
+  .owl-nav .owl-next {
+    margin-right: -2em;
+  }
+}
+@media (max-width: 768px) {
+  .owl-nav .owl-prev {
+    margin-left: -1.8em;
+  }
+  .owl-nav .owl-next {
+    margin-right: -1.8em;
+  }
+  .owl-nav .owl-prev svg,
+  .owl-nav .owl-next svg {
+    height: 3em;
+  }
+}
+
+
 
 .DesignSection {
   font-family: var(--system-font-family);
@@ -815,4 +925,14 @@ span.line--pink::after {
 .MailAVideoCard--buttons > div {
   /* Center Shopify button */
   margin: 0 auto;
+}
+
+@media (min-width: 960px ){
+  .scale-on-hover-desktop {
+    transition: all .35s linear;
+  }
+  .scale-on-hover-desktop:hover {
+    z-index: 100;
+    transform: scale(1.5);
+  }
 }
