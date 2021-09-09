@@ -349,7 +349,6 @@ span.line--pink::after {
   padding: 1em 1em 0;
   border-top-width: 0;
   background: #e2dcdd;
-  border-bottom: none;
 }
 
 @media( max-width: 960px ) {
