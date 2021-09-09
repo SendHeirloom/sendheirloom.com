@@ -348,7 +348,7 @@ span.line--pink::after {
 .Section-is-solid.Logo-banner {
   padding: 1em 1em 0;
   border-top-width: 0;
-  background: #e2dcdd;
+  background: #d8d3d4;
 }
 
 @media( max-width: 960px ) {
