@@ -55,6 +55,14 @@ body.mobile-menu-opened {
   right: -34px;
   width: 90px;
 }
+@media (max-width: 767px) {
+  .Logo--overlay {
+    bottom: -23px;
+    right: -39px;
+    width: 101px;
+  }
+}
+
 
 .Separator {
   border-top: .5em solid #fbfcfb;
