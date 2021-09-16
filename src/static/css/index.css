@@ -57,9 +57,16 @@ body.mobile-menu-opened {
 }
 @media (max-width: 767px) {
   .Logo--overlay {
-    bottom: -23px;
-    right: -39px;
-    width: 101px;
+    bottom: -25px;
+    right: -36px;
+    width: 96px;
+  }
+}
+@media (max-width: 412px) {
+  .Logo--overlay {
+	bottom: -24px;
+    right: -35px;
+    width: 91px;
   }
 }
 
@@ -312,6 +319,11 @@ span.line--pink::after {
   background: #000;
   z-index: 10;
 }
+
+.GrandmaHandsSectionVideoMockup--background {
+  z-index: -1;
+}
+
 
 .Logo-banner--item {
   display: block;
