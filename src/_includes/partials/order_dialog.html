@@ -334,21 +334,6 @@ input:checked + div.checkbox-replacement svg {
 
   let cost = 49
   let applyDiscount = false
-  let PAY_HERE = false
-
-  gtag('event', 'optimize.callback', {
-    name: 'gbJEH0R2QEysUAgfeKBzpA',
-    callback: function(variant){
-      variant = variant || 0
-      console.log("Variant", variant)
-      if (variant === "1"){
-        // Pay with Stripe here
-        PAY_HERE = true
-      }
-
-      // or pay with Shopify
-    }
-  })
 
   function open() {
     if (params['email']) {
@@ -604,20 +589,10 @@ input:checked + div.checkbox-replacement svg {
     const email = emailField.value || params['email'] || ''
 
     qtyButton.setAttribute('disabled', '')
+    qtyField.disabled = qtyButton.disabled = false
 
-    let cb = () => {}
-    if (!PAY_HERE){
-      cb = () => {
-        document.location = `https://order.sendheirloom.com/cart/40142616920227:${ qty }?channel=buy_button&email=${ encodeURIComponent(email) }`
-      }
-
-      setTimeout(cb, 3000)
-    } else {
-      setStep('pay')
-      initPayment()
-
-      qtyField.disabled = qtyButton.disabled = false
-    }
+    setStep('pay')
+    initPayment()
 
     // Don't count our event twice
     const randomId = Math.random().toString()
