@@ -55,14 +55,14 @@ body.mobile-menu-opened {
   right: -34px;
   width: 90px;
 }
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   .Logo--overlay {
     bottom: -25px;
-    right: -36px;
-    width: 96px;
+    right: -41px;
+    width: 104px;
   }
 }
-@media (max-width: 412px) {
+@media (max-width: 414px) {
   .Logo--overlay {
 	bottom: -24px;
     right: -35px;
