@@ -15,8 +15,7 @@ As a grandmother of three I have honored our medical and scientific experts and 
 
 Air travel, so say the [medical and air transportation experts](https://www.afar.com/magazine/should-you-travel-with-unvaccinated-kids), can be quite safe. Essentially, it’s the mandated and strictly enforced mask wearing and the high quality of air ventilation that provides us with this needed protection. 
 
-If you decide air travel is worth your risk, follow these tips while traveling: \
-\
+If you decide air travel is worth your risk, follow these tips while traveling: 
 
 1. Wear a mask at all times, around others both inside and outside.
 2. Maintain handwashing practices.
