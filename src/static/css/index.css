@@ -356,6 +356,17 @@ span.line--pink::after {
   background: #d8d3d4;
 }
 
+.How-it-works .Illustration {
+  position: relative;
+}
+.How-it-works--video {
+  position: absolute;
+  z-index: 10;
+  width: 70.5%;
+  top: 19.5%;
+  left: 14.7%;
+}
+
 @media( max-width: 960px ) {
   .Section-is-solid.How-it-works {
     padding-top: 0;
