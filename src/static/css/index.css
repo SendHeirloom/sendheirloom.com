@@ -46,28 +46,12 @@ body.mobile-menu-opened {
 .Logo {
   font-size: 2.5em;
   width: 2.625em;
-  height: .7262247839em;
+  height: 1.2262247839em;
   position: relative;
 }
-.Logo--overlay {
-  position: absolute;
-  bottom: -24px;
-  right: -34px;
-  width: 90px;
-}
-@media (max-width: 768px) {
-  .Logo--overlay {
-    bottom: -25px;
-    right: -41px;
-    width: 104px;
-  }
-}
-@media (max-width: 414px) {
-  .Logo--overlay {
-	bottom: -24px;
-    right: -35px;
-    width: 91px;
-  }
+.Logo svg {
+  max-width: 100%;
+  height: auto;
 }
 
 
