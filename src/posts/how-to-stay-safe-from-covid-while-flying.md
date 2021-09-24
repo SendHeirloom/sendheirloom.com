@@ -3,13 +3,11 @@ title: How to Stay Safe From COVID While Flying
 description: Easy steps you can take while traveling by air
 author: By Randee Bloom, RN, MBA, PhD
 date: 2021-09-23T20:51:44.606Z
-social_image: https://ucarecdn.com/2d6d533c-6cd7-4d6e-aec0-b1edc022125d/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
+social_image: https://ucarecdn.com/2c5213be-7dfa-414c-b59c-0289b06b1536/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 tags:
   - Airplane
 ---
-In our lifetime, it may never have been more true than now, that we crave being with our family. 
-
-![Man wearing a mask on an airplane ](https://ucarecdn.com/bf2baf0a-7cf3-4ef8-8a02-473fff446010/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Man wearing a mask on an airplane ")
+![Grandma on an airplane ](https://ucarecdn.com/7e74f33c-d2a0-46e6-9279-19aacd149789/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Grandma Visiting Grandkids ")
 
 As a grandmother of three I have honored our medical and scientific experts and stayed at home, remaining healthy but craving my grandmother playtime. Now that I am fully vaccinated and able to book a plane ticket, I am committed to learning how do to it safely.
 
