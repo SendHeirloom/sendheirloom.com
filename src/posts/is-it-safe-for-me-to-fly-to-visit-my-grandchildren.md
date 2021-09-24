@@ -15,7 +15,7 @@ Due to the COVID pandemic, our shared lives of isolation, mask-wearing, handwash
 
 How do we know if it’s safe to take an airplane flight or two and visit them?
 
-First and foremost,  get [fully vaccinated](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/fully-vaccinated.html#vaccinated). Our CDC is clear that this is the most important way to protect yourself and others, emphasizing the recommendation that travel should be delayed until you are fully vaccinated. 
+First and foremost, get [fully vaccinated](https://www.cdc.gov/coronavirus/2019-ncov/vaccines/fully-vaccinated.html#vaccinated). Our CDC is clear that this is the most important way to protect yourself and others, emphasizing the recommendation that travel should be delayed until you are fully vaccinated. 
 
 Before making the decision to travel, consider these important guidelines: 
 
