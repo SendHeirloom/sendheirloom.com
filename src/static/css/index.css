@@ -367,6 +367,32 @@ span.line--pink::after {
   left: 14.7%;
 }
 
+.How-it-works .List-steps--content {
+  padding-left: 20px;
+  max-width: 350px;
+}
+@media (max-width: 1135px) and (min-width: 961px) {
+  .How-it-works .List-steps--content {
+    font-size: 0.95em;
+  }
+}
+.How-it-works--arrow {
+  position: relative;
+  display: inline-block;
+}
+.How-it-works--arrow svg {
+  position: absolute;
+  left: -120px;
+  top: -40px;
+  width: 204px;
+  height: auto;
+}
+@media (max-width: 960px) {
+  .How-it-works--arrow svg {
+    display: none;
+  }
+}
+
 @media( max-width: 960px ) {
   .Section-is-solid.How-it-works {
     padding-top: 0;

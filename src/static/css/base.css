@@ -1122,6 +1122,9 @@ html[is-dialog] body {
 .Markdown a:not([class]):hover {
   --background-color-alpha: .15;
 }
+.underline {
+  text-decoration: underline;
+}
 
 .Markdown h1 {
   font-size: 2em;
