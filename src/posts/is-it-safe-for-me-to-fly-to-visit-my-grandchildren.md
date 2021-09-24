@@ -7,11 +7,11 @@ social_image: https://ucarecdn.com/e33600ed-8c9e-4288-aa6b-5a61b802fa3d/-/resize
 tags:
   - Grandparents
 ---
+![Grandma with Grandchild](https://ucarecdn.com/a6836719-1b15-4ed6-8610-3d26e0c8726a/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Grandkid and her Grandma")
+
 Is there a more important question on your mind?  I *always* want to visit my grandchildren, but with the times as they are, I feel like I *must* visit my grandchildren.
 
-![Grandma visits with grandchild ](https://ucarecdn.com/60055f4e-aa23-4f83-8449-7bf533741cc7/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Granddaughter with her Grandma ")
-
-Due to the COVID pandemic, our shared lives of isolation, mask-wearing, hand-washing, vaccine appointments and worry during the past 18 months have had a fundamental purpose -- keeping those we love *healthy*.  Now more than ever we want to return to our greater purpose -- keeping those we love *happy*. 
+Due to the COVID pandemic, our shared lives of isolation, mask-wearing, handwashing, vaccine appointments and worry during the past 18 months have had a fundamental purpose -- keeping those we love *healthy*.  Now more than ever we want to return to our greater purpose -- keeping those we love *happy*. 
 
 How do we know if it’s safe to take an airplane flight or two and visit them?
 
