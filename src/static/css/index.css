@@ -359,6 +359,13 @@ span.line--pink::after {
 .How-it-works .Illustration {
   position: relative;
 }
+.How-it-works .TwoUp--content:last-child {
+  margin-left: 5em;
+}
+.How-it-works .TwoUp--content-h2 {
+  font-size: 2.1em;
+  text-align: left;
+}
 .How-it-works--video {
   position: absolute;
   z-index: 10;
@@ -390,6 +397,13 @@ span.line--pink::after {
 @media (max-width: 960px) {
   .How-it-works--arrow svg {
     display: none;
+  }
+  .How-it-works .TwoUp--content:last-child {
+    margin-left: auto;
+  }
+  .How-it-works .TwoUp--content-h2,
+  .How-it-works .List-steps {
+    text-align: center;
   }
 }
 
