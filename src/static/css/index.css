@@ -46,28 +46,12 @@ body.mobile-menu-opened {
 .Logo {
   font-size: 2.5em;
   width: 2.625em;
-  height: .7262247839em;
+  height: 1.2262247839em;
   position: relative;
 }
-.Logo--overlay {
-  position: absolute;
-  bottom: -24px;
-  right: -34px;
-  width: 90px;
-}
-@media (max-width: 768px) {
-  .Logo--overlay {
-    bottom: -25px;
-    right: -41px;
-    width: 104px;
-  }
-}
-@media (max-width: 414px) {
-  .Logo--overlay {
-	bottom: -24px;
-    right: -35px;
-    width: 91px;
-  }
+.Logo svg {
+  max-width: 100%;
+  height: auto;
 }
 
 
@@ -370,6 +354,62 @@ span.line--pink::after {
   padding: 1em 1em 0;
   border-top-width: 0;
   background: #d8d3d4;
+}
+
+.How-it-works .Illustration {
+  position: relative;
+}
+.How-it-works .TwoUp--content:last-child {
+  margin-left: 5em;
+}
+.How-it-works .TwoUp--content-h2 {
+  font-size: 2.1em;
+  text-align: left;
+}
+.How-it-works--video {
+  position: absolute;
+  z-index: 10;
+  width: 70.5%;
+  top: 19.5%;
+  left: 14.7%;
+}
+
+.How-it-works .Button {
+  padding: .45em;
+  line-height: 1.1em;
+  font-size: .7em;
+}
+.How-it-works .List-steps--content {
+  padding-left: 20px;
+  max-width: 350px;
+}
+@media (max-width: 1135px) and (min-width: 961px) {
+  .How-it-works .List-steps--content {
+    font-size: 0.95em;
+  }
+}
+.How-it-works--arrow {
+  position: relative;
+  display: inline-block;
+}
+.How-it-works--arrow svg {
+  position: absolute;
+  left: -120px;
+  top: -40px;
+  width: 204px;
+  height: auto;
+}
+@media (max-width: 960px) {
+  .How-it-works--arrow svg {
+    display: none;
+  }
+  .How-it-works .TwoUp--content:last-child {
+    margin-left: auto;
+  }
+  .How-it-works .TwoUp--content-h2,
+  .How-it-works .List-steps {
+    text-align: center;
+  }
 }
 
 @media( max-width: 960px ) {

@@ -62,6 +62,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/static/js");
   eleventyConfig.addPassthroughCopy("./src/static/audio");
   eleventyConfig.addPassthroughCopy("./src/static/press");
+  eleventyConfig.addPassthroughCopy("./src/static/videos");
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
   
   eleventyConfig.addPassthroughCopy({
