@@ -374,6 +374,11 @@ span.line--pink::after {
   left: 14.7%;
 }
 
+.How-it-works .Button {
+  padding: .45em;
+  line-height: 1.1em;
+  font-size: .7em;
+}
 .How-it-works .List-steps--content {
   padding-left: 20px;
   max-width: 350px;
