@@ -693,7 +693,7 @@ input:checked + div.checkbox-replacement svg {
     payStep.querySelector('output.total-price').textContent = "$" + round(quantity * localCost)
     payStep.querySelector('output.unit-price').textContent = "$" + localCost
     payStep.querySelector('output.quantity').textContent = quantity
-    payStep.querySelector('output.duration').textContent = (duration === 10 ? "ten" : "twenty") + " minute"
+    payStep.querySelector('output.duration').textContent = (duration === 10 ? "ten" : "twenty") + "-minute"
 
     renderGreaters(quantity)
   }
