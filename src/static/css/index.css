@@ -252,11 +252,9 @@ span.line--pink::after {
 
 .GrandmaHandsSectionVideoMockup--content-accompanying-text-mobile {
   display: none;
-  position: relative;
   text-align: center;
-  width: 11em;
-  margin: calc(2.5vw + .5em) auto calc(-.2em - 2vw);
   font-size: .9em;
+  padding-top: 1em;
 }
 
 .GrandmaHandsSectionVideoMockup--content-accompanying-text {
@@ -267,7 +265,7 @@ span.line--pink::after {
 
 @media (max-width: 948px) {
   .GrandmaHandsSectionVideoMockup--content-accompanying-text-mobile {
-    display: block;
+    display: flex;
   }
 
   .GrandmaHandsSectionVideoMockup--content {
