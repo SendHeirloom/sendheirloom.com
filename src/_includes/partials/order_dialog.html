@@ -96,6 +96,40 @@
         <div class="Dialog--output mb-2 bg-red-200" dialog-output></div>
 
         <div class="Dialog--actions">
+          <button class="Button Button-is-bordered Button-is-primary" type="submit" dialog-submit>Next</button>
+        </div>
+      </form>
+    </div>
+
+    <div step="duration">
+      <p class="Dialog--subtitle">Perfect! How much video would you like to include? We have video books which fit 10 or 20 minutes.</p>
+
+      <form dialog-form>
+        <div class="Dialog--content" dialog-content>
+          <div class="Stack">
+            <div class="FormField">
+              <div class="grid gap-4">
+                <label class="cursor-pointer text-sm">
+                  <input type="radio" name="duration" value="10" class="sr-only peer" checked="checked" />
+                  <div class="block p-2 bg-gray-100	border border-blue-100 peer-checked:bg-gray-200 peer-checked:border-blue-500">
+                    <span class="font-bold">10 minutes</span>
+                    <span>included</span>
+                  </div>
+                </label>
+                <label class="cursor-pointer text-sm">
+                  <input type="radio" name="duration" value="20" class="sr-only peer" />
+                  <div class="block p-2 bg-gray-100	border border-blue-100 peer-checked:bg-gray-200 peer-checked:border-blue-500">
+                    <span class="font-bold">20 minutes</span>
+                    <span>+$20</span>
+                  </div>
+                </label>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="Dialog--output mb-2 bg-red-200" dialog-output></div>
+
+        <div class="Dialog--actions">
           <button class="Button Button-is-bordered Button-is-primary" type="submit" dialog-submit>Review Order</button>
         </div>
       </form>
@@ -128,7 +162,7 @@
           <div class="Stack">
             <div>
               Purchase <a class="Link" data-action="change-quantity"><output class="quantity"></output></a>
-              &nbsp;video book<span if-qty-greater-than-one hidden>s</span> <span if-qty-greater-than-one hidden>(<output class="unit-price"></output>&nbsp;each)</span>
+              &nbsp;<output class="duration"></output>&nbsp;video book<span if-qty-greater-than-one hidden>s</span> <span if-qty-greater-than-one hidden>(<output class="unit-price"></output>&nbsp;each)</span>
               for a total of&nbsp;<output class="total-price"></output>.
             </div>
 
@@ -307,7 +341,9 @@ input:checked + div.checkbox-replacement svg {
   const qtyForm = qtyStep.querySelector('form')
   const qtyField = qtyForm.querySelector('input[name="quantity"]')
   const qtyOutput = qtyStep.querySelector('[dialog-output]')
-  const qtyButton = qtyForm.querySelector('[type="submit"]')
+
+  const durStep = dialogEl.querySelector('[step="duration"]')
+  const durForm = durStep.querySelector('form')
 
   const thanksStep = dialogEl.querySelector('[step="thanks"]')
   const thanksAction = thanksStep.querySelector('[when-link-loaded]')
@@ -349,7 +385,6 @@ input:checked + div.checkbox-replacement svg {
       emailOutput.innerHTML = ""
       qtyOutput.innerHTML = ""
       emailButton.removeAttribute('disabled')
-      qtyButton.removeAttribute('disabled')
     }
 
     if (params['qty']) {
@@ -583,22 +618,23 @@ input:checked + div.checkbox-replacement svg {
   qtyForm.addEventListener('submit', async function(e){
     e.preventDefault()
 
-    qtyField.disabled = true
+    setStep('duration')
+  })
+
+  durForm.addEventListener('submit', async function(e){
+    e.preventDefault()
+
     const qty = +(qtyField.value) || 1
-
     const email = emailField.value || params['email'] || ''
-
-    qtyButton.setAttribute('disabled', '')
-    qtyField.disabled = qtyButton.disabled = false
 
     setStep('pay')
     initPayment()
 
-    // Don't count our event twice
+    // Don't count our event twice as we use both FB APIs
     const randomId = Math.random().toString()
 
     fbq('track', 'InitiateCheckout', {}, {eventID: randomId})
-    fbTrack('InitiateCheckout', {quantity: qty, email, id: randomId, contentName: 'Video Book'})
+    fbTrack('InitiateCheckout', {quantity: qty, email, id: randomId, contentName: "Video Book " + duration + " min"})
 
     // Google Ads Begin Checkout Event
     gtag('event', 'conversion', {
@@ -641,12 +677,23 @@ input:checked + div.checkbox-replacement svg {
     return Math.floor(val * 10e2 + 0.5) / 10e2
   }
 
+  function getDuration() {
+    return +document.querySelector('input[name="duration"]:checked').value
+  }
+
   function renderCosts(){
     const quantity = +(qtyField.value) || 1
+    const duration = getDuration()
 
-    payStep.querySelector('output.total-price').textContent = "$" + round(quantity * cost)
-    payStep.querySelector('output.unit-price').textContent = "$" + cost
+    let localCost = cost
+    if (duration === 20) {
+      localCost = localCost + 20
+    }
+
+    payStep.querySelector('output.total-price').textContent = "$" + round(quantity * localCost)
+    payStep.querySelector('output.unit-price').textContent = "$" + localCost
     payStep.querySelector('output.quantity').textContent = quantity
+    payStep.querySelector('output.duration').textContent = (duration === 10 ? "ten" : "twenty") + "-minute"
 
     renderGreaters(quantity)
   }
@@ -669,6 +716,7 @@ input:checked + div.checkbox-replacement svg {
         quantity: quantity || +params['qty'],
         email: emailField.value || params['email'],
         applyDiscount: applyDiscount,
+        duration: getDuration(),
       }),
     })
       .then(function(result) {
