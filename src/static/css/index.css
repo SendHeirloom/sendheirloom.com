@@ -410,6 +410,56 @@ span.line--pink::after {
   }
 }
 
+
+.Holidays-Books__black-header {
+  font-family: var(--sans-serif-font-family);
+  letter-spacing: .2em;
+  font-size: 1.5em;
+}
+.Holidays-Books__red-header {
+  color: #db3c58;
+  font-size: 2.2em;
+  line-height: 1;
+  letter-spacing: .1em;
+  font-weight: 600;
+}
+.Holidays-Books__image_with_button {
+  position: relative;
+}
+@media (min-width: 601px) {
+  .Holidays-Books__image_with_button a {
+    position: absolute;
+    left: 33%;
+    bottom: 3%;
+  }
+}
+@media (max-width: 600px) {
+  .Holidays-Books__image_with_button a {
+    margin-top: 2em;
+  }
+  .Holidays-Books__black-header {
+    font-size: 1.1em;
+  }
+  .Holidays-Books__red-header {
+    font-size: 1.9em;
+  }
+}
+.Gift-box .TwoUp--content {
+  width: 18em;
+}
+.Gift-box .TwoUp--illustration {
+  width: 30em;
+}
+.Gift-image {
+  max-width: 12em;
+  margin: 0 auto .3em auto;
+}
+.Gift-box .TwoUp--content-h2 {
+  padding: 0 1em;
+  line-height: 1;
+  margin-bottom: .3em;
+}
+
 @media( max-width: 960px ) {
   .Section-is-solid.How-it-works {
     padding-top: 0;
