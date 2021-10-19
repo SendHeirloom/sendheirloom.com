@@ -1031,6 +1031,10 @@ span.line--pink::after {
   opacity: 1;
 }
 
+.with-depth {
+  box-shadow: 1px 1px 7px gray;
+}
+
 .MailAVideoCard--buttons > div {
   /* Center Shopify button */
   margin: 0 auto;
