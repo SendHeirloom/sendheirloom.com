@@ -449,6 +449,8 @@ span.line--pink::after {
 }
 .Gift-box .TwoUp--illustration {
   width: 30em;
+  padding: 0 2.5em;
+
 }
 .Gift-image {
   max-width: 12em;
