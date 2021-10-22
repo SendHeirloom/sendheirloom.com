@@ -1200,18 +1200,7 @@ span.line--pink::after {
   width: 50px;
   height: 50px;
   opacity: .7;
-}
-
-@media (max-width: 600px) {
-  .VideoWithPlayButton {
-    padding-top: 100%;
-    position: relative;
-    overflow: hidden;
-  }
-  .VideoWithPlayButton > .AspectRatio {
-    position: absolute;
-    top: 0;
-  }
+  z-index: 10;
 }
 
 .BrideTitle {
@@ -1263,12 +1252,15 @@ span.line--pink::after {
     padding-left: 0;
     padding-right: 0;
   }
-  .WeddingVideoInModal {
-    padding-top: 20px;
-  }
 }
 
-
+.VideWithOverlay img {
+  z-index: 5;
+}
+.hide-video-overlay picture,
+.hide-video-overlay:after {
+  opacity: 0;
+}
 
 .PackagePlans {
   margin-top: 2.25em;

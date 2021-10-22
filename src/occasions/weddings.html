@@ -64,8 +64,7 @@ description: Send your guests home with a physical book that automatically plays
       </div>
       <div class="WeddingBookVideoMockup--video-wrapper">
         <div class="AspectRatio" style="--ratio: calc(16 / 9)">
-          <video class="AspectRatio--content" muted autoplay loop playsinline src="/static/videos/wedding/wedding.mov"></video>
-<!--https://public.sendheirloom.com/Wedding_Dance_08_10_21_RF_24.mp4-->
+          <video class="AspectRatio--content" muted autoplay loop playsinline src="https://s3.amazonaws.com/public.sendheirloom.com/wedding-videos/Wedding_Dance_22_10_21_RF_24.mp4"></video>
         </div>
       </div>
     </div>
@@ -134,10 +133,10 @@ description: Send your guests home with a physical book that automatically plays
     <div class="ColWrapper BridesRatings">
       <div class="ColWrapper--item-3 BridesRating">
         <div class="BridesRating--image">
-          <a href="#" intent="open-video-dialog" class="VideoWithPlayButton" step="video-diana">
-            <div class="AspectRatio" style="--ratio: calc(217 / 382)">
-              {% image "./src/static/images/wedding/diana.png", "Bride", "381, 217", "(max-width: 220px)",
-              "AspectRatio--content" %}
+          <a href="#" intent="play-video-with-overlay" class="VideoWithPlayButton">
+            <div class="AspectRatio VideWithOverlay" style="--ratio: calc(217 / 382)">
+              {% image "./src/static/images/wedding/diana.png", "Bride", "381, 217", "(max-width: 220px)", "AspectRatio--content" %}
+              <video class="AspectRatio--content" controls loop playsinline src="https://public.sendheirloom.com/wedding-videos/dana.mp4"></video>
             </div>
           </a>
         </div>
@@ -151,10 +150,10 @@ description: Send your guests home with a physical book that automatically plays
 
       <div class="ColWrapper--item-3 BridesRating">
         <div class="BridesRating--image">
-          <a href="#" intent="open-video-dialog" class="VideoWithPlayButton" step="video-beth">
-            <div class="AspectRatio" style="--ratio: calc(217 / 382)">
-              {% image "./src/static/images/wedding/beth.png", "Bride", "381, 217", "(min-width: 217px)",
-              "AspectRatio--content" %}
+          <a href="#" intent="play-video-with-overlay" class="VideoWithPlayButton">
+            <div class="AspectRatio VideWithOverlay" style="--ratio: calc(217 / 382)">
+              {% image "./src/static/images/wedding/beth.png", "Bride", "381, 217", "(min-width: 217px)", "AspectRatio--content" %}
+              <video class="AspectRatio--content" controls loop playsinline src="https://public.sendheirloom.com/wedding-videos/beth.mp4"></video>
             </div>
           </a>
         </div>
@@ -169,10 +168,10 @@ description: Send your guests home with a physical book that automatically plays
       
       <div class="ColWrapper--item-3 BridesRating">
         <div class="BridesRating--image">
-          <a href="#" intent="open-video-dialog" class="VideoWithPlayButton" step="video-megan">
-            <div class="AspectRatio" style="--ratio: calc(217 / 382)">
-              {% image "./src/static/images/wedding/megan.png", "Bride", "381, 217", "(min-width: 217px)",
-              "AspectRatio--content" %}
+          <a href="#" intent="play-video-with-overlay" class="VideoWithPlayButton" >
+            <div class="AspectRatio VideWithOverlay" style="--ratio: calc(9 / 16)">
+              {% image "./src/static/images/wedding/megan.png", "Bride", "381, 217", "(min-width: 217px)", "AspectRatio--content" %}
+              <video class="AspectRatio--content" controls loop playsinline src="https://public.sendheirloom.com/wedding-videos/megan.mp4"></video>
             </div>
           </a>
         </div>
@@ -195,5 +194,16 @@ description: Send your guests home with a physical book that automatically plays
   </div>
 </div>
 
-{% set page = 'wedding' %}
+
+<script>
+  (function() {
+    document.querySelectorAll("[intent='play-video-with-overlay']").forEach(el => {
+      el.addEventListener("click", event => {
+        event.preventDefault()
+        el.classList.add('hide-video-overlay')
+        el.querySelector('video').play()
+      })
+    })
+  })()
+</script>
 {% include "partials/order_dialog.html" %}
