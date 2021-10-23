@@ -1,7 +1,7 @@
 ---
 title: Great Gift Ideas for Great-grandparents
 description: "Top Gifts for Older Family  "
-author: Randee Bloom, RN, MBA, PhD
+author: Dr. Randee Bloom
 date: 2021-10-23T22:52:08.699Z
 social_image: https://ucarecdn.com/e36eb549-0602-4539-9c24-72580e93a910/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 tags:
