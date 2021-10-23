@@ -1,0 +1,98 @@
+---
+title: "Watch Heirloom on Good Morning America!"
+description: "Heirloom Video Books are beloved by Good Morning America!"
+social_image: "https://videodelivery.net/a91b1a15ce8d5bf7300ccbc9abcb1564/thumbnails/thumbnail.jpg?width=800"
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/favicon.ico" rel="icon" type="image/x-icon"/>
+
+    <title>
+      {{title}}
+    </title>
+    <meta property="og:title" content="{{title}}"/>
+    <meta name="twitter:title" content="{{title}}"/>
+
+    {% if description %}
+      <meta name="description" content="{{description}}"/>
+      <meta property="og:description" content="{{description}}"/>
+      <meta name="twitter:description" content="{{description}}"/>
+    {% endif %}
+
+    <meta property="og:type" content="website"/>
+
+    {% if social_image %}
+      <meta property="og:image" content="{{social_image | absoluteUrl(settings.url) }}"/>
+    {% else %}
+      <meta property="og:image" content="https://sendheirloom.com/static/images/og-image.png"/>
+    {% endif %}
+
+    <meta name="twitter:creator" content="@SendHeirloom"/>
+    <meta name="twitter:card" content="summary_large_image"/>
+
+    <style>
+      html {
+        background: white;
+      }
+
+      html, body {
+        margin: 0px;
+      }
+
+      body {
+        min-height: 100vh;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+      }
+
+      section {
+        --video-aspect-ratio: 16 / 9;
+        --padding: 2em;
+
+        box-sizing: border-box;
+        max-width: 100%;
+        padding: var(--padding);
+      }
+
+      stream {
+        display: block;
+        width: 400px;
+        max-width: 100%;
+        max-height: calc(100vh - 3em);
+        margin: 0 auto;
+        box-shadow: 0 0 30px #000;
+        box-shadow: 0 0 5vmin #000;
+      }
+
+      stream iframe {
+        max-height: calc(100vh - 3em);
+      }
+
+      @media (max-width: 768px) {
+        html {
+          background: white;
+        }
+
+        section {
+          --padding: 0px;
+        }
+
+        stream {
+          box-shadow: none;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <section>
+      <stream src="557dd01807d78a72ef8cfa9d96892749" controls preload></stream>
+      <script data-cfasync="false" defer type="text/javascript" src="https://embed.videodelivery.net/embed/r4xu.fla9.latest.js?video=557dd01807d78a72ef8cfa9d96892749"></script>
+    </section>
+  </body>
+</html>
