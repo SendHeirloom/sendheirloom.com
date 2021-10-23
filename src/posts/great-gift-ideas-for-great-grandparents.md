@@ -1,6 +1,6 @@
 ---
-title: Great Gift Ideas for Great-grandparents
-description: "Top Gifts for Older Family  "
+title: Gift Ideas for Great-grandparents
+description: "Top Gifts for Aging Family Members "
 author: Dr. Randee Bloom
 date: 2021-10-23T22:52:08.699Z
 social_image: https://ucarecdn.com/e36eb549-0602-4539-9c24-72580e93a910/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
@@ -33,5 +33,7 @@ One thing we know about great-grandparents is that they are searching for ways t
 
 #### Gifts That Bring on a Laugh
 
-There are also ways you can show your great-grandparents you’re thinking of them while also providing them with a gadget they might find entertaining and fun.  If your great-grandparent has slipping eyesight, how about a [cell phone screen magnifier](https://www.amazon.com/gp/product/B083HB3SQD/?tag=giftlablist08-20)? Are they always complaining about any sore or stiffness?  Consider a [neck massager](https://www.amazon.com/gp/product/B07TG7D2TS/?tag=giftlablist08-20).  If they keep misplacing their glasses, check out this [nose shaped eyeglass holder](https://www.amazon.com/gp/product/B01EMJH01Q/?tag=giftlablist08-20). And, for the great-grandparent who seems to always be looking for a toothpick, how about [one infused with the flavor of scotch](https://www.uncommongoods.com/product/scotch-infused-toothpicks-gift-set?clickid=2:Gxpq2SLxyIRWHzaJ1pbQDcUkBV4iUJrzeoyY0&irgwc=1&utm_source=Finders%20Keepers%20Closet&utm_medium=affiliates&utm_campaign=8444&utm_term=UncommonGoods%20Logo&trafficSource=Impact&sharedid=)?\
+There are also ways you can show your great-grandparents you’re thinking of them while also providing them with a gadget they might find entertaining and fun.  If your great-grandparent has slipping eyesight, how about a [cell phone screen magnifier](https://www.amazon.com/gp/product/B083HB3SQD/?tag=giftlablist08-20)? Are they always complaining about any sore or stiffness?  Consider a [neck massager](https://www.amazon.com/gp/product/B07TG7D2TS/?tag=giftlablist08-20).  If they keep misplacing their glasses, check out this [nose shaped eyeglass holder](https://www.amazon.com/gp/product/B01EMJH01Q/?tag=giftlablist08-20). And, for the great-grandparent who seems to always be looking for a toothpick, how about [one infused with the flavor of scotch](https://www.uncommongoods.com/product/scotch-infused-toothpicks-gift-set?clickid=2:Gxpq2SLxyIRWHzaJ1pbQDcUkBV4iUJrzeoyY0&irgwc=1&utm_source=Finders%20Keepers%20Closet&utm_medium=affiliates&utm_campaign=8444&utm_term=UncommonGoods%20Logo&trafficSource=Impact&sharedid=)?
+
+\
 Don’t get too stressed out about finding the perfect gift for your aging loved one.  As your great-grandparent taught you, it’s the thought that counts. So think of your great-grandparent, their wishes and needs, their joys and pleas
