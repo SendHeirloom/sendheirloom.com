@@ -1163,10 +1163,19 @@ span.line--pink::after {
 .ColWrapper--item-3 {
   flex: 0 0 32%;
 }
+.show-when-list {
+  display: none;
+}
 @media (max-width: 600px) {
   .ColWrapper--item-3 {
     flex: 0 0 100% !important;
     margin-bottom: 2.5em;
+  }
+  .show-when-list {
+    display: inline;
+  }
+  .show-when-column {
+    display: none;
   }
 }
 
@@ -1294,13 +1303,9 @@ span.line--pink::after {
 .PackagePlan--price {
   font-size: 2em;
   margin-top: .75em;
-  text-align: center;
-  display: inline-block;
   width: 100%;
 }
 .PackagePlan--per-book {
-  display: inline-block;
-  text-align: center;
   width: 100%;
   margin-bottom: 1em;
 }
