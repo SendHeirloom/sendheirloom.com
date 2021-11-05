@@ -186,7 +186,7 @@
             <div class="pay-discount-section mt-3 flex" hidden>
               <label class="w-8/12 mr-2 text-xs">
                 Discount code
-                <input type="text" class="Input text-xs h-8" />
+                <input name="discount-code" type="text" class="Input text-xs h-8" />
               </label>
               <button class="Button Button-is-bordered w-4/12 h-8 self-end">Apply</button>
             </div>
@@ -368,6 +368,7 @@ input:checked + div.checkbox-replacement svg {
   const payChangeQuantityLink = payStep.querySelector('a[data-action="change-quantity"]')
   const payDiscountLink = payStep.querySelector('a[data-action="apply-discount"]')
   const payDiscountSection = payStep.querySelector('.pay-discount-section')
+  const payDiscountInput = payDiscountSection.querySelector('input[name="discount-code"]')
 
   const closeButton = dialogEl.querySelector('[dialog-close]')
   const greaters = dialogEl.querySelectorAll('[if-qty-greater-than-one]')
@@ -379,7 +380,19 @@ input:checked + div.checkbox-replacement svg {
   }
 
   let cost = 49
-  let applyDiscount = false
+  let discountAmount = 0
+  let discountCode = null
+
+  function enableDiscount(discountId) {
+    payDiscountLink.hidden = true
+
+    discountCode = discountId
+    discountAmount = 10
+  }
+
+  if (params['discount']) {
+    enableDiscount(params['discount'])
+  }
 
   function open() {
     if (params['email']) {
@@ -644,12 +657,11 @@ input:checked + div.checkbox-replacement svg {
     const randomId = Math.random().toString()
 
     fbq('track', 'InitiateCheckout', {}, {eventID: randomId})
-    fbTrack('InitiateCheckout', {quantity: qty, email, id: randomId, contentName: "Video Book " + duration + " min"})
+    fbTrack('InitiateCheckout', {quantity: qty, email, id: randomId, contentName: "Video Book " + getDuration() + " min"})
 
     // Google Ads Begin Checkout Event
     gtag('event', 'conversion', {
       'send_to': 'AW-470754614/gCvFCPqF6b4CELbKvOAB',
-      'event_callback': cb,
     });
 
     gtag('event', "begin_checkout", {
@@ -669,11 +681,10 @@ input:checked + div.checkbox-replacement svg {
     e.preventDefault()
     payDiscountSection.hidden = true
 
-    cost = 39
-    applyDiscount = true
+    const code = payDiscountInput.value
+    enableDiscount(code)
 
     renderCosts()
-
     initPayment()
   })
 
@@ -699,8 +710,14 @@ input:checked + div.checkbox-replacement svg {
     if (duration === 20) {
       localCost = localCost + 20
     }
+    localCost -= discountAmount
 
-    payStep.querySelector('output.total-price').textContent = "$" + round(quantity * localCost)
+    let priceOut = "$" + round(quantity * localCost)
+    if (discountAmount > 0) {
+      priceOut += " (you saved $" + round(quantity * discountAmount) + ")"
+    }
+
+    payStep.querySelector('output.total-price').textContent = priceOut
     payStep.querySelector('output.unit-price').textContent = "$" + localCost
     payStep.querySelector('output.quantity').textContent = quantity
     payStep.querySelector('output.duration').textContent = (duration === 10 ? "ten" : "twenty") + "-minute"
@@ -725,7 +742,8 @@ input:checked + div.checkbox-replacement svg {
       body: JSON.stringify({
         quantity: quantity || +params['qty'],
         email: emailField.value || params['email'],
-        applyDiscount: applyDiscount,
+        applyDiscount: discountAmount > 0,
+        discountId: discountCode || '',
         duration: getDuration(),
       }),
     })
@@ -804,7 +822,7 @@ input:checked + div.checkbox-replacement svg {
 
       setStep('thanks')
       handlePurchase({
-        value: 100 * quantity * cost,
+        value: 100 * quantity * (cost - discountAmount),
         qty: quantity,
         orderId: paymentIntentId,
         email: emailField.value || params['email'],
