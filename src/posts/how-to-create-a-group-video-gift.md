@@ -13,7 +13,7 @@ Just by collecting video messages from friends and family, you can celebrate spe
 
 We have one customer, Holly, who has made 6 different group videos and sent them to friends and family using Heirloom (Watch to hear about all of the video books Holly has made!)
 
-It’s easy and fun to make a group video gift.  Just follow these easy steps and if you run into any trouble, we’re here to help you every step of the way -- just email us! (help@sendheirloom.com)
+It’s easy and fun to make a group video gift.  Just follow these easy steps and if you run into any trouble, we’re here to help you every step of the way (email us at help@sendheirloom.com).
 
 ## Step 1:  Invite Family and Friends to Contribute
 
