@@ -15,7 +15,7 @@ We have one customer, Holly, who has made 6 different group videos and sent them
 
 It’s easy and fun to make a group video gift.  Just follow these easy steps and if you run into any trouble, we’re here to help you every step of the way -- just email us! (help@sendheirloom.com)
 
-###### Step 1:  Invite Family and Friends to Contribute
+## Step 1:  Invite Family and Friends to Contribute
 
 * Send a text or email to the people from whom you would like to contribute videos and include 4 very basic pieces of information: what you’re doing, why you’re doing it, how they can contribute and by when you’ll need the videos. 
 
@@ -25,7 +25,7 @@ It’s easy and fun to make a group video gift.  Just follow these easy steps a
 * If you think your family could use a visual example,  click here to download a video of Kimmy’s message for her Father’s 70th birthday.
 * Let your family and friends know that the moment the book arrives at the recipient’s home you’ll also get a digital link to watch the video, too, which you’ll share with them. 
 
-###### Step 2: Collect The Videos
+## Step 2: Collect The Videos
 
 * If some people are having trouble thinking of things to say, you can send them some ideas.       Here are a few suggestions: Do you have a favorite memory of you and the video-book recipient? Is there a meaningful story you can share? Maybe everyone can pick a letter in the recipient’s name and each say a word that reminds you of that person? (Watch to see the video book our family made for our Papa Jerry’s 95th birthday, each using one letter of his name to tell him what we love most about him). 
 * You can also send a reminder to friends and family a few days before the messages are due to you.  Feel free to say something short and sweet like.. “Hey, Just a quick reminder to send me a short video for Bill’s 70th birthday video-book by Friday. We’ve received 10 videos but are waiting for 4 more.” 
@@ -33,7 +33,7 @@ It’s easy and fun to make a group video gift.  Just follow these easy steps a
 
 
 
-###### Step 3: Upload Your Videos 
+## Step 3: Upload Your Videos 
 
 * Once you receive all of the videos from friends and family, you can begin uploading your videos to Heirloom.
 * Simply click “Buy Now” to purchase a video book.  You can select either a 10-minute book or a 20-minute book, depending on how many videos you have collected. 
@@ -43,7 +43,7 @@ It’s easy and fun to make a group video gift.  Just follow these easy steps a
 
 
 
-###### Step 4: Heirloom Mails Your Video Book
+## Step 4: Heirloom Mails Your Video Book
 
 * Heirloom offers free shipping and free scheduled delivery. 
 * Our video books arrive fully charged and they’re ready to play as soon as the cover is opened. 
