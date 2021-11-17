@@ -13,7 +13,7 @@ Just by collecting video messages from friends and family, you can celebrate spe
 
 We have one customer, Holly, who has made 6 different Heirloom group video books and sent them to friends and family. Watch the video below to hear about all of the video books Holly has made!
 
-<div style="position: relative; padding-top: 177.5%; max-height: 600px"><iframe src="https://iframe.videodelivery.net/3fd9117402ad7d29db76f73a0fe312c2?preload=true" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
+<div style="position: relative; padding-top: 177.5%; width: 400px; float: left; margin-right: 20px;"><iframe src="https://iframe.videodelivery.net/3fd9117402ad7d29db76f73a0fe312c2?preload=true" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
 
 It’s easy and fun to make a group video gift.  Just follow these easy steps and if you run into any trouble, we’re here to help you every step of the way (email us at help@sendheirloom.com).
 
