@@ -9,11 +9,15 @@ social_image: https://ucarecdn.com/bd0675da-3bfb-4350-bfc1-0c52bd88489b/-/resize
 
 One of the most thoughtful gifts you can give is a video-playing book full of video messages from family and friends.   Whether as a celebration of a special occasion or to show appreciation and love, your group can express these feelings even when you can’t all be together.  
 
-Just by collecting video messages from friends and family, you can celebrate special birthdays, graduations, retirements, congratulations, bridal showers, in memory and more!  \[(Watch the video below to see the video book Alyson made for her husband’s 40th birthday). ](<<div style="position: relative; padding-top: 177.77777777777777%;"><iframe src="https://iframe.videodelivery.net/0f3e22ce850e03fa1542d65f4a29404c?preload=true" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>>)
+Just by collecting video messages from friends and family, you can celebrate special birthdays, graduations, retirements, congratulations, bridal showers, in memory and more!  Watch the video below to see the video book Alyson made for her husband’s 40th birthday. 
+
+<div style="position: relative; padding-top: 91.5%; margin: 0 auto; width: 400px;">
+  <iframe src="https://iframe.videodelivery.net/0f3e22ce850e03fa1542d65f4a29404c?preload=true" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe>
+</div>
 
 We have one customer, Holly, who has made 6 different Heirloom group video books and sent them to friends and family. Watch the video below to hear about all of the video books Holly has made!
 
-<div style="position: relative; padding-top: 177.5%; width: 400px; float: left; margin-right: 20px;"><iframe src="https://iframe.videodelivery.net/3fd9117402ad7d29db76f73a0fe312c2?preload=true" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
+<div style="position: relative; padding-top: 177.5%; width: 400px;"><iframe src="https://iframe.videodelivery.net/3fd9117402ad7d29db76f73a0fe312c2?preload=true" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
 
 It’s easy and fun to make a group video gift.  Just follow these easy steps and if you run into any trouble, we’re here to help you every step of the way (email us at help@sendheirloom.com).
 
