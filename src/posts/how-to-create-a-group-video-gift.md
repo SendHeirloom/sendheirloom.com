@@ -31,8 +31,6 @@ It’s easy and fun to make a group video gift.  Just follow these easy steps a
 * You can also send a reminder to friends and family a few days before the messages are due to you.  Feel free to say something short and sweet like.. “Hey, Just a quick reminder to send me a short video for Bill’s 70th birthday video-book by Friday. We’ve received 10 videos but are waiting for 4 more.” 
 * It’s a good idea to keep a list of the people you invited to contribute and cross off their names once you receive their videos. 
 
-
-
 ## Step 3: Upload Your Videos 
 
 * Once you receive all of the videos from friends and family, you can begin uploading your videos to Heirloom.
@@ -40,8 +38,6 @@ It’s easy and fun to make a group video gift.  Just follow these easy steps a
 * Immediately after you buy a book, you’ll receive a link via email to upload your videos.
 * Just drag and drop them into the video builder, select your cover, add your gift message, and tell us what address you want us to send the video book to.  
 * Our video books ship in 48 hours and arrives in 5 to 10 business days.  We offer expedited shipping, should you have some family or friends who take their sweet time :)
-
-
 
 ## Step 4: Heirloom Mails Your Video Book
 
