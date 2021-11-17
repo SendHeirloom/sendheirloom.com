@@ -1,6 +1,6 @@
 ---
 title: How To Create A Group Video Gift
-description: "Tips for creating a group tribute video "
+description: "Tips For Creating Amazing Group Tribute Videos "
 author: Ashley Kenny
 date: 2021-11-17T18:10:10.519Z
 social_image: https://ucarecdn.com/bd0675da-3bfb-4350-bfc1-0c52bd88489b/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
