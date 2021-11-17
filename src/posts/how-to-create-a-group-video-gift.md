@@ -70,8 +70,12 @@ It’s easy and fun to make a group video gift.  Just follow these easy steps a
 
   <img src="https://ucarecdn.com/07a6a54b-ea2e-436e-a851-24d4d618335b/-/resize/600x/-/stretch/off/-/format/auto/-/progressive/yes/" style="width: 300px; margin: 0 auto" alt="Grandma Fran">
 
-* You can also send a reminder to friends and family a few days before the messages are due to you.  Feel free to say something short and sweet. \
-  *Example:  “Hey, Just a quick reminder to send me a short video for Bill’s 70th birthday video-book by Friday. We’ve received 10 videos but are waiting for 4 more.”* 
+* You can also send a reminder to friends and family a few days before the messages are due to you.  Feel free to say something short and sweet.
+
+<blockquote>
+Example:  “Hey, Just a quick reminder to send me a short video for Bill’s 70th birthday video-book by Friday. We’ve received 10 videos but are waiting for 4 more.”
+</blockquote>
+
 * It’s a good idea to keep a list of the people you invited to contribute and cross off their names once you receive their videos. 
 
 ## Step 3: Upload Your Videos 
