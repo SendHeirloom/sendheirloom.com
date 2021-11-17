@@ -7,11 +7,32 @@ social_image: https://ucarecdn.com/bd0675da-3bfb-4350-bfc1-0c52bd88489b/-/resize
 ---
 ![](https://ucarecdn.com/e60a4656-7358-4f3d-b1a3-a9560229f43f/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
-<div style="float: right; margin-left: 15px; width: 300px">
+<style>
+  .floated-video {
+    float: right;
+    margin-left: 15px;
+    width: 300px;
+  }
+
+  .floated-video span {
+    color: #888;
+    padding: 10px;
+    font-size: 0.8em;
+    display: block;
+  }
+
+  @media only screen and (max-width: 560px) {
+    .floated-video {
+      width: 100%;
+    }
+  }
+</style>
+
+<div class="floated-video">
   <div style="position: relative; padding-top: 177%;">
     <iframe src="https://iframe.videodelivery.net/0f3e22ce850e03fa1542d65f4a29404c?preload=true" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe>
   </div>
-  <span style="color: #999; padding: 10px; font-size: 0.8em; display: block">Watch the video Alyson made for her husband’s 40th birthday.</span>
+  <span>Watch the video Alyson made for her husband’s 40th birthday.</span>
 </div>
 
 One of the most thoughtful gifts you can give is a video-playing book full of video messages from family and friends.   Whether as a celebration of a special occasion or to show appreciation and love, your group can express these feelings even when you can’t all be together.  
@@ -28,12 +49,14 @@ It’s easy and fun to make a group video gift.  Just follow these easy steps a
 
 > Example:  *Hi Smith Cousins!  It’s Uncle Bill’s 70th Birthday on December 10th and we’d like to mail him a video-playing book loaded with birthday messages from all of his friends and family. If you’d like to contribute, please email or text me a video message for Bill by December 1st. Please make sure the videos are shot horizontally and are between 15 and 60 seconds max. We’ll send you a link to watch the compilation of the videos onceH we place the video-book order and we’ll plan to give this to Bill on his birthday. Thanks, in advance, for your help to make Bill’s 70th birthday so special.  Love, Cousin Jessica*
 
-<div style="float: right; margin-left: 15px; width: 300px">
+
+<div class="floated-video">
   <div style="position: relative; padding-top: 177%;">
     <iframe src="https://iframe.videodelivery.net/ef0595f6125b79f827b6608a8a1f483b?preload=true" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe>
   </div>
-  <span style="color: #999; padding: 10px; font-size: 0.8em; display: block">Kimmy’s message for her Father’s 70th birthday.</span>
+  <span>Kimmy’s message for her Father’s 70th birthday.</span>
 </div>
+
 
 * It's wise to ask for videos all in one orientation, meaning all of the videos shot with your phone either straight upright or all held sideways.  You can easily request that all of the videos come vertically or horizontally. It’s also a good idea to put a time limit on the video or give your group a suggested duration for the video.
 * If you think your family could use a visual example, you can share Kimmy’s message for her Father's 70th birthday.
@@ -53,11 +76,11 @@ It’s easy and fun to make a group video gift.  Just follow these easy steps a
 
 ## Step 3: Upload Your Videos 
 
-<div style="float: right; margin-left: 15px; width: 300px">
+<div class="floated-video">
   <div style="position: relative; padding-top: 177%;">
     <iframe src="https://iframe.videodelivery.net/3fd9117402ad7d29db76f73a0fe312c2?preload=true" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe>
   </div>
-  <span style="color: #999; padding: 10px; font-size: 0.8em; display: block">Holly has made 6 different Heirloom group video books to send to friends and family! We can all learn from her.</span>
+  <span>Holly has made 6 different Heirloom group video books to send to friends and family! We can all learn from her.</span>
 </div>
 
 * Once you receive all of the videos from friends and family, you can begin uploading your videos to Heirloom.
