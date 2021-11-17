@@ -386,8 +386,13 @@ input:checked + div.checkbox-replacement svg {
   function enableDiscount(discountId) {
     payDiscountLink.hidden = true
 
-    discountCode = discountId
-    discountAmount = 10
+    discountCode = discountId.toUpperCase()
+
+    if (discountCode === 'GIVETHANKS'){
+      discountAmount = 15
+    } else {
+      discountAmount = 10
+    }
   }
 
   if (params['discount']) {
