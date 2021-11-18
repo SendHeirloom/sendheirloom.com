@@ -8,6 +8,10 @@ social_image: https://ucarecdn.com/bd0675da-3bfb-4350-bfc1-0c52bd88489b/-/resize
 ![](https://ucarecdn.com/e60a4656-7358-4f3d-b1a3-a9560229f43f/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
 <style>
+  ul, p {
+    pointer-events: none;
+  }
+
   .floated-video {
     float: right;
     margin-left: 15px;
