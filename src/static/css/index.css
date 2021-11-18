@@ -154,8 +154,13 @@ ul.List-steps {
 }
 
 .MailAVideoCard {
-  margin-bottom: .5em;
+  margin-bottom: 3em;
   text-align: center;
+}
+@media (max-width: 768px) {
+  .MailAVideoCard {
+    margin-bottom: 2em;
+  }
 }
 
 .MailAVideoCard h1 {
@@ -254,47 +259,43 @@ span.line--pink::after {
   text-align: center;
   font-size: .9em;
   padding-top: 1em;
+  padding-bottom: 3em;
 }
 
 .GrandmaHandsSectionVideoMockup--content-accompanying-text {
   position: absolute;
-  top: 21.5%;
-  left: 80%;
+  top: 14.5%;
+  right: 7%;
 }
 
-@media (max-width: 948px) {
+@media (max-width: 650px) {
   .GrandmaHandsSectionVideoMockup--content-accompanying-text-mobile {
     display: flex;
   }
 
-  .GrandmaHandsSectionVideoMockup--content {
-    position: relative;
-    width: 120vw;
-    left: -10vw;
-  }
 
   .GrandmaHandsSectionVideoMockup--content-accompanying-text {
     display: none;
   }
 }
 
-@media (max-width: 768px) {
-  .GrandmaHandsSectionVideoMockup--content {
-    position: relative;
-    width: 140vw;
-    left: -20vw;
+.GrandmaHandsSectionVideoMockup--content-inner {
+  position: relative;
+  width: 71%;
+  margin-left: 1%;
+}
+@media (max-width: 650px) {
+  .GrandmaHandsSectionVideoMockup--content-inner {
+    width: 100%;
+    margin-left: 0;
   }
 }
 
-.GrandmaHandsSectionVideoMockup--content-inner {
-  position: relative;
-  left: -21.8%;
-}
 
 .GrandmaHandsSectionVideoMockup--video-wrapper {
   position: absolute;
-  top: 21.3%;
-  left: 56.8%;
+  top: 20.3%;
+  left: 54.8%;
   width: 29.7%;
   color: #fff;
   background: #000;
