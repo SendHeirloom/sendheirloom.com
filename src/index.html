@@ -7,6 +7,7 @@ description: Send 20 minutes of your own videos in a physical book that automati
 
 <link rel="stylesheet" href="/static/css/tailwind.css"/>
 <div class="GrandmaHandsSection">
+
   <div class="Column">
     <div class="MailAVideoCard">
       <style>.async-hide { opacity: 0 !important; transition: opacity 0.5s ease-in-out; } </style>
@@ -24,7 +25,7 @@ description: Send 20 minutes of your own videos in a physical book that automati
         setTimeout(function(){i();h.end=null}, c);
         h.timeout=c;
       })(window,null,'async-hide','dataLayer',4000,
-      {'OPT-KBDNTVF':true});</script>
+              {'OPT-KBDNTVF':true});</script>
 
       <p class="MailAVideoCard--buttons">
         <a class="Button Button-is-pill Button-is-bordered Button-is-primary" intent="open-order-dialog" cta-id="above-the-fold">Buy Now</a>
@@ -32,35 +33,11 @@ description: Send 20 minutes of your own videos in a physical book that automati
       </p>
     </div>
   </div>
-
+  
+  
   <div class="GrandmaHandsSectionVideoMockup" data-grandma-hands data-loading>
-    <div class="GrandmaHandsSectionVideoMockup--content-accompanying-text-mobile">
-      <div class="Pricing flex-1">
-        <div>
-          <span class="Pricing--price"><span class="Price"><span class="Price--currency">$</span>49</span></span> free shipping
-        </div>
-        <div>10-minute video book</div>
-      </div>
-      <div class="Pricing flex-1">
-        <div>
-          <span class="Pricing--price"><span class="Price"><span class="Price--currency">$</span>69</span></span> free shipping
-        </div>
-        <div>20-minute video book</div>
-      </div>
-    </div>
-
     <div class="GrandmaHandsSectionVideoMockup--content-outer">
       <div class="GrandmaHandsSectionVideoMockup--content">
-        <div class="GrandmaHandsSectionVideoMockup--content-inner">
-          <div class="GrandmaHandsSectionVideoMockup--video-wrapper">
-            <div class="AspectRatio" style="--ratio: calc(16 / 9)">
-              <video class="AspectRatio--content" muted autoplay loop playsinline src="https://public.sendheirloom.com/Homepage_11_2020_RF_24.mp4"></video>
-            </div>
-          </div>
-          <div class="AspectRatio GrandmaHandsSectionVideoMockup--background" style="--ratio: calc(1896 / 1078)">
-            {% image "./src/static/images/grandma-holding-heirloom-video-book.png", "Woman holding Heirloom video book", "1152, 1896", "(min-width: 450px) 1896px, 1152px", "AspectRatio--content" %}
-          </div>
-        </div>
         <div class="GrandmaHandsSectionVideoMockup--content-accompanying-text">
           <div class="Pricing">
             <div>
@@ -68,13 +45,23 @@ description: Send 20 minutes of your own videos in a physical book that automati
             </div>
             <div>10-minute video book</div>
           </div>
-          <div class="Pricing" style="padding-top: 2em">
+          <div class="Pricing" style="padding-top: 1em">
             <div>
               <span class="Pricing--price"><span class="Price"><span class="Price--currency">$</span>69</span></span> free shipping
             </div>
             <div>20-minute video book</div>
           </div>
 
+        </div>
+        <div class="GrandmaHandsSectionVideoMockup--content-inner">
+          <div class="GrandmaHandsSectionVideoMockup--video-wrapper">
+            <div class="AspectRatio" style="--ratio: calc(16 / 9)">
+              <video class="AspectRatio--content" muted autoplay loop playsinline src="https://public.sendheirloom.com/Homepage_11_2020_RF_24.mp4"></video>
+            </div>
+          </div>
+          <div class="AspectRatio GrandmaHandsSectionVideoMockup--background" style="--ratio: calc(2000 / 1440)">
+            {% image "./src/static/images/woman-holding-video-book.png", "Woman holding Heirloom video book", "1000, 2000", "(min-width: 32em) 2000w, 1000w", "AspectRatio--content" %}
+          </div>
         </div>
       </div>
     </div>
