@@ -69,6 +69,9 @@ It’s easy and fun to make a group video gift.  Just follow these easy steps a
 ## Step 2: Collect The Videos
 
 * If some people are having trouble thinking of things to say, you can send them some ideas. Here are a few suggestions: Do you have a favorite memory of you and the video-book recipient? Is there a meaningful story you can share? Maybe everyone can pick a letter in the recipient’s name and each say a word that reminds you of that person?  We did one for our Cousin "D-A-V-I-D" and here is our Grandma holding the letter D:
+
+<img src="https://ucarecdn.com/07a6a54b-ea2e-436e-a851-24d4d618335b/-/resize/600x/-/stretch/off/-/format/auto/-/progressive/yes/" style="width: 300px; margin: 0 auto" alt="Grandma Fran">
+
 * You can also send a reminder to friends and family a few days before the messages are due to you.  Feel free to say something short and sweet.
 
 <blockquote>
