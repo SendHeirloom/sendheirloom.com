@@ -452,13 +452,19 @@ span.line--pink::after {
 
 }
 .Gift-image {
-  max-width: 12em;
-  margin: 0 auto .3em auto;
+  max-width: 19em;
+  margin: 0 auto 1.5em auto;
+}
+.Gift-box p {
+  font-weight: 500;
 }
 .Gift-box .TwoUp--content-h2 {
   padding: 0 1em;
   line-height: 1;
   margin-bottom: .3em;
+  max-width: 6em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media( max-width: 960px ) {
@@ -662,7 +668,7 @@ span.line--pink::after {
 
 @media (min-width: 961px) {
   body .TwoUp--content-h2 {
-    font-size: 1.9em;
+    font-size: 2.5em;
   }
 }
 
