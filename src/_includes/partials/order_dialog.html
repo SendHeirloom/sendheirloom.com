@@ -80,7 +80,7 @@
           </div>
         </div>
 
-        <div class="Dialog--output mb-2 bg-red-200" dialog-output></div>
+        <div class="Dialog--output mb-2 bg-red-200 p-2 text-sm" dialog-output hidden></div>
 
         <div class="Dialog--actions">
           <button class="Button Button-is-bordered Button-is-primary" type="submit" dialog-submit>Next</button>
@@ -102,7 +102,6 @@
             </div>
           </div>
         </div>
-        <div class="Dialog--output mb-2 bg-red-200" dialog-output></div>
 
         <div class="Dialog--actions">
           <button class="Button Button-is-bordered Button-is-primary" type="submit" dialog-submit>Next</button>
@@ -350,7 +349,6 @@ input:checked + div.checkbox-replacement svg {
   const qtyStep = dialogEl.querySelector('[step="quantity"]')
   const qtyForm = qtyStep.querySelector('form')
   const qtyField = qtyForm.querySelector('input[name="quantity"]')
-  const qtyOutput = qtyStep.querySelector('[dialog-output]')
 
   const durStep = dialogEl.querySelector('[step="duration"]')
   const durForm = durStep.querySelector('form')
@@ -410,8 +408,7 @@ input:checked + div.checkbox-replacement svg {
     } else {
       setStep('how-it-works')
       qtyField.value = "1"
-      emailOutput.innerHTML = ""
-      qtyOutput.innerHTML = ""
+      emailOutput.hidden = true
       emailButton.removeAttribute('disabled')
     }
 
@@ -611,7 +608,7 @@ input:checked + div.checkbox-replacement svg {
   emailForm.addEventListener('submit', async function(e){
     e.preventDefault()
 
-    emailOutput.innerHTML = ""
+    emailOutput.hidden = true
 
     const email = emailField.value
 
@@ -621,25 +618,30 @@ input:checked + div.checkbox-replacement svg {
       });
     }
 
+    const next = () => {
+      setStep('quantity')
+      qtyField.focus()
+      qtyField.select()
+    }
+
     if (emailOptInField.checked){
       emailButton.setAttribute('disabled', '')
       const resp = await window.subscribeEmail(email, "Preorder Add To Cart")
       emailButton.removeAttribute('disabled')
 
       if (resp.ok) {
-        setStep('quantity')
-        qtyField.focus()
-        qtyField.select()
+        next()
       } else if (resp.code === "no-email") {
         emailOutput.innerHTML = "Please provide a valid email address."
+        emailOutput.hidden = false
       } else {
         console.error("Error subscribing", resp)
-        emailOutput.innerHTML = "There was an error subscribing, please try again."
+
+        // We ignore subscription errors, and let them continue
+        next()
       }
     } else {
-      setStep('quantity')
-      qtyField.focus()
-      qtyField.select()
+      next()
     }
   })
 
