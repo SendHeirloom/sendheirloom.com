@@ -16,7 +16,7 @@
     outputEl.innerHTML = '' 
     submitEl.setAttribute('disabled', true)
 
-    const resp = await fetch("https://texter.sendheirloom.com/send-link-to-app", {
+    const resp = await fetch("https://api.sendheirloom.com/send-link-to-app", {
       method: "POST",
       body: JSON.stringify({
         phoneNumber: inputEl.value,

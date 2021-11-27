@@ -25,7 +25,7 @@
   }
 
   const subscribe = async (email, event) => {
-    const resp = await fetch("https://texter.sendheirloom.com/subscribe/email", {
+    const resp = await fetch("https://api.sendheirloom.com/subscribe/email", {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
@@ -133,7 +133,7 @@
         }
       }
 
-      const resp = await fetch("https://texter.sendheirloom.com/send-link-to-app", {
+      const resp = await fetch("https://api.sendheirloom.com/send-link-to-app", {
         method: "POST",
         body: JSON.stringify({
           phoneNumber: number,
