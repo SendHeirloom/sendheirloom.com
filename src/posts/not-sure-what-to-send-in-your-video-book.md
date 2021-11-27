@@ -1,5 +1,5 @@
 ---
-title: Not sure what to send in your video book?  Record a message.
+title: Not Sure What Video to Include in Your Video Book?  Record A Message.
 description: Here are some ideas for what to say!
 author: Ashley Kenny
 date: 2021-05-01T03:58:16.656Z
@@ -9,7 +9,7 @@ tags:
 ---
 #### *It's not always easy coming up with exactly what to say. Here are some ideas for what to say in a recorded message.*
 
-![Video book with flowers on the cover  ](https://ucarecdn.com/94cbb1d3-84ca-4ab5-8d27-7a8fa3f69be3/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Ideas for mother's day video book ")
+![Video book with flowers on the cover  ]( "Ideas for mother's day video book ")
 
 ![Video book with happy birthday on the cover ](https://ucarecdn.com/62579589-c0f5-494f-9e6f-9552ebfd20bf/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Ideas for birthday video book ")
 
