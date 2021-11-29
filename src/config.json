@@ -15,10 +15,10 @@
          "schedulingAllowed":true,
          "deliveryBusinessDays":9,
          "deliveryOverride":{
-            "linkText":"",
+            "linkText":"By Christmas",
             "arrivesBy":"",
-            "displayFrom":"",
-            "displayTo":""
+            "displayFrom":"2021-11-28 12:00:00",
+            "displayTo":"2021-12-13 16:00:00"
          }
       },
       {
