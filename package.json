@@ -8,7 +8,7 @@
     "build": "cross-env NODE_ENV=production eleventy && cross-env NODE_ENV=production postcss src/static/css/style.css --o _site/static/css/style.css && cross-env NODE_ENV=production postcss src/static/css/tailwind.css --o _site/static/css/tailwind.css"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0",
+    "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-img": "^0.8.3",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
     "alpinejs": "^2.6.0",
@@ -28,6 +28,7 @@
     "owl.carousel": "^2.3.4",
     "postcss": "^8.3.0",
     "postcss-import": "^14.0.0",
+    "shopify-buy": "^2.13.0",
     "tailwindcss": "^2.2"
   }
 }

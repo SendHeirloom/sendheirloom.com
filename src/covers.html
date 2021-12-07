@@ -1,0 +1,24 @@
+---
+layout: with_shopify
+title: Our Covers
+description: "Learn more about the cover options available for Heirloom Video Books."
+path: covers
+
+loop: [1,2,3,4,5,6,7,8,9,10,11,12,13]
+---
+
+<div class="MarkdownPage MarkdownPage-is-centered CoversPage">
+  <div class="Column">
+    <main class="Markdown">
+      <h1 class="my-2">Our Covers</h1>
+      <p class="mb-2">All of our video books are placed in beautiful hard covers, like your favorite treasured book. You can select the cover of your choice after you upload your videos.</p>
+      <div class="books-container" id="products-container">
+        {% for item in loop %}
+          <div class="product__item"><div class="product__item__inner"></div></div>
+        {% endfor %}
+      </div>
+    </main>
+  </div>
+</div>
+
+

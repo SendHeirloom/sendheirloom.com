@@ -1272,7 +1272,7 @@ body.test-a .GrandmaHandsSectionVideoMockup--video-wrapper {
 
 @media (min-width: 960px ){
   .scale-on-hover-desktop {
-    transition: all .35s linear;
+    transition: all .15s linear;
   }
   .scale-on-hover-desktop:hover {
     z-index: 100;
@@ -1568,4 +1568,50 @@ body.test-a .GrandmaHandsSectionVideoMockup--video-wrapper {
   .PackagePlan {
     margin-bottom: 50px;
   }
+}
+
+.books-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.books-container .product__item  {
+  width: calc(25% - 0.75rem);
+  position: relative;
+  margin-top: 1.5rem;
+  margin-right: 1rem;
+}
+
+.books-container .product__item:nth-child(4n) {
+  margin-right: 0;
+}
+
+@media (max-width: 768px) {
+  .books-container .product__item  {
+    width: calc(50% - 0.75rem);
+  }
+  .books-container .product__item:nth-child(2n) {
+    margin-right: 0;
+  }
+}
+@media (max-width: 600px) {
+  .books-container .product__item  {
+    width: 100%;
+    margin-right: 0;
+  }
+}
+
+.product__item__inner {
+  padding-top: 68%;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #cdcdcd40;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  box-shadow: 2px 0 20px #dedede;
+}
+.CoversPage h1 {
+  margin-bottom: 1em;
 }
