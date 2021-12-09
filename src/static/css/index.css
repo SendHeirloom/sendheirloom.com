@@ -165,16 +165,68 @@ ul.List-steps {
 .Pricing {
   font-size: .85em;
 }
+body.test-b .Pricing {
+  text-align: center;
+  padding-top: .75em;
+}
+body.test-b .Pricing > div {
+  display: inline-block;
+}
+
 
 .Pricing--price {
   font-size: 1.25em;
   margin-right: .1em;
 }
 
+@media (max-width: 948px) {
+  body.test-b .Price--separator {
+    display: none !important;
+  }
+}
+
 .MailAVideoCard {
   margin-bottom: .5em;
   text-align: center;
 }
+
+body.test-a .hide-test-a {
+  display: none;
+}
+body.test-a .MailAVideoCard {
+  margin-bottom: 3em;
+}
+@media (max-width: 768px) {
+  body.test-a .MailAVideoCard {
+    margin-bottom: 2em;
+  }
+}
+
+.show-test-b {
+  display: none;
+}
+body.test-b .hide-test-b {
+  display: none;
+}
+body.test-b .show-test-b {
+  display: block;
+}
+body.test-b .show-test-b.Price--separator {
+  display: inline-block;
+}
+
+@media (min-width: 949px) {
+  body.test-b .GrandmaHandsSectionVideoMockup {
+    box-shadow: -2px 0 100px #ddd;
+  }
+  body.test-b .MailAVideoCard {
+    margin-top: 2em;
+  }
+  body.test-b .GrandmaHandsSectionVideoMockup--content-accompanying-text .Pricing.test-b{
+    padding-top: .5em !important;
+  }
+}
+
 
 .MailAVideoCard h1 {
   position: relative;
@@ -243,6 +295,8 @@ span.line--pink::after {
 
 .GrandmaHandsSection {
   padding-top: 2em;
+  opacity: 0;
+  transition: opacity .5s ease;
 }
 .Christmas-decoration {
   position: relative;
@@ -283,7 +337,7 @@ span.line--pink::after {
 }
 
 @media (min-width: 1200px) {
-  .GrandmaHandsSection {
+  body.test-0 .GrandmaHandsSection {
     padding-top: 1.75em;
   }
 }
@@ -304,11 +358,22 @@ span.line--pink::after {
   margin: auto;
 }
 
-.GrandmaHandsSectionVideoMockup--content-accompanying-text-mobile {
+@media (min-width: 949px) {
+  body.test-b .GrandmaHandsSectionVideoMockup--content-outer {
+    position: relative;
+    left: -50px;
+  } 
+}
+
+body.test-0 .GrandmaHandsSectionVideoMockup--content-accompanying-text-mobile {
   display: none;
   text-align: center;
   font-size: .9em;
   padding-top: 1em;
+}
+
+body.test-a .GrandmaHandsSectionVideoMockup--content-accompanying-text-mobile {
+  padding-bottom: 3em;
 }
 
 .GrandmaHandsSectionVideoMockup--content-accompanying-text {
@@ -316,25 +381,63 @@ span.line--pink::after {
   top: 21.5%;
   left: 80%;
 }
+body.test-a .GrandmaHandsSectionVideoMockup--content-accompanying-text {
+  top: 14.5%;
+  right: 7%;
+  left: auto;
+}
+body.test-b .GrandmaHandsSectionVideoMockup--content-accompanying-text {
+  top: 0;
+  left: 10%;
+  z-index: 100;
+}
 
 @media (max-width: 948px) {
-  .GrandmaHandsSectionVideoMockup--content-accompanying-text-mobile {
+  body.test-0 .GrandmaHandsSectionVideoMockup--content-accompanying-text-mobile {
     display: flex;
   }
 
-  .GrandmaHandsSectionVideoMockup--content {
+  body.test-0 .GrandmaHandsSectionVideoMockup--content {
     position: relative;
     width: 120vw;
     left: -10vw;
   }
 
-  .GrandmaHandsSectionVideoMockup--content-accompanying-text {
+  body.test-0 .GrandmaHandsSectionVideoMockup--content-accompanying-text {
+    display: none;
+  }
+  body.test-b .GrandmaHandsSectionVideoMockup--content-accompanying-text {
+    position: static;
+    margin-bottom: 2em;
+    max-width: 100vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  body.test-b .GrandmaHandsSectionVideoMockup--content-accompanying-text .Pricing {
+    display: inline-block;
+    width: 50%;
+  }
+  body.test-b .GrandmaHandsSectionVideoMockup--content-accompanying-text .Pricing > div{
+    display: block;
+  }
+
+}
+
+@media (max-width: 650px) {
+  body.test-a .GrandmaHandsSectionVideoMockup--content-accompanying-text-mobile {
+    display: flex;
+  }
+  body.test-a .GrandmaHandsSectionVideoMockup--content-accompanying-text-mobile > .Pricing {
+    text-align: center;
+  }
+
+  body.test-a .GrandmaHandsSectionVideoMockup--content-accompanying-text {
     display: none;
   }
 }
 
 @media (max-width: 768px) {
-  .GrandmaHandsSectionVideoMockup--content {
+  body.test-0 .GrandmaHandsSectionVideoMockup--content {
     position: relative;
     width: 140vw;
     left: -20vw;
@@ -346,6 +449,36 @@ span.line--pink::after {
   left: -21.8%;
 }
 
+body.test-b .GrandmaHandsSectionVideoMockup--content-inner {
+  left: 9%;
+}
+
+.Hero--a {
+  display: none;
+}
+body.test-a .Hero--a {
+  display: block;
+}
+body.test-a .Hero--0 {
+  display: none;
+}
+
+
+body.test-a .GrandmaHandsSectionVideoMockup--content-inner {
+  position: relative;
+  width: 71%;
+  margin-left: 1%;
+  left: auto;
+}
+@media (max-width: 650px) {
+  body.test-a .GrandmaHandsSectionVideoMockup--content-inner {
+    width: 100%;
+    margin-left: 0;
+  }
+}
+
+
+
 .GrandmaHandsSectionVideoMockup--video-wrapper {
   position: absolute;
   top: 21.3%;
@@ -354,6 +487,19 @@ span.line--pink::after {
   color: #fff;
   background: #000;
   z-index: 9;
+}
+
+
+body.test-b .GrandmaHandsSectionVideoMockup--video-wrapper {
+  top: 52.9%;
+  left: 26.7%;
+  width: 11.3%;
+  transform: skew(36deg,-24deg);
+  background: transparent;
+}
+body.test-a .GrandmaHandsSectionVideoMockup--video-wrapper {
+  top: 20.3%;
+  left: 54.8%;
 }
 
 .GrandmaHandsSectionVideoMockup--background {

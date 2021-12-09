@@ -6,8 +6,9 @@ description: Send 20 minutes of your own videos in a physical book that automati
 ---
 
 <link rel="stylesheet" href="/static/css/tailwind.css"/>
-<div class="GrandmaHandsSection Christmas-decoration">
-  <div class="Column">
+
+<div class="GrandmaHandsSection Christmas-decoration" fade-in-on-ab-loaded>
+  <div class="Column hide-test-b">
     <div class="MailAVideoCard">
       <style>.async-hide { opacity: 0 !important; transition: opacity 0.5s ease-in-out; } </style>
 
@@ -29,12 +30,44 @@ description: Send 20 minutes of your own videos in a physical book that automati
       <script>
         gtag('event', 'optimize.callback', {
           name: 'B0hgLgsrRKCsXxyCZLZscg',
-          callback: function(variant){
-            variant = variant || 0
-            // We're testing the testing system
-            console.log("Variant", variant)
-          }
+          callback: heroSectionAB
         })
+
+        let ABCallbackFired = false
+
+        function heroSectionAB(variant) {
+          variant = parseFloat(variant)
+          variant = variant || 0
+          ABCallbackFired = true
+          switch (variant) {
+            case 1:
+              document.body.classList.remove('test-0')
+              document.body.classList.add('test-a')
+              break;
+            case 2:
+              document.body.classList.remove('test-0')
+              document.body.classList.add('test-b')
+              break;
+          }
+
+          const fadeInOnABLoaded = document.querySelector("[fade-in-on-ab-loaded]")
+
+          if (fadeInOnABLoaded) {
+            fadeInOnABLoaded.style.opacity = 1
+          }
+        }
+
+        setTimeout(() => {
+          if (ABCallbackFired === false) {
+            heroSectionAB(0)
+          }
+        }, 5000)
+
+        const currentUrl = new URL(window.location.href)
+        const manualVariant = currentUrl.searchParams.get('variant')
+        if (manualVariant) {
+          heroSectionAB(manualVariant)
+        }
       </script>
 
       <p class="MailAVideoCard--buttons">
@@ -45,7 +78,7 @@ description: Send 20 minutes of your own videos in a physical book that automati
   </div>
 
   <div class="GrandmaHandsSectionVideoMockup" data-grandma-hands data-loading>
-    <div class="GrandmaHandsSectionVideoMockup--content-accompanying-text-mobile">
+    <div class="GrandmaHandsSectionVideoMockup--content-accompanying-text-mobile hide-test-b hide-test-a" hero-pricing>
       <div class="Pricing flex-1">
         <div>
           <span class="Pricing--price"><span class="Price"><span class="Price--currency">$</span>49</span></span> free shipping
@@ -62,35 +95,68 @@ description: Send 20 minutes of your own videos in a physical book that automati
 
     <div class="GrandmaHandsSectionVideoMockup--content-outer">
       <div class="GrandmaHandsSectionVideoMockup--content">
-        <div class="GrandmaHandsSectionVideoMockup--content-inner">
+        <div class="GrandmaHandsSectionVideoMockup--content-inner hide-test-b">
           <div class="GrandmaHandsSectionVideoMockup--video-wrapper">
             <div class="AspectRatio" style="--ratio: calc(16 / 9)">
               <video class="AspectRatio--content" muted autoplay loop playsinline src="https://public.sendheirloom.com/Homepage_11_2020_RF_24.mp4"></video>
             </div>
           </div>
-          <div class="AspectRatio GrandmaHandsSectionVideoMockup--background" style="--ratio: calc(1896 / 1078)">
+          <div class="AspectRatio GrandmaHandsSectionVideoMockup--background Hero--0" style="--ratio: calc(1896 / 1078)">
             {% image "./src/static/images/grandma-holding-heirloom-video-book.png", "Woman holding Heirloom video book", "1152, 1896", "(min-width: 450px) 1896px, 1152px", "AspectRatio--content" %}
           </div>
-        </div>
+
+          <div class="AspectRatio GrandmaHandsSectionVideoMockup--background Hero--a" style="--ratio: calc(2000 / 1432)">
+            {% image "./src/static/images/two-hands.jpg", "Woman holding Heirloom video book", "2000, 1432", "(max-width: 32em) 1432w", "AspectRatio--content" %}
+          </div>
+
+          </div>
         <div class="GrandmaHandsSectionVideoMockup--content-accompanying-text">
+          
+          <div class="MailAVideoCard show-test-b">
+            <style>.async-hide { opacity: 0 !important; transition: opacity 0.5s ease-in-out; } </style>
+
+            <h1><span class="line line--light-green">Mail</span> a <span class="line line--white">video book</span> to someone you <span class="line line--pink">love.</span></h1>
+
+            <p class="MailAVideoCard--buttons">
+              <a class="Button Button-is-pill Button-is-bordered Button-is-primary" intent="open-order-dialog" cta-id="above-the-fold">Buy Now</a>
+              <a href="#how-it-works" class="Button Button-is-pill Button-is-bordered">How It Works</a>
+            </p>
+          </div>
+
+          
           <div class="Pricing">
             <div>
               <span class="Pricing--price"><span class="Price"><span class="Price--currency">$</span>49</span></span> free shipping
             </div>
+            <span class="Price--separator show-test-b">&nbsp;|&nbsp;</span>
             <div>10-minute video book</div>
           </div>
-          <div class="Pricing" style="padding-top: 2em">
+          <div class="Pricing test-b" style="padding-top: 2em">
             <div>
               <span class="Pricing--price"><span class="Price"><span class="Price--currency">$</span>69</span></span> free shipping
             </div>
+            <span class="Price--separator show-test-b">&nbsp;|&nbsp;</span>
             <div>20-minute video book</div>
           </div>
 
         </div>
+
+          <div class="GrandmaHandsSectionVideoMockup--content-inner show-test-b">
+              <div class="GrandmaHandsSectionVideoMockup--video-wrapper">
+                  <div class="AspectRatio" style="--ratio: calc(16 / 9)">
+                      <video class="AspectRatio--content" muted autoplay loop playsinline src="https://public.sendheirloom.com/Homepage_11_2020_RF_24.mp4"></video>
+                  </div>
+              </div>
+              <div class="AspectRatio GrandmaHandsSectionVideoMockup--background" style="--ratio: calc(2000 / 1440)">
+                  {% image "./src/static/images/woman-holding-video-book.jpg", "Woman holding Heirloom video book", "1000, 2000", "(min-width: 32em) 2000w, 1000w", "AspectRatio--content" %}
+              </div>
+          </div>
+
       </div>
     </div>
   </div>
 
+</div>
   <script>
     (() => {
       const el = document.querySelector("[data-grandma-hands]")
