@@ -52,6 +52,24 @@ body.mobile-menu-opened {
   max-width: 100%;
   height: auto;
 }
+.Logo:before {
+  content: '';
+  width: 70px;
+  height: 70px;
+  background-image: url(../images/christmas-wreath.svg);
+  background-repeat: no-repeat;
+  background-size: 240%;
+  position: absolute;
+  bottom: -19px;
+  left: -34px;
+  background-position: 20% 50%;
+}
+
+@media (max-width: 650px) {
+  .Logo:before {
+    bottom: -30px;
+  }
+}
 
 
 .Separator {
@@ -225,6 +243,43 @@ span.line--pink::after {
 
 .GrandmaHandsSection {
   padding-top: 2em;
+}
+.Christmas-decoration {
+  position: relative;
+}
+.Christmas-decoration:before {
+  content: '';
+  display: block;
+  position: absolute;
+  top: -111px;
+  left: 0;
+  width: 100%;
+  height: calc( 100% + 111px );
+  background-image: url('../images/snowflakes.svg');
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  z-index: -1;
+}
+
+@media (max-width: 650px) {
+  .Christmas-decoration:before {
+    background-image: url('../images/mobile-snowflakes-top.svg');
+  }
+  .Christmas-decoration:after {
+    content: '';
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('../images/mobile-snowflakes-bottom.svg');
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    z-index: -1;
+  }
 }
 
 @media (min-width: 1200px) {
