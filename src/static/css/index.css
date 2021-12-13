@@ -216,6 +216,12 @@ body.test-b .show-test-b.Price--separator {
 }
 
 @media (min-width: 949px) {
+  body.test-b .Header {
+    padding-top: 0;
+  }
+  body.test-b .GrandmaHandsSection {
+    padding-top: .5em;
+  }
   body.test-b .GrandmaHandsSectionVideoMockup {
     box-shadow: -2px 0 100px #ddd;
   }
