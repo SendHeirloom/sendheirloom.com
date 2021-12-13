@@ -7,7 +7,7 @@ social_image: https://ucarecdn.com/37ff917f-2028-4aea-b61f-b62fea97d272/-/resize
 ---
 ![Grandma playing with grandson ](https://ucarecdn.com/bb687ec0-9e81-4a62-9617-2c9cb15386e4/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Perfect gift ideas for grandma")
 
-Grandmas come in all shapes and sizes. Your Grandma may be the one who likes to showers others with gifts and surprises. She may be the type of Grandma who always makes you laugh. Or perhaps she is the one who has taught you some of life’s most important lessons. 
+Grandmas come in all shapes and sizes. Your Grandma may be the one who likes to shower others with gifts and surprises. She may be the type of Grandma who always makes you laugh. Or perhaps she is the one who has taught you some of life’s most important lessons. 
 
 During this holiday season, you have the opportunity to celebrate Grandma. Here are some tips that should help you put together something as unique and special as she is.
 
