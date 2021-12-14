@@ -16,6 +16,11 @@ body.mobile-menu-opened {
   max-width: 100%;
 }
 
+.async-hide {
+  opacity: 0 !important;
+  transition: opacity 0.5s ease-in-out;
+}
+
 .TopBanner {
   position: relative;
   --accent-color: var(--pink);
