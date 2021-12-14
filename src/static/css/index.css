@@ -327,11 +327,17 @@ span.line--pink::after {
   z-index: -1;
 }
 
+@media (min-width: 651px) {
+  .test-b .Christmas-decoration:before {
+    top: 12px;
+  }
+}
+
 @media (max-width: 650px) {
   .Christmas-decoration:before {
     background-image: url('../images/mobile-snowflakes-top.svg');
   }
-  .Christmas-decoration:after {
+  body:not(.test-b) .Christmas-decoration:after {
     content: '';
     display: block;
     position: absolute;
