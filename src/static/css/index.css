@@ -483,18 +483,22 @@ body.test-a .Hero--0 {
 
 body.test-a .GrandmaHandsSectionVideoMockup--content-inner {
   position: relative;
-  width: 71%;
-  margin-left: 1%;
+  width: 82%;
   left: auto;
+  margin-left: -8%;
 }
-@media (max-width: 650px) {
+@media (max-width: 1050px) {
   body.test-a .GrandmaHandsSectionVideoMockup--content-inner {
-    width: 100%;
+    width: 82%;
     margin-left: 0;
   }
 }
-
-
+@media (max-width: 650px) {
+  body.test-a .GrandmaHandsSectionVideoMockup--content-inner {
+    width: 150%;
+    margin-left: -50%;
+  }
+}
 
 .GrandmaHandsSectionVideoMockup--video-wrapper {
   position: absolute;
@@ -515,8 +519,9 @@ body.test-b .GrandmaHandsSectionVideoMockup--video-wrapper {
   background: transparent;
 }
 body.test-a .GrandmaHandsSectionVideoMockup--video-wrapper {
-  top: 20.3%;
-  left: 54.8%;
+  top: 25.3%;
+  left: 55.2%;
+  width: 28%;
 }
 
 .GrandmaHandsSectionVideoMockup--background {
