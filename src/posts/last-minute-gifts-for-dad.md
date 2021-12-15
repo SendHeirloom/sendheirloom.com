@@ -11,13 +11,13 @@ tags:
 
 Gift shopping may be a source of fun and challenge, until the calendar gets short, the ideas are limited, the list keeps growing and your budget does not.
 
-Dads love giving gifts but may not be that good at receiving them. Dads often claim to “have everything I want” or be the “please don’t spend your time and money on me” types. As a parent, and grandparent, these may be their sentiments, publicly. Privately, most love to receive gifts from my kids. He can see firsthand their creativity, knowledge of my likes, and especially their attention to his not-so-subtle hints throughout the year. 
+Dads love giving gifts but may not be that good at receiving them. Dads often claim to “have everything I want” or be the “please don’t spend your time and money on me” types. As a parent, and grandparent, these may be their sentiments, publicly. Privately, most love to receive gifts from my kids. He can see firsthand their creativity, knowledge of his likes, and especially their attention to his not-so-subtle hints throughout the year. 
 
 If you’re stuck, consider some of these last minute ideas to let Dad know just how much he means to you. 
 
 ## Help Dad organize
 
-Dad may be quite organized at the office, possibly in his golf bag, but can he possibly not need these [cable organizing sleeves](https://www.amazon.com/dp/B07Y23TMZ4?linkCode=ogi&tag=menshealth-auto-20&ascsubtag=%5bartid%7C2139.g.25654360%5bsrc%7C%5bch%7C%5blt%7C). You know, all those cables and cords coming out of his desk devices? For a few dollars he will see your brilliance, and his chargers as never before.
+Dad may be quite organized at the office, and maybe in his golf bag, but can he possibly not need these [cable organizing sleeves](https://www.amazon.com/dp/B07Y23TMZ4?linkCode=ogi&tag=menshealth-auto-20&ascsubtag=%5bartid%7C2139.g.25654360%5bsrc%7C%5bch%7C%5blt%7C). You know, all those cables and cords coming out of his desk devices? For a few dollars he will see your brilliance, and his chargers as never before.
 
 ## Help Dad stay fit
 
@@ -25,4 +25,4 @@ Your father may take the time to run, bike, swim, lift weights or some combinati
 
 ## Help Dad play
 
-From youth till now many Dads have enjoyed the challenge of electronic games. The first Nintendo games were on sale in 1980, over 40 years old. Maybe your Dad still finds these fun but needs a little help from the world of hi-tech. [Noise isolation game headphones](about:blank) may be a very appreciated, yet never expected gift. Consider how he will find enhanced gaming experience in the same comfy overstuffed chair.
+From youth till now many Dads have enjoyed the challenge of electronic games. The first Nintendo games were on sale in 1980, over 40 years old. Maybe your Dad still finds these fun but needs a little help from the world of hi-tech. [Noise isolation game headphones](https://www.amazon.com/Theater-Like-Headphones-Cancelling-Microphone-Compatible/dp/B094JG8MBW/ref=sr_1_5?keywords=noise+cancelling+gaming+headphones&qid=1639537622&sr=8-5) may be a very appreciated, yet never expected gift. Consider how he will find enhanced gaming experience in the same comfy overstuffed chair.
