@@ -26,3 +26,7 @@ Your father may take the time to run, bike, swim, lift weights or some combinati
 ## Help Dad play
 
 From youth till now many Dads have enjoyed the challenge of electronic games. The first Nintendo games were on sale in 1980, over 40 years old. Maybe your Dad still finds these fun but needs a little help from the world of hi-tech. [Noise isolation game headphones](https://www.amazon.com/Theater-Like-Headphones-Cancelling-Microphone-Compatible/dp/B094JG8MBW/ref=sr_1_5?keywords=noise+cancelling+gaming+headphones&qid=1639537622&sr=8-5) may be a very appreciated, yet never expected gift. Consider how he will find enhanced gaming experience in the same comfy overstuffed chair.
+
+## Help Dad learn
+
+You know Dad loves to teach, you and your kids. How about expanding his reach by listening to experts in many fields and talents. A subscription to [MasterClass](https://www.masterclass.com/?utm_source=Paid&utm_medium=AdWords&utm_campaign=MC&utm_content=Brand-{keyword}-US_EM&utm_term=Aq-Prospecting&gclid=Cj0KCQiAnuGNBhCPARIsACbnLzqA-nJTBG6wtH3jo3aJzKMEmNPY7Rcj9fNxUvcdlQjS4DTZWKQ73uQaApZNEALw_wcB) provides high quality, self-paced learning, while opening new areas of interest or focusing deeper into his interests. Just wait for the new dinnertime chats and demos.
