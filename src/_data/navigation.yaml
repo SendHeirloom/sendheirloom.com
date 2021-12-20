@@ -16,3 +16,5 @@ items:
     url: "/faq/"
   - text: Contact
     url: "/contact/"
+  - text: Covers
+    url: "/covers/"

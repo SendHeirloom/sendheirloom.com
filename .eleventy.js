@@ -68,6 +68,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     'node_modules/jquery/dist/jquery.min.js': 'assets/jquery.min.js',
     'node_modules/owl.carousel/dist/owl.carousel.min.js': 'assets/owl.carousel.min.js',
+
+    'node_modules/shopify-buy/index.umd.js': 'assets/shopify-buy.js', 
     
     'node_modules/owl.carousel/dist/assets/owl.carousel.min.css': 'assets/owl.carousel.min.css',
     'node_modules/owl.carousel/dist/assets/owl.theme.default.min.css': 'assets/owl.theme.default.min.css',
