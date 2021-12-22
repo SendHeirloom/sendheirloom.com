@@ -23,7 +23,7 @@ There are basically [two types of tests](https://www.cdc.gov/coronavirus/2019-nc
 
 Currently there are two ways to conduct your home test: collection only or collection and testing. The home collection test provides the instructions and materials necessary to collect your sample. The process continues as you send the sample to a laboratory as instructed, for their analysis. This specimen is studying using the PCR test and the individual needs to wait one or more days for the result. The home testing kits provide all the instructions and information for you to complete the process, wait the designated amount of time, and see your results.
 
-##  Are there different levels of accuracy in these tests?
+## Are there different levels of accuracy in these tests?
 
  Yes. The method of specimen collection (nasal canal, higher in the nasal canal, saliva) as well as the site of analysis, home or laboratory, create many of these differences in accuracy. Generally speaking, [laboratory-based NAATs are considered to offer more sensitivity](https://www.cdc.gov/coronavirus/2019-ncov/lab/naats.html) than self-administered home-based tests.  Many healthcare providers consider the use of a laboratory-based tests as a means of confirming a positive home-based result.
 
