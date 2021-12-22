@@ -41,12 +41,12 @@
             "Expedited"
          ],
          "schedulingAllowed":false,
-         "deliveryBusinessDays":3,
+         "deliveryBusinessDays":1,
          "deliveryOverride":{
             "linkText":"By Christmas",
             "arrivesBy":"2021-12-24",
             "displayFrom":"2021-11-28 12:00:00",
-            "displayTo":"2021-12-21 16:00:00"
+            "displayTo":"2021-12-23 12:00:00"
          }
       },
       {
