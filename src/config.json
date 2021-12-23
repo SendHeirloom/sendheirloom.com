@@ -15,10 +15,10 @@
          "schedulingAllowed":true,
          "deliveryBusinessDays":9,
          "deliveryOverride":{
-            "linkText":"After Christmas",
-            "arrivesBy":"2021-12-28",
-            "displayFrom":"2021-11-28 12:00:00",
-            "displayTo":"2021-12-30 16:00:00"
+            "linkText":"",
+            "arrivesBy":"",
+            "displayFrom":"",
+            "displayTo":""
          }
       },
       {
@@ -41,12 +41,12 @@
             "Expedited"
          ],
          "schedulingAllowed":false,
-         "deliveryBusinessDays":1,
+         "deliveryBusinessDays":3,
          "deliveryOverride":{
-            "linkText":"By Christmas",
-            "arrivesBy":"2021-12-24",
-            "displayFrom":"2021-11-28 12:00:00",
-            "displayTo":"2021-12-23 12:00:00"
+            "linkText":"",
+            "arrivesBy":"",
+            "displayFrom":"",
+            "displayTo":""
          }
       },
       {
