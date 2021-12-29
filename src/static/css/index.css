@@ -576,6 +576,13 @@ body.test-a .GrandmaHandsSectionVideoMockup--video-wrapper {
   background: #d8d3d4;
 }
 
+@media(max-width: 650px) {
+  .Section-is-solid.Logo-banner {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
 .How-it-works .Illustration {
   position: relative;
 }
