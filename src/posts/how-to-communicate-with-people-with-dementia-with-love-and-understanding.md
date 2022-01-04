@@ -15,11 +15,11 @@ Let’s first consider why dementia patients have [communication challenges](htt
 
 Experts have detailed some of the more [specific symptoms](https://www.healthline.com/health/communicating-virtually-with-a-loved-one-with-alzheimers) that reveal challenges in telecommunicating for dementia suffers You may see your loved one expressing:
 
-\- A reduced ability to process language, as compared to their previous adult skills
-- Visual-perceptual changes, including when participating in direct communications
-- A need for more time to process information
-- Increased levels of disorientation and confusion
-- Less patient and demonstrating irritability
+* A reduced ability to process language, as compared to their previous adult skills
+* Visual-perceptual changes, including when participating in direct communications
+* A need for more time to process information
+* Increased levels of disorientation and confusion
+* Less patient and demonstrating irritability
 
 ## Nonverbal communication
 
@@ -28,10 +28,10 @@ Recall that nonverbal communication refers to all the means that we share emotio
 Tips for effective nonverbal communication with persons with dementia
 When we practice skills that try to match our nonverbal expressions to our spoken words the individual gains comfort and understanding, which often leads to greater cooperation.
 
-\- Remain calm and show patience when waiting for their responses
-- Work to keep your voice, your face and your whole body looking relaxed 
-- Strive to make and keep eye contact with the individual
-- Remind yourself to observe their responses, trying to learn about their feelings and emotions at the time
+* Remain calm and show patience when waiting for their responses
+* Work to keep your voice, your face and your whole body looking relaxed 
+* Strive to make and keep eye contact with the individual
+* Remind yourself to observe their responses, trying to learn about their feelings and emotions at the time
 
 ## Verbal communication
 
@@ -57,20 +57,20 @@ Video presentations can include simple introductions of the messengers. For exam
 
 ## The benefits of video messages
 
-\- Current technology provides the ease of recording and sharing video messages
-- Video books offers welcomes the viewer to watch and re-watch many times
-- Communication that includes verbal and nonverbal messages increasing comprehension
-- Videos present familiar settings, voices, backgrounds and objects for additional recognition 
-- Viewing times at the elder’s convenience
-- When at peak alertness, no distractions, limited ambient noise
-	
+* Current technology provides the ease of recording and sharing video messages
+* Video books offers welcomes the viewer to watch and re-watch many times
+* Communication that includes verbal and nonverbal messages increasing comprehension
+* Videos present familiar settings, voices, backgrounds and objects for additional recognition 
+* Viewing times at the elder’s convenience
+* When at peak alertness, no distractions, limited ambient noise
+  	
 
 ## Tips for caregivers
 
-\- Offer the video at appropriate times\
-- Watch in a well-lit room
-- Watch in a space without excessive ambient noise 
-- View with the senior
-- Discuss the show to share the experience and offer further reinforcement 
+*  Offer the video at appropriate times\
+* Watch in a well-lit room
+* Watch in a space without excessive ambient noise 
+* View with the senior
+* Discuss the show to share the experience and offer further reinforcement 
 
 Certainly not every person will find the same benefit from these presentations. Nor, will an individual continue to sustain their benefit as the disease process continues. That said, video messages should be considered as one tool to provide enjoyable communications with your loved one suffering from dementia.
