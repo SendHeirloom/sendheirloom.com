@@ -67,7 +67,7 @@ Video presentations can include simple introductions of the messengers. For exam
 
 ## Tips for caregivers
 
-*  Offer the video at appropriate times\
+* Offer the video at appropriate times
 * Watch in a well-lit room
 * Watch in a space without excessive ambient noise 
 * View with the senior
