@@ -1,9 +1,11 @@
 ---
 items:
-  - text: Blog
-    url: "/blog/"
   - text: About
     url: "/about-us/"
+  - text: Blog
+    url: "/blog/"
+  - text: Covers
+    url: "/covers/"
   - text: Occasions
     items:
       - text: "Birthday"
@@ -16,5 +18,3 @@ items:
     url: "/faq/"
   - text: Contact
     url: "/contact/"
-  - text: Covers
-    url: "/covers/"
