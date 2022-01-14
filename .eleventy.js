@@ -94,6 +94,10 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
 
+  eleventyConfig.addFilter('uppercase', (string) => {
+    return string.toUpperCase();
+  });
+
   // Let Eleventy transform HTML files as nunjucks
   // So that we can use .html instead of .njk
   return {

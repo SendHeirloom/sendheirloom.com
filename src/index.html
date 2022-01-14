@@ -3,6 +3,8 @@ layout: with_owl_slider
 title: Mail A Video Book | Heirloom
 path: home
 description: Send 20 minutes of your own videos in a physical book that automatically plays when it’s opened. We do all the work! Your book is delivered directly to your recipient with the videos already loaded. The perfect gift for loved ones without access to technology.
+
+customer_video_books: [birthday, family, holiday, memorials, memories, surprises, vacations, wedding]
 ---
 
 <link rel="stylesheet" href="/static/css/tailwind.css"/>
@@ -25,7 +27,7 @@ description: Send 20 minutes of your own videos in a physical book that automati
         <div class="GrandmaHandsSectionVideoMockup--content-inner">
           <div class="GrandmaHandsSectionVideoMockup--video-wrapper">
             <div class="AspectRatio" style="--ratio: calc(16 / 9)">
-              <video class="AspectRatio--content" muted autoplay loop playsinline src="https://public.sendheirloom.com/Homepage_11_2020_RF_24.mp4"></video>
+              <video class="AspectRatio--content" muted autoplay customer_video_books playsinline src="https://public.sendheirloom.com/Homepage_11_2020_RF_24.mp4"></video>
             </div>
           </div>
           <div class="AspectRatio GrandmaHandsSectionVideoMockup--background" style="--ratio: calc(2000 / 1432)">
@@ -102,7 +104,6 @@ description: Send 20 minutes of your own videos in a physical book that automati
             </script>
           </div>
         </div>
-
       </div>
     </div>
   </div>
@@ -164,7 +165,7 @@ description: Send 20 minutes of your own videos in a physical book that automati
       <div class="Illustration">
         <div class="How-it-works--video">
           <div class="AspectRatio" style="--ratio: calc(772 / 526)">
-            <video class="AspectRatio--content" muted autoplay loop playsinline src="/static/videos/how-it-works.mp4"></video>
+            <video class="AspectRatio--content" muted autoplay customer_video_books playsinline src="/static/videos/how-it-works.mp4"></video>
           </div>
         </div>
         <div class="AspectRatio" style="--ratio: calc(1 / 1)">
@@ -229,6 +230,51 @@ description: Send 20 minutes of your own videos in a physical book that automati
     <div class="TwoUp--illustration" larger-than-tablet-only>
       <div class="AspectRatio" style="--ratio: calc(800 / 542)">
         {% image "./src/static/images/take-a-gift.jpg", "Take a Gift", "", "", "AspectRatio--content with-depth" %}
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="Section Section-is-white Holidays-Books">
+  <div class="Column text-center Section-is-solid">
+    <h2 class="TwoUp--content-h2 mb-4">Watch real customer video books.</h2>
+
+    <div class="customerVideoBooks ColWrapper">
+      {% for item in customer_video_books %}
+      <div class="ColWrapper--item-4 customerVideoBook">
+        <div class="customerVideoBook--image">
+          <a href="#" intent="open-video-dialog" class="VideoWithPlayButton" step="video-{{item}}">
+            <div class="AspectRatio VideWithOverlay" style="--ratio: calc(270 / 254)">
+              {% image "./src/static/images/customer-video-books/" + item + ".jpg", "" + item + "", "270, 254", "(min-width: 270)", "AspectRatio&#45;&#45;content" %}
+            </div>
+          </a>
+        </div>
+        <span class="customerVideoBook--type uppercase">{{item}}</span>
+      </div>
+      {% endfor %}
+
+    </div> 
+  </div>
+</div>
+
+<div class="Section Section-is-solid ">
+  <div class="TwoUp">
+    <div class="TwoUp--illustration">
+      <div class="Illustration ">
+        <div class="AspectRatio" style="--ratio: calc(471 / 334)">
+          {% image "./src/static/images/heirloom-book-that-plays-video.png", "A book that plays video", "952, 668", "(min-width: 450px) 952, 668", "AspectRatio--content" %}
+        </div>
+      </div>
+    </div>
+    <div class="TwoUp--content">
+      <div class="Markdown">
+        <h2 class="TwoUp--content-h2">Send a gift card.</h2>
+        <p>give the perfect gift with a gift card from Heriloom,</p>
+        <p>Our physical gift cards allows the recipient to build their own custom video book at any time,</p>
+      </div>
+      <br/>
+      <div class="ButtonGroup Row-is-centered">
+        <a class="Button Button-is-pill Button-is-bordered Button-is-primary" intent="open-order-dialog" cta-id="share-the-moment">Order Now</a>
       </div>
     </div>
   </div>
