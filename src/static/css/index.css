@@ -59,20 +59,20 @@ body.mobile-menu-opened {
 }
 .Logo:before {
   content: '';
-  width: 70px;
-  height: 70px;
-  background-image: url(../images/christmas-wreath.svg);
+  width: 40px;
+  height: 40px;
+  background-image: url(../images/heart-icon.svg);
   background-repeat: no-repeat;
-  background-size: 240%;
   position: absolute;
-  bottom: -19px;
-  left: -34px;
+  background-size: contain;
+  top: 50%;
+  transform: translateY(-50%);
+  left: -40px;
   background-position: 20% 50%;
 }
-
-@media (max-width: 650px) {
-  .Logo:before {
-    bottom: -30px;
+@media (max-width: 845px) {
+  .Logo {
+    margin-left: 50px;
   }
 }
 
