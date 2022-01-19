@@ -306,8 +306,6 @@ span.line--pink::after {
 
 .GrandmaHandsSection {
   padding-top: 2em;
-  opacity: 0;
-  transition: opacity .5s ease;
 }
 .Christmas-decoration {
   position: relative;
