@@ -377,6 +377,17 @@ input:checked + div.checkbox-replacement svg {
     window.history.replaceState({}, document.title, window.location.pathname)
   }
 
+  let hideHowTo = false
+  gtag('event', 'optimize.callback', {
+    name: 'mkynlZBjQZamgmewIxElmg',
+    callback: (variant) => {
+      console.log('variant', variant)
+      if (variant == 1) {
+        hideHowTo = true
+      }
+    },
+  });
+
   let cost = 49
   let discountAmount = 0
   let discountCode = null
@@ -406,7 +417,12 @@ input:checked + div.checkbox-replacement svg {
       setStep('pay')
       initPayment()
     } else {
-      setStep('how-it-works')
+      if (hideHowTo) {
+        setStep('email')
+      } else {
+        setStep('how-it-works')
+      }
+
       qtyField.value = "1"
       emailOutput.hidden = true
       emailButton.removeAttribute('disabled')
