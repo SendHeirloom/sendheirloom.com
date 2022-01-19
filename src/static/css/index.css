@@ -387,10 +387,6 @@ body.test-0 .GrandmaHandsSectionVideoMockup--content-accompanying-text-mobile {
   padding-top: 1em;
 }
 
-body.test-a .GrandmaHandsSectionVideoMockup--content-accompanying-text-mobile {
-  padding-bottom: 3em;
-}
-
 .GrandmaHandsSectionVideoMockup--content-accompanying-text {
   position: absolute;
   top: 21.5%;
@@ -1619,4 +1615,18 @@ body.test-a .GrandmaHandsSectionVideoMockup--video-wrapper {
 }
 .CoversPage h1 {
   margin-bottom: 1em;
+}
+
+.Pricing--sale-show, .Pricing--sale-show-block {
+  display: none;
+}
+.Pricing--on-sale .Pricing--sale-show {
+  display: inherit;
+}
+.Pricing--on-sale .Pricing--sale-show-block {
+  display: block;
+}
+.Pricing--on-sale .Pricing--sale-strike {
+  text-decoration: line-through;
+  color: #CCC;
 }

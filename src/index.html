@@ -20,18 +20,28 @@ description: Send 20 minutes of your own videos in a physical book that automati
   </div>
 
   <div class="GrandmaHandsSectionVideoMockup" data-grandma-hands data-loading>
-    <div class="GrandmaHandsSectionVideoMockup--content-accompanying-text-mobile hide-test-b hide-test-a" hero-pricing>
+    <div class="GrandmaHandsSectionVideoMockup--content-accompanying-text-mobile hide-test-b hide-test-a Pricing--sale-here flex-wrap" hero-pricing>
       <div class="Pricing flex-1">
         <div>
-          <span class="Pricing--price"><span class="Price"><span class="Price--currency">$</span>49</span></span> free shipping
+          <span class="Pricing--price"><span class="Price"><span class="Pricing--sale-strike"><span class="Price--currency">$</span>49</span><span class="Pricing--sale-show" style="padding-left: 0.1em">$39</span></span></span> free shipping
         </div>
         <div>10-minute video book</div>
       </div>
       <div class="Pricing flex-1">
         <div>
-          <span class="Pricing--price"><span class="Price"><span class="Price--currency">$</span>69</span></span> free shipping
+          <span class="Pricing--price"><span class="Price"><span class="Pricing--sale-strike"><span class="Price--currency">$</span>69</span><span class="Pricing--sale-show" style="padding-left: 0.1em">$59</span></span></span> free shipping
         </div>
         <div>20-minute video book</div>
+      </div>
+
+      <div class="border-gray-200 border-2 bg-yellow-200 p-2 my-2 text-center Pricing--sale-show-block basis-full" style="background-color: rgb(253 230 138)">
+        <h4 class="w-screen">Lightning Sale</h4>
+
+        <div>
+          Buy now, <strong>save $10</strong>
+        </div>
+
+        <div class="text-lg mt-2"><time datetime="10m" count-down>9:59</time> remaining</div>
       </div>
     </div>
 
@@ -64,21 +74,71 @@ description: Send 20 minutes of your own videos in a physical book that automati
           </div>
 
           
-          <div class="Pricing">
-            <div>
-              <span class="Pricing--price"><span class="Price"><span class="Price--currency">$</span>49</span></span> free shipping
+          <div class="Pricing Pricing--sale-here">
+            <div class="mb-8">
+              <div>
+                <span class="Pricing--price"><span class="Price"><span class="Pricing--sale-strike"><span class="Price--currency">$</span>49</span><span class="Pricing--sale-show" style="padding-left: 0.1em">$39</span></span></span> free shipping
+              </div>
+              <span class="Price--separator show-test-b">&nbsp;|&nbsp;</span>
+              <div>10-minute video book</div>
             </div>
-            <span class="Price--separator show-test-b">&nbsp;|&nbsp;</span>
-            <div>10-minute video book</div>
-          </div>
-          <div class="Pricing test-b" style="padding-top: 2em">
             <div>
-              <span class="Pricing--price"><span class="Price"><span class="Price--currency">$</span>69</span></span> free shipping
+              <div>
+                <span class="Pricing--price"><span class="Price"><span class="Pricing--sale-strike"><span class="Price--currency">$</span>69</span><span class="Pricing--sale-show" style="padding-left: 0.1em">$59</span></span></span> free shipping
+              </div>
+              <span class="Price--separator show-test-b">&nbsp;|&nbsp;</span>
+              <div>20-minute video book</div>
             </div>
-            <span class="Price--separator show-test-b">&nbsp;|&nbsp;</span>
-            <div>20-minute video book</div>
-          </div>
 
+            <div class="border-gray-200 border-2 bg-yellow-200 p-2 my-2 text-center Pricing--sale-show-block" style="max-width: 18rem; background-color: rgb(253 230 138)">
+              <h4>Lightning Sale</h4>
+
+              Buy now, <strong>save $10</strong>
+
+              <div class="text-lg mt-2"><time datetime="10m" count-down>9:59</time> remaining</div>
+            </div>
+
+            <script>
+              (function(){
+                setTimeout(() => {
+                  // Wait for order dialog to load
+                  if (window.odGetDiscountCode() === null){
+                    window.odEnableDiscount('LIGHTNING')
+                  }
+                }, 1000)
+
+                const countdowns = document.querySelectorAll('time[count-down]')
+                countdowns.forEach(cd => {
+                  const start = Date.now()
+                  const end = start + parseInt(cd.getAttribute('datetime')) * 60 * 1000 - 1000
+                  const update = () => {
+                    const remaining = Math.max(0, Math.ceil((end - Date.now()) / 1000))
+                    cd.textContent = (remaining / 60 | 0) + ':' + ('0' + remaining % 60).slice(-2)
+                    if (remaining > 0) {
+                      requestAnimationFrame(update)
+                    } else {
+                      document.querySelector('.Pricing--on-sale').classList.remove('Pricing--on-sale')
+                      if (window.odGetDiscountCode() === "LIGHTNING" && !window.odDialog.isOpen){
+                        window.odDisableDiscount()
+                      }
+                    }
+                  }
+                  update()
+                })
+
+                gtag('event', 'optimize.callback', {
+                  name: '_yl1zpMbSXWV23MrL9stAg',
+                  callback: (variant) => {
+                    if (variant == 1) {
+                      document.querySelector('.Pricing--sale-here').forEach(el => {
+                        el.classList.add('Pricing--on-sale')
+                      })
+                    }
+                  },
+                });
+              })()
+            </script>
+          </div>
         </div>
 
           <div class="GrandmaHandsSectionVideoMockup--content-inner show-test-b">

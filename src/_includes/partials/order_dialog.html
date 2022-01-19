@@ -230,6 +230,10 @@ input:checked + div.checkbox-replacement svg {
 [dialog="order"] .List-steps--content {
   font-size: 0.8em;
   padding-bottom: 0.5em;
+  padding-right: 1.5em;
+}
+[dialog="order"] form[dialog-form] {
+  padding-right: 1em;
 }
 [hidden] {
   display: none;
@@ -335,6 +339,7 @@ input:checked + div.checkbox-replacement svg {
 (function(){
   const dialogEl = document.querySelector('[dialog="order"]')
   const dialog = new Dialog(dialogEl)
+  window.odDialog = dialog
 
   const howItWorksForm = dialogEl.querySelector('[step="how-it-works"] form')
 
@@ -397,12 +402,22 @@ input:checked + div.checkbox-replacement svg {
 
     discountCode = discountId.toUpperCase()
 
-    if (discountCode === 'GIVETHANKS'){
+    if (discountCode === 'BEMINE'){
       discountAmount = 15
     } else {
       discountAmount = 10
     }
   }
+
+  function disableDiscount(){
+    payDiscountLink.hidden = false
+    discountCode = null
+    discountAmount = 0
+  }
+
+  window.odEnableDiscount = enableDiscount
+  window.odDisableDiscount = disableDiscount
+  window.odGetDiscountCode = () => discountCode
 
   if (params['discount']) {
     enableDiscount(params['discount'])
