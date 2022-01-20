@@ -129,6 +129,7 @@ description: Send 20 minutes of your own videos in a physical book that automati
                 gtag('event', 'optimize.callback', {
                   name: '_yl1zpMbSXWV23MrL9stAg',
                   callback: (variant) => {
+                    console.log("Pricing variant", variant)
                     if (variant == 1) {
                       document.querySelector('.Pricing--sale-here').forEach(el => {
                         el.classList.add('Pricing--on-sale')
