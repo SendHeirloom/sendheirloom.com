@@ -312,49 +312,6 @@ span.line--pink::after {
 .GrandmaHandsSection {
   padding-top: 2em;
 }
-.Christmas-decoration {
-  position: relative;
-}
-.Christmas-decoration:before {
-  content: '';
-  display: block;
-  position: absolute;
-  top: -111px;
-  left: 0;
-  width: 100%;
-  height: calc( 100% + 111px );
-  background-image: url('../images/snowflakes.svg');
-  background-position: top center;
-  background-repeat: no-repeat;
-  background-size: 100%;
-  z-index: -1;
-}
-
-@media (min-width: 651px) {
-  .test-b .Christmas-decoration:before {
-    top: 12px;
-  }
-}
-
-@media (max-width: 650px) {
-  .Christmas-decoration:before {
-    background-image: url('../images/mobile-snowflakes-top.svg');
-  }
-  body:not(.test-b) .Christmas-decoration:after {
-    content: '';
-    display: block;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: url('../images/mobile-snowflakes-bottom.svg');
-    background-position: bottom center;
-    background-repeat: no-repeat;
-    background-size: 100%;
-    z-index: -1;
-  }
-}
 
 @media (min-width: 1200px) {
   body.test-0 .GrandmaHandsSection {
