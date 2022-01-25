@@ -1397,11 +1397,21 @@ body.test-a .GrandmaHandsSectionVideoMockup--video-wrapper {
 .ColWrapper--item-3 {
   flex: 0 0 32%;
 }
+.ColWrapper--item-4 {
+  flex: 0 0 24%;
+}
 .show-when-list {
   display: none;
 }
+@media (max-width: 768px) {
+  .ColWrapper--item-4 {
+    flex: 0 0 49%;
+  }  
+}
+
 @media (max-width: 600px) {
-  .ColWrapper--item-3 {
+  .ColWrapper--item-3,
+  .ColWrapper--item-4 {
     flex: 0 0 100% !important;
     margin-bottom: 2.5em;
   }
@@ -1621,6 +1631,7 @@ body.test-a .GrandmaHandsSectionVideoMockup--video-wrapper {
 .CoversPage h1 {
   margin-bottom: 1em;
 }
+
 
 .Pricing--sale-show, .Pricing--sale-show-block {
   display: none;
