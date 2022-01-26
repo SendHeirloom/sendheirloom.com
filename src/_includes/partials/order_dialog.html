@@ -409,6 +409,9 @@ input:checked + div.checkbox-replacement svg {
   const closeButton = dialogEl.querySelector('[dialog-close]')
   const greaters = dialogEl.querySelectorAll('[if-qty-greater-than-one]')
 
+  let lastPaymentInit = null
+  let lastPaymentReq = null
+
   const urlSearchParams = new URLSearchParams(window.location.search);
   const params = Object.fromEntries(urlSearchParams.entries());
   if (params['flow'] === 'order'){
@@ -806,9 +809,6 @@ input:checked + div.checkbox-replacement svg {
     renderGreaters(quantity)
   }
 
-
-  let lastPaymentInit = null
-  let lastPaymentReq = null
   function initPayment(){
     // var stripe = Stripe("pk_test_51JPwtdAHAhN8nuhgoOcZtasegdGpbhZMlCKPdmFy5TxDpVhtMIIDLlu3uZdvi5MoNH7JXsKC3LkstaKHN9cQRfxL000gpQa6U7");
     var stripe = Stripe("pk_live_51JPwtdAHAhN8nuhgn3MvHmOe3dya0HLjA8UH1PuvF83vWQfG2vjscPXl07fnca1GOqSrjMP0DxNJ6zorBnvn39We00UF94fL3X");
