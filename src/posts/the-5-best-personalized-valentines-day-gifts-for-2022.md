@@ -14,26 +14,21 @@ Valentine's Day is no longer saved for lovers sharing their affection. From scho
 
 ## For Your Significant Other
 
-
 Let’s start here. No need to look any further than a personalized item that is sure to spark fun and laughter together. This [Personalized Tower](https://www.personalizationmall.com/Our-Love-Personalized-Jumbling-Tower-Game-with-Wood-Case-p38611.prod?sdest=store&sdestid=53&storeid=53) features your creative choices of text on the case. The inside pieces are blank, ready for your secret messages (think fortune cookies without the calories!).
 
 ## For Young Children
-
 
 Your little ones, who love their stuffy, may hug forever a personalized one. How about a [stuffed animal wearing a personalized shirt](https://www.personalizationmall.com/My-Valentine-Personalized-Plush-Sloth-p35151.prod?sdest=dept&sdestid=1767&storeid=53&categoryid=1767), expressive for Valentine’s Day and every day.
 
 ## For Grandparents
 
-
-Your Grandmothers and Grandfathers “don’t need a thing” they will say. So don’t ask. You already know what they cherish, you and your family making and savoring memories. How about picking out a few of your favorite family videos and having them loaded onto a video book for easy and frequent viewing. That’s just what Heirloom Video Books thought when they created their company. Just visit the [website](sendheirloom.com) and you will be loading and shipping this Valentine’s Day gift in 10 minutes. 
+Your Grandmothers and Grandfathers “don’t need a thing” they will say. So don’t ask. You already know what they cherish, you and your family making and savoring memories. How about picking out a few of your favorite family videos and having them loaded onto a video book for easy and frequent viewing. That’s just what Heirloom Video Books thought when they created their company. Just visit the [website](https://sendheirloom.com/) and you will be loading and shipping this Valentine’s Day gift in 10 minutes. 
 
 ## For Mom and Dad
-
 
 What does Mom and Dad always want? How about warm hugs from everyone, everyday! This [personalized blanket](https://www.personalizationmall.com/Personalized-Blankets-Close-To-Her-Heart-p19020.prod?sdest=dept&sdestid=1765&storeid=53&categoryid=1765) has room for up to 21 names featured in a heart shape. 
 
 ## For Older Kids
-
 
 For the kids of a little more mature crowd, how about a personalize gift also. Consider taking one of their favorite pictures, such as their current soccer team or theatre troupe and creating a [one-of-a-kind puzzle](https://www.mimeophotos.com/photo-gifts/puzzles/photo?irclickid=SJhRgZwrCxyIUsZ014wOJxMNUkGyCiSxrzeoyY0&irgwc=1). That’s right, with this product you simple drag and drop a photo and they will receive a puzzle. Put it together and all their friends appear. Even the fussy teenager will appreciate this expression of parental love.
 
