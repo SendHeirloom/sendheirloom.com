@@ -16,17 +16,13 @@ Here are a few ways you can send your videos, let them know they are loved, and 
 
 ## Good Old Fashioned DVD Mailing
 
-
 Remember the post office? Good, because they offer a great savings on media mailing, and that’s what a CD or DVD is. First, you will want to carefully secure your prize tape in an envelope no larger than 12” x 15“. Another way to measure is where the total of all 3 dimensions is less and 108”. Also, be sure that the package total weight is no more than 70 pounds, which is pretty hard to do with just videos inside. Seal the package well and visit your local post office. Do keep in mind that this savings, and it can be substantial, comes with a hidden cost, time. Media Mail moves a lot slower than first class, so allow an extra week. Valentine’s Day waits for no one!
 
-## 
-Copy Videos onto USB Drives
-
+## Copy Videos Onto USB Drives
 
 A USB sticks are a good storage and sharing choice, too. These devices are sometimes referred to as thumb drives for good reason; they are often just that size. You can convert your videos to be loaded on a USB stick. These are easy to mail and very easy to load into your happy recipient’s computer. Be sure to check the storage size of your stick. For example, some may hold up to 2gigabytes which may equate to three hours of video. 
 
 ## Hold Your Videos In Your Hand
-
 
 Want to give yourself a gift too? How about having all this work done for you? Check out Heirloom Video Books. This inventive product is available to you on this [website.](sendheirloom.com) You will be quickly guided to purchase a book that can hold 10 minutes or 20 minutes of video. And here is the best part -- your recipient does not need to have any electronic devices. The Heirloom opens like a book, and the video screen immediately plays. No need for a computer, smart phone, VCR player, nothing! This is the perfect choice for a child you wish to surprise with your book reading and message! And even more perfect for your elder who is hungry for your family video viewing, over and over again!
 
