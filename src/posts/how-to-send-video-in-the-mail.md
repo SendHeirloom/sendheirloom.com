@@ -1,5 +1,5 @@
 ---
-title: How To Send Video In The Mail
+title: How To Send A Video In The Mail
 description: Ways you can send videos, let them know they are loved, and stay
   close even when isolated.
 author: Randee Bloom, RN, MBA, PhD
