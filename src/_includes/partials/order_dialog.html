@@ -464,13 +464,17 @@ input:checked + div.checkbox-replacement svg {
   }
 
   function open() {
-    if (params['email']) {
+    if (params['qty']) {
+      qtyField.value = params['qty']
+    }
+
+    if (params['step'] === 'pay') {
+      setStep('pay')
+      initPayment()
+    } else if (params['email']) {
       setStep('quantity')
       qtyField.focus()
       qtyField.select()
-    } else if (params['pay']) {
-      setStep('pay')
-      initPayment()
     } else {
       if (hideHowTo) {
         setStep('email')
@@ -481,10 +485,6 @@ input:checked + div.checkbox-replacement svg {
       qtyField.value = "1"
       emailOutput.hidden = true
       emailButton.removeAttribute('disabled')
-    }
-
-    if (params['qty']) {
-      qtyField.value = params['qty']
     }
 
     dialog.open()
