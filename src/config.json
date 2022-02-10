@@ -41,12 +41,12 @@
             "Expedited"
          ],
          "schedulingAllowed":false,
-         "deliveryBusinessDays":3,
+         "deliveryBusinessDays":2,
          "deliveryOverride":{
-            "linkText":"",
-            "arrivesBy":"",
-            "displayFrom":"",
-            "displayTo":""
+            "linkText":"Valentine's Day",
+            "arrivesBy":"2022-02-14",
+            "displayFrom":"2022-02-09 12:00:00",
+            "displayTo":"2022-02-11 01:00:00"
          }
       },
       {
