@@ -90,7 +90,7 @@ Example:  “Hey, Just a quick reminder to send me a short video for Bill’s 70
 </div>
 
 * Once you receive all of the videos from friends and family, you can begin uploading your videos to Heirloom.
-* Simply click [“Buy Now”](sendheirloom.com) to purchase a video book.  You can select either a 10-minute book or a 20-minute book, depending on how many minutes of video you have collected. 
+* Simply click [“Buy Now”](https://sendheirloom.com) to purchase a video book.  You can select either a 10-minute book or a 20-minute book, depending on how many minutes of video you have collected. 
 * Immediately after you buy a book, you’ll receive a link via email to upload your videos.
 * Just drag and drop them into the video builder, select your cover, add your gift message, and tell us what address you want us to send the video book to.  
 * Our video books ship in 48 hours and arrives in 5 to 10 business days.  We offer expedited shipping, should you have some family or friends who take their sweet time :)
