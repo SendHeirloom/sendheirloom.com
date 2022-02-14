@@ -1,5 +1,5 @@
 ---
-title: How to Safely Celebrate a Kid’s Birthday During COVID
+title: How To Safely Celebrate A Kid’s Birthday During COVID
 description: "Fun birthday party ideas during the COVID pandemic. "
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-02-14T18:38:58.260Z
@@ -13,7 +13,7 @@ tags:
 
 Let’s start with our primary goal, and keep it in full focus as we play these events. Our children’s health and that of every guest must be honored. No single attendance at an event is worth the risk of someone’s health and welfare. We must acknowledge that our child and probably ourselves with be disappointed, at least to some extent. The sheer limit of physical contact, known so well as “social distancing” can put a damper on the celebration. Add to this the need to potentially wear face masks, pre-interview guests as to their vaccination and booster status, and mandating hand-washing practices may damper the free-flowing excitement.
 
-## Start with your "must have" list 
+## Start with your "must have" list
 
 1. A celebration *will* occur: whether separated or within a much smaller group
 2. Birthday-like items *will* decorate the day: paper goods, themed-decorations, party-like foods, and especially a cake and candles
@@ -24,9 +24,9 @@ Let’s start with our primary goal, and keep it in full focus as we play these 
 ## Now let the fun brainstorming begin!
 
 * Look outside: can you decorate your front yard and encourage passersby to share in the excitement? How about a sign: “Honk and Wave-a-Happy Birthday for Liam!" Whether homemade or purchased, specialty signs can begin to show your little one that many people love him and want to share in his celebration. Be sure to ask local party guests to drive-by at scheduled times. Each guest can have their own bubbles, whistles, horns, even pots and pans, to create their special loud birthday wish! Don’t forget to offer a prize to every car that is decorated! Guests can be invited to hop out of their car and “sign a big card” or how about a sidewalk chalk birthday wish (a great party favor idea)?
-*  Organize a video message collection. Ask your guests 2-3 weeks in advance to create, film and send in a short video message to the birthday girl. You can up their creativity challenge with such ideas as:
+* Organize a video message collection. Ask your guests 2-3 weeks in advance to create, film and send in a short video message to the birthday girl. You can up their creativity challenge with such ideas as:
 
-  *  a theme: everyone in the video dresses as a Disney character, a funny animal, etc.
+  * a theme: everyone in the video dresses as a Disney character, a funny animal, etc.
   * a silly joke: everyone in the video tells a joke to the birthday boy
 * Video messages can be gathered together and placed on a unique video book offered by [Heirloom](https://sendheirloom.com/), preserving and easily replaying the moment for the child.
 * Send a party-in-a-box as the invitation to honored guests. A simple mailed envelope can include:
