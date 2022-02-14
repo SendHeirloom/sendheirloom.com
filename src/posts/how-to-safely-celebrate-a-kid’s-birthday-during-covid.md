@@ -11,14 +11,14 @@ tags:
 
 “You are only SIX once,” said my then-nearly-6 year old daughter. And she was right, as she almost always was. A birthday is a celebration of many things. Every child knows what joys can be in-store. Every parent knows that the day is a milestone for themselves, seeing the growth of the past and hoping for continued joy. And now, as this daughter’s own son is now nearing his 6th birthday, I’m asking the necessary question: “How do we celebrate safely in this time of a global pandemic?”
 
-Let’s start with our primary goal, and keep it in full focus as we play these events. Our children’s health and that of every guest must be honored. No single attendance at an event is worth the risk of someone’s health and welfare. We must acknowledge that our child and probably ourselves with be disappointed, at least to some extent. The sheer limit of physical contact, known so well as “social distancing” can put a damper on the celebration. Add to this the need to potentially wear face masks, pre-interview guests as to their vaccination and booster status, and mandating hand-washing practices may damper the free-flowing excitement.
+Let’s start with our primary goal, and keep it in full focus as we plan these events. Our children’s health and that of every guest must be honored. No single attendance at an event is worth the risk of someone’s health and welfare. We must acknowledge that our child and probably ourselves with be disappointed, at least to some extent. The sheer limit of physical contact, known so well as “social distancing” can put a damper on the celebration. Add to this the need to potentially wear face masks, pre-interview guests as to their vaccination and booster status, and mandating hand-washing practices may damper the free-flowing excitement.
 
 ## Start with your "must have" list
 
 1. A celebration *will* occur: whether separated or within a much smaller group
 2. Birthday-like items *will* decorate the day: paper goods, themed-decorations, party-like foods, and especially a cake and candles
 3. Age-appropriate activities *will* be organized: whether together or separated through video, invited guests can share in activities
-4. Age-appropriate gifts *will* be presented: exciting gift opening scan occur with a little pre-planning and shared messaging
+4. Age-appropriate gifts *will* be presented: exciting gift opening can occur with a little pre-planning and shared messaging
 5. Party favors for honored guests *will* be distributed: especially the younger ones will enjoy personal favors that carry the fun beyond the event.
 
 ## Now let the fun brainstorming begin!
