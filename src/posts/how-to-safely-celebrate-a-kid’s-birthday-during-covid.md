@@ -42,7 +42,7 @@ Let’s start with our primary goal, and keep it in full focus as we plan these 
 
 * Create and send a BINGO game about the birthday boy! 
 
-You can easily find a BINGO-card form on-line and fill it in with the birthday boys favorite objects along with birthdate, sibling names, and so much more.
+You can easily find a BINGO-card form on-line and fill it in with the birthday boy's favorite objects along with birthdate, sibling names, and so much more.
 
 * House Scavenger Hunt
 
