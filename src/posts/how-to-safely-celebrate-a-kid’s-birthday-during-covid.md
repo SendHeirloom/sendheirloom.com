@@ -1,5 +1,5 @@
 ---
-title: How To Safely Celebrate A Kid’s Birthday During COVID
+title: Ways To Safely Celebrate A Kid’s Birthday During COVID
 description: "Fun birthday party ideas during the COVID pandemic. "
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-02-14T18:38:58.260Z
