@@ -303,6 +303,10 @@ span.line--pink::after {
   
   .Pricing--sale-here {
     display: flex;
+    flex-wrap: wrap;
+  }
+  .tablet-full-width {
+    width: 100%;
   }
   .tablet-half-width {
     width: 50%;
