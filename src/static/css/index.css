@@ -1468,3 +1468,37 @@ span.line--pink::after {
   text-decoration: line-through;
   color: #CCC;
 }
+
+/* Customer Video Books --start */
+.customerVideoBooks {
+  
+}
+.customerVideoBook {
+  box-sizing: border-box;
+  position: relative;
+  margin-bottom: 1%;
+}
+.customerVideoBook--image {
+  border: 10px solid #6396a6;
+}
+.customerVideoBook--type {
+  display: inline-block;
+  background-color: #6396a6;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  z-index: 10;
+  padding: 10px 15px;
+  line-height: 1;
+  color: #fff;
+  font-weight: normal;
+  min-width: 48%;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .customerVideoBook {
+    margin-bottom: 2%;
+  }
+}
+/* Customer Video Books --end */
