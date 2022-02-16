@@ -26,7 +26,7 @@ Consider a gift that brings your grandparent back to one of their past hobbies. 
 
 ![A Garden](/static/images/blog/gifts-grandparents-actually-want/garden.jpg)
 
-Perhaps your grandparent loved gardening; large gardens with big crops. Now they live in a small, neat, easy to care for apartment. You can return them to their very successful and healthy hobby with some imagination and motivation. Consider a [hydroponic garden](https://www.thespruce.com/beginners-guide-to-hydroponics-1939215) or a series of window box herb gardens.
+Perhaps your grandparent loved gardening; large gardens with big crops. Now they live in a small, neat, easy to care for apartment. You can return them to their very successful and healthy hobby with some imagination and motivation. Consider a [hydroponic garden](https://happydiyhome.com/hydroponic-system/) or a series of window box herb gardens.
 
 Is your grandparent a good cook? Consider joining together the family's generations of recipes to create a recipe collection album. If your grandparent possesses the family recipes, try gathering all of their recipes, and produce an heirloom [cookbook](https://www.shutterfly.com/photo-books/recipe-photo-books?CID=AFF-PJN-SFLY-132845-3469553323&clickId=3469553323&creative=8-10924&publisher=132845). Ask your grandparent to proofread the copy and add personal messages for each one. She can include messages about the first time she made this recipe or how it became a family favorite.
 
