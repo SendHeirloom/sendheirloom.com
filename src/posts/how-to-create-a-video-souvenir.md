@@ -9,7 +9,7 @@ tags:
 ---
 ![Video book of a baby being held by hands ](https://ucarecdn.com/347098fd-f43b-4cdf-825b-f73f7ff661c1/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Souvenir video book")
 
-If you’re like me, finding the precious video taken during a trip or celebration can be as frustrating as finding my matching glove. Lately I’ve been looking for ways to preserve, honor and share share special memories more readily. Here are a few suggestions on how to get started creating a souvenir video collection.
+If you’re like me, finding the precious video taken during a trip or celebration can be as frustrating as finding my matching glove. Lately I’ve been looking for ways to preserve, honor and share special memories more readily. Here are a few suggestions on how to get started creating a souvenir video collection.
 
 ## Visit, Film, and Repeat
 
@@ -31,4 +31,4 @@ You may be holding on your phone or computer long wedding videos, simply too lon
 
 How can we better mark the milestones in our lives than by the lives that join us. Grab the newest baby video from each family member and create a family welcome video. You will see immediate similarities of their first day on film. Then, when placed so close together you will probably surprise yourself and others with each baby’s uniqueness. Their cry, their smile, their daddy’s awkward first holding, will bring smiles and moments of time standing still, almost.
 
-Now, you hardly want another video stored only on your phone or computer. Consider how you can share these creations. Sending them to your lucky audience can be as simple as an email attachment. How about showing your clever side and earning the family’s gratitude at the same time? [Heirloom](https://sendheirloom.com/) video books offers the same easy click and you can send a video book that instantly preserves and places these priceless montages.
+Now, you hardly want another video stored only on your phone or computer. Consider how you can share these creations. Sending them to your lucky audience can be as simple as an email attachment. How about showing your clever side and earning the family’s gratitude at the same time? [Heirloom](https://sendheirloom.com/) video books offers the same easy click and you can send a video book that instantly preserves these priceless montages.
