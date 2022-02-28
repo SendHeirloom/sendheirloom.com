@@ -1,7 +1,7 @@
 ---
 title: How Video Books Are Made
 description: The 5 steps to create a video book.
-author: Heirloom Co-Founders
+author: Heirloom Founders
 date: 2022-02-28T18:56:55.596Z
 social_image: /static/images/og-image.png
 ---
