@@ -56,6 +56,7 @@ module.exports = function (eleventyConfig) {
     "./_tmp/static/css/style.css": "./static/css/style.css",
     "./_tmp/static/css/tailwind.css": "./static/css/tailwind.css",
     "./src/admin/config.yml": "./admin/config.yml",
+    "./src/robots.txt": "./robots.txt",
   });
 
   eleventyConfig.addPassthroughCopy("./src/static/images");

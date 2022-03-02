@@ -1,0 +1,4 @@
+Sitemap: https://sendheirloom.com/sitemap.xml
+
+User-agent: *
+Disallow:
