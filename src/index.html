@@ -30,78 +30,26 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
               <video class="AspectRatio--content" muted autoplay customer_video_books playsinline src="https://public.sendheirloom.com/Homepage_11_2020_RF_24.mp4"></video>
             </div>
           </div>
-          <div class="AspectRatio GrandmaHandsSectionVideoMockup--background" style="--ratio: calc(2000 / 1432)">
+          <div class="AspectRatio GrandmaHandsSectionVideoMockup--background" style="--ratio: calc(2000 / 1432); margin-bottom: -3px">
             {% image "./src/static/images/two-hands-transparent.png", "Woman holding Heirloom video book", "2000, 1432", "(max-width: 32em) 1432w", "AspectRatio--content" %}
           </div>
 
           </div>
         <div class="GrandmaHandsSectionVideoMockup--content-accompanying-text">
           
-          <div class="Pricing Pricing--sale-here">
+          <div class="Pricing">
             <div class="mb-8 price-col tablet-half-width tablet-text-center">
               <div>
-                <span class="Pricing--price"><span class="Price"><span class="Pricing--sale-strike"><span class="Price--currency">$</span>49</span><span class="Pricing--sale-show" style="padding-left: 0.1em">$39</span></span></span> free shipping
+                <span class="Pricing--price"><span class="Price"><span class="Price--currency">$</span>49</span></span> free shipping
               </div>
               <div>10-minute video book</div>
             </div>
             <div class="tablet-half-width tablet-text-center price-col">
               <div>
-                <span class="Pricing--price"><span class="Price"><span class="Pricing--sale-strike"><span class="Price--currency">$</span>69</span><span class="Pricing--sale-show" style="padding-left: 0.1em">$59</span></span></span> free shipping
+                <span class="Pricing--price"><span class="Price"><span class="Price--currency">$</span>69</span></span> free shipping
               </div>
               <div>20-minute video book</div>
             </div>
-
-            <div class="border-gray-200 border-2 bg-yellow-200 p-2 my-2 mx-auto text-center Pricing--sale-show-block" style="max-width: 18rem; background-color: rgb(253 230 138)">
-              <h4>Lightning Sale</h4>
-
-              Buy now, <strong>save $10</strong>
-
-              <div class="text-lg mt-2"><time datetime="10m" count-down>9:59</time> remaining</div>
-            </div>
-
-            <script>
-              (function(){
-                setTimeout(() => {
-                  // Wait for order dialog to load
-                  if (window.odGetDiscountCode() === null){
-                    window.odEnableDiscount('LIGHTNING')
-                  }
-                }, 1000)
-
-                const countdowns = document.querySelectorAll('time[count-down]')
-                countdowns.forEach(cd => {
-                  const start = Date.now()
-                  const end = start + parseInt(cd.getAttribute('datetime')) * 60 * 1000 - 1000
-                  const update = () => {
-                    const remaining = Math.max(0, Math.ceil((end - Date.now()) / 1000))
-                    cd.textContent = (remaining / 60 | 0) + ':' + ('0' + remaining % 60).slice(-2)
-                    if (remaining > 0) {
-                      requestAnimationFrame(update)
-                    } else {
-                      document.querySelectorAll('.Pricing--on-sale').forEach(el => {
-                        el.classList.remove('Pricing--on-sale')
-                      })
-                      if (window.odGetDiscountCode() === "LIGHTNING" && !window.odDialog.isOpen){
-                        window.odDisableDiscount()
-                      }
-                    }
-                  }
-                  update()
-                })
-
-                gtag('event', 'optimize.callback', {
-                  name: '_yl1zpMbSXWV23MrL9stAg',
-                  callback: (variant) => {
-                    console.log("Pricing variant", variant)
-                    if (variant == 1) {
-                      document.querySelectorAll('.Pricing--sale-here').forEach(el => {
-                        el.classList.add('Pricing--on-sale')
-                      })
-                    }
-                  },
-                });
-              })()
-            </script>
           </div>
         </div>
       </div>
