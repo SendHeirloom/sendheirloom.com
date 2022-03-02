@@ -32,7 +32,7 @@ collections:
         hint: "An image shown with the post when it's shared on Twitter and Facebook"
         name: "social_image"
         widget: "image"
-        default: "/static/images/og-image.png"
+        default: "/static/images/og-image.jpg"
         allow_multiple: false
       - { label: "Body", name: "body", widget: "markdown" }
       - label: "Tags"
