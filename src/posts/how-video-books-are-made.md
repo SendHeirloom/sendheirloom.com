@@ -9,11 +9,15 @@ social_image: /static/images/og-image.jpg
 tags:
   - VideoBook
 ---
+If you're like us, you love to hear the backstory of how products are created. Here is a behind the scenes look at how our video books are made, from design to delivery.
+
 # 01. Product Design
 
 ![Product Design](https://ucarecdn.com/2f34106b-6944-4ef0-8617-6825e07df64d/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Video book covers are designed by Heirloom and the designs are sent to a partner factory to produce samples and then for bulk production.")
 
 Video book covers are designed by Heirloom and the designs are sent to a partner factory to produce samples and then for bulk production.
+
+
 
 
 
@@ -25,11 +29,15 @@ Book covers are printed on paper and adhered onto hard cover books. Tiny magnets
 
 
 
+
+
 # 03. Module Creation
 
-![Module Creation](https://ucarecdn.com/1c10d9d0-94dd-48fb-8b70-60aea8a5d78b/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Speakers, 5\\" HD screens, memory, batteries and wiring are assembled together inside a 6.5 square video book module.")
+![Module Creation](https://ucarecdn.com/1c10d9d0-94dd-48fb-8b70-60aea8a5d78b/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Speakers, 5\" HD screens, memory, batteries and wiring are assembled together inside a 6.5 square video book module.")
 
 Speakers, 5" HD screens, memory, batteries and wiring are assembled together inside a 6.5 square video book module.
+
+
 
 
 
@@ -38,6 +46,8 @@ Speakers, 5" HD screens, memory, batteries and wiring are assembled together ins
 ![Player Testing](https://ucarecdn.com/a63eaa0b-7d0d-471d-b3f4-8c6026446f1c/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Video player screens, speakers and memory are all tested on computers. Modules get packaged and shipped to Heirloom Headquarters for assembly.")
 
 Video player screens, speakers and memory are all tested on computers. Modules get packaged and shipped to Heirloom Headquarters for assembly.
+
+
 
 
 
