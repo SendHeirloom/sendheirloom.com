@@ -4,7 +4,7 @@ description: "The celebration of Grandparents Day is not just for grandparents
   but rather the connection to grandparents. It's an opportunity to pause from
   our daily lives’ tasks and responsibilities and focus on the cherished elders
   in your family. Here are some ideas for making Grandparents Day extra special
-  for you and your grandparent..  "
+  for you and your grandparent. "
 author: Randee Bloom, RN, MBA PhD
 date: 2021-08-21T20:26:15.623Z
 social_image: https://ucarecdn.com/d753f9f4-85c4-4a0a-8017-29f97b5170f1/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
