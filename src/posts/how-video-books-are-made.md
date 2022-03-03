@@ -1,6 +1,8 @@
 ---
 title: How Video Books Are Made
-description: The 5 steps to create a video book.
+description: If you're like us, you love to hear the backstory of how products
+  are created. Here is a behind the scenes look at how our video books are
+  created, from design to delivery.
 author: Heirloom Founders
 date: 2022-02-28T18:56:55.596Z
 social_image: /static/images/og-image.jpg
