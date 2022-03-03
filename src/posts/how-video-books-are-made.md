@@ -19,8 +19,6 @@ If you're like us, you love learning the backstory of how products are designed 
 
 Video book covers are designed by Heirloom and the designs are sent to a partner factory to produce samples and then for bulk production.
 
-
-
 ## 02. Cover Construction
 
 ![Cover Construction](https://ucarecdn.com/f494f9d2-ee4e-4262-92a1-5c3abcf09c94/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Book covers are printed on paper and adhered onto hard cover books. Tiny magnets are added to the covers and when separated from the modules they trigger the video to play.")
@@ -31,7 +29,7 @@ Book covers are printed on paper and adhered onto hard cover books. Tiny magnets
 
 ## 03. Module Creation
 
-![Module Creation](https://ucarecdn.com/1c10d9d0-94dd-48fb-8b70-60aea8a5d78b/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Speakers, 5\\" HD screens, memory, batteries and wiring are assembled together inside a 6.5 square video book module.")
+![Module Creation](https://ucarecdn.com/1c10d9d0-94dd-48fb-8b70-60aea8a5d78b/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Speakers, 5 inch HD screens, memory, batteries and wiring are assembled together inside a 6.5 square video book module.")
 
 Speakers, 5" HD screens, memory, batteries and wiring are assembled together inside a 6.5 square video book module.
 
