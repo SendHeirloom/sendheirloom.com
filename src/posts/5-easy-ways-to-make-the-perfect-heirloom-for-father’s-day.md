@@ -2,8 +2,8 @@
 title: 5 Easy Ways to Make the Perfect Father’s Day Video Book
 description: "Father's Day is meaningful to both Fathers and their children, and
   video books are wonderful vehicles for sharing how we feel about one another.
-  You can make your special gift stand out by following these 5 tips for making
-  a meaningful personalized video gift. "
+  You can make your special gift stand out even more by following these 5 tips
+  for making your personalized video gift. "
 author: Herica De Casas
 date: 2021-05-23T20:19:50.637Z
 social_image: https://ucarecdn.com/e5b1756a-678c-4c9a-a9b7-5d65f14b3370/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
