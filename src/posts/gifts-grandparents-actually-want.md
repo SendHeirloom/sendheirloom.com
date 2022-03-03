@@ -1,6 +1,8 @@
 ---
 title: Gifts Grandparents Actually Want
-description: Five gifts your grandma and grandpa will cherish.
+description: Let's face it -- your grandma doesn't want another pair of slippers
+  and your grandpa doesn't need another tie. This year, give your grandparents
+  one of these five meaningful gifts that your grandma and grandpa will cherish.
 author: Dr. Randee Bloom
 date: 2021-02-10T00:55:29.298Z
 social_image: /static/images/blog/gifts-grandparents-actually-want/crafts.jpg
