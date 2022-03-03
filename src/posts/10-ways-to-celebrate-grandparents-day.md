@@ -1,6 +1,10 @@
 ---
 title: 10 Ways to Celebrate Grandparents Day
-description: "Ideas for Making Grandparents Day Special "
+description: "The celebration of Grandparents Day is not of one just for the
+  Grandparent but rather the connection to grandparents. It's an opportunity to
+  pause from our daily lives’ tasks and responsibilities and focus on the elders
+  in our family. Here are some ideas for making Grandparents Day extra
+  special.  "
 author: Randee Bloom, RN, MBA PhD
 date: 2021-08-21T20:26:15.623Z
 social_image: https://ucarecdn.com/d753f9f4-85c4-4a0a-8017-29f97b5170f1/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
