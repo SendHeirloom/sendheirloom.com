@@ -1,9 +1,9 @@
 ---
 title: 10 Grants We Applied For
-description: While researching funding options for my new business, we explored
-  a few potential grants. Whether seeking funding support to launch or level up,
-  here are a few grants you can apply for to get free money for your business or
-  nonprofit organization.
+description: While researching funding options for Heirloom, we explored a few
+  potential funding grants. Whether seeking funds to support a launch or to
+  level up, here are a few grants you can apply for to get free money for your
+  business or nonprofit organization.
 author: Ashley Kenny
 date: 2021-03-05T04:07:07.516Z
 social_image: https://ucarecdn.com/0788d5e8-20e4-4647-8347-eeee86abe037/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
