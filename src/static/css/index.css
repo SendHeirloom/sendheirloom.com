@@ -176,6 +176,12 @@ ul.List-steps {
   font-size: .85em;
 }
 
+@media (max-width: 768px) {
+  .Pricing {
+    display: flex;
+  }
+}
+
 .Pricing--price {
   font-size: 1.25em;
   margin-right: .1em;
