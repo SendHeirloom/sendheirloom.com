@@ -18,7 +18,9 @@ What makes a gift meaningful and memorable? Start with the gifts you can still r
 
 Now you are ready to shop for your next best gift: one that is personal, honoring and preserving life’s best times. Think no further than using modern technology to create a personalized video gift. Here we explain several options, along with their pros and some cons to help you decide which is just right for your loved one.
 
-##### Tribute Videos
+
+
+## Tribute Videos
 
 ![Tribute video ](https://ucarecdn.com/6307734d-8c5a-4f70-86d5-7da3a9b93f04/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Video service for sending group messages")
 
@@ -36,7 +38,9 @@ A tribute video may be a perfect project when many people want to join in and sh
 * All virtual, strictly digital, non-tangible gift 
 * Recipient must have access to internet and device 
 
-##### Photo & Video Books
+
+
+## Photo & Video Books
 
 ![Card that plays video](https://ucarecdn.com/c58edeff-9c97-4193-8166-bfbb53bcc989/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Video-playing book")
 
@@ -55,7 +59,9 @@ Imagine gifting a personalized photo book. Now think of how even more special it
 
 * Limited to 10 or 20 minutes of video, depending on the size you purchase
 
-##### Photo & Video Frames
+
+
+## Photo & Video Frames
 
 ![Video Frame](https://ucarecdn.com/7ca8bc82-12a0-4369-ba48-4b31db70d2d2/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Frame for your desk that plays photos and videos ")
 
