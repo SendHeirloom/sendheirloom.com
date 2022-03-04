@@ -2,8 +2,8 @@
 title: " The Best Personalized Video Gifts"
 description: The most memorable gifts are the ones that are so personal that
   they were created with you and only you in mind. If you really want to make
-  someone feel special, gift them one of these personalized video gifts. You'll
-  make them cry happy tears!
+  someone feel special, gift them a personalized video gift loaded with photos
+  and videos you know they love. You'll make them cry happy tears!
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-03-04T02:12:27.793Z
 social_image: /static/images/og-image.jpg
