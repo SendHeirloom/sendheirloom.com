@@ -1,6 +1,9 @@
 ---
 title: How To Create A Group Video Gift
-description: "Tips For Creating Amazing Group Tribute Videos "
+description: 'The cliche says "the more the merrier". This may be no more true
+  than when you are looking to celebrate and honor a special person. With the
+  use of tech, creativity and these tips, you can become a video producer of an
+  amazing group gift. '
 author: Ashley Kenny
 date: 2021-11-17T18:10:10.519Z
 social_image: https://ucarecdn.com/bd0675da-3bfb-4350-bfc1-0c52bd88489b/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
