@@ -18,13 +18,11 @@ What makes a gift meaningful and memorable? Start with the gifts you can still r
 
 Now you are ready to shop for your next best gift: one that is personal, honoring and preserving life’s best times. Think no further than using modern technology to create a personalized video gift. Here we explain several options, along with their pros and some cons to help you decide which is just right for your loved one.
 
-
-
 ## Tribute Videos
 
 ![Tribute video ](https://ucarecdn.com/6307734d-8c5a-4f70-86d5-7da3a9b93f04/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Video service for sending group messages")
 
-A tribute video may be a perfect project when many people want to join in and share a life event. Your colleague’s retirement or perhaps marking a very special birthday. You can quite easily gather the list of invited participants and send them an instructional message on how to send you their video. You might want to limit each contribution in the montage to 30 seconds, or request some uniformity with shared themes. There are no rules here, just a focus on how best to honor your recipient. Several services are [available](https://www.pinterest.ca/pin/710442909952545453/) to use as a way to [surprise your honored family or friend](https://www.vidday.com/), offering a variety of features, speed and assistance. 
+A tribute video may be a perfect project when many people want to join in and share a life event. Your colleague’s retirement or perhaps marking a very special birthday. You can quite easily gather the list of invited participants and send them an instructional message on how to send you their video. You might want to limit each contribution in the montage to 30 seconds, or request some uniformity with shared themes. There are no rules here, just a focus on how best to honor your recipient. Several [services are available](https://www.vidday.com/) to use as a way to surprise your honored family or friend, offering a variety of features, speed and assistance. 
 
 **Pros**
 
@@ -37,8 +35,6 @@ A tribute video may be a perfect project when many people want to join in and sh
 
 * All virtual, strictly digital, non-tangible gift 
 * Recipient must have access to internet and device 
-
-
 
 ## Photo & Video Books
 
@@ -58,8 +54,6 @@ Imagine gifting a personalized photo book. Now think of how even more special it
 **Cons**
 
 * Limited to 10 or 20 minutes of video, depending on the size you purchase
-
-
 
 ## Photo & Video Frames
 
