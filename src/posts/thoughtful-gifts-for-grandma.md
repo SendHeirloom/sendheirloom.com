@@ -1,6 +1,10 @@
 ---
 title: Thoughtful Gifts for Grandma
-description: A list of gift ideas for Grandma
+description: Every Grandma is special. And, every Grandma probably has something
+  in common. They cherish their role on your family tree, knowing that they have
+  already lived through the lives of three generations, or more. Consider how
+  your Grandma makes you feel and then begin your gift shopping. Here are some
+  suggestions, knowing as you do what will add joy to her life.
 author: Randee Bloom, RN, MBA, PhD
 date: 2021-12-13T19:03:35.524Z
 social_image: https://ucarecdn.com/37ff917f-2028-4aea-b61f-b62fea97d272/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
