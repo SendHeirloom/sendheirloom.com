@@ -1,6 +1,9 @@
 ---
 title: How To Share Videos With Grandparents
-description: The easiest and fastest ways to share video with your Grandma and Grandpa
+description: Our grandparents, and great-grandparents, never look at a family
+  photo just once. They most certainly want to enjoy these repeat experiences
+  with family videos, too. Use some of these tips and tools to create and share
+  your videos with one of your most appreciative audiences.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-01-28T02:32:13.464Z
 social_image: https://ucarecdn.com/8dcb43c4-3283-4abc-8a04-a26efd6b6ee3/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
