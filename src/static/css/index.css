@@ -1137,7 +1137,12 @@ span.line--pink::after {
 .WeddingHero--text {
   width: 50%;
   text-align: center;
-  padding: 27px 8px 0 15px;
+  padding: 90px 8px 0 15px;
+}
+@media (max-width: 768px) {
+  .WeddingHero--text {
+    padding-top: 27px;
+  }
 }
 
 .WeddingHero--image {
