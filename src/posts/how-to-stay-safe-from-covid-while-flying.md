@@ -1,6 +1,9 @@
 ---
 title: How to Stay Safe From COVID While Flying
-description: Easy steps you can take while traveling by air
+description: There comes a time, and it's about now, when we need to return to
+  many of our usual life tasks and choices. Traveling, by air, can be done
+  safely, especially after learning and practicing these self-protections
+  recommended by our scientific and medical experts.
 author: By Randee Bloom, RN, MBA, PhD
 date: 2021-09-23T20:51:44.606Z
 social_image: https://ucarecdn.com/2c5213be-7dfa-414c-b59c-0289b06b1536/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
