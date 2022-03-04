@@ -2,7 +2,7 @@
 title: "Some Screen Time Can Actually Be Good For Kids "
 description: Research says some screen time can actually be a helpful part of a
   child’s development.
-author: Dr Randee Bloom
+author: Randee Bloom, RN, MBA PhD
 date: 2021-04-21T23:35:59.316Z
 social_image: https://ucarecdn.com/faa548ba-6ece-4dfc-af30-572b88cbe172/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 tags:
