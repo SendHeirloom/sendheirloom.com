@@ -1,6 +1,8 @@
 ---
 title: How To Create A Video Souvenir
-description: Moments meant to be preserved, honored and shared.
+description: You've filmed many special moments. You've captured those
+  once-in-a-lifetime celebrations. Here are some easy ways to store, share and,
+  yes, retrieve these preserved and honored videos for your viewing pleasure.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-02-17T19:07:33.159Z
 social_image: https://ucarecdn.com/8cd6c203-86d0-4daf-af54-6de507a3b883/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
