@@ -1,7 +1,7 @@
 ---
 title: "Ways to Keep Your Aging Loved One Safe at Home "
 description: "How families of seniors can reduce household risks. "
-author: Dr. Randee Bloom
+author: Randee Bloom, RN, MBA PhD
 date: 2021-03-07T21:52:09.433Z
 social_image: https://ucarecdn.com/89322761-3a90-4feb-a875-1e4dbee8582f/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 tags:
