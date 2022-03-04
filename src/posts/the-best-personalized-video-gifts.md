@@ -7,6 +7,8 @@ description: The most memorable gifts are the ones that are so personal that
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-03-04T02:12:27.793Z
 social_image: /static/images/og-image.jpg
+tags:
+  - personalizedvideobooks
 ---
 What makes a gift meaningful and memorable? Start with the gifts you can still remember, even still own, years and decades later. The chances are they meet a few of these criteria:
 
