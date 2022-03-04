@@ -1,6 +1,8 @@
 ---
 title: Last Minute Gifts for Dad
-description: "Ideas for gifts that will make Dad feel special "
+description: "Surprise, it's nearly Father's Day. He says he doesn't want or
+  even need anything, but you know better. Here are some of the newer ideas,
+  ready for your matching to your special Dad. "
 author: Randee Bloom, RN, MBA, PhD
 date: 2021-12-15T02:18:09.070Z
 social_image: https://ucarecdn.com/08ccd88c-91dd-4350-9f61-08ededd4c257/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
