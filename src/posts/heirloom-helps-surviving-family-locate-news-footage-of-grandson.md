@@ -1,7 +1,7 @@
 ---
 title: Heirloom Helps Surviving Family Locate News Footage of Grandson
 description: One special Grandma gets her videos of her Grandson who passed away.
-author: Randee Bloom
+author: Randee Bloom, RN, MBA PhD
 date: 2021-09-09T03:20:15.059Z
 social_image: https://ucarecdn.com/14b8f0b5-0ec6-4086-94f5-86a04f4fe400/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 tags:
