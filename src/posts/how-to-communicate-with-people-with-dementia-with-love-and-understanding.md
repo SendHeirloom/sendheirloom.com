@@ -1,6 +1,10 @@
 ---
 title: How To Communicate with People with Dementia with Love and Understanding
-description: "A Guide To Caring For Dementia Patients "
+description: Effectively communicating with others begins with accepting their
+  abilities and personalizing your message. People with dementia lose many of
+  their skills while they continue to crave your shared communication. There are
+  many ways you can adapt your conversations, including verbal and nonverbal
+  messaging, and use of technology to create these loving shared moments.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-01-04T21:43:26.487Z
 social_image: https://ucarecdn.com/0d549823-11f7-46bf-8a46-971015c202d0/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
