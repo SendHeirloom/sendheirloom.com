@@ -1,7 +1,9 @@
 ---
 title: How To Send A Video In The Mail
-description: Ways you can send videos, let them know they are loved, and stay
-  close even when isolated.
+description: Today there are many forms of mail, some in-hand and some virtual.
+  The key to sending your message is your recipient's ability to receive it.
+  Consider how you can easily and with confidence share your videos with
+  everyone who you love, knowing first their available technology.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-01-28T00:58:13.388Z
 social_image: https://ucarecdn.com/a908d1b4-ba32-4d56-b381-c019f914106b/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
