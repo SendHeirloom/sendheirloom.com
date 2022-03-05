@@ -1,6 +1,10 @@
 ---
 title: "Ways to Keep Your Aging Loved One Safe at Home "
-description: "How families of seniors can reduce household risks. "
+description: Home is the spot where we all want to be, especially when we seek
+  comfort, calm, and cozy. We should be safe there, our most familiar
+  surroundings, especially when we have some physical and mental challenges.
+  Here are some suggestions, and some tools, that can help reduce risks for your
+  aging loved one in their home.
 author: Randee Bloom, RN, MBA PhD
 date: 2021-03-07T21:52:09.433Z
 social_image: https://ucarecdn.com/89322761-3a90-4feb-a875-1e4dbee8582f/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
