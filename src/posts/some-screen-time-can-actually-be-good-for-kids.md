@@ -1,7 +1,10 @@
 ---
 title: "Some Screen Time Can Actually Be Good For Kids "
-description: Research says some screen time can actually be a helpful part of a
-  child’s development.
+description: Everything in moderation seems to be a good rule to live by. And,
+  for our children's seemingly constant wish to stare at a video screen,
+  moderation can be their rule as well. Researchers have found that some time
+  watching and participating with video programs and games, especially with
+  parental supervision, can be beneficial for our kids' overall development.
 author: Randee Bloom, RN, MBA PhD
 date: 2021-04-21T23:35:59.316Z
 social_image: https://ucarecdn.com/faa548ba-6ece-4dfc-af30-572b88cbe172/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
