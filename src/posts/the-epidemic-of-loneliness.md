@@ -1,6 +1,8 @@
 ---
 title: "The Rising Toll of Loneliness "
-description: Isolated seniors are at risk of losing their feeling of belonging.
+description: "Loneliness can be very detrimental to our physical and mental
+  health. Learn how to prevent the real toll that feelings of loneliness can
+  have on our physical and mental health. "
 author: Brad Stulberg
 date: 2021-03-01T22:54:02.305Z
 social_image: /static/images/uploads/older-man.jpg
