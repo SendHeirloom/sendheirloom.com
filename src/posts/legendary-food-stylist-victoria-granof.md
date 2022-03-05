@@ -1,7 +1,8 @@
 ---
 title: "Family Heirlooms: A Food Stylist Dishes About the Treasures She'll Never
   Let Go"
-description: "A new series about family and tradition from guest writer Molly Simms "
+description: An heirloom can evoke many deep emotions. Here's how one very
+  creative director holds tightly to her heirlooms and why..
 author: "Molly Simms "
 date: 2021-03-24T15:42:38.059Z
 social_image: https://ucarecdn.com/c88df416-c057-4e54-8581-0c6a8a3b0742/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
