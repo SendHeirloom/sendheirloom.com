@@ -1,6 +1,10 @@
 ---
 title: How to Prevent Lonely Loved Ones From Becoming Clinically Depressed
-description: Actionable tools you can use to help a loved one struggling with loneliness.
+description: Loneliness is a real feeling, experienced at many times in our
+  lives. It's the constant state, coupled with actual isolation, that can become
+  a medical condition, even a diagnosis of depression. We can help ourselves and
+  our loved ones conquer loneliness with personal attention to past pleasures
+  and current interests while being aware of abilities and resources.
 author: Randee Bloom, RN, MBA PhD
 date: 2021-02-02T23:55:39.970Z
 social_image: /static/images/uploads/3-1-.jpg
