@@ -1,6 +1,9 @@
 ---
 title: Not Sure What Video to Include in Your Video Book?  Record A Message.
-description: Here are some ideas for what to say!
+description: Ready to push "record" and yet have not found just the right words?
+  Happens to us all, especially when we are trying to capture a special
+  sentiment. Here are a few suggestions as you develop your unique script for a
+  birthday, anniversary or  other occasional video message.
 author: Ashley Kenny
 date: 2021-05-01T03:58:16.656Z
 social_image: https://ucarecdn.com/d4de45ce-464b-4b6a-aa81-98392c4c0cfb/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
