@@ -1,7 +1,3 @@
-<!--
-customer_video_books: [birthday, family, holiday, memorials, memories, surprises, vacations, wedding]
- -->
-
 <script src="https://js.stripe.com/v3/"></script>
 
 <div class="Dialog---backdrop" dialog-backdrop>
@@ -220,18 +216,6 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
         </p>
       </form>
     </div>
-        
-    {%if page.url === '/' %}
-      {%- for item in customer_video_books -%}
-        <div step="video-{{item}}" hidden>
-          <div class="WeddingVideoInModal">
-            <div class="AspectRatio" style="--ratio: calc(16 / 9)">
-              <video class="AspectRatio--content" loop controls preload="none" src="https://public.sendheirloom.com/customer-videos/{{item | uppercase }}.mp4"></video>
-            </div>
-          </div>
-        </div>
-      {%- endfor -%}
-    {% endif %}
 
     <div class="Dialog--close-positioner">
       <button class="Button Button-is-close" aria-label="Close" dialog-close>
@@ -591,38 +575,6 @@ input:checked + div.checkbox-replacement svg {
         'event_category': "Preorder Flow",
         'event_label': "Preorder Add To Cart",
       });
-    })
-  })
-
-  const dialogSmallClass = "Dialog-is-small"
-  const dialogLargeClass = "Dialog-is-large"
-  document.querySelectorAll("[intent='open-video-dialog']").forEach(el => {
-    el.addEventListener("click", event => {
-      const step = el.getAttribute('step')
-      const allSteps = document.querySelectorAll('div[step]')
-      if( allSteps.length > 0 ) {
-        let videoFound = 0
-        allSteps.forEach(el => {
-          if ( el.getAttribute('step') !== step ) {
-            el.hidden = true
-          } else {
-            el.hidden = false
-            const videoEl = el.querySelector('video')
-            const modalWrapper = el.closest('.Dialog')
-            modalWrapper.classList.remove(dialogSmallClass)
-            modalWrapper.classList.add(dialogLargeClass)
-            if( videoEl ) {
-              videoFound = 1
-              videoEl.play()
-              videoEl.muted = false
-            }
-          }
-        })
-
-        if( videoFound ) {
-          dialog.open()
-        }
-      }
     })
   })
   
@@ -1023,25 +975,6 @@ input:checked + div.checkbox-replacement svg {
     // be reloaded if anything changes.
     initPayment()
   }
-
-  // stop and reset videos if exist on closing dialog
-  document.addEventListener('dialogClose', function (){
-    let dialogHasVideo = false
-    document.querySelectorAll('.WeddingVideoInModal video').forEach(el => {
-      el.pause();
-      el.currentTime = 0;
-      dialogHasVideo = true
-    })
-
-    // maybe restore dialog window size
-    if( dialogHasVideo ) {
-      const dialogWrapper = document.querySelector('.Dialog')
-      if( dialogWrapper ) {
-        dialogWrapper.classList.remove(dialogLargeClass)
-        dialogWrapper.classList.add(dialogSmallClass)
-      }
-    }
-  })
 
 })()
 </script>

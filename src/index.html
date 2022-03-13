@@ -249,7 +249,7 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
       {% for item in customer_video_books %}
       <div class="ColWrapper--item-4 customerVideoBook">
         <div class="customerVideoBook--image">
-          <a href="#" intent="open-video-dialog" class="VideoWithPlayButton" step="video-{{item}}">
+          <a href="#" intent="open-customers-video-dialog" class="VideoWithPlayButton" step="video-{{item}}">
             <div class="AspectRatio VideWithOverlay" style="--ratio: calc(270 / 254)">
               {% image "./src/static/images/customer-video-books/" + item + ".jpg", "" + item + "", "270, 254", "(min-width: 270)", "AspectRatio&#45;&#45;content" %}
             </div>
@@ -730,6 +730,7 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
   </div>
 </div>
 
+{% include "partials/customer_videos_dialog.html" %}
 {% include "partials/order_dialog.html" %}
 {% include "partials/sms_dialog.html" %}
 {% include "partials/email_dialog.html" %}

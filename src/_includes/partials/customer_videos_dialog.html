@@ -1,0 +1,16 @@
+<!--
+customer_video_books: [birthday, family, holiday, memorials, memories, surprises, vacations, wedding]
+ -->
+<div class="Dialog---backdrop" dialog-backdrop>
+  <div class="Dialog Dialog-is-large" aria-labelledby="dialog-order-title" dialog="customer_videos">       
+      {%- for item in customer_video_books -%}
+        <div step="video-{{item}}" hidden>
+          <div class="CustomerVideosModal">
+            <div class="AspectRatio" style="--ratio: calc(16 / 9)">
+              <video class="AspectRatio--content" loop controls preload="none" src="https://public.sendheirloom.com/customer-videos/{{item | uppercase }}.mp4"></video>
+            </div>
+          </div>
+        </div>
+      {%- endfor -%}
+  </div>
+</div>

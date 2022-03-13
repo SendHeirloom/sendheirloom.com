@@ -89,6 +89,48 @@
       })
     })
   }
+  
+  const initCustomerVideosDialog = () => {
+    const el = document.querySelector(`[dialog="customer_videos"]`)
+    
+    if (!el) return
+    
+    const dialog = new Dialog(el)
+
+    document.querySelectorAll("[intent='open-customers-video-dialog']").forEach(el => {
+      el.addEventListener("click", event => {
+        const step = el.getAttribute('step')
+        const allSteps = document.querySelectorAll('div[step]')
+        if( allSteps.length > 0 ) {
+          let videoFound = 0
+          allSteps.forEach(el => {
+            if ( el.getAttribute('step') !== step ) {
+              el.hidden = true
+            } else {
+              el.hidden = false
+              const videoEl = el.querySelector('video')
+              if( videoEl ) {
+                videoFound = 1
+                videoEl.play()
+                videoEl.muted = false
+              }
+            }
+          })
+
+          if( videoFound ) {
+            dialog.open()
+          }
+        }
+      })
+    })
+
+    document.addEventListener('dialogClose', function (){
+      document.querySelectorAll('.CustomerVideosModal video').forEach(el => {
+        el.pause()
+        el.currentTime = 0
+      })
+    })
+  }
 
   const isMobileOrTablet = function() {
     let check = false;
@@ -314,6 +356,7 @@
 
   const init = () => {
     initEmailDialog()
+    initCustomerVideosDialog()
     initSMSDialog()
     initAudioButtons()
     initReviewDialogs()
