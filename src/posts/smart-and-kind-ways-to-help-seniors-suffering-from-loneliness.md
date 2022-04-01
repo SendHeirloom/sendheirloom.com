@@ -1,17 +1,23 @@
 ---
 title: Smart and Kind Ways to Help Seniors Suffering From Loneliness
-description: TEMP
+description: As we age, we become more and more isolated, and isolation brings
+  feelings of loneliness. Known and expected changes brought about by the
+  natural aging process can contribute to feelings of loneliness. Driving might
+  not be possible, mobility can be limiting, and opportunities for social
+  interaction become more rare, especially during the COVID pandemic.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-04-01T14:36:04.441Z
-social_image: /static/images/og-image.jpg
+social_image: https://ucarecdn.com/2dfb1319-b869-49e9-bfb2-5f7b52ad4f85/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 ---
+![Lonely, isolated senior](https://ucarecdn.com/4d5f8ee4-5f24-46a3-9257-bedbac97f7de/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Man with a book on bench")
+
 As we age, we become more and more isolated, and isolation brings feelings of loneliness. Known and expected changes brought about by the natural aging process can contribute to feelings of loneliness. Driving might not be possible, mobility can be limiting, and opportunities for social interaction become more rare, especially during the COVID pandemic.   
 
 Loneliness is being thrust upon seniors due to circumstances out of their control at an alarming rate.  More than 40 percent of seniors regularly experience loneliness, according to a University of California, San Francisco (UCSF) [study](https://www.ucsf.edu/news/2012/06/98644/loneliness-linked-serious-health-problems-and-death-among-elderly). Researchers also report that seniors self-identifying as lonely demonstrated a 59% greater risk of mental health decline and 45% greater risk of death. Researchers at Brigham Young University found that social isolation and the self-perceived feeling of loneliness is a very serious condition, reporting it to be a [risk for early mortality](https://journals.sagepub.com/doi/abs/10.1177/1745691614568352?journalCode=ppsa&). These startling statistics prove we need to help our seniors reduce their adverse feelings of loneliness, and those without the means of physical and mental health to begin to improve their situation are at an additional disadvantage. 
 
 This is where loving friends, family and caregivers can truly make a positive difference. Here are some ways to help seniors suffering from loneliness. 
 
-## Visit and Leave A Memento 
+## Visit and Leave A Memento
 
 A simple visualization of interpersonal contact can assure ourselves that we are not alone. When we have a visitor, to our home or common area, we instantly know that we are connected. The many ways we communicate, with body language and words, demonstrate our shared experience. Seniors may not offer the same dynamic interactions as our other friends and family, but the connectedness is present. We can expand the memory of the visit first with a shared activity. A simple “sharing of a dessert” or leaving behind a book to discuss during our next time together, may at first glance seem too simple to matter. But all of our senses are alerted and our seniors may recall the moment more vividly with such a kind gesture.
 
