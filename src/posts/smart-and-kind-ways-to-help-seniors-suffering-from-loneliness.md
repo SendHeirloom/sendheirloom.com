@@ -1,10 +1,9 @@
 ---
 title: Smart and Kind Ways to Help Seniors Suffering From Loneliness
-description: As we age, we become more and more isolated, and isolation brings
-  feelings of loneliness. Known and expected changes brought about by the
-  natural aging process can contribute to feelings of loneliness. Driving might
-  not be possible, mobility can be limiting, and opportunities for social
-  interaction become more rare, especially during the COVID pandemic.
+description: "As we age, driving might not be possible, mobility can be
+  limiting, and opportunities for social interaction become more rare,
+  especially during the COVID pandemic. The natural aging process can also
+  contribute to feelings of loneliness. "
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-04-01T14:36:04.441Z
 social_image: https://ucarecdn.com/2dfb1319-b869-49e9-bfb2-5f7b52ad4f85/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
