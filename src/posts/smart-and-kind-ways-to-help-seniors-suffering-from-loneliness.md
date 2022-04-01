@@ -7,6 +7,8 @@ description: "As we age, driving might not be possible, mobility can be
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-04-01T14:36:04.441Z
 social_image: https://ucarecdn.com/2dfb1319-b869-49e9-bfb2-5f7b52ad4f85/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
+tags:
+  - Lonely
 ---
 ![Lonely, isolated senior](https://ucarecdn.com/4d5f8ee4-5f24-46a3-9257-bedbac97f7de/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Man with a book on bench")
 
