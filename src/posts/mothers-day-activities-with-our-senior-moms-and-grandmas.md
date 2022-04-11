@@ -15,9 +15,9 @@ tags:
 
 There are simply not enough holidays, or days in fact, to celebrate our mothers and grandmothers. These women have lead our families for generations. For those of us fortunate enough to have them for many years into our own adulthood, we clearly see their strong and important contributions to our families. Let’s not miss Mother’s Day as just one of these special times to honor our mothers and grandmothers, those by birth and often many by personal recognition.
 
-Here are some ideas for an extra special gift for the senior mothers grandmothers in your life. They are not elaborate as gifts may seem, nor are they hard to find. In fact, they do not even require wrapping paper and bows. They are special activities, the gift of time and attention, and that’s just the message we all want to convey.
+Here are some ideas for an extra special gift for the senior mothers and grandmothers in your life. They are not elaborate as gifts may seem, nor are they hard to find. In fact, they do not even require wrapping paper and bows. They are special activities, the gift of time and attention, and that’s just the message we all want to convey.
 
-Before we consider these ideas, remember that your Mother and Grandmother has been through a major challenge these past two years. They have struggled with new rules of social engagement, all striving to keep themselves healthy. While this time is not fully past, there may be some appropriate lifting of restrictions. Know your Mother and Grandmother’s health status and honor these limitations as you celebrate the day.
+Before we consider these ideas, remember that your Mother and Grandmother has been through a major challenge these past two years. They have struggled with new rules of social engagement, all striving to keep themselves healthy. While this time is not fully past, there may be some appropriate lifting of restrictions. Know your Mother's and Grandmother’s health status and honor these limitations as you celebrate the day.
 
 ## Share a Meal, in Several Different Places
 
