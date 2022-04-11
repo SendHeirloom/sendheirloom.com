@@ -37,7 +37,7 @@ After these many months, years really, of isolation, Mom and Grandma may be read
 
 ## Interview Mom and Grandma
 
-Your time together with Mom and Grandma can be preserved and treasured for generations with this activity. Mom and Grandma hold inside decades of memories, life stories and even well-tested advice. Consider using your phone’s video feature and capture this conversation. You can pre-script some interesting and thought-provoking questions, sharing them with her ahead of time for her in-depth consideration. Then set up a comfortable settings and just chat. You can edit her responses and even include pictures that are meaningful to her memories. A new product is ready for your simple click and drag and you will have created an Heirloom Video Book. This personal creation can be gifted to Mom and Grandma and multiple copies can be shared with your family.
+Your time together with Mom and Grandma can be preserved and treasured for generations with this activity. Mom and Grandma hold inside decades of memories, life stories and even well-tested advice. Consider using your phone’s video feature and capture this conversation. You can pre-script some interesting and thought-provoking questions, sharing them with her ahead of time for her in-depth consideration. Then set up a comfortable settings and just chat. You can edit her responses and even include pictures that are meaningful to her memories. A new product is ready for your simple click and drag and you will have created an [Heirloom Video Book](https://sendheirloom.com/). This personal creation can be gifted to Mom and Grandma and multiple copies can be shared with your family.
 
 ## Sharing a Craft
 
