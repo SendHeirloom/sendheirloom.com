@@ -8,6 +8,8 @@ items:
     url: "/covers/"
   - text: Occasions
     items:
+      - text: "Videographers"
+        url: "/for-photographers-and-videographers/"
       - text: "Birthday"
         url: "/send-birthday-video-gift/"
       - text: "Wedding"
