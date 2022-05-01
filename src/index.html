@@ -780,7 +780,30 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
   </div>
 </div>
 
-
+<div class="Section Section-is-solid">
+  <div class="TwoUp">
+    <div class="TwoUp--illustration" style="width: 20em">
+      <div class="Illustration Illustration-is-rounded">
+        <a class="Link Link-is-block Link-without-underline" href="/static/images/grandma-fran.jpg">
+          <div class="AspectRatio" style="--ratio: calc(150 / 191)">
+            {% image "./src/static/images/grandma-fran.jpg", "Grandma Fran", "600", "", "AspectRatio--content" %}
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="TwoUp--content">
+      <div class="Markdown">
+        <h2 class="TwoUp--content-h2">Together, forever.</h2>
+        <p>Heirloom combines all the many photos and videos you upload. We allow you to then rearrange your clips and photos to make the perfect gift.</p>
+        <p>We accept virtually every file format, including .mp4, .mov, .jpeg, and everything created by an Android or iPhone!</p>
+        <br />
+        <div class="ButtonGroup Row-is-center-tablet">
+          <a class="Button Button-is-pill Button-is-bordered Button-is-primary" intent="open-order-dialog" cta-id="share-the-moment">Buy Now</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 {% include "partials/customer_videos_dialog.html" %}
 {% include "partials/order_dialog.html" %}
