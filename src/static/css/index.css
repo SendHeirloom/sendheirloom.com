@@ -504,6 +504,9 @@ span.line--pink::after {
     font-size: 1.9em;
   }
 }
+.Gift-box {
+  padding: 2em 0;
+}
 .Gift-box .TwoUp--content {
   width: 18em;
 }
