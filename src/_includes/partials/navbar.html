@@ -24,19 +24,30 @@
             {% if item.items %}
               <div class="Header-links--menu">
                 <label class="Header--link" for="{{ item.text }}-toggle">
-                  {{ item.text }}
+                  {{ item.text | safe }}
                 </label>
                 <input class="Header-nested--toggle" id="{{ item.text }}-toggle" type="checkbox" is-visually-hidden />
                 <ul class="Header-nested--links">
                   {% for innerItem in item.items %}
                     <li>
-                      <a href="{{ innerItem.url }}" class="Link Link-without-underline Header--link font-heading">{{ innerItem.text }}</a>
+                      {% if innerItem.url %}
+                        <a href="{{ innerItem.url }}" class="Link Link-without-underline Header--link font-heading">{{ innerItem.text }}</a>
+                      {% elseif innerItem.text %}
+                        <span class="font-heading">{{ innerItem.text | safe }}</span>
+                      {% else %}
+                        <hr class="Header--seperator" />
+                      {% endif %}
                   {% endfor %}
                 </ul>
               </div>
             {% else %}
               {# We include both Tailwinds and internal classes so the header works in both environments #}
-              <a href="{{ item.url }}" class="Link Link-without-underline Header--link font-heading">{{ item.text }}</a>
+              {% if item.url %}
+                <a href="{{ item.url }}" class="Link Link-without-underline Header--link
+                  font-heading">{{ item.text | safe }}</a>
+              {% else %}
+                <span className="font-heading">{{ item.text | safe }}</span>
+              {% endif %}
             {% endif %}
           {% endfor %}
         </div>
@@ -112,6 +123,13 @@
   opacity: .5;
 }
 
+.Header--seperator {
+  border-color: #97c0ca;
+  border-top-width: 3px;
+  margin: 0.5em;
+  opacity: 0.5;
+}
+
 .Header--mobile-links-toggle {
   display: none;
 }
@@ -119,6 +137,9 @@
 .Header-links--menu {
   position: relative;
   background-color: #e5e7eb;
+}
+.Header-links--menu + .Header-links--menu {
+  margin-left: 5px;
 }
 .Header-links--menu label {
   cursor: pointer;
@@ -131,6 +152,7 @@
   padding: 0.25em 0 0;
   text-align: left;
   width: 100%;
+  min-width: 10em;
   list-style-type: none;
 }
 .Header-nested--toggle:checked + .Header-nested--links {
