@@ -11,7 +11,7 @@ async function imageShortcode(src, alt, widths, sizes, classes) {
   // sizes is a argument specifying which size image to load in which situation.
   // For example "(min-width: 30em) 1200px, 800px"
   let metadata = await Image(src, {
-    formats: ["avif", "webp", "png", "jpeg" ],
+    formats: ["webp", "png", "jpeg"],
     widths: (widths && widths.split(" ")) || [null],
     outputDir: "./_site/img/",
   });
@@ -65,13 +65,13 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/static/press");
   eleventyConfig.addPassthroughCopy("./src/static/videos");
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
-  
+
   eleventyConfig.addPassthroughCopy({
     'node_modules/jquery/dist/jquery.min.js': 'assets/jquery.min.js',
     'node_modules/owl.carousel/dist/owl.carousel.min.js': 'assets/owl.carousel.min.js',
 
-    'node_modules/shopify-buy/index.umd.js': 'assets/shopify-buy.js', 
-    
+    'node_modules/shopify-buy/index.umd.js': 'assets/shopify-buy.js',
+
     'node_modules/owl.carousel/dist/assets/owl.carousel.min.css': 'assets/owl.carousel.min.css',
     'node_modules/owl.carousel/dist/assets/owl.theme.default.min.css': 'assets/owl.theme.default.min.css',
   });
