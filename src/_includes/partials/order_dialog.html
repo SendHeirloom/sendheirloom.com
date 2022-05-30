@@ -2,52 +2,6 @@
 
 <div class="Dialog---backdrop" dialog-backdrop>
   <div class="Dialog Dialog-is-small" aria-labelledby="dialog-order-title" dialog="order">
-    <div step="how-it-works">
-      <h2 class="Dialog--title" id="dialog-order-title">Order a Video Book</h2>
-
-      <p class="Dialog--subtitle">Here's a quick overview of how the ordering process works:</p>
-
-      <form dialog-form>
-        <div class="Dialog--content" dialog-content>
-          <div class="Stack">
-            <ul class="List-steps">
-              <li>
-                <div class="List-steps--step">Step One</div>
-                <div class="List-steps--content">We'll ask for your email address and the number of video books you'd
-                  like to order. You'll then be taken to our payment provider to complete your order.
-                </div>
-              </li>
-              <li>
-                <div class="List-steps--step">Step Two</div>
-                <div class="List-steps--content">You’ll immediately receive an email with a link to begin building your
-                  video book.
-                </div>
-              </li>
-              <li>
-                <div class="List-steps--step">Step Three</div>
-                <div class="List-steps--content">Select up to 20 min of video from your computer or phone.</div>
-              </li>
-              <li>
-                <div class="List-steps--step">Step Four</div>
-                <div class="List-steps--content">Heirloom mails your video book in 48 hours and it arrives in 5 business
-                  days.
-                </div>
-              </li>
-            </ul>
-
-            <div class="Dialog--actions">
-              <button class="Button Button-is-bordered Button-is-primary" type="submit" dialog-submit>Got it!</button>
-            </div>
-            <div>
-              <small>Would you rather build your video book first? <a class="Link"
-                                                                      href="https://create.sendheirloom.com">Visit our
-                book builder</a>.</small>
-            </div>
-          </div>
-      </form>
-    </div>
-
-
     <div step="email">
       <h2 class="Dialog--title" id="dialog-order-title">Order a Video Book</h2>
 
@@ -168,18 +122,10 @@
       <form dialog-form>
         <div class="Dialog--content" dialog-content>
           <div class="Stack">
-            <div hide-if-tabular>
+            <div>
               Purchase <a class="Link" data-action="change-quantity"><output class="quantity"></output></a>
               &nbsp;<output class="duration"></output>&nbsp;video book<span if-qty-greater-than-one hidden>s</span> <span if-qty-greater-than-one hidden>(<output class="unit-price"></output>&nbsp;each)</span>
               for a total of&nbsp;<output class="total-price"></output>.
-            </div>
-            <div show-if-tabular>
-              <a data-action="change-quantity">Qty&nbsp;<output class="quantity"></output>:&nbsp;</a>
-
-              <output class="duration"></output>&nbsp;video book<span if-qty-greater-than-one hidden>s</span> <span if-qty-greater-than-one hidden>(<output class="unit-price"></output>&nbsp;each)</span>
-
-              <br>
-              Total:&nbsp;<output class="total-price"></output>
             </div>
 
             <div class="FormField">
@@ -256,16 +202,6 @@ input:checked + div.checkbox-replacement svg {
   color: rgb(89, 111, 214);
   font-weight: 600;
   text-decoration: none;
-}
-
-[step="pay"]:not(.tabular) [show-if-tabular] {
-  display: none;
-}
-[step="pay"].tabular [hide-if-tabular] {
-  display: none;
-}
-[step="pay"] [hide-if-tabular] .duration {
-  text-transform: lowercase;
 }
 
 #card-error {
@@ -373,8 +309,6 @@ input:checked + div.checkbox-replacement svg {
   const dialog = new Dialog(dialogEl)
   window.odDialog = dialog
 
-  const howItWorksForm = dialogEl.querySelector('[step="how-it-works"] form')
-
   // TODO Use something like Alpine.js
   const emailStep = dialogEl.querySelector('[step="email"]')
   const emailForm = emailStep.querySelector('form')
@@ -419,19 +353,6 @@ input:checked + div.checkbox-replacement svg {
 
   emailField.value = localStorage.customerEmailAddress || ''
 
-  let hideHowTo = false
-  let tabularSummary = false
-  gtag('event', 'optimize.callback', {
-    name: 'zaAkUw0vSmaURx6UrRYdnQ',
-    callback: (variant) => {
-      console.log('variant', variant)
-      hideHowTo = variant > 0
-      if (variant > 1){
-        payStep.classList.add('tabular')
-      }
-    },
-  });
-
   let cost = 49
   let discountAmount = 0
   let discountCode = null
@@ -475,11 +396,7 @@ input:checked + div.checkbox-replacement svg {
       qtyField.focus()
       qtyField.select()
     } else {
-      if (hideHowTo) {
-        setStep('email')
-      } else {
-        setStep('how-it-works')
-      }
+      setStep('email')
 
       qtyField.value = "1"
       emailOutput.hidden = true
@@ -577,7 +494,7 @@ input:checked + div.checkbox-replacement svg {
       });
     })
   })
-  
+
   function close(){
     dialog.close()
   }
@@ -668,12 +585,6 @@ input:checked + div.checkbox-replacement svg {
   } else if (params['flow'] === 'order'){
     open()
   }
-
-  howItWorksForm.addEventListener('submit', function(e){
-    e.preventDefault()
-
-    setStep('email')
-  })
 
   emailForm.addEventListener('submit', async function(e){
     e.preventDefault()
@@ -803,7 +714,7 @@ input:checked + div.checkbox-replacement svg {
     payStep.querySelectorAll('output.total-price').forEach(el => el.textContent = priceOut)
     payStep.querySelectorAll('output.unit-price').forEach(el => el.textContent = "$" + localCost)
     payStep.querySelectorAll('output.quantity').forEach(el => el.textContent = quantity)
-    payStep.querySelectorAll('output.duration').forEach(el => el.textContent = (duration === 10 ? "Ten" : "Twenty") + "-minute")
+    payStep.querySelectorAll('output.duration').forEach(el => el.textContent = (duration === 10 ? "ten" : "twenty") + "-minute")
 
     renderGreaters(quantity)
   }

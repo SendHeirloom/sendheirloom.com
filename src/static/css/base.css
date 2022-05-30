@@ -440,15 +440,15 @@ html[is-fullscreen] body {
 .Button-is-primary {
   --focus-color-rgb: var(--primary-color-rgb);
   --focus-color: rgba(var(--focus-color-rgb), .5);
-  background: var(--primary-color);
-  color: #fff;
+  background: var(--primary-color) !important;
+  color: #fff !important;
 }
 
 .Button-is-secondary {
-  background-color: var(--background-color);
+  background-color: var(--background-color) !important;
   background-image:
     linear-gradient(rgba(var(--primary-color-rgb), .05), rgba(var(--primary-color-rgb), .05)),
-    linear-gradient(rgba(var(--color-rgb), .05), rgba(var(--color-rgb), .05));
+    linear-gradient(rgba(var(--color-rgb), .05), rgba(var(--color-rgb), .05)) !important;
 }
 
 .Button-is-white {
