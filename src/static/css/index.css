@@ -421,7 +421,6 @@ span.line--pink::after {
   margin-left: 5em;
 }
 .How-it-works .TwoUp--content-h2 {
-  font-size: 2.1em;
   text-align: left;
 }
 .How-it-works--video {
@@ -732,7 +731,7 @@ span.line--pink::after {
 
 @media (min-width: 961px) {
   body .TwoUp--content-h2 {
-    font-size: 2.5em;
+    font-size: 2.2em;
   }
 }
 
@@ -816,7 +815,7 @@ span.line--pink::after {
 }
 
 .Review---wall {
-  font-size: .75em;
+  font-size: .75em; 
   padding: 1em;
   margin: 1.5em auto 2em;
   width: 84em;
@@ -1151,6 +1150,11 @@ span.line--pink::after {
 .WeddingHero--image {
   padding: 0 33px 0 45px;
   width: 50%;
+}
+@media (max-width: 600px) {
+  .BookWithDog {
+    margin-left: -10%;
+  }
 }
 @media (max-width: 600px) {
   .WeddingHero {
