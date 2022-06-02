@@ -30,11 +30,10 @@ You should send everyone an email or text message (or both!) clearly explaining 
 
 *Hi! This year for our Mother’s birthday we are planning on giving her a video-gift full of messages from her friends and family (you!). We would LOVE for you to contribute, and it will only take a few minutes.*
 
-**\
-*Please record a short message to her on your phone.*** *Please hold your phone sideways when you record, so the video ends up wider than it is tall; that way all our videos will match. Once you have the video, just share it with me at this email address.*
-
-***Submit the video by May 25, 2022 to be included.** We need it by then to have time to build the gift.*
-
+***Please record a short message to her on your phone.** Please hold your phone sideways when you record, so the video ends up wider than it is tall; that way all our videos will match. Once you have the video, just share it with me at this email address.*\
+\
+***Submit the video by May 25, 2022 to be included.** We need it by then to have time to build the gift.*\
+\
 *Thank you so much for your love of our Mother and for your help in producing this special gift. It’s a surprise, so please don’t mention this to her until after the big day!*
 
 **\
@@ -57,8 +56,6 @@ To stay organized from the start, you can rename the videos the moment you get t
 Oh yes, indeed. You know the date of the party; just work back: two weeks to place your video book order and receive the amazing gift, at least two weeks to give you time to assemble the videos. You know your friends; add two weeks for their efforts and perhaps two more for their procrastination. You’ll want to mark your calendar to send the “sleepers” a kind reminder. The general rule is 10% of people will do it right away, 90% will do it right before the deadline!
 
 **Tip 5: ALWAYS have a deadline, and hold people to it!**
-
-
 
 ## Does it matter how they record their video?
 
