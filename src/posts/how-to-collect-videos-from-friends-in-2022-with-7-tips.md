@@ -18,11 +18,15 @@ Collecting videos from friends and family should always start with a deadline. Y
 
 Here are some tips that can spare you the wasted time, effort and probably lots of miscommunications. And, at the same time, provide the instruction your friends may need to fulfill your “ask” quickly and correctly.
 
+
+
 ## How to collect videos from friends?
 
 Consider first how you are going to collect the videos and photos for your creation. You can create a simple introductory message, explaining your project (Mom’s Birthday Surprise) and ask for their help. Ultimately they will be sending you their videos as links, iMessages, or (not the best options) emails or text messages.
 
 **Tip 1: Have everyone send a single person (probably you!) their videos.**
+
+
 
 ## How should I ask my friends for their videos?
 
@@ -32,12 +36,13 @@ You should send everyone an email or text message (or both!) clearly explaining 
 
 ***Please record a short message to her on your phone.** Please hold your phone sideways when you record, so the video ends up wider than it is tall; that way all our videos will match. Once you have the video, just share it with me at this email address.*\
 \
-***Submit the video by May 25, 2022 to be included.** We need it by then to have time to build the gift.*\
+***Submit the video by May 25, 2022 to be included.** We need it by then to have time to build the gift.\
 \
-*Thank you so much for your love of our Mother and for your help in producing this special gift. It’s a surprise, so please don’t mention this to her until after the big day!*
-
+Thank you so much for your love of our Mother and for your help in producing this special gift. It’s a surprise, so please don’t mention this to her until after the big day!*\
 **\
 Tip 2: Bold exactly what you are asking them to do.**
+
+
 
 ## How to get videos from both iPhone and Android phones?
 
@@ -45,11 +50,15 @@ It’s unlikely all your friends are currently using the same type of smartphone
 
 **Tip 3: Ask them to send videos using iCloud or Google Photos links, rather than trying to email or text the full video.**
 
+
+
 ## How do I organize all their video contributions, especially from different software platforms?
 
 To stay organized from the start, you can rename the videos the moment you get them to something like “Mom’s Birthday Project - Claire and Paul”. You’ll thank yourself if you consistently store each of the shared videos and pictures in a single folder on your computer, or album on your phone. When you begin to create your masterpiece, all the contributions will be ready for your review and selection. When viewing the videos for the first time, set your stopwatch to obtain its length. This information, along with the time-stamp for the “best parts” will guide you toward your goal of overall length.
 
 **Tip 4: Keep things organized in a single folder for the project.**
+
+
 
 ## Should I have a deadline when collecting videos from friends?
 
@@ -57,11 +66,15 @@ Oh yes, indeed. You know the date of the party; just work back: two weeks to pla
 
 **Tip 5: ALWAYS have a deadline, and hold people to it!**
 
+
+
 ## Does it matter how they record their video?
 
 Yes, it very much matters how they record their video. All the standard rules of cameras apply: they want to have even lighting and to be in a not-so-noisy environment (a quiet moment outside often gives the best light). Beyond that though, the biggest tip is to have everyone hold their phones vertically, or to have everyone hold their phones horizontally, when making their video. That way all your videos will be the same (one way or the other, as you prefer), and you won’t have the tough challenge of combining videos of different heights and widths.
 
 **Tip 6: Ask everyone to make their video horizontal, or vertical, based on which you prefer. Don’t let them decide!**
+
+
 
 ## How do I combine videos from friends together?
 
