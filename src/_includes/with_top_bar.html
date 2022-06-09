@@ -1,7 +1,13 @@
 {% extends "./default.html" %}
 
 {% block top_of_body %}
-<!--div class="TopBanner">
-  <span class="TopBanner--accented">Mother’s Day:</span> It’s not too late! We can arrange Saturday delivery ($50), upload by 12PM ET Friday and send us an email.
-</div-->
+{% if top_bar.body %}
+  <div class="TopBanner">
+    {% if top_bar.opener %}
+      <span class="TopBanner--accented">{{ top_bar.opener }}:</span>&nbsp;
+    {% endif %}
+
+    {{ top_bar.body }}
+  </div>
+{% endif %}
 {% endblock %}
