@@ -1,6 +1,11 @@
 ---
 title: Best Video Book and Video Greeting Card for 2022
-description: Top picks for best video-playing memory books.
+description: An overview of what a Video Memory Book is all about and some basic
+  options to guide your purchasing selection. The common feature similarities of
+  most choices are presented, noting their importance to specific users. See our
+  top choice, offering the best price including free shipping, and highly rated
+  customer service. Additional quality products are also presented noting their
+  customer-specific features.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-06-18T23:18:08.791Z
 social_image: https://ucarecdn.com/5f7253d7-75e2-4e2a-864c-a6838807c9b5/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
