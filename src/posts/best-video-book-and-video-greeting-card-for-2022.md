@@ -22,7 +22,7 @@ Let’s start with what is most likely the same for all Video Memory Book choice
 
 Consider your purchase goal: a celebration or memorial gift, a business message, or perhaps a personal storage project. Your selection of which product best fits your needs may consider some of these product differences. Here are three products to compare. 
 
-Our Top Choice not only provides all the features we listed above, but shines past the competitors in two major areas: Cost and Customer Service. We consider these features to be exceptionally important for this product class. You can pay more (and the other choices do offer a few more features to help balance their double and triple cost). You can not over appreciate the need for quick, accurate, personalized and just plain nice customer service. Here is where our Top Choice excels.
+Our top choice not only provides all the features we listed above, but shines past the competitors in two major areas: Cost and Customer Service. We consider these features to be exceptionally important for this product class. You can pay more (and the other choices do offer a few more features to help balance their double and triple cost). You can not over appreciate the need for quick, accurate, personalized and just plain nice customer service. Here is where our Top Choice excels.
 
 ![Heirloom Video Book](https://ucarecdn.com/9178fe0a-4395-4b1f-a975-3efd490e6832/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Video Book")
 
