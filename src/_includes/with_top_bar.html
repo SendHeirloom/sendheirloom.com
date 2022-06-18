@@ -1,9 +1,9 @@
 {% extends "./default.html" %}
 
 {% block top_of_body %}
-{% if top_bar.body %}
+{% if top_bar.body | trim %}
   <div class="TopBanner">
-    {% if top_bar.opener %}
+    {% if top_bar.opener | trim %}
       <span class="TopBanner--accented">{{ top_bar.opener }}:</span>&nbsp;
     {% endif %}
 

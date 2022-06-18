@@ -65,5 +65,5 @@ collections:
         name: "top_bar"
         file: "src/_data/top_bar.yaml"
         fields:
-          - { label: Opener, name: opener, widget: string, hint: "Leave blank for no pink opening phrase" }
-          - { label: Body, name: body, widget: string, hint: "Leave blank to hide top bar from homepage" }
+          - { label: Opener, name: opener, widget: string, hint: "Leave blank for no pink opening phrase", required: false }
+          - { label: Body, name: body, widget: string, hint: "Leave blank to hide top bar from homepage", required: false }
