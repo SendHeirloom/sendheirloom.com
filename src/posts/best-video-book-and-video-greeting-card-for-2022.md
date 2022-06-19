@@ -37,9 +37,7 @@ Our top choice not only provides all the features we listed above, but shines pa
 
 #### [sendheirloom.com](https://sendheirloom.com)
 
-This product is our top pick for most first-time users and those concerned with challenging their tech skills. Heirloom Video Books scores for the best price, half the cost or less than its leading competitors. This is the only choice with free shipping on all orders. Your purchase of a video book, and your work to create your masterpiece may very well be your first attempt. The ease of understanding user instructions is evident, clearly enjoyed by customers as you read their feedback and reviews. Outstanding customer service begins with their easy to submit requests for assistance and is boosted by personal contacts when special care is required.
-
-
+This product is our top pick for most first-time users and those concerned with challenging their tech skills. Heirloom Video Books scores for the best price, half the cost or less than its leading competitors. This is the only choice with free shipping on all orders. Your purchase of a video book, and your work to create your masterpiece, may very well be your first attempt. The ease of understanding user instructions is evident, clearly enjoyed by customers as you read their feedback and reviews. Outstanding customer service begins with their easy to submit requests for assistance and is boosted by personal contacts when special care is required.
 
 ![Motion Books](https://ucarecdn.com/c5a47779-e8de-45b1-82f0-d93bb7a99c73/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Motion Video Book")
 
@@ -50,8 +48,6 @@ This product is our top pick for most first-time users and those concerned with 
 #### [themotionbooks.com](https://themotionbooks.com/)
 
 We present this product as also one offering all the basic features of video books. This product expands its operation with an additional feature at double the comparable cost. The device provides controls for play/pause and volume. This can be excessively complex for some, but others may find those options valuable and worth the price. The product is more limited in basic cover designs and shipping fees need to be considered.
-
-
 
 ![Photo Flash Drive](https://ucarecdn.com/20d65f03-783e-49fb-a8d1-313ae20fe4a7/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Photo book")
 
