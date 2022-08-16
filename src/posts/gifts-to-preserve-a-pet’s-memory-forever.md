@@ -1,6 +1,10 @@
 ---
 title: Gifts To Preserve A Pet’s Memory Forever
-description: "Ideas for ways to honor a pet who has passed away. "
+description: Pet owners know the joy that their animal family members bring into
+  their lives.  When these years of shared unconditional love and playful
+  activity come to a natural end, the memories can bring much needed comfort.
+  Personalized items, featuring your pet's image and vitality can be easily
+  created. Look here for some suggestions, each becoming one-of-a-kind momentos.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-08-15T22:44:28.452Z
 social_image: https://ucarecdn.com/1b509c28-294b-4c2a-90a5-7ac5284ad7c0/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
