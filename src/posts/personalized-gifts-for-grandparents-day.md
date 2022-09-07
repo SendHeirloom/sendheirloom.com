@@ -1,6 +1,9 @@
 ---
 title: Personalized Gifts for Grandparents Day
-description: These are the best gifts to get your Grandparents this year.
+description: Experience a richness of family bonding as you celebrate
+  Grandparents Day. Everyone on your family tree will explore ways to honor
+  their grandparents. And, if a gift is shared, consider these personalized
+  items, sure to carry these bonds through the years to come.
 author: By Randee Bloom, RN, MBA PhD
 date: 2022-09-06T00:06:06.583Z
 social_image: https://ucarecdn.com/340feab3-713f-4874-9287-f7f700724a14/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
