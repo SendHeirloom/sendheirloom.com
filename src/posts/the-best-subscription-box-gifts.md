@@ -16,7 +16,7 @@ Here’s an easy question: what is better than receiving a great gift? The Answe
 
 That’s the idea behind the booming businesses selling subscription boxes. Basically, the buyers hook on to something they know (or at least hope to be) a favorite of their celebrant! Most plans allow for the selection of the frequency of gifts coming, often by the gift’s budget. Here are some common and not-so-obvious gift subscription boxes you can explore for your next gift shopping spree.
 
-## For the Tea Lover
+## For The Tea Lover
 
 [Sips by](https://www.sipsby.com/) is perfectly named: a personalized collection of teas. The lucky recipient is invited to share their tea likes and dislikes. And, more excitedly, this is a chance to ask for samples of newly discovered flavor blends and sourced tea from around the world. No tea lover or even tea tester would not appreciate these beautiful collections of teas, arranged following the recipient’s specific likes and wishes to try arriving monthly for as long as you select.
 
@@ -28,15 +28,15 @@ The fun begins when your shopper completes a style quiz revealing their preferre
 
 This offering must be doing something right because they have been along for decades. [The Book of the Month](https://www.bookofthemonth.com/?irclickid=WnkUaj2e1xyNRqG3iHyDTyiwUkDRI1VVrzeoyY0&utm_medium=affiliate&utm_source=impact&utm_campaign=36676&irgwc=1) offers book lovers a collection of books every month, guided by their interests. And, for those who can’t quite fit in enough reading time, you are welcome to “skip a month” and keep the plan running. 
 
-## For the Aspiring Archeologist
+## For The Aspiring Archeologist
 
 Whatever the age, perhaps you are shopping for a would-be archeologist or overall science geek. Consider the [Bone Box](https://www.cratejoy.com/subscription-box/skulls-unlimited-international-inc/?sscid=91k6_416f2&utm_source=SAS_1615998&utm_medium=affiliate&utm_campaign=1615998_999), offering a very unique collection of animal skulls. The recipient will appreciate how expertly prepared these specimens are, for their attractive presentation and sanitary handling. While not for everyone, the correctly matched recipient will be overwhelmed.
 
-## Go Fish, not the card game
+## Go Fish, Not The Card Game
 
 Perhaps you are shopping for a fisherman, always seeking the next better tackle. How about the [Mystery Tackle Box](https://shopkarls.com/p/mystery-tackle-box-googan-quarterly-crate), available as a 4-time a year surprise. Each box will excite the fisherman (and fisherwoman) with new products and booklets full of tips and tricks.
 
-## The Sweetest Gift, candy
+## The Sweetest Gift, Candy
 
 How about surprising your birthday girl or boy with a sweet tooth, every month. [Candy Club](https://subscription.candyclub.com/) offers just the surprise when they receive these sweet treats. The recipient can select from mostly sweet or mostly sour based on their candy profile. Everyone has a candy profile, right?! 
 
