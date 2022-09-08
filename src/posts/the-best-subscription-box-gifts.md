@@ -1,5 +1,5 @@
 ---
-title: The Best Subscription Box Gifts
+title: The Best Subscription Gift Boxes
 description: "Gift shopping can range from a fun few minutes to a chore you
   dread. Here's a tip: think about what activities or delights your recipient
   has. Then head to the list below for some clever ideas that are sure to excite
