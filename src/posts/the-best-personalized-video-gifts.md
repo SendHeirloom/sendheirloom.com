@@ -1,14 +1,14 @@
 ---
 title: " The Best Personalized Video Gifts"
-description: The most memorable gifts are the ones that are so personal that
-  they were created with you and only you in mind. If you really want to make
-  someone feel special, gift them a personalized video gift loaded with photos
-  and videos you know they love. You'll make them cry happy tears!
+description: We put hours of research into finding the best ways to send a
+  personalized video gift to your loved ones, read what we discovered. If you
+  really want to make someone feel special, gift them a personalized video gift
+  loaded with photos and videos you know they love.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-03-04T02:12:27.793Z
 social_image: /static/images/og-image.jpg
 tags:
-  - personalizedvideobooks
+  - best
 ---
 What makes a gift meaningful and memorable? Start with the gifts you can still remember, even still own, years and decades later. The chances are they meet a few of these criteria:
 
