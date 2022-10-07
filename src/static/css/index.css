@@ -845,7 +845,7 @@ span.line--pink::after {
   justify-content: space-between;
 }
 .IllustrationGrid > div {
-  flex: 0 0 32%;
+  flex: 0 0 24%;
 }
 .IllustrationGrid > div > div{
   margin-left: .5em;
