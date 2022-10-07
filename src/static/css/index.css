@@ -392,6 +392,10 @@ span.line--pink::after {
   padding-bottom: 4em;
 }
 
+.Section-padding-bottom {
+  padding-bottom: 4em;
+}
+
 .Section-is-white {
   background: #fff;
 }
@@ -411,6 +415,40 @@ span.line--pink::after {
   .Section-is-solid.Logo-banner {
     padding-left: 0;
     padding-right: 0;
+  }
+}
+
+.Custom-printed-covers h2,
+.Custom-printed-covers h3 {
+  text-transform: uppercase;
+
+}
+
+.Custom-printed-covers h2 {
+  font-family: var(--sans-serif-font-family);
+  font-size: 2em;
+}
+
+.Custom-printed-covers h3 {
+  color: #db3e58;
+  font-size: 3em;
+  font-weight: 600;
+  letter-spacing: 3px;
+}
+
+@media (max-width: 1081px) {
+  .Custom-printed-covers h2 {
+    font-size: 1.8em;
+  }
+
+  .Custom-printed-covers h3 {
+    font-size: 2em;
+  }
+}
+@media (max-width: 500px) {
+  .Custom-printed-covers h2,
+  .Custom-printed-covers h3 {
+    letter-spacing: initial;
   }
 }
 
