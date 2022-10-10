@@ -120,6 +120,18 @@ svg {
   }
 }
 
+@media (max-width: 768px) {
+  [larger-than-small-tablet-only] {
+    display: none !important;
+  }
+}
+
+@media (min-width: 768px) {
+  [small-tablet-and-smaller-only] {
+    display: none !important;
+  }
+}
+
 [with-color-variables] {
   --gray-9-rgb:   247, 247, 248; --gray-9: rgb(var(--gray-9-rgb));
   --gray-8-rgb:   230, 232, 234; --gray-8: rgb(var(--gray-8-rgb));
