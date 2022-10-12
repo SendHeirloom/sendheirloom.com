@@ -186,7 +186,8 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
 </div>
 
 <div class="Section Section-is-solid Section-is-white Logo-banner">
-  <img class="Logo-banner--item" src="/static/images/logo-banner-desktop.svg" alt="Logo banner" />
+  <img class="Logo-banner--item" src="/static/images/logo-banner.png" larger-than-small-tablet-only alt="Logo banner" />
+  <img class="Logo-banner--item" src="/static/images/logo-banner-mobile.png" small-tablet-and-smaller-only alt="Logo banner" />
 </div>
 
 <div class="Section Section-is-solid Section-is-white Whats-video-book">
@@ -202,7 +203,7 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
           <li>5" HD screen (charger included)</li>
           <li>Already loaded with up to 10 or 20 min of video</li>
           <li>Add a personal message inside the cover</li>
-          <li>Pick from 12 different cover designs</li>
+          <li>Pick from 16 different cover designs</li>
           <li>Expedited shipping available</li>
         </ul>
 
@@ -240,7 +241,7 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
   </div>
 </div>
 
-<div class="Section Section-is-white How-it-works" id="how-it-works" buy-first>
+<div class="Section Section-is-white How-it-works Section-padding-bottom" id="how-it-works" buy-first>
   <div class="TwoUp">
     <div class="TwoUp--illustration">
       <div class="Illustration">
@@ -281,6 +282,37 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
     </div>
   </div>
 </div>
+
+<div class="Separator Separator-is-grey"></div>
+
+
+<div class="Section Section-is-white Custom-printed-covers" id="custom-printed-covers" buy-first>
+  <div class="Column text-center Section-is-solid">
+    <div class="text-center">
+      <h2>Design Your Own</h2>
+      <h3 class="mb-4 text-center">Custom Printed Covers</h3>
+    </div>
+    <div class="customerVideoBooks ColWrapper">
+      <div class="AspectRatio" style="--ratio: calc(1448 / 554)">
+        {% image "./src/static/images/custom-printed-covers.jpg", "Custom Printed Covers", "1448, 554",
+        "AspectRatio--content" %}
+      </div>
+    </div>
+
+    <div class="mt-2">
+      <p>High-quality printing of any desing, photo, logo or image.</p>
+      <p>No minimum required. Only $15 each.</p>
+    </div>
+    
+    <div class="ButtonGroup Row-is-centered mt-2">
+      <a class="Button Button-is-pill Button-is-bordered Button-is-primary"
+         href="https://make.sendheirloom.com">Order Now</a>
+    </div>
+  </div>
+</div>
+
+<div class="Separator Separator-is-grey"></div>
+
 
 <div class="Section Section-is-solid Holidays-Books" desktop-only>
   <div class="Column text-center Section-is-solid">
@@ -325,7 +357,6 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
     </div>
   </div>
 </div>
-
 <div class="Section Section-is-solid ">
   <div class="TwoUp" style="align-items: top">
     <div class="TwoUp--illustration">
@@ -354,7 +385,7 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
     <div class="TwoUp--content">
       <div class="Markdown">
         <h2 class="TwoUp--content-h2">Make it yours.</h2>
-        <p>Pick from 12 covers for every occasion:</p>
+        <p>Pick from 16 covers for every occasion:</p>
         <ul>
           <li>Birthdays</li>
           <li>Weddings</li>
@@ -371,7 +402,7 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
           <li>Gender Reveals</li>
           <li>Get Well Wishes</li>
           <li>Thinking Of You</li>
-          <li>Hanukkah</li>
+          <li>Thank you</li>
         </ul>
       </div>
       <br/>
@@ -382,41 +413,41 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
       </div>
     </div>
 
-    <div class="TwoUp--illustration" larger-than-tablet-only>
-      <div class="IllustrationGrid 123">
+    <div class="TwoUp--illustration" larger-than-tablet-only 123>
+      <div class="IllustrationGrid">
         <div>
           <div class="AspectRatio scale-on-hover-desktop" style="--ratio: 1">
-            {% image "./src/static/images/product/card-square-heart.png", "Heirloom book with love cover", "600", "", "AspectRatio--content" %}
+            {% image "./src/static/images/product/card-square-heart.jpg", "Heirloom book with love cover", "600", "", "AspectRatio--content" %}
           </div>
         </div>
         <div>
           <div class="AspectRatio scale-on-hover-desktop" style="--ratio: 1">
-            {% image "./src/static/images/product/card-square-flowers.png", "Heirloom book with flowers cover", "600", "", "AspectRatio--content" %}
+            {% image "./src/static/images/product/card-square-flowers.jpg", "Heirloom book with flowers cover", "600", "", "AspectRatio--content" %}
           </div>
         </div>
         <div>
           <div class="AspectRatio scale-on-hover-desktop" style="--ratio: 1">
-            {% image "./src/static/images/product/card-square-vhs.jpg", "Heirloom book with vhs cover", "600", "", "AspectRatio--content" %}
+            {% image "./src/static/images/product/card-square-holidays-retro.jpg", "Heirloom holidays retro", "600", "", "AspectRatio--content" %}
           </div>
         </div>
         <div>
           <div class="AspectRatio scale-on-hover-desktop" style="--ratio: 1">
-            {% image "./src/static/images/product/card-square-birthday.png", "Heirloom book with birthday cover", "600", "", "AspectRatio--content" %}
+            {% image "./src/static/images/product/card-square-birthday.jpg", "Heirloom book with birthday cover", "600", "", "AspectRatio--content" %}
           </div>
         </div>
         <div>
           <div class="AspectRatio scale-on-hover-desktop" style="--ratio: 1">
-            {% image "./src/static/images/product/card-square-moon.jpg", "Heirloom book with moon cover", "600", "", "AspectRatio--content" %}
+            {% image "./src/static/images/product/card-square-holidays-snow.jpg", "Heirloom book with holidays snowr", "600", "", "AspectRatio--content" %}
           </div>
         </div>
         <div>
           <div class="AspectRatio scale-on-hover-desktop" style="--ratio: 1">
-            {% image "./src/static/images/product/card-square-wedding.png", "Heirloom book with wedding cover", "600", "", "AspectRatio--content" %}
+            {% image "./src/static/images/product/card-square-wedding.jpg", "Heirloom book with wedding cover", "600", "", "AspectRatio--content" %}
           </div>
         </div>
         <div>
           <div class="AspectRatio scale-on-hover-desktop" style="--ratio: 1">
-            {% image "./src/static/images/product/card-square-baby.png", "Heirloom book with baby cover", "600", "", "AspectRatio--content" %}
+            {% image "./src/static/images/product/card-square-baby.jpg", "Heirloom book with baby cover", "600", "", "AspectRatio--content" %}
           </div>
         </div>
         <div>
@@ -426,22 +457,42 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
         </div>
         <div>
           <div class="AspectRatio scale-on-hover-desktop" style="--ratio: 1">
-            {% image "./src/static/images/product/card-square-christmas.jpg", "Heirloom book with christmas cover", "600", "", "AspectRatio--content" %}
+            {% image "./src/static/images/product/card-square-good-times.jpg", "Heirloom book with good times", "600", "", "AspectRatio--content" %}
           </div>
         </div>
         <div>
           <div class="AspectRatio scale-on-hover-desktop" style="--ratio: 1">
-            {% image "./src/static/images/product/card-square-blank.png", "Heirloom book with blank cover", "600", "", "AspectRatio--content" %}
+            {% image "./src/static/images/product/card-square-blank.jpg", "Heirloom book with blank cover", "600", "", "AspectRatio--content" %}
           </div>
         </div>
         <div>
           <div class="AspectRatio scale-on-hover-desktop" style="--ratio: 1">
-            {% image "./src/static/images/product/card-square-love.png", "Heirloom book with love cover", "600", "", "AspectRatio--content" %}
+            {% image "./src/static/images/product/card-square-love.jpg", "Heirloom book with love cover", "600", "", "AspectRatio--content" %}
           </div>
         </div>
         <div>
           <div class="AspectRatio scale-on-hover-desktop" style="--ratio: 1">
-            {% image "./src/static/images/product/card-square-animal.png", "Heirloom book with animals cover", "600", "", "AspectRatio--content" %}
+            {% image "./src/static/images/product/card-square-animal.jpg", "Heirloom book with animals cover", "600", "", "AspectRatio--content" %}
+          </div>
+        </div>
+        <div>
+          <div class="AspectRatio scale-on-hover-desktop" style="--ratio: 1">
+            {% image "./src/static/images/product/card-square-thank-you.jpg", "Heirloom book with thank you cover", "600", "", "AspectRatio--content" %}
+          </div>
+        </div>
+        <div>
+          <div class="AspectRatio scale-on-hover-desktop" style="--ratio: 1">
+            {% image "./src/static/images/product/card-square-xmas-deer.jpg", "Heirloom book with Christmas deer cover", "600", "", "AspectRatio--content" %}
+          </div>
+        </div>
+        <div>
+          <div class="AspectRatio scale-on-hover-desktop" style="--ratio: 1">
+            {% image "./src/static/images/product/card-square-xmas-red.jpg", "Heirloom book with Christmas red cover", "600", "", "AspectRatio--content" %}
+          </div>
+        </div>
+        <div>
+          <div class="AspectRatio scale-on-hover-desktop" style="--ratio: 1">
+            {% image "./src/static/images/product/card-square-xmas-snow.jpg", "Heirloom book with Christmas snow cover", "600", "", "AspectRatio--content" %}
           </div>
         </div>
       </div>
@@ -464,48 +515,68 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
                 <b></b>
                 <b></b>
                 <b></b>
+                <b></b>
+                <b></b>
+                <b></b>
+                <b></b>
               </div>
 
               <div class="ImageSwipe--images" data-image-swipe-images>
                 <div class="ImageSwipe--image">
-                  {% image "./src/static/images/product/card-square-heart.png", "Heirloom book with heart cover", "970, 540", "(max-width: 32em) 540w" %}
+                  {% image "./src/static/images/product/card-square-heart.jpg", "Heirloom book with heart cover", "970, 540", "(max-width: 32em) 540w" %}
                 </div>
                 <div class="ImageSwipe--image">
-                  {% image "./src/static/images/product/card-square-flowers.png", "Heirloom book with flowers cover", "970, 540", "(max-width: 32em) 540w" %}z
+                  {% image "./src/static/images/product/card-square-flowers.jpg", "Heirloom book with flowers cover", "970, 540", "(max-width: 32em) 540w" %}z
                 </div>
                 <div class="ImageSwipe--image">
-                  {% image "./src/static/images/product/card-square-vhs.jpg", "Heirloom book with VHS cover", "970, 540", "(max-width: 32em) 540w" %}
+                  {% image "./src/static/images/product/card-square-holidays-retro.jpg", "Heirloom holidays retro", "970, 540", "(max-width: 32em) 540w" %}
                 </div>
                 <div class="ImageSwipe--image">
-                  {% image "./src/static/images/product/card-square-birthday.png", "Heirloom book collection", "970, 540", "(max-width: 32em) 540w" %}
+                  {% image "./src/static/images/product/card-square-birthday.jpg", "Heirloom book collection", "970, 540", "(max-width: 32em) 540w" %}
                 </div>
                 <div class="ImageSwipe--image">
-                  {% image "./src/static/images/product/card-square-moon.jpg", "Heirloom book with moon cover", "970, 540", "(max-width: 32em) 540w" %}
+                  {% image "./src/static/images/product/card-square-holidays-snow.jpg", "Heirloom book with holidays snowr", "970, 540", "(max-width: 32em) 540w" %}
                 </div>
                 <div class="ImageSwipe--image">
-                  {% image "./src/static/images/product/card-square-wedding.png", "Heirloom book with wedding cover", "970, 540", "(max-width: 32em) 540w" %}
+                  {% image "./src/static/images/product/card-square-wedding.jpg", "Heirloom book with wedding cover", "970, 540", "(max-width: 32em) 540w" %}
                 </div>
                 <div class="ImageSwipe--image">
-                  {% image "./src/static/images/product/card-square-baby.png", "Heirloom book with baby cover", "970, 540", "(max-width: 32em) 540w" %}
+                  {% image "./src/static/images/product/card-square-baby.jpg", "Heirloom book with baby cover", "970, 540", "(max-width: 32em) 540w" %}
                 </div>
                 <div class="ImageSwipe--image">
                   {% image "./src/static/images/product/card-square-memories.jpg", "Heirloom book with memories cover", "970, 540", "(max-width: 32em) 540w" %}
                 </div>
                 <div class="ImageSwipe--image">
-                  {% image "./src/static/images/product/card-square-christmas.jpg", "Heirloom book with christmas cover", "970, 540", "(max-width: 32em) 540w" %}
+                  {% image "./src/static/images/product/card-square-good-times.jpg", "Heirloom book with good times", "970, 540", "(max-width: 32em) 540w" %}
                 </div>
                 <div class="ImageSwipe--image">
-                  {% image "./src/static/images/product/card-square-blank.png", "Heirloom book with blank cover", "970, 540", "(max-width: 32em) 540w" %}
+                  {% image "./src/static/images/product/card-square-blank.jpg", "Heirloom book with blank cover", "970, 540", "(max-width: 32em) 540w" %}
                 </div>
                 <div class="ImageSwipe--image">
-                  {% image "./src/static/images/product/card-square-love.png", "Heirloom book with love cover", "970, 540", "(max-width: 32em) 540w" %}
+                  {% image "./src/static/images/product/card-square-love.jpg", "Heirloom book with love cover", "970, 540", "(max-width: 32em) 540w" %}
                 </div>
                 <div class="ImageSwipe--image">
-                  {% image "./src/static/images/product/card-square-animal.png", "Heirloom book with animals cover", "970, 540", "(max-width: 32em) 540w" %}
+                  {% image "./src/static/images/product/card-square-animal.jpg", "Heirloom book with animals cover", "970, 540", "(max-width: 32em) 540w" %}
+                </div>
+                <div class="ImageSwipe--image">
+                  {% image "./src/static/images/product/card-square-thank-you.jpg", "Heirloom book with thank you cover", "970, 540", "(max-width: 32em) 540w" %}
+                </div>
+                <div class="ImageSwipe--image">
+                  {% image "./src/static/images/product/card-square-xmas-deer.jpg", "Heirloom book with Christmas deer cover", "970, 540", "(max-width: 32em) 540w" %}
+                </div>
+                <div class="ImageSwipe--image">
+                  {% image "./src/static/images/product/card-square-xmas-red.jpg", "Heirloom book with Christmas red cover", "970, 540", "(max-width: 32em) 540w" %}
+                </div>
+                <div class="ImageSwipe--image">
+                  {% image "./src/static/images/product/card-square-xmas-snow.jpg", "Heirloom book with Christmas Snow cover", "970, 540", "(max-width: 32em) 540w" %}
                 </div>
               </div>
               <div class="ImageSwipe--progress" data-image-swipe-progress>
                 <b data-is-active></b>
+                <b></b>
+                <b></b>
+                <b></b>
+                <b></b>
                 <b></b>
                 <b></b>
                 <b></b>
