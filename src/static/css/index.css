@@ -423,7 +423,9 @@ span.line--pink::after {
   text-transform: uppercase;
 
 }
-
+.Custom-printed-covers h2.capitalize {
+  text-transform: capitalize;
+}
 .Custom-printed-covers h2 {
   font-family: var(--sans-serif-font-family);
   font-size: 2em;
