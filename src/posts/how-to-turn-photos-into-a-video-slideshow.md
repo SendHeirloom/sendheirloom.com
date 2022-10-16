@@ -20,7 +20,7 @@ An ideal tool to accomplish this task is [Heirloom’s video book](https://make.
 \
 This website welcomes you to the Heirloom video book builder. Your first question: Do you have your photos ready?
 
-Ready, in this case, means, you know where they are, such as in your phone or on your computer. You can select them before you begin or wait for this first prompt. (Then you will begin your first tough choice: how do I pick between 14 great pictures of my grandson’s first Halloween costume modeling?!)
+Ready, in this case, means you know where they are, such as in your phone or on your computer. You can select them before you begin or wait for this first prompt. (Then you will begin your first tough choice: how do I pick between 14 great pictures of my grandson’s first Halloween costume modeling?!)
 
 ## Step 2: Select the video book’s cover
 
@@ -40,4 +40,4 @@ You can choose from many offerings right in front of you. Click to play and you�
 ## Step 5: Preview
 
 \
-Who said peeking is a bad thing? Yes, you will be prompted to watch a preview. This will offer you your private reward, seeing your creation come to life.
+Who said peeking is a bad thing? Yes, you will be prompted to watch a preview. This will offer you your private reward, seeing your creation come to life!
