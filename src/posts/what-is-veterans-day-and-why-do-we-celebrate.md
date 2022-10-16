@@ -15,6 +15,8 @@ The importance of this day and time has been solidified by the establishment of 
 \
 Here are a few ways to celebrate Veterans Day with purpose and meaning. 
 
+
+
 ## Start with the Basics
 
 There is no more recognized and honored symbol of our country, and specifically our military veterans, as the American Flag. Explore how you can display a flag and pass on the message of thanks and awareness of the holiday. Your car window or bumper can be an obvious spot as you move around town. Your front lawn or house window can display your patriot spirit. For smaller spots, you can obtain a package of flag stickers or purchase flag-decorated postage stamps for all your mailing.
