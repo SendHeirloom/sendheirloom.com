@@ -1507,7 +1507,7 @@ span.line--pink::after {
   height: 100%;
   width: 100%;
   background-color: #cdcdcd40;
-  background-size: 100%;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: 50%;
   box-shadow: 2px 0 20px #dedede;
