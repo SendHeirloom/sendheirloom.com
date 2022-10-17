@@ -16,6 +16,7 @@ async function sendheirloomGetAndShowCovers() {
                       id
                       displayName
                       images
+                      metadata
                   }
               }
           }
@@ -35,6 +36,17 @@ async function sendheirloomGetAndShowCovers() {
       }
 
       const covers = result.data.stock.books[0].covers
+
+      covers.sort((a, b) => {
+        if (!a.metadata || !a.metadata.sortOrder) {
+          return 1;
+        }
+        if (!b.metadata || !b.metadata.sortOrder) {
+          return -1;
+        }
+
+        return a.metadata.sortOrder - b.metadata.sortOrder
+      })
 
       let html = '';
       covers.forEach(cover => {
