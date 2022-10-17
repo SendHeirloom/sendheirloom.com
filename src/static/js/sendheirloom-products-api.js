@@ -1,5 +1,5 @@
 async function sendheirloomGetAndShowCovers() {
-  fetch('https://api.sendheirloom.com/query', {
+  fetch('https://api.sendheirloom.com/query/public', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
