@@ -1,10 +1,10 @@
 ---
-layout: with_shopify
+layout: with_sendheirloom_products_api
 title: Our Covers
 description: "Learn more about the cover options available for Heirloom Video Books."
 path: covers
 
-loop: [1,2,3,4,5,6,7,8,9,10,11,12,13]
+loop: [1,2,3,4,5,6,7,8,9,10,11,12,13, 14]
 ---
 
 <div class="MarkdownPage MarkdownPage-is-centered CoversPage">
@@ -21,4 +21,21 @@ loop: [1,2,3,4,5,6,7,8,9,10,11,12,13]
   </div>
 </div>
 
+<div class="Section Section-is-white Custom-printed-covers" id="custom-printed-covers">
+  <div class="Column text-center Section-is-solid">
+    <div class="text-center">
+      <h2 class="capitalize">Also Custom Covers</h2>
+    </div>
+    <div class="customerVideoBooks ColWrapper">
+      <div class="AspectRatio" style="--ratio: calc(1448 / 554)">
+        {% image "./src/static/images/custom-printed-covers.jpg", "Custom Printed Covers", "1448, 554",
+        "AspectRatio--content" %}
+      </div>
+    </div>
 
+    <div class="mt-2">
+      <p>You can also design your own cover (+$15) </p>
+      <p>while building your video book!</p>
+    </div>
+  </div>
+</div>
