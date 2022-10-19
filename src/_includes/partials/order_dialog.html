@@ -352,6 +352,8 @@ input:checked + div.checkbox-replacement svg {
   let discountAmount = 0
   let discountCode = null
 
+  const allowQuantityEdit = !!!params['qty']
+
   function enableDiscount(discountId) {
     payDiscountLink.hidden = true
 
@@ -680,7 +682,9 @@ input:checked + div.checkbox-replacement svg {
   payChangeQuantityLink.addEventListener('click', function(e) {
     e.preventDefault()
 
-    setStep('quantity')
+    if (allowQuantityEdit) {
+      setStep('quantity')
+    }
   })
 
   function round(val) {
