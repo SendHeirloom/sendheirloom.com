@@ -1,5 +1,5 @@
 ---
-title: The Best Video Gifts
+title: The Best Video Gifts for 2022
 description: Several of the endless reasons that others have created videos as a gift.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-10-19T15:07:31.898Z
