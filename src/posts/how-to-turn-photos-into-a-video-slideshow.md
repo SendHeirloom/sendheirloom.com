@@ -1,6 +1,9 @@
 ---
-title: "Transforming Photos into Video Slideshows: A Step-by-Step Guide | Heirloom Blog"
-description: Learn how to convert your cherished photos into captivating video slideshows. Elevate your storytelling with visual narratives using the expert advice from Heirloom.
+title: "How to Turn Photos into A Video Slideshow "
+description: Ever spend 20 minutes searching for a couple pictures on your phone
+  or computer that you wish to share? You may never again once you learn to turn
+  your photos into a video slideshow. Consider these ideas as your starting
+  point, and soon you will be creating them for gifts and your own enjoyment.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-10-14T19:47:00.994Z
 social_image: https://ucarecdn.com/df99366b-ca20-4541-8a69-54b4129c5bb1/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
@@ -13,7 +16,7 @@ Imagine this: you no longer need to go through your photographs one-by-one when 
 
 An ideal tool to accomplish this task is [Heirloom’s video book](https://make.sendheirloom.com/) builder. This tool was designed for first-timers like most of us with detailed instructions and a quick responding help line are also at your fingertips. Let’s begin to use the builder and you will see how many of your questions are answered and satisfied.
 
-## Step 1: Visit make.sendheirloom.com[](make.sendheirloom.com)
+## Step 1: Visit [make.sendheirloom.com](https://make.sendheirloom.com)
 
 \
 This website welcomes you to the Heirloom video book builder. Your first question: Do you have your photos ready?
