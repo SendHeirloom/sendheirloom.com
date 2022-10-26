@@ -23,7 +23,7 @@ Take the benefits of Karaoke, add costumes and familiar names to the lyrics, and
 
 ## Produce, Direct and Star in a Movie
 
-Here is an idea that places you behind and in front of the camera. Consider the creation of a short film. Your actors can be assigned parts, perhaps related to a recent event or capturing a whole funny story. The ideas are endless, as you take advantage of the talents of your cast. And, consider the fun when your cast is only told about their part, their performance. Imagine the surprise when they finally get their chance to attend, even virtually, the full film’s debut
+Here is an idea that places you behind and in front of the camera. Consider the creation of a short film. Your actors can be assigned parts, perhaps related to a recent event or capturing a whole funny story. The ideas are endless, as you take advantage of the talents of your cast. And, consider the fun when your cast is only told about their part, their performance. Imagine the surprise when they finally get their chance to attend, even virtually, the full film’s debut.
 
 ## Funny Commercial
 
