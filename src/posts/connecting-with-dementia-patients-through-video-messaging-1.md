@@ -2,7 +2,7 @@
 title: Connecting With Dementia Patients Through Video Messaging
 description: Dementia patients often struggle with isolation as their ability to
   communicate diminishes. Social interaction helps improve their health and
-  quality of life. Caregiving and loved ones can learn effective communication
+  quality of life. Caregivers and loved ones can learn effective communication
   skills. Families are guided to consider video messaging as a tool to sustain
   their vital connection.
 author: Randee Bloom, RN, MBA, PhD
