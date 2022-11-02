@@ -1,5 +1,5 @@
 ---
-title: Connecting With Dementia Patients Through Video Messaging
+title: How To Connect with Dementia Patients
 description: Dementia patients often struggle with isolation as their ability to
   communicate diminishes. Social interaction helps improve their health and
   quality of life. Caregivers and loved ones can learn effective communication
