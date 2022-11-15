@@ -4,14 +4,11 @@ description: TEMP DESCRIPTION
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-11-15T02:55:46.938Z
 social_image: https://ucarecdn.com/ed0f4541-7018-4863-92df-e0df5491ad2f/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
-tags:
-  - Heirloom
+tags: []
 ---
 ![Photo by Valiant Made ](https://ucarecdn.com/9013e065-1386-43b3-9663-4f2995f1452e/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Image of friends and family")
 
 Do you find yourself wanting to share private videos with family and friends, but not sure how? It can be tough to figure out the best way. In this article we discuss several ways that you can share videos and provide tips on how to make the process as easy and convenient as possible!
-
-![Family hugs](https://ucarecdn.com/b5b9de35-cbf7-441d-8f4a-401e1fc681ab/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Children hugging")
 
 ## What to consider first
 
@@ -27,13 +24,13 @@ If you're sharing a video with someone who doesn't have a fast internet connecti
 
 ## How to Share Video with Family and Friends from an iPhone
 
-![iphone](https://ucarecdn.com/8290b516-5d1d-4b58-aae3-754b011f427b/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "holding phone")
+![iphone](https://ucarecdn.com/8290b516-5d1d-4b58-aae3-754b011f427b/-/resize/800x/-/stretch/off/-/format/auto/-/progressive/yes/ "holding phone")
 
 ## How do I share videos *from* an iPhone AND my recipient has an iPhone?
 
 The iPhone makes it very easy to share videos, but you have to know how. Your best bet will probably be using either iMessage or AirDrop.
 
-![Two cell phones](https://ucarecdn.com/4c25b556-07f6-4f06-a65a-ab21506da7d0/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "iPhones")
+![Two cell phones](https://ucarecdn.com/4c25b556-07f6-4f06-a65a-ab21506da7d0/-/resize/800x/-/stretch/off/-/format/auto/-/progressive/yes/ "iPhones")
 
 ## How do I share videos from my iPhone using iMessage?
 
@@ -45,7 +42,7 @@ You can also send a video directly from the Photos app using iMessage. Open the 
 
 You can also use AirDrop to share private videos with family and specific friends who have iPhones. Open the Photos app and find the video you want to share. Tap the share icon and select the AirDrop option. Finally, tap the contact's name and the send button.
 
-![Hand holding phone](https://ucarecdn.com/fba7dc88-e14f-4962-a74c-358d2007b4b1/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Computer working ")
+![Hand holding phone](https://ucarecdn.com/fba7dc88-e14f-4962-a74c-358d2007b4b1/-/resize/800x/-/stretch/off/-/format/auto/-/progressive/yes/ "Computer working ")
 
 ## How do I share videos from my iPhone to people who don't have iPhones?
 
@@ -53,13 +50,13 @@ If your recipient doesn't have an iPhone, it can be a better idea to use a share
 
 Another option is to use email to share videos with family and friends who do not have iPhones. Open the Photos app to find the video that you want to share. Tap the share icon and select the email option. Finally, enter their email address and tap the send button.
 
-![Google Gmail](https://ucarecdn.com/b571274c-d898-4fdd-836c-95a362e91599/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Computer email ")
+![Google Gmail](https://ucarecdn.com/b571274c-d898-4fdd-836c-95a362e91599/-/resize/800x/-/stretch/off/-/format/auto/-/progressive/yes/ "Computer email")
 
 A final great option is to send an iCloud Link. This will allow anyone with an internet connection to view the video, regardless of whether or not they have an iPhone. Open the Photos app and find the video. Tap the share icon, select "Copy Link", paste the link into an email or text message and send.
 
 As you can see, there are a few different ways that you can share videos. All of these options are relatively easy to use, so experiment and see which one works best for you.
 
-![Girl at computer](https://ucarecdn.com/1b568372-96f8-4587-9675-1c0dd495b3eb/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "iPhone and computer ")
+![Girl at computer](https://ucarecdn.com/1b568372-96f8-4587-9675-1c0dd495b3eb/-/resize/800x/-/stretch/off/-/format/auto/-/progressive/yes/ "iPhone and computer ")
 
 ## How do I share videos from an Android Phone?
 
@@ -117,7 +114,7 @@ This is a great way to share videos with extended family and friends who don't u
 
 ## How do I share videos from my computer using Dropbox?
 
-![Two computers](https://ucarecdn.com/f8e5162e-42be-4e94-a8eb-16e9807ed8f4/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Desktop")
+![Two computers](https://ucarecdn.com/f8e5162e-42be-4e94-a8eb-16e9807ed8f4/-/resize/800x/-/stretch/off/-/format/auto/-/progressive/yes/ "Desktop")
 
 Dropbox is a file-sharing service that allows you to upload files and share them with others. To share a video using Dropbox, upload the video to your Dropbox account. Create a shared unique link for the video and send the link to your family and friends.
 
@@ -125,7 +122,7 @@ If you have the Dropbox application installed on your computer, it can be as sim
 
 ## How do I share videos using Heirloom Video Books?
 
-![Heirloom video books](https://ucarecdn.com/299135d4-7a25-46a4-9551-751bdb3db637/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Video book")
+![Heirloom video books](https://ucarecdn.com/299135d4-7a25-46a4-9551-751bdb3db637/-/resize/800x/-/stretch/off/-/format/auto/-/progressive/yes/ "Video book")
 
 If you want to share a video with family and friends in a more personal way, then you should consider [Heirloom Video Books](https://sendheirloom.com/). With this service, you can create a custom video book that includes your favorite videos and photos. This tangible heirloom can be passed down generations, as you share private videos, forever memorializing these special moments.
 
@@ -133,12 +130,12 @@ If you want to share your videos with Heirloom Video Books, the process is a bit
 
 ## How Should I Send a Link to a Video Online?
 
-![Editing](https://ucarecdn.com/ba8cdaaf-4446-4fa2-bcc4-27533d2e26ae/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Video online")
+![Editing](https://ucarecdn.com/ba8cdaaf-4446-4fa2-bcc4-27533d2e26ae/-/resize/800x/-/stretch/off/-/format/auto/-/progressive/yes/ "Video online")
 
 If you don't use any of the services mentioned, you can still send your file using a free service like WeTransfer. Go to the WeTransfer website and click "Add your files." Select the video or multiple videos by holding down the "Command" key on a Mac or the "Control" key on a PC. Enter the email addresses add a message. Click "Transfer" and your video will now be sent! The recipient will receive an email with a link to download the file in its original quality (and its original size). Keep in mind that you need to know your file size, as WeTransfer only allows files up to a 2GB maximum size; most video files will fit in this limit.
 
 ## Conclusion
 
-![Family Together](https://ucarecdn.com/d6274490-095e-4f29-be4c-706e0ed81329/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Family")
+![Family Together](https://ucarecdn.com/d6274490-095e-4f29-be4c-706e0ed81329/-/resize/800x/-/stretch/off/-/format/auto/-/progressive/yes/ "Family")
 
 There are several ways to share videos with family and friends; the best way depends on the specific situation. If you are sending a high-quality original video to someone with a good internet connection, you might want to use Google Drive or Dropbox. If you are quickly sharing a family video, you might want to use the tools provided by your phone or computer like iMessage or Android Messages. Hopefully, you have learned many ways to expand your project's reach.
