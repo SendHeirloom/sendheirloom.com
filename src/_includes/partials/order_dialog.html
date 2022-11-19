@@ -382,6 +382,10 @@ input:checked + div.checkbox-replacement svg {
     enableDiscount(params['discount'])
   }
 
+  const userIdentified = () => {
+    gtag('event', "identified", {});
+  }
+
   function open() {
     if (params['qty']) {
       qtyField.value = params['qty']
@@ -391,6 +395,7 @@ input:checked + div.checkbox-replacement svg {
       setStep('pay')
       initPayment()
     } else if (params['email']) {
+      userIdentified()
       setStep('quantity')
       qtyField.focus()
       qtyField.select()
@@ -605,6 +610,8 @@ input:checked + div.checkbox-replacement svg {
     }
 
     const next = () => {
+      userIdentified()
+
       setStep('quantity')
       qtyField.focus()
       qtyField.select()
