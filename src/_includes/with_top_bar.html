@@ -4,10 +4,10 @@
 {% if top_bar.body | trim %}
   <div class="TopBanner">
     {% if top_bar.opener | trim %}
-      <span class="TopBanner--accented">{{ top_bar.opener }}:</span>&nbsp;
+      <span class="TopBanner--accented">{{ top_bar.opener | safe }}:</span>&nbsp;
     {% endif %}
 
-    {{ top_bar.body }}
+    {{ top_bar.body | safe }}
   </div>
 {% endif %}
 {% endblock %}
