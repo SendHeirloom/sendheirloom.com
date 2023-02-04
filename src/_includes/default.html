@@ -130,9 +130,18 @@
         click_tracking: true
       });
 
+      if (!localStorage.uniqueIdentifier) {
+        localStorage.uniqueIdentifier = Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15);
+      }
+
       if (localStorage.customerEmailAddress) {
         woopra.identify({
-          email: localStorage.customerEmailAddress
+          email: localStorage.customerEmailAddress,
+          cookie: localStorage.uniqueIdentifier
+        });
+      } else {
+        woopra.identify({
+          cookie: localStorage.uniqueIdentifier
         });
       }
 
