@@ -68,4 +68,6 @@ How about asking your grandmother to spend the day teaching you something? Recal
 
 These gifts ideas as simply suggestions to possibly redirect your gift shopping away from the already produced objects to the ones that actually emote your emotional goals. Your grandparent may have already provided you with all the gift giving hints you need. Just think back a little, bring yourself joy and your gift will surely do the same in their lives.
 
+L﻿ooking for more gift ideas? Take a look at our [gift ideas for great-grandparents](https://sendheirloom.com/posts/great-gift-ideas-for-great-grandparents/) and our [thoughtful gifts for grandma](https://sendheirloom.com/posts/thoughtful-gifts-for-grandma/).
+
 **\*Dr. Randee Bloom, RN, MBA, PhD** is a retired nurse and healthcare administrator. She has a PhD in nonprofit management and serves on the board of several national healthcare nonprofits. Dr. Bloom is a national volunteer ambassador for AARP and two of her children, Ashley and Zack, are the founders of Heirloom. Dr. Bloom's own mother is in her 90's and is forced to remain isolated to protect her health as COVID-19 remains uncontrolled.*
