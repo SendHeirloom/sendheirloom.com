@@ -17,7 +17,7 @@ Those of us lucky enough to be shopping for the great-grandparents in our lives 
 
 When it comes to gift giving, we all know what they truly want: more time with you. Second to that, it’s probably a gift that reminds them of you!  
 
-Here are some gifts for the precious great-grandfathers and great-grandmothers in your life. 
+Whether it's Christmas gifts, a sentimental gift, or just something to show your love, here are some gifts for the precious great-grandfathers and great-grandmothers in your life.
 
 #### Before Your Enter the Store
 
@@ -25,7 +25,7 @@ You may want to ask yourself a few questions before beginning your shopping spre
 
 #### Something for Everyone
 
-Consider “borrowing” an item from their home to incorporate into their gift. Do they have a special wedding photo, picture of their kids as babies, or maybe their first home?  If you can sneak it out of their possession for a moment, perhaps you can have it [beautifully framed](https://www.framebridge.com/?gclid=CjwKCAjw5c6LBhBdEiwAP9ejGxtIP858nnxU-NwZH4EF4ALD5OGU0XsQ0mFJMXzyEQyBd-mVXYrA3xoCqf4QAvD_BwE)? For a more clever gift, consider having the picture made into a blanket. [Yes, they can do that](https://www.personalizationmall.com/Blankets-c86.lp?fitemid=50486&did=309351&wordid=50486&utm_source=GooglePLA&utm_medium=cpc&&gcampaignID=14647497576&pmkid=pla-295133208862-130077585351&gclid=CjwKCAjw5c6LBhBdEiwAP9ejG4rgr2rbeEPqiBIX9ri48QIPaPgt9xT-hrMdSOOA7X09OjVixtW9rxoCHrMQAvD_BwE)! Or, how about applying the picture to a useful item: holiday ornament or coffee mug. 
+Consider “borrowing” an item from their home to incorporate into their gift. Do they have a special wedding photo, family photos of their kids as babies, or maybe their first home?  If you can sneak it out of their possession for a moment, perhaps you can have it [beautifully framed](https://www.framebridge.com/?gclid=CjwKCAjw5c6LBhBdEiwAP9ejGxtIP858nnxU-NwZH4EF4ALD5OGU0XsQ0mFJMXzyEQyBd-mVXYrA3xoCqf4QAvD_BwE)? For a more clever gift, consider having the picture made into a blanket. [Yes, they can do that](https://www.personalizationmall.com/Blankets-c86.lp?fitemid=50486&did=309351&wordid=50486&utm_source=GooglePLA&utm_medium=cpc&&gcampaignID=14647497576&pmkid=pla-295133208862-130077585351&gclid=CjwKCAjw5c6LBhBdEiwAP9ejG4rgr2rbeEPqiBIX9ri48QIPaPgt9xT-hrMdSOOA7X09OjVixtW9rxoCHrMQAvD_BwE)! Or, how about applying the picture to a useful item: holiday ornament or coffee mug.
 
 Is there something they’ve always wanted to do or learn? Another happy gift for many great-grandparents is the introduction to a new hobby. After decades devoted to some hobbies they may have realized that they can no longer count on the same skills. Maybe their vision is more challenged or their hand dexterity is slipping. How about introducing them to something new like [adult coloring books](https://www.amazon.com/Adult-Coloring-Book-Relieving-Designs/dp/1945710799/ref=asc_df_1945710799/?tag=hyprod-20&linkCode=df0&hvadid=312057344057&hvpos=&hvnetw=g&hvrand=9970190442491827198&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061285&hvtargid=pla-435513244064&psc=1), paint-by-number canvas or books-on-tape? 
 
