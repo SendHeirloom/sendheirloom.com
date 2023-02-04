@@ -496,6 +496,8 @@ input:checked + div.checkbox-replacement svg {
         'event_category': "Preorder Flow",
         'event_label': "Preorder Add To Cart",
       });
+
+      window.woopra && woopra.track("add_to_cart");
     })
   })
 
@@ -577,6 +579,14 @@ input:checked + div.checkbox-replacement svg {
       'currency': 'USD',
       'value': value,
     });
+
+    window.woopra && woopra.track("purchase", {
+      'transaction_id': p['orderId'],
+      'flow': "Preorder Flow",
+      'source': "Homepage",
+      'currency': 'USD',
+      'value': value,
+    });
   }
 
   if (params['flow'] === 'order' && params['step'] === 'thanks'){
@@ -601,6 +611,10 @@ input:checked + div.checkbox-replacement svg {
       gtag('config', 'GA_MEASUREMENT_ID', {
         'user_id': hash(email),
       });
+
+      window.woopra
+        && window.woopra.identify({email})
+        && window.woopra.push();
 
       try {
         localStorage.customerEmailAddress = email
@@ -668,6 +682,8 @@ input:checked + div.checkbox-replacement svg {
       'event_category': "Preorder Flow",
       'event_label': "Begin Checkout",
     });
+
+    window.woopra && woopra.track("begin_checkout");
   })
 
   payDiscountLink.addEventListener('click', function(e){

@@ -130,6 +130,12 @@
         click_tracking: true
       });
 
+      if (localStorage.customerEmailAddress) {
+        woopra.identify({
+          email: localStorage.customerEmailAddress
+        });
+      }
+
       woopra.track();
     </script>
     <!-- End of Woopra Code -->
