@@ -5,7 +5,7 @@ description: If you're looking for thoughtful Valentine’s Day gifts to show yo
   require breaking the bank.
 author: Randee Bloom, RN, MBA, PhD
 date: 2023-01-18T00:01:44.491Z
-social_image: https://ucarecdn.com/1cd50176-e94e-4bd3-80b1-799d779eeea4/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
+social_image: https://ucarecdn.com/a16d8ac1-e148-4d4d-84a5-c5116884299d/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 tags:
   - valentines day
   - gifts
