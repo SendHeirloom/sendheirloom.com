@@ -361,6 +361,8 @@ input:checked + div.checkbox-replacement svg {
 
     if (discountCode === 'HOLIDAY4-'){
       discountAmount = 16
+    } else if (discountCode === 'BUY2GET1' && qtyField.value >= 3){
+      discountAmount = cost * .33
     } else if (discountCode === 'BLACKFRIDAY-') {
       discountAmount = 12.25
     } else {
