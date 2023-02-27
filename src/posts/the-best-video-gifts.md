@@ -11,7 +11,6 @@ tags:
 ---
 ![Video Book](https://ucarecdn.com/847de682-2d38-4647-b3a3-11e27981bd89/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Video Greeting Card ")
 
-\
 Your idea of creating and gifting a video might be driven by the one person or group you seek to celebrate. A special birthday, a life well-lived, a monumental milestone, or an expression of appreciation. Or, perhaps you are seeking to offer expansive good wishes, well wishes, or even condolences from a close-knit crowd. All these, and more, may benefit from your exploration of ways to create and give a video-playing gift. 
 
 Let’s begin by considering several of the endless reasons that others have created videos as a gift.
