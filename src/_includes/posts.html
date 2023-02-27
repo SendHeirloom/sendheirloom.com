@@ -5,6 +5,11 @@ og_type: article
 
 <div class="container max-w-2xl mt-6 px-6">
   <div class="pb-5 mb-5">
+    <div class="p-5 pt-8 m-2 mr-6 bg-gray-100 text-sm relative">
+      {{ description }}
+      <span class="absolute top-2 left-3 font-bold">Read for:</span>
+    </div>
+
     <h1 class="font-bold text-3xl font-heading">{{ title }}</h1>
     <p class="text-base leading-6 font-medium font-body text-gray-500">
       <time> {{ date | readableDate }}
