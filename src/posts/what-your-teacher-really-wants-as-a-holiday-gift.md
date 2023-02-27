@@ -7,7 +7,7 @@ author: Randee Bloom PhD RN MBA
 date: 2022-11-29T13:18:54.715Z
 social_image: https://ucarecdn.com/ac179622-93d6-4a5b-a307-676a87ac00d4/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 ---
-# What Your Teacher Really Wants as a Holiday Gift
+
 
 ![Chalk drawing](https://ucarecdn.com/e35440ca-7a23-4162-bb6e-f9d4946593e1/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
