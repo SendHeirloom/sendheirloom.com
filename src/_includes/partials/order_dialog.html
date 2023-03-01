@@ -657,7 +657,11 @@ input:checked + div.checkbox-replacement svg {
   qtyForm.addEventListener('submit', async function(e){
     e.preventDefault()
 
-    setStep('duration')
+    if (params['duration']){
+      setStep('pay')
+    } else {
+      setStep('duration')
+    }
   })
 
   durForm.addEventListener('submit', async function(e){
@@ -719,7 +723,7 @@ input:checked + div.checkbox-replacement svg {
   }
 
   function getDuration() {
-    return +document.querySelector('input[name="duration"]:checked').value
+    return +(params['duration'] || document.querySelector('input[name="duration"]:checked').value)
   }
 
   function renderCosts(){
