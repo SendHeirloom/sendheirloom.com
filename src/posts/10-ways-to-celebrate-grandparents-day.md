@@ -13,7 +13,7 @@ social_image: https://ucarecdn.com/d753f9f4-85c4-4a0a-8017-29f97b5170f1/-/resize
 
 Our Mother’s Day and Father’s Day are each written with apostrophes, while Grandparents Day is officially not. Researchers site the holiday’s advocate Marian McQuade as envisioning the celebration not of one just for the Grandparent but rather the connection to grandparents. With this simple writing style we can remind ourselves that grandparents are also welcomed to honor their position and with it their developed legacy to future generations.
 
-Here are some fun ideas for how to celebrate Grandparents Day on September 12, 2021. 
+Here are some fun ideas for how to celebrate Grandparents Day on Sunday, September 10, 2023.
 
 **As a Family Day**\
 How about arranging for a casual gathering, in person and virtual, making sure that those you wish to honor and hopefully wish to honor you back are in attendance. The simplicity of this idea honors the core tenant of the holiday’s design. In fact, one of the most instrumental advocates for this holiday, [Marian McQuade](https://grandparenteffect.com/we-have-this-woman-to-thank-for-grandparents-day/), held that this holiday should not be turned commercial.
