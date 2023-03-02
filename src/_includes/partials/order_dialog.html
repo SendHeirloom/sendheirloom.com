@@ -361,8 +361,8 @@ input:checked + div.checkbox-replacement svg {
 
     if (discountCode === 'HOLIDAY4-'){
       discountAmount = 16
-    } else if (discountCode === 'BUY2GET1' && qtyField.value >= 3){
-      discountAmount = cost * .33
+    } else if (discountCode === 'BUY2GET1' && +(params['qty'] || qtyField.value) >= 3){
+      discountAmount = '34%'
     } else if (discountCode === 'BLACKFRIDAY-') {
       discountAmount = 12.25
     } else {
@@ -726,19 +726,25 @@ input:checked + div.checkbox-replacement svg {
     return +(params['duration'] || document.querySelector('input[name="duration"]:checked').value)
   }
 
+  function getCost() {
+    if (getDuration() === 20) {
+      return cost + 20
+    }
+    return cost
+  }
+
   function renderCosts(){
     const quantity = +(qtyField.value) || 1
     const duration = getDuration()
 
-    let localCost = cost
-    if (duration === 20) {
-      localCost = localCost + 20
-    }
-    localCost -= discountAmount
+    let localCost = getCost()
+
+    const discount = calcDiscount(localCost, discountAmount)
+    localCost -= discount
 
     let priceOut = "$" + round(quantity * localCost)
-    if (discountAmount > 0) {
-      priceOut += " (you saved $" + round(quantity * discountAmount) + ")"
+    if (discount > 0) {
+      priceOut += " (you saved $" + round(quantity * discount) + ")"
     }
 
     payStep.querySelectorAll('output.total-price').forEach(el => el.textContent = priceOut)
@@ -747,6 +753,19 @@ input:checked + div.checkbox-replacement svg {
     payStep.querySelectorAll('output.duration').forEach(el => el.textContent = (duration === 10 ? "ten" : "twenty") + "-minute")
 
     renderGreaters(quantity)
+  }
+
+  function calcDiscount(price, discount) {
+    let discountPercentage = 0
+    if (typeof discountAmount === 'string' && discountAmount[discountAmount.length - 1] === '%'){
+      discountPercentage = (+discountAmount.substring(0, discountAmount.length - 1)) / 100.0
+    }
+
+    if (discountPercentage) {
+      return price * discountPercentage
+    } else {
+      return discountAmount
+    }
   }
 
   function initPayment(){
@@ -788,7 +807,7 @@ input:checked + div.checkbox-replacement svg {
       body: JSON.stringify({
         quantity,
         email,
-        applyDiscount: discountAmount > 0,
+        applyDiscount: discountAmount !== 0,
         discountId: discountCode || '',
         duration,
       }),
@@ -871,8 +890,11 @@ input:checked + div.checkbox-replacement svg {
       payButton.disabled = true;
 
       setStep('thanks')
+      const cost = getCost()
+      const discount = calcDiscount(cost, discountAmount)
+
       handlePurchase({
-        value: 100 * quantity * (cost - discountAmount),
+        value: 100 * quantity * (cost - discount),
         qty: quantity,
         orderId: paymentIntentId,
         email: emailField.value || params['email'],
