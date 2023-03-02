@@ -14,7 +14,7 @@ During challenging times, and we sure are living them now, gift giving can mean 
 
 Lars Tornstam, a Swedish gerontologist, coined his theory "gerotranscendence" to describe noted changes among aging adults. Among the characteristics of gerotranscendence are an "[increased affinity with previous generations](https://www.sloww.co/gerotranscendence/)" and "[decreased interest in material objects](https://www.lasa-vu.nl/themes/emotional/gerotranscendence.htm)." This science seeks to document the idea that, as guiding principles, grandparents typically want fewer items and more bonding with their current and past relationships.
 
-Consider these thoughtful gift ideas that will help nurture your bond from a distance and provide a much needed connection. This type of gift giving perspective can be even more meaningful when you focus first on your recipient's current state of needs.
+Consider these thoughtful gift ideas that will help nurture your bond from a distance and provide a much needed connection. This type of gift giving perspective can be even more meaningful when you focus first on your recipient's current state of needs. Read our article "[Gift Ideas for Great-Grandparents](https://sendheirloom.com/posts/great-gift-ideas-for-great-grandparents/)" for more great suggestions.
 
 ## DIY Gifts
 
