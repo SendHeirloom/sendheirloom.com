@@ -354,6 +354,16 @@ input:checked + div.checkbox-replacement svg {
 
   const allowQuantityEdit = !!!params['qty']
 
+  window.rewardful && window.rewardful('ready', () => {
+    // Note, we don't pay for double-sided incentives in Rewardful, so this code path isn't hit yet.
+    // TODO: When we do, implement this in the API Payment Intent handler
+    if (getRewardfulDiscount()){
+      payDiscountLink.hidden = true
+      discountCode = 'REWARDFUL:' + rewardful.coupon.id
+      discountAmount = getRewardfulDiscount()
+    }
+  })
+
   function enableDiscount(discountId) {
     payDiscountLink.hidden = true
 
@@ -589,6 +599,10 @@ input:checked + div.checkbox-replacement svg {
       'currency': 'USD',
       'value': value,
     });
+
+    window.rewardful && rewardful('convert', {
+      email: p['email'],
+    });
   }
 
   if (params['flow'] === 'order' && params['step'] === 'thanks'){
@@ -753,6 +767,19 @@ input:checked + div.checkbox-replacement svg {
     payStep.querySelectorAll('output.duration').forEach(el => el.textContent = (duration === 10 ? "ten" : "twenty") + "-minute")
 
     renderGreaters(quantity)
+  }
+
+  function getRewardfulDiscount() {
+    if (window.rewardful && window.rewardful.coupon) {
+      const coupon = window.rewardful.coupon
+      if (coupon.percent_off) {
+        return coupon.percent_off + '%'
+      } else if (coupon.amount_off) {
+        return coupon.amount_off
+      }
+    }
+
+    return null
   }
 
   function calcDiscount(price, discount) {
