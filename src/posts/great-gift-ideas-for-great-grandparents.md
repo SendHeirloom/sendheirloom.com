@@ -15,7 +15,7 @@ tags:
 
 Those of us lucky enough to be shopping for the great-grandparents in our lives rejoice. We feel so grateful to have these seniors in our lives and want to make the time we have left with them special and fulfilling. 
 
-When it comes to gift giving, we all know what they truly want: more time with you. Second to that, it’s probably a gift that reminds them of you!  
+When it comes to gift giving, we all know what they truly want: more time with you. Second to that, it’s probably a gift that reminds them of you! 
 
 Whether it's Christmas gifts, a sentimental gift, or just something to show your love, here are some gifts for the precious great-grandfathers and great-grandmothers in your life.
 
@@ -40,7 +40,5 @@ One thing we know about great-grandparents is that they are searching for ways t
 There are also ways you can show your great-grandparents you’re thinking of them while also providing them with a gadget they might find entertaining and fun.  If your great-grandparent has slipping eyesight, how about a [cell phone screen magnifier](https://www.amazon.com/gp/product/B083HB3SQD/?tag=giftlablist08-20)? Are they always complaining about any sore or stiffness?  Consider a [neck massager](https://www.amazon.com/gp/product/B07TG7D2TS/?tag=giftlablist08-20).  If they keep misplacing their glasses, check out this [nose shaped eyeglass holder](https://www.amazon.com/gp/product/B01EMJH01Q/?tag=giftlablist08-20). And, for the great-grandparent who seems to always be looking for a toothpick, how about [one infused with the flavor of scotch](https://www.uncommongoods.com/product/scotch-infused-toothpicks-gift-set)?\
 \
 Don’t get too stressed out about finding the perfect gift for your aging loved one.  As your great-grandparent taught you, it’s truly the thought that counts. So think of your great-grandparent and their wishes and needs, and you will undoubtedly find the perfect gift.
-
-
 
 L﻿ooking for more gifts? Take a look at our [best gifts for grandma](https://sendheirloom.com/posts/thoughtful-gifts-for-grandma/).
