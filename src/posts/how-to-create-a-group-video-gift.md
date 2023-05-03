@@ -102,7 +102,7 @@ Example:  “Hey, Just a quick reminder to send me a short video for Bill’s 70
 
 ## Step 4: Heirloom Mails Your Video Book
 
-* Heirloom offers free shipping and free scheduled delivery. 
+* Heirloom offers free scheduled delivery. 
 * Our video books arrive fully charged and they’re ready to play as soon as the cover is opened. 
 * Included in the beautiful kraft box built to protect the video book is a charger, which is used to recharge the video book an unlimited amount of times. 
 * We have custom gift boxes you can add to your order, too!

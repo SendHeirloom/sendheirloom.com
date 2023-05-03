@@ -40,7 +40,7 @@ A tribute video may be a perfect project when many people want to join in and sh
 
 ![Card that plays video](https://ucarecdn.com/c58edeff-9c97-4193-8166-bfbb53bcc989/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Video-playing book")
 
-Imagine gifting a personalized photo book. Now think of how even more special it would be for the book to play your videos and photos. This is the new product from [Heirloom](https://sendheirloom.com/), a video-playing book that arrives in the mail loaded with your most precious moments. Just upload your precious family videos and then select from one of 12 video book covers. Heirloom then ships a video-playing book right to the gift recipient's doorstep loaded with videos. Each video book is rechargeable so they can be cherished for a lifetime. Heirloom video books retail for $49 (free shipping) and arrive in 5 business days. It's a truly meaningful gift for any family or friend who loves watching family videos. 
+Imagine gifting a personalized photo book. Now think of how even more special it would be for the book to play your videos and photos. This is the new product from [Heirloom](https://sendheirloom.com/), a video-playing book that arrives in the mail loaded with your most precious moments. Just upload your precious family videos and then select from one of 12 video book covers. Heirloom then ships a video-playing book right to the gift recipient's doorstep loaded with videos. Each video book is rechargeable so they can be cherished for a lifetime. Heirloom video books retail for $49 and arrive in 5 business days. It's a truly meaningful gift for any family or friend who loves watching family videos. 
 
 **Pros**
 

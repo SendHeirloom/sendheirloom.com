@@ -23,7 +23,7 @@ The picture of your pet brings on a big smile. Among the many unique ways your p
 
 #### Video-playing Book of Pet’s Videos
 
-Your goal may be to have your photos and videos on screen, on demand. Create albums that play favorite videos of your pet when the cover is opened. Thanks to [Heirloom Video Books](http://sendheirloom.com) you can easily build and own this prize in minutes for just $49 (including shipping). The beauty of this device is its ease of playing, not requiring a wi-fi connection.
+Your goal may be to have your photos and videos on screen, on demand. Create albums that play favorite videos of your pet when the cover is opened. Thanks to [Heirloom Video Books](http://sendheirloom.com) you can easily build and own this prize in minutes for just $49. The beauty of this device is its ease of playing, not requiring a wi-fi connection.
 
 #### Photo Cube of Pet’s Smiles
 
