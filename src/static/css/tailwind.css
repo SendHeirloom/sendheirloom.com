@@ -6,6 +6,10 @@
   @apply align-top pt-4
 }
 
+.App-features-table tr td:last-child {
+  white-space: nowrap;
+}
+
 .App-features-table ul {
   @apply text-sm
 }

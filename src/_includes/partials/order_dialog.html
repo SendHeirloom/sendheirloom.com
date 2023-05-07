@@ -119,8 +119,8 @@
           <div class="Stack">
             <div>
               Purchase <a class="Link" data-action="change-quantity"><output class="quantity"></output></a>
-              &nbsp;<output class="duration"></output>&nbsp;video book<span if-qty-greater-than-one hidden>s</span> <span if-qty-greater-than-one hidden>(<output class="unit-price"></output>&nbsp;each)</span>
-              for a total of&nbsp;<output class="total-price"></output>.
+              &nbsp;<output class="duration"></output>&nbsp;video book<span if-qty-greater-than-one hidden>s</span><span if-qty-greater-than-one hidden> (<output class="unit-price"></output>&nbsp;each)</span>,
+              with economy shipping, for a total of&nbsp;<output class="total-price"></output>.
             </div>
 
             <div class="FormField">
@@ -348,8 +348,9 @@ input:checked + div.checkbox-replacement svg {
 
   emailField.value = localStorage.customerEmailAddress || ''
 
-  let cost = 49
-  let discountAmount = 0
+  const cost = 49
+  const shippingCost = 5
+  const shippingSpeed = 'economy'
   let discountCode = null
 
   const allowQuantityEdit = !!!params['qty']
@@ -360,30 +361,17 @@ input:checked + div.checkbox-replacement svg {
     if (getRewardfulDiscount()){
       payDiscountLink.hidden = true
       discountCode = 'REWARDFUL:' + rewardful.coupon.id
-      discountAmount = getRewardfulDiscount()
     }
   })
 
   function enableDiscount(discountId) {
     payDiscountLink.hidden = true
-
     discountCode = discountId.toUpperCase()
-
-    if (discountCode === 'HOLIDAY4-'){
-      discountAmount = 16
-    } else if (discountCode === 'BUY2GET1' && +(params['qty'] || qtyField.value) >= 3){
-      discountAmount = '34%'
-    } else if (discountCode === 'BLACKFRIDAY-') {
-      discountAmount = 12.25
-    } else {
-      discountAmount = 10
-    }
   }
 
   function disableDiscount(){
     payDiscountLink.hidden = false
     discountCode = null
-    discountAmount = 0
   }
 
   window.odEnableDiscount = enableDiscount
@@ -720,7 +708,6 @@ input:checked + div.checkbox-replacement svg {
     const code = payDiscountInput.value
     enableDiscount(code)
 
-    renderCosts()
     initPayment()
   })
 
@@ -747,18 +734,16 @@ input:checked + div.checkbox-replacement svg {
     return cost
   }
 
-  function renderCosts(){
+  function renderCosts(unitPrice, totalPrice) {
     const quantity = +(qtyField.value) || 1
     const duration = getDuration()
 
-    let localCost = getCost()
+    const localCost = getCost()
+    const savings = localCost - unitPrice
 
-    const discount = calcDiscount(localCost, discountAmount)
-    localCost -= discount
-
-    let priceOut = "$" + round(quantity * localCost)
-    if (discount > 0) {
-      priceOut += " (you saved $" + round(quantity * discount) + ")"
+    let priceOut = "$" + round(totalPrice)
+    if (savings  > 0) {
+      priceOut += " (you saved $" + round(savings * quantity) + ")"
     }
 
     payStep.querySelectorAll('output.total-price').forEach(el => el.textContent = priceOut)
@@ -782,19 +767,6 @@ input:checked + div.checkbox-replacement svg {
     return null
   }
 
-  function calcDiscount(price, discount) {
-    let discountPercentage = 0
-    if (typeof discountAmount === 'string' && discountAmount[discountAmount.length - 1] === '%'){
-      discountPercentage = (+discountAmount.substring(0, discountAmount.length - 1)) / 100.0
-    }
-
-    if (discountPercentage) {
-      return price * discountPercentage
-    } else {
-      return discountAmount
-    }
-  }
-
   function initPayment(){
     // var stripe = Stripe("pk_test_51JPwtdAHAhN8nuhgoOcZtasegdGpbhZMlCKPdmFy5TxDpVhtMIIDLlu3uZdvi5MoNH7JXsKC3LkstaKHN9cQRfxL000gpQa6U7");
     var stripe = Stripe("pk_live_51JPwtdAHAhN8nuhgn3MvHmOe3dya0HLjA8UH1PuvF83vWQfG2vjscPXl07fnca1GOqSrjMP0DxNJ6zorBnvn39We00UF94fL3X");
@@ -808,7 +780,7 @@ input:checked + div.checkbox-replacement svg {
     }
 
     // Only load the payment once for each set of configuration
-    const values = quantity + "|" + email + "|" + discountCode + "|" + discountAmount + "|" + duration
+    const values = quantity + "|" + email + "|" + discountCode + "|" + duration
     if (values === lastPaymentInit) {
       return
     }
@@ -822,8 +794,6 @@ input:checked + div.checkbox-replacement svg {
 
     payCard.classList.add('initializing')
 
-    renderCosts()
-
     // Disable the button until we have Stripe set up on the page
     payButton.disabled = true;
     fetch("https://api.sendheirloom.com/payment/intent", {
@@ -832,11 +802,13 @@ input:checked + div.checkbox-replacement svg {
         "Content-Type": "application/json"
       },
       body: JSON.stringify({
-        quantity,
         email,
-        applyDiscount: discountAmount !== 0,
+        quantity,
+        applyDiscount: !!discountCode,
         discountId: discountCode || '',
         duration,
+        shippingSpeed,
+        // referral
       }),
       signal,
     })
@@ -844,6 +816,8 @@ input:checked + div.checkbox-replacement svg {
         return result.json();
       })
       .then(function(data) {
+        renderCosts(data.unitPrice, data.totalPrice)
+
         var elements = stripe.elements();
 
         var style = {
@@ -905,23 +879,21 @@ input:checked + div.checkbox-replacement svg {
             showError(result.error.message);
           } else {
             // The payment succeeded!
-            orderComplete(result.paymentIntent.id);
+            orderComplete(result.paymentIntent.id, result.paymentIntent.amount);
           }
         });
     };
 
     // Shows a success message when the payment is complete
-    var orderComplete = function(paymentIntentId) {
+    var orderComplete = function(paymentIntentId, costInCents) {
       loading(false);
       payResult.hidden = false;
       payButton.disabled = true;
 
       setStep('thanks')
-      const cost = getCost()
-      const discount = calcDiscount(cost, discountAmount)
 
       handlePurchase({
-        value: 100 * quantity * (cost - discount),
+        value: costInCents,
         qty: quantity,
         orderId: paymentIntentId,
         email: emailField.value || params['email'],

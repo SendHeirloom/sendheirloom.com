@@ -19,7 +19,7 @@ Here we describe some of the more economical choices, along with their features 
 
 ## S﻿hip It Directly
 
-Video presentations can now be held in your hand thanks to a video-playing book. Yes, I said in your hand, in book form.  [Heirloom](http://sendheirloom.com/) offers a video-playing book, bringing your video directly to the recipient as easily as opening a book cover. No wi-fi or tech devices and definitely no tech skills are necessary. The video screen comes to life the moment the cover is opened and stops when the book is closed. And, not to worry, their book will be viewed again and again thanks to the recharging cord. You can have this book shipped directly to the gift recipient from Heirloom (and no charge for standard shipping).
+Video presentations can now be held in your hand thanks to a video-playing book. Yes, I said in your hand, in book form.  [Heirloom](http://sendheirloom.com/) offers a video-playing book, bringing your video directly to the recipient as easily as opening a book cover. No wi-fi or tech devices and definitely no tech skills are necessary. The video screen comes to life the moment the cover is opened and stops when the book is closed. And, not to worry, their book will be viewed again and again thanks to the recharging cord. You can have this book shipped directly to the gift recipient from Heirloom.
 
 ## Share Virtually
 
