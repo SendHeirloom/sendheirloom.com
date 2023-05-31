@@ -1561,3 +1561,39 @@ span.line--pink::after {
   }
 }
 /* Customer Video Books --end */
+
+
+/* Live Video --start */
+.TodayShow h2 {
+  font-weight: 500;
+  font-size: 1.75em;
+}
+.TodayShow p {
+  letter-spacing: .5px;
+  font-weight: 400;
+}
+.live-icon {
+  border: 2px solid #ee1427;
+  border-radius: 20px;
+  color: #ee1427;
+  text-transform: uppercase;
+  padding: 4px 7px;
+  display: inline-block;
+  letter-spacing: 1px;
+  line-height: 1;
+  font-size: .8em;
+}
+.live-icon .dot {
+  border-radius: 50%;
+  width: 12px;
+  height: 12px;
+  background: #ee1427;
+  display: inline-block;
+}
+
+@media (max-width: 768px) {
+  .TodayShow h2 {
+    font-size: 1.5em;
+  }
+}
+/* Live Video --end */
