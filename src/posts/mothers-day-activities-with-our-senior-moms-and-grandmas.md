@@ -1,5 +1,5 @@
 ---
-title: Things To Do on Mother's Day with Your Mom and Grandma
+title: Things To Do with Your Mom and Grandma
 description: Here are some ideas for an extra special gift for the senior
   mothers grandmothers in your life. They are not elaborate as gifts may seem,
   nor are they hard to find. In fact, they do not even require wrapping paper
