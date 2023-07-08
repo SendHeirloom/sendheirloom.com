@@ -779,6 +779,11 @@ span.line--pink::after {
   margin-left: 4em;
 }
 
+
+body .TwoUp--content-h2 {
+  font-size: 1.9em;
+  line-height: 1.2;
+}
 @media (min-width: 961px) {
   body .TwoUp--content-h2 {
     font-size: 2.2em;
@@ -1539,6 +1544,13 @@ span.line--pink::after {
 .Pricing--on-sale .Pricing--sale-strike {
   text-decoration: line-through;
   color: #CCC;
+}
+
+.Link--underline {
+  text-decoration: underline;
+}
+.Link--underline:hover {
+  text-decoration: none;
 }
 
 /* Customer Video Books --start */
