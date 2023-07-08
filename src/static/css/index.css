@@ -168,6 +168,16 @@ ul.List-steps {
   text-align: center;
 }
 
+
+.MarkdownPage--hull-height {
+  min-height: calc(100vh - 110px - 210px - 10px)
+}
+@media (max-width: 1080px) {
+  .MarkdownPage--hull-height {
+    min-height: calc(100vh - 100px - 190px )
+  }
+}
+
 .MarkdownPage--subtitle {
   opacity: .7;
 }
