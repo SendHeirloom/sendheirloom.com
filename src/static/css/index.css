@@ -1607,3 +1607,12 @@ span.line--pink::after {
   }
 }
 /* Live Video --end */
+
+@media (max-width: 768px) {
+  .GridColumnsMobile {
+    grid-template-columns: repeat(1, minmax(0, 1fr)) !important;
+  }
+  .GridColumnsMobile > div {
+    margin-bottom: 15px;
+  }
+}
