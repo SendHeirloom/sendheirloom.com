@@ -1588,6 +1588,19 @@ body .TwoUp--content-h2 {
     margin-bottom: 2%;
   }
 }
+@media (max-width: 600px) {
+  .customerVideoBook {
+    flex: 0 0 49% !important;
+  }
+}
+@media (max-width: 450px) {
+  .customerVideoBook {
+    flex: 0 0 100% !important;
+    max-width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
 /* Customer Video Books --end */
 
 
