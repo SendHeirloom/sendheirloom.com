@@ -542,6 +542,12 @@ span.line--pink::after {
     bottom: 3%;
   }
 }
+@media (max-width: 981px) {
+  .Holidays-Books .Section-is-solid {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
 @media (max-width: 600px) {
   .Holidays-Books__image_with_button a {
     margin-top: 2em;
@@ -1588,7 +1594,6 @@ body .TwoUp--content-h2 {
 /* Live Video --start */
 .TodayShow h2 {
   font-weight: 500;
-  font-size: 1.75em;
 }
 .TodayShow p {
   letter-spacing: .5px;
@@ -1613,11 +1618,6 @@ body .TwoUp--content-h2 {
   display: inline-block;
 }
 
-@media (max-width: 768px) {
-  .TodayShow h2 {
-    font-size: 1.5em;
-  }
-}
 /* Live Video --end */
 
 @media (max-width: 768px) {
@@ -1626,5 +1626,11 @@ body .TwoUp--content-h2 {
   }
   .GridColumnsMobile > div {
     margin-bottom: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .CoupleSection p {
+    text-align: left;
   }
 }
