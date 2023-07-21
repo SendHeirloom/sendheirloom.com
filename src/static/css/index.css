@@ -1642,8 +1642,14 @@ body .TwoUp--content-h2 {
   }
 }
 
+.CoupleSection__text {
+  padding: 0 10px;
+}
 @media (max-width: 768px) {
   .CoupleSection p {
     text-align: left;
+  }
+  .CoupleSection__text {
+    padding: 0;
   }
 }
