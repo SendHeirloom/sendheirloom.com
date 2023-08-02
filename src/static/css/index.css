@@ -1332,6 +1332,18 @@ body .TwoUp--content-h2 {
   margin-top: 1.4em;
   margin-bottom: 2em;
 }
+
+.HearFromBrides {
+  text-align: center;
+}
+@media (min-width: 768px) {
+  .BridesRatings {
+    max-width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 .BridesRatings .ColWrapper--item-3 {
   flex: 0 0 31%;
 }
@@ -1340,6 +1352,15 @@ body .TwoUp--content-h2 {
   padding-left: .75em;
   padding-right: 1em;
 }
+
+@media (max-width: 600px) {
+  .BridesRating {
+    max-width: 375px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 .VideoWithPlayButton {
   position: relative;
   display: block;
@@ -1364,6 +1385,12 @@ body .TwoUp--content-h2 {
   line-height: 1.2;
   padding-right: 1em;
 }
+@media (min-width: 768px) {
+  .BrideTitle {
+    font-size: 1em;
+  }
+}
+
 .BrideMessage {
   font-style: italic;
   font-size: .9em;
