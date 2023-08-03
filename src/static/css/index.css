@@ -1355,7 +1355,7 @@ body .TwoUp--content-h2 {
 
 @media (max-width: 600px) {
   .BridesRating {
-    max-width: 375px;
+    max-width: 250px;
     margin-left: auto;
     margin-right: auto;
   }
