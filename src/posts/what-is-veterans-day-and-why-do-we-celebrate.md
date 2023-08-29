@@ -1,9 +1,6 @@
 ---
-title: What is Veterans Day and Why Do We Celebrate?
-description: Veterans Day is a national holiday, reminding us to honor and
-  celebrate our country's veterans and active military. From the basics of
-  flying a flag to contributing to a veteran support organization, there are
-  many ways to show your appreciation with purpose and meaning.
+title: Understanding Veterans Day and Its Significance | Heirloom Blog
+description: Explore the history and importance of Veterans Day. Join us in honoring our heroes and learn why this day holds a special place in our hearts with Heirloom.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-10-14T19:58:08.246Z
 social_image: https://ucarecdn.com/428a7109-b8ac-4432-b67c-92f2d4d18f89/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

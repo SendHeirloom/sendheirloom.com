@@ -1,10 +1,6 @@
 ---
-title: How to Prevent Lonely Loved Ones From Becoming Clinically Depressed
-description: Loneliness is a real feeling, experienced at many times in our
-  lives. It's the constant state, coupled with actual isolation, that can become
-  a medical condition, even a diagnosis of depression. We can help ourselves and
-  our loved ones conquer loneliness with personal attention to past pleasures
-  and current interests while being aware of abilities and resources.
+title: "Preventing Loneliness-Induced Depression | Support Strategies"
+description: Learn how to safeguard your loved ones from loneliness-induced depression. Explore practical strategies to provide care and emotional support from Heirloom.
 author: Randee Bloom, RN, MBA PhD
 date: 2021-02-02T23:55:39.970Z
 social_image: /static/images/uploads/3-1-.jpg

@@ -1,9 +1,6 @@
 ---
-title: Is it Safe for Me to Fly to Visit My Grandchildren?
-description: The question here is not about visiting, that is an easy one. It's
-  all about coming healthy and staying that way. Consider these recommendations
-  and helpful tips for all travel and visiting time, knowing that everyone's
-  health is always worth these considerations.
+title: "Is Air Travel Safe to Visit Grandchildren? | Expert Insights"
+description: Planning a flight to see your grandchildren? Get expert insights on the safety measures and considerations. Make informed decisions with Heirloom.
 author: By Randee Bloom, RN, MBA, PhD
 date: 2021-09-23T20:41:59.528Z
 social_image: https://ucarecdn.com/e33600ed-8c9e-4288-aa6b-5a61b802fa3d/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

@@ -1,10 +1,6 @@
 ---
-title: Gift Ideas for Great-grandparents
-description: Great-grandparents provide a link to the past, making history a
-  real thing and giving younger generations a sense of where they came from. In
-  addition to the great respect we should be giving our great-grandparents, we
-  can also spoil them with gifts that are uniquely special for these special
-  family members.
+title: "Unforgettable Gift Ideas for Great-Grandparents | Heirloom"
+description: Explore heartwarming gift suggestions for great-grandma and great-grandpa. Make cherished memories with thoughtful presents on Heirloom
 author: Dr. Randee Bloom
 date: 2021-10-23T22:52:08.699Z
 social_image: https://ucarecdn.com/e36eb549-0602-4539-9c24-72580e93a910/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

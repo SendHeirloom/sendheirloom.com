@@ -1,9 +1,6 @@
 ---
-title: How to Stay Safe From COVID While Flying
-description: There comes a time, and it's about now, when we need to return to
-  many of our usual life tasks and choices. Traveling, by air, can be done
-  safely, especially after learning and practicing these self-protections
-  recommended by our scientific and medical experts.
+title: "Staying Safe from COVID While Flying | Expert Tips"
+description: Discover expert advice on staying safe from COVID-19 while traveling by air. Essential tips to protect yourself and others during flights on Heirloom
 author: By Randee Bloom, RN, MBA, PhD
 date: 2021-09-23T20:51:44.606Z
 social_image: https://ucarecdn.com/2c5213be-7dfa-414c-b59c-0289b06b1536/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

@@ -1,8 +1,6 @@
 ---
-title: "How To Gift Your Video Greeting Card "
-description: What's a video-playing book gift? Heirloom offers a hand-held book,
-  loaded with your chosen video and pictures, that plays the instant it is
-  opened.
+title: "A Guide to Gifting Video Greeting Cards | Heirloom Blog"
+description: Learn how to create and present video greeting cards that capture the essence of your emotions. Elevate your greetings with personalized video messages from Heirloom.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-10-19T15:24:39.320Z
 social_image: https://ucarecdn.com/5adaa904-953c-4e80-8006-7a8886e03ad2/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

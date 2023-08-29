@@ -1,9 +1,6 @@
 ---
-title: How To Send A Video In The Mail
-description: Today there are many forms of mail, some in-hand and some virtual.
-  The key to sending your message is your recipient's ability to receive it.
-  Consider how you can easily and with confidence share your videos with
-  everyone who you love, knowing first their available technology.
+title: "Sending Warmth Across Miles: How to Mail Videos with Care | Heirloom Blog"
+description: Discover the art of sharing videos through the mail with thoughtful tips and techniques. Create touching surprises for your loved ones with Heirloom's guidance.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-01-28T00:58:13.388Z
 social_image: https://ucarecdn.com/a908d1b4-ba32-4d56-b381-c019f914106b/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

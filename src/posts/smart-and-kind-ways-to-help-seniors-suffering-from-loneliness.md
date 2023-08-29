@@ -1,12 +1,6 @@
 ---
-title: Smart and Kind Ways to Help Seniors Suffering From Loneliness
-description: As we age, our feelings of loneliness and isolation may increase.
-  We may no longer be able to drive, our mobility can be limited, and
-  opportunities for social interaction may become more rare. We have seen this
-  to be especially true during the mandated protective measures taking as we
-  fought the COVID pandemic. The natural aging process can also contribute to
-  feelings of loneliness. We can learn about and take meaningful actions to
-  improve the lives of our seniors.
+title: "Empathy in Action: Assisting Lonely Seniors with Smart Kindness | Heirloom Blog"
+description: Discover thoughtful ways to support and connect with lonely seniors through smart and compassionate gestures. Make a positive impact with insights from Heirloom.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-04-01T14:36:04.441Z
 social_image: https://ucarecdn.com/2dfb1319-b869-49e9-bfb2-5f7b52ad4f85/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

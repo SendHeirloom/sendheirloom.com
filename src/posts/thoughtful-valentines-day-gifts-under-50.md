@@ -1,8 +1,6 @@
 ---
-title: Thoughtful Valentine's Day Gifts Under $50
-description: If you're looking for thoughtful Valentine’s Day gifts to show your
-  love, rest assured there are plenty of creative ideas available that don't
-  require breaking the bank.
+title: Heartfelt Valentine's Day Gifts Under $50 | Heirloom Blog
+description: Discover a curated selection of thoughtful Valentine's Day gifts that convey your love without breaking the bank.
 author: Randee Bloom, RN, MBA, PhD
 date: 2023-01-18T00:01:44.491Z
 social_image: https://ucarecdn.com/a16d8ac1-e148-4d4d-84a5-c5116884299d/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

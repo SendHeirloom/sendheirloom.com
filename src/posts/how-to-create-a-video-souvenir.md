@@ -1,8 +1,6 @@
 ---
-title: How To Create A Video Souvenir
-description: You've filmed many special moments. You've captured those
-  once-in-a-lifetime celebrations. Here are some easy ways to store, share and,
-  yes, retrieve these preserved and honored videos for your viewing pleasure.
+title: "Crafting Lasting Memories: How to Create a Video Souvenir | Heirloom Blog"
+description: Learn the steps to design a meaningful video souvenir that encapsulates cherished moments. Preserve memories in a unique way with guidance from Heirloom.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-02-17T19:07:33.159Z
 social_image: https://ucarecdn.com/8cd6c203-86d0-4daf-af54-6de507a3b883/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

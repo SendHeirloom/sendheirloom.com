@@ -1,9 +1,6 @@
 ---
-title: The Best Way to Share Videos With Family and Friends
-description: Do you find yourself wanting to share private videos with family
-  and friends, but not sure how? It can be tough to figure out the best way. In
-  this article we discuss several ways that you can share videos and provide
-  tips on how to make the process as easy and convenient as possible!
+title: "Elevate Your Video Sharing: The Ultimate Guide | Heirloom Blog"
+description: "Explore innovative ways to share videos with loved ones. From premium video books to personalized experiences, discover the art of meaningful sharing with Heirloom."
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-11-15T02:55:46.938Z
 social_image: https://ucarecdn.com/ed0f4541-7018-4863-92df-e0df5491ad2f/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

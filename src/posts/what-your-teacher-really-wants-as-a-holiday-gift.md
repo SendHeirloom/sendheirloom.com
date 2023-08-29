@@ -1,8 +1,6 @@
 ---
-title: What Your Teacher Really Wants as a Holiday Gift
-description: This guide offers tips and items that many teachers say they really
-  want. And, a short list shines a light on some items they are not so eager to
-  receive.
+title: The Perfect Holiday Gifts for Teachers | Heirloom Blog
+description: Discover meaningful gift ideas that go beyond the ordinary for your teachers this holiday season. Show appreciation with thoughtful presents from Heirloom.
 author: Randee Bloom PhD RN MBA
 date: 2022-11-29T13:18:54.715Z
 social_image: https://ucarecdn.com/ac179622-93d6-4a5b-a307-676a87ac00d4/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

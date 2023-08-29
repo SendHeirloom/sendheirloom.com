@@ -1,10 +1,6 @@
 ---
-title: Ways To Safely Celebrate A Kid’s Birthday During COVID
-description: The celebration of birthdays should never be optional, only
-  realistic. During these challenging times, where everyone's health requires
-  additional safety measures, organizing a child's birthday party takes extra
-  attention and creativity. Consider some of these ideas and suggestions, then
-  watch your child beam with joy.
+title: "Safe and Special: Celebrating Kids' Birthdays During COVID-19 | Heirloom Blog"
+description: Discover creative ways to make children's birthdays memorable while prioritizing safety during the pandemic. Create magical moments with Heirloom's ideas and insights.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-02-14T18:38:58.260Z
 social_image: https://ucarecdn.com/384f5f4c-cb58-42e9-95d6-130110c40859/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

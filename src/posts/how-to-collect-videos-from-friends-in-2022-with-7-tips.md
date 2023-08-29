@@ -1,9 +1,6 @@
 ---
-title: How to Collect Videos From Friends in 2022 (with 7 tips!)
-description: "How to collect videos from friends with instructions and tips.
-  Getting videos doesn’t have to be complex: learn how to capture, organize,
-  store, and create with the videos your friends send. Perfect for creating
-  video gifts and tributes."
+title: "Collecting Friends' Videos in 2022: 7 Expert Tips | Heirloom Blog"
+description: "Learn how to gather and treasure videos from friends with expert tips for the modern era. Elevate your video collection process with insights from Heirloom."
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-06-02T14:16:25.591Z
 social_image: https://ucarecdn.com/6b90d84d-f674-477a-bc82-a57cfb49e1b8/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

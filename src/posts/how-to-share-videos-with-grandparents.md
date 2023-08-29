@@ -1,9 +1,6 @@
 ---
-title: How To Share Videos With Grandparents
-description: Our grandparents, and great-grandparents, never look at a family
-  photo just once. They most certainly want to enjoy these repeat experiences
-  with family videos, too. Use some of these tips and tools to create and share
-  your videos with one of your most appreciative audiences.
+title: "Connecting Generations: Sharing Videos with Grandparents | Heirloom Blog"
+description: Learn effective ways to bridge the gap and create lasting connections by sharing videos with grandparents. Strengthen family bonds withHeirloom's expert advice
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-01-28T02:32:13.464Z
 social_image: https://ucarecdn.com/8dcb43c4-3283-4abc-8a04-a26efd6b6ee3/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

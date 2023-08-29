@@ -1,8 +1,6 @@
 ---
-title: "Family Heirlooms: A Food Stylist Dishes About the Treasures She'll Never
-  Let Go"
-description: An heirloom can evoke many deep emotions. Here's how one very
-  creative director holds tightly to her heirlooms and why..
+title: "Victoria Granof: Legendary Food Stylist | Culinary Artistry"
+description: Explore the captivating journey of Victoria Granof, a renowned food stylist. Delve into the world of culinary creativity and visual storytelling on Heirloom.
 author: "Molly Simms "
 date: 2021-03-24T15:42:38.059Z
 social_image: https://ucarecdn.com/c88df416-c057-4e54-8581-0c6a8a3b0742/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

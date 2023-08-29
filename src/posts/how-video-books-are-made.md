@@ -1,8 +1,6 @@
 ---
-title: How Video Books Are Made
-description: If you're like us, you love to hear the backstory of how products
-  are created. Here is a behind the scenes look at how our video books are made,
-  from design to delivery.
+title: "Unveiling the Magic: How Video Books Are Crafted | Heirloom Blog"
+description: Delve into the creative process behind the making of video books. Explore the artistry and technology that bring stories to life with Heirloom's insightful guide.
 author: Heirloom Founders
 date: 2022-02-28T18:56:55.596Z
 social_image: /static/images/og-image.jpg

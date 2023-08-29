@@ -1,7 +1,6 @@
 ---
-title: The Best Custom Photo Gifts for All Occasions
-description: The absolute best custom gifts for birthdays, weddings, memorials
-  to give to kids, aunts, uncles, parents, grandparents, and loved ones.
+title: Harnessing the Power of Video for Nonprofit Fundraising | Heirloom Blog
+description: Learn how to create a compelling nonprofit fundraising campaign using the impactful medium of video. Elevate your cause with Heirloom.
 author: Randee Bloom PhD RN MBA
 date: 2023-03-15T20:38:51.978Z
 social_image: https://ucarecdn.com/9bd6c902-8d27-4efa-85c6-cc26f4f97128/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

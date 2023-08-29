@@ -1,10 +1,6 @@
 ---
-title: How To Connect with Dementia Patients
-description: Dementia patients often struggle with isolation as their ability to
-  communicate diminishes. Social interaction helps improve their health and
-  quality of life. Caregivers and loved ones can learn effective communication
-  skills. Families are guided to consider video messaging as a tool to sustain
-  their vital connection.
+title: Connecting with Dementia Patients Through Video Messaging | Heirloom Blog
+description: Discover the profound impact of video messaging in connecting with dementia patients. Explore heartfelt ways to bridge the gap and create meaningful moments with Heirloom.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-10-28T17:04:17.052Z
 social_image: https://ucarecdn.com/544bb184-8fe2-43a4-849d-82820beb8d76/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

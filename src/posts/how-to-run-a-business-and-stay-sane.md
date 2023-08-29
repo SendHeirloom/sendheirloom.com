@@ -1,6 +1,6 @@
 ---
-title: How To Run a Business and Stay Sane
-description: 4 Strategies Entrepreneurs Can Follow to Stay Sane While Running a Business
+title: "Balancing Business and Well-being: Strategies for Success | Heirloom Blog"
+description: Discover effective ways to manage a business while prioritizing your mental and emotional well-being. Learn to thrive in entrepreneurship with insights from Heirloom.
 author: " Virginia Cooper"
 date: 2022-09-16T16:05:04.607Z
 social_image: https://ucarecdn.com/3c92b7ee-8577-4ea8-8dc9-80d6ca173af8/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

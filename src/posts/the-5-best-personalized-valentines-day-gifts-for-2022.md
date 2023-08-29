@@ -1,8 +1,6 @@
 ---
-title: The 5 Best Personalized Valentine's Day Gifts for 2022
-description: What makes a gift special may be how the special gift is created.
-  Here are some of this year's best personalized gifts that are sure to delight
-  every Valentine on your list, including creative ways to show your love.
+title: "Captivating Personalized Valentine's Day Gifts of 2022 | Heirloom Blog"
+description: Explore a selection of the year's most enchanting personalized Valentine's Day gifts. Express your love with unique and heartfelt presents from Heirloom.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-01-28T00:44:53.084Z
 social_image: https://ucarecdn.com/83bd0cd9-8cff-4437-8bcc-1e4ca1fe2510/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

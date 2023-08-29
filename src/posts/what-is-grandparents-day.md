@@ -1,8 +1,6 @@
 ---
-title: What is Grandparents Day?
-description: Your calendar announces Grandparents Day, the first Sunday after
-  Labor Day. Learn about the history of this beautiful celebratory day, honoring
-  our grandparents and their contribution to our families.
+title: "Exploring Grandparents' Day | Significance & Celebration"
+description: Curious about Grandparents' Day? Learn about the history and importance of this celebration honoring the role of grandparents in our lives on Heirloom
 author: Randee Bloom, RN, MBA PhD
 date: 2021-08-21T20:19:50.080Z
 social_image: https://ucarecdn.com/28142e7d-1992-4d14-8e67-82b303e3ecd6/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

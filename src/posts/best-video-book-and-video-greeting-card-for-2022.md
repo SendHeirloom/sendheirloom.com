@@ -1,11 +1,6 @@
 ---
-title: Best Video Book and Video Greeting Card for 2022
-description: An overview of what a Video Memory Book is all about and some basic
-  options to guide your purchasing selection. The common feature similarities of
-  most choices are presented, noting their importance to specific users. See our
-  top choice, offering the best price, and highly rated customer service.
-  Additional quality products are also presented noting their customer-specific
-  features.
+title: "Top Video Books and Greeting Cards of 2022 | Heirloom Blog"
+description: Explore the most captivating video books and greeting cards that left their mark in 2022. Discover the finest selections that encapsulate emotions with Heirloom.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-06-18T23:18:08.791Z
 social_image: https://ucarecdn.com/5f7253d7-75e2-4e2a-864c-a6838807c9b5/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

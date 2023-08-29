@@ -1,9 +1,6 @@
 ---
-title: " The Best Personalized Video Gifts"
-description: We put hours of research into finding the best ways to send a
-  personalized video gift to your loved ones, read what we discovered. If you
-  really want to make someone feel special, gift them a personalized video gift
-  loaded with photos and videos you know they love.
+title: "Personalized Video Books: Where Stories Come to Life | Heirloom Blog"
+description: Discover the enchanting world of personalized video books, where narratives are infused with life and imagination.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-03-04T02:12:27.793Z
 social_image: /static/images/og-image.jpg

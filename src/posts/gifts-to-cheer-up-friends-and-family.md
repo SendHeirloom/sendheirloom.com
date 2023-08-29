@@ -1,9 +1,6 @@
 ---
-title: Gifts to Cheer Up Friends and Family
-description: If your ultimate goal is to make a friend who is struggling and sad
-  feel like they are loved and supported, then sending them something in the
-  mail will likely do the trick. It's unexpected and not the typical reason you
-  receive a gift, which will make it all the more meaningful and appreciated.
+title: "Spreading Joy: Heartwarming Gifts to Lift Friends and Family | Heirloom Blog"
+description: Explore thoughtful gift ideas that bring smiles and warmth to your loved ones. Share joy and positivity with meaningful presents from Heirloom
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-02-15T21:09:59.993Z
 social_image: https://ucarecdn.com/b6eb7cf5-71e3-4718-8e36-03f1e3948f5c/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

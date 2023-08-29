@@ -1,9 +1,6 @@
 ---
-title: 10 Grants We Applied For
-description: While researching funding options for Heirloom, we explored a few
-  potential funding grants. Whether seeking funds to support a launch or to
-  level up, here are a few grants you can apply for to get free money for your
-  business or nonprofit organization.
+title: "Immediate Grant Opportunities: 10 Applications Open | Heirloom"
+description: Discover 10 grants with open applications today. Explore potential funding options to support your projects and dreams. Apply now with Heirloom.
 author: Ashley Kenny
 date: 2021-03-05T04:07:07.516Z
 social_image: https://ucarecdn.com/0788d5e8-20e4-4647-8347-eeee86abe037/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

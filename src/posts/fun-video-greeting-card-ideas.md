@@ -1,9 +1,6 @@
 ---
-title: "Fun Video Greeting Card Ideas "
-description: Real life can be best preserved on a reel! That right, a video
-  captures the sights and sounds of our actions and surroundings way beyond a
-  still picture. Grab your smartphone and prepare to amaze yourself and others
-  while sharing messages and life's funniest moments.
+title: "Fun and Creative Video Greeting Card Ideas | Heirloom Blog"
+description: Explore playful and imaginative video greeting card concepts to add a unique touch to your messages. Infuse joy into your greetings with Heirloom's creative ideas.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-10-19T15:10:41.619Z
 social_image: https://ucarecdn.com/88504262-0bdb-4e38-8b93-6c1180d7933d/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

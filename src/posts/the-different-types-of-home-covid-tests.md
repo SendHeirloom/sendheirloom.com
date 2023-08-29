@@ -1,11 +1,6 @@
 ---
-title: The Different Types of Home COVID Tests
-description: Only two years ago most of us knew very little about coronavirus.
-  We knew nothing about how to detect the virus, let alone perform these
-  diagnostic tests on ourselves. Now, for very good reasons, we can purchase
-  these tests at our local drug stores. Several types of tests are described
-  along with information about which may be the best for our personal needs,
-  including time, cost, and health.
+title: "Explore Home COVID Test Types | Heirloom"
+description: Discover the various types of COVID-19 tests for home use. Understand their differences and choose the right one. Stay informed with Heirloom
 author: Randee Bloom, RN, MBA PhD
 date: 2021-12-22T01:03:29.476Z
 social_image: https://ucarecdn.com/cc732bb2-c83c-4f4c-b4a8-4d927113f628/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

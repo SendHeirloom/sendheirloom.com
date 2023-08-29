@@ -1,9 +1,6 @@
 ---
-title: The Best Subscription Gift Boxes
-description: "Gift shopping can range from a fun few minutes to a chore you
-  dread. Here's a tip: think about what activities or delights your recipient
-  has. Then head to the list below for some clever ideas that are sure to excite
-  them several times over as a subscription keeps them coming!"
+title: "Curated Delights: The Finest Subscription Box Gifts | Heirloom Blog"
+description: "Explore a handpicked selection of the best subscription box gifts that keep on giving. Elevate your gifting game with unique and thoughtful choices from Heirloom."
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-09-08T15:14:45.933Z
 social_image: https://ucarecdn.com/68e7fc79-bea7-4c3e-a008-b9b48895e3f2/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

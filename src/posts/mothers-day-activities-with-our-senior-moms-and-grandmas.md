@@ -1,10 +1,6 @@
 ---
-title: Things To Do with Your Mom and Grandma
-description: Here are some ideas for an extra special gift for the senior
-  mothers grandmothers in your life. They are not elaborate as gifts may seem,
-  nor are they hard to find. In fact, they do not even require wrapping paper
-  and bows. They are special activities, the gift of time and attention, and
-  that’s just the message we all want to convey.
+title: "Celebrating Mother's Day: Activities for Senior Moms and Grandmas | Heirloom Blog"
+description: Explore heartwarming activities to honor and enjoy Mother's Day with senior moms and grandmas. Create lasting memories and connections with ideas from Heirloom.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-04-10T20:26:18.995Z
 social_image: https://ucarecdn.com/a1cac019-4c73-48d2-a3fd-48867410d8f6/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

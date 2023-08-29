@@ -1,8 +1,6 @@
 ---
-title: The Best Video Gifts for 2022
-description: Until now, you may not have considered your smartphone as the tool
-  for many new precious and personalized gifts. Take a glimpse here at some
-  ideas for creating the gift of a video-playing book.
+title: Unveiling the Best Video Gifts | Heirloom Blog
+description: Discover a handpicked selection of the finest video gifts that speak volumes. Elevate your gifting game with meaningful video presents from Heirloom.
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-10-19T15:07:31.898Z
 social_image: https://ucarecdn.com/7657cfa4-c3e5-4e77-ae46-8099fa917e00/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/

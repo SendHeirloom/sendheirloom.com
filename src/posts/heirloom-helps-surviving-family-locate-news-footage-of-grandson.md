@@ -1,9 +1,6 @@
 ---
-title: Heirloom Helps Surviving Family Locate News Footage of Grandson
-description: Quite often our treasured memories are found in pictures and
-  videos. One family was hoping to remember everything about their young son and
-  grandson after his death, but couldn't locate the footage. Heirloom accepted
-  the challenge.
+title: "Heirloom Helps Locate News Footage | Touching Family Reunion"
+description: Read the heartwarming story of how Heirloom assisted a family in finding precious news footage featuring their grandson. Experience the magic on Heirloom.
 author: Randee Bloom, RN, MBA PhD
 date: 2021-09-09T03:20:15.059Z
 social_image: https://ucarecdn.com/14b8f0b5-0ec6-4086-94f5-86a04f4fe400/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
