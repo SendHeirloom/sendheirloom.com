@@ -1598,3 +1598,7 @@ html[is-dialog] body {
     transform: translate3d(0, -99em, 0) scale(1);
   }
 }
+
+.Faq-Section p {
+  font-size: 16px;
+}
