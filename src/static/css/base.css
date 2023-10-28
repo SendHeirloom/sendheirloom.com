@@ -467,6 +467,11 @@ html[is-fullscreen] body {
   background: #fff;
 }
 
+.Button-is-blue {
+  background: #004AAD;
+  color: #fff;
+}
+
 .Button-is-large {
   font-size: 1.125em;
 }
@@ -1164,6 +1169,22 @@ html[is-dialog] body {
   line-height: 1.25;
   margin-bottom: .5em;
   margin-top: 1.75em;
+}
+
+.Markdown h2.no-top,
+.Markdown h3.no-top,
+.Markdown h4.no-top,
+.Markdown h5.no-top,
+.Markdown h6.no-top {
+  margin-top: 0;
+}
+
+.Markdown h2.no-bottom,
+.Markdown h3.no-bottom,
+.Markdown h4.no-bottom,
+.Markdown h5.no-bottom,
+.Markdown h6.no-bottom {
+  margin-bottom: 0;
 }
 
 .Markdown p,
