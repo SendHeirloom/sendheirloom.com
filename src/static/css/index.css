@@ -768,13 +768,29 @@ span.line--pink::after {
 }
 
 .TwoUp--illustration {
+  width: 22em;
+  max-width: 100%;
+}
+
+.TwoUp--illustration-large {
+  width: 27em;
+}
+
+.TwoUp--content {
   width: 27em;
   max-width: 100%;
 }
 
-.TwoUp--content {
+.TwoUp--content-small {
   width: 22em;
-  max-width: 100%;
+}
+
+.TwoUp--content p.small {
+  font-size: 0.8em;
+}
+
+.TwoUp--content p.center {
+  text-align: center;
 }
 
 .TwoUp--content:first-child {
@@ -794,6 +810,11 @@ body .TwoUp--content-h2 {
   body .TwoUp--content-h2 {
     font-size: 2.2em;
   }
+}
+
+body .TwoUp--content-h4 {
+  font-size: 1em;
+  color: grey;
 }
 
 @media (max-width: 960px) {
