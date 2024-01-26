@@ -6,6 +6,10 @@ author: Randee Bloom, RN, MBA, PhD
 date: 2024-01-26T19:43:10.148Z
 social_image: /static/images/og-image.jpg
 ---
+
+
+![](https://ucarecdn.com/e1e16125-510c-4a6a-a671-21ba210e78cb/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
+
 Do you know, right now, where your wedding video is? Is it on a thumb drive sitting in a drawer or on a DVD on a shelf under a pile of books? Or maybe you have it as a link, sadly buried in your email or sitting in a folder on your desktop?
 
 That's a shame as that video is sure to contain one of the absolutely most important moments in your life. You gathered with  your family and friends, surround yourself with  favorite flowers and music, and most especially your chosen life partner was (one) by your side.  
