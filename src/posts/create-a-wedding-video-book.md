@@ -6,6 +6,10 @@ author: Randee Bloom, RN, MBA, PhD
 date: 2024-01-26T19:43:10.148Z
 social_image: /static/images/og-image.jpg
 ---
+
+
+![](https://ucarecdn.com/e1e16125-510c-4a6a-a671-21ba210e78cb/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
+
 Do you know, right now, where your wedding video is? Is it on a thumb drive sitting in a drawer or on a DVD on a shelf under a pile of books? Or maybe you have it as a link, sadly buried in your email or sitting in a folder on your desktop?
 
 That's a shame as that video is sure to contain one of the absolutely most important moments in your life. You gathered with  your family and friends, surround yourself with  favorite flowers and music, and most especially your chosen life partner was (one) by your side.  
@@ -29,7 +33,7 @@ Imagine having adapted the original film to a device that:
 * needs no internet connection
 * requires no password
 
-Containing its own battery power and magnetic-controlled playback, your book is ready for instant viewing. No need to be concerned with wi-fi connectivity, nor passwords as this self-contained device is ready when you or any of your lucky audiences want to relive that special day. ![](https://lh7-us.googleusercontent.com/CkLe3Ix8fnycUWU-PGPPXP3Uwy91NJPhpVAaa6ziwO_2CCxqNyROp7d6kelKYhX-0bwOB0Df5_IE1qQsk_mvsDDbDRkSWOC7c_ATpC1IKmGM4IHWARMMwaXXarnWrnnbH7_puFkOpyGnPONepoRJW8Q)\
+Containing its own battery power and magnetic-controlled playback, your book is ready for instant viewing. No need to be concerned with wi-fi connectivity, nor passwords as this self-contained device is ready when you or any of your lucky audiences want to relive that special day.\
 \
 According to [The Knot](https://www.theknot.com/content/wedding-gifts-for-daughter), video books have become a top notch video gift. “Wondering what to do with all those family home videos? Turn them into a memory book for a unique gift for your daughter on her wedding day. (Just hand it over before she gets any makeup done. It's definitely going to spark some tears.) Heirloom will help you compose a 10- or 20-minute video, then load it into a hardcover book that contains a small HD screen for viewing. You can even write a custom message on the cover.”
 
