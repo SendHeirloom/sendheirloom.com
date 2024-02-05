@@ -296,14 +296,14 @@ span.line--pink::after {
 
 .GrandmaHandsSectionVideoMockup--content-accompanying-text {
   position: absolute;
-  top: 14.5%;
-  right: 7%;
+  top: 5%;
+  right: 5%;
   left: auto;
 }
 
 @media (max-width: 1024px) {
   .GrandmaHandsSectionVideoMockup--content-accompanying-text {
-    right: 2%;
+    right: 4%;
   }
 }
 
@@ -345,7 +345,7 @@ span.line--pink::after {
 
 @media (max-width: 1050px) {
   .GrandmaHandsSectionVideoMockup--content-inner {
-    width: 82%;
+    width: 75%;
     margin-left: 0;
   }
 }

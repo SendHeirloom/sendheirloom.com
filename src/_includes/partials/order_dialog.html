@@ -64,7 +64,7 @@
     </div>
 
     <div step="duration">
-      <p class="Dialog--subtitle">Perfect! How much video would you like to include? We have video books which fit 10 or 20 minutes.</p>
+      <p class="Dialog--subtitle">Perfect! How much video would you like to include? We have different video book sizes which fit up to a full hour.</p>
 
       <form dialog-form>
         <div class="Dialog--content" dialog-content>
@@ -83,6 +83,13 @@
                   <div class="block p-2 bg-gray-100	border border-blue-100 peer-checked:bg-gray-200 peer-checked:border-blue-500">
                     <span class="font-bold">20 minutes</span>
                     <span>+$20</span>
+                  </div>
+                </label>
+                <label class="cursor-pointer text-sm">
+                  <input type="radio" name="duration" value="60" class="sr-only peer" />
+                  <div class="block p-2 bg-gray-100	border border-blue-100 peer-checked:bg-gray-200 peer-checked:border-blue-500">
+                    <span class="font-bold">1 hour</span>
+                    <span>+$40</span>
                   </div>
                 </label>
               </div>
@@ -729,8 +736,11 @@ input:checked + div.checkbox-replacement svg {
   }
 
   function getCost() {
-    if (getDuration() === 20) {
+    const duration = getDuration()
+    if (duration === 20) {
       return cost + 20
+    } else if (duration === 60) {
+      return cost + 40
     }
     return cost
   }
@@ -750,7 +760,14 @@ input:checked + div.checkbox-replacement svg {
     payStep.querySelectorAll('output.total-price').forEach(el => el.textContent = priceOut)
     payStep.querySelectorAll('output.unit-price').forEach(el => el.textContent = "$" + localCost)
     payStep.querySelectorAll('output.quantity').forEach(el => el.textContent = quantity)
-    payStep.querySelectorAll('output.duration').forEach(el => el.textContent = (duration === 10 ? "ten" : "twenty") + "-minute")
+
+    let friendlyDuration = "ten minute"
+    if (duration === 20) {
+      friendlyDuration = "twenty minute"
+    } else if (duration === 60) {
+      friendlyDuration = "one hour"
+    }
+    payStep.querySelectorAll('output.duration').forEach(el => el.textContent = friendlyDuration)
 
     renderGreaters(quantity)
   }
