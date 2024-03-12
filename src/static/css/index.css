@@ -189,12 +189,13 @@ ul.List-steps {
 @media (max-width: 768px) {
   .Pricing {
     display: flex;
+    margin: 0 5px;
   }
 }
 
 .Pricing--price {
   font-size: 1.25em;
-  margin-right: .1em;
+  margin-right: .2em;
 }
 
 .MailAVideoCard {
@@ -332,6 +333,7 @@ span.line--pink::after {
     text-align: center;
   }
   .price-col {
+    margin: 0 5px;
     margin-bottom: 1em !important;
   }
 }
