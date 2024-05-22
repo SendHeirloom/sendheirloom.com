@@ -371,6 +371,9 @@ span.line--pink::after {
 .GrandmaHandsSectionVideoMockup--background {
   z-index: 1;
 }
+.GrandmaHandsSectionVideoMockup .bit-bigger-letter-spacing {
+  letter-spacing: 0;
+}
 
 .Logo-banner--item {
   display: block;
@@ -1701,5 +1704,73 @@ body .TwoUp--content-h4 {
   }
   .CoupleSection__text {
     padding: 0;
+  }
+}
+
+
+.font-weight-normal {
+  font-weight: 500;
+}
+
+.Free-trial-section {
+  background: #efe0d1;
+  text-align: center;
+  padding: 3em 0;
+}
+
+.Free-trial-section--button {
+  margin-top: 1em;
+}
+.Free-trial-section--header {
+  margin-bottom: .5em;
+  position: relative;
+  display: inline-block;
+}
+.Free-trial-section--header--icon {
+  position: absolute;
+  top: -50px;
+  width: 200px;
+  height: auto;
+  left: -130px;
+}
+.Free-trial-section p {
+  background: #f6a79b;
+  padding-left: 1em;
+  padding-right: 1em;
+  line-height: 2;
+}
+
+.Free-trial-section--separator {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+@media (max-width: 768px) {
+  .Free-trial-section--header {
+    margin-left: 3em;
+    margin-right: 3em;
+  }
+}
+@media (max-width: 550px) {
+  .Free-trial-section--header {
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+  }
+  .Free-trial-section--header--icon {
+    top: -40px;
+    width: 150px;
+    height: auto;
+    left: -80px;
+  }
+  .Free-trial-section--separator {
+    display: block;
+    height: 0;
+    visibility: hidden;
+  }
+  .Free-trial-section--button {
+    margin-top: 2em;
+  }
+  .Free-trial-section {
+    margin-bottom: 2em;
   }
 }
