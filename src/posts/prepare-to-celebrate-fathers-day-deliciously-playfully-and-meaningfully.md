@@ -6,7 +6,7 @@ author: Randee Bloom, RN, MBA, PhD
 date: 2024-06-13T20:43:43.417Z
 social_image: https://ucarecdn.com/7d7be815-5b46-4b7b-93be-07c77821a6d5/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 tags:
-  - WeddingDayGift
+  - Father'sDayCelebration
 ---
 ![Prepare to Celebrate Father’s Day](https://ucarecdn.com/cbc1d8b6-f370-41ff-a5ec-861f2ab45366/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Prepare to Celebrate Father's Day Deliciously, Playfully and Meaningfully")
 
