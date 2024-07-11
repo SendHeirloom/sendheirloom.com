@@ -39,4 +39,4 @@ Consider yet another innovative benefit of an Heirloom video book – it's built
 
 ![](https://lh7-us.googleusercontent.com/Sxx0fIqpHErIoLQYzXhwwnQ_ifQUvFBI-VDq1fudm0cRray02PfilbomWW49rBZonfAtIrUUvr6gqlm3ws5SwP3neQlBGheHMu7QCJkpRcwGvq6dPgsCeXduHdaHV72Iv2MD1v6bpmt0IHJF6j0DWug)
 
-This customized video book can now become your next great gift for holidays, life celebrations, good well wishes, and so much more. Visit the [customer-friendly website](http://sendheirloom.com) for more information, motivating ideas, and production tips.
+This customized video book can now become your next great gift for holidays, life celebrations, good well wishes, and so much more. Visit the [customer-friendly website](http://sendheirloom.com) for more information, motivating ideas, and production tips.  And, if you'd like to read a detailed review from Fix The Photo, [click here](https://fixthephoto.com/heirloom-video-books-review.html)!
