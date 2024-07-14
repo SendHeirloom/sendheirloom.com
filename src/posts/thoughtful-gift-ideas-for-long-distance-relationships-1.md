@@ -1,6 +1,6 @@
 ---
 title: Thoughtful Gift Ideas for Long Distance Relationships
-description: Great ideas for your next thoughtful gift to your long-distance
+description: Great ideas for your next thoughtful gift to your long distance
   significant other.
 author: Randee Bloom, RN, MBA, PhD
 date: 2024-07-14T21:36:57.901Z
@@ -8,7 +8,7 @@ social_image: /static/images/og-image.jpg
 tags:
   - LongDistanceGifts
 ---
-It seems that being in a relationship that is challenged by many miles of separation now only has a name but an acronym: long-distance relationship (LDR). The key to success, whether for a limited time or way longer, may be the individuals' ability to see the unique opportunities, including how to express love. Here we consider actions, words, deeds and gifts that test your creativity. Whether for a specific celebration such as the couple's anniversary, a birthday apart, or a "just because" reason, there are unique gifts and unique ways to build a bridge between the couple until you are once again together.
+It seems that being in a relationship that is challenged by many miles of separation now only has a name but an acronym: long distance relationship (LDR). The key to success, whether for a limited time or way longer, may be the individuals' ability to see the unique opportunities, including how to express love. Here we consider actions, words, deeds and gifts that test your creativity. Whether for a specific celebration such as the couple's anniversary, a birthday apart, or a "just because" reason, there are unique gifts and unique ways to build a bridge between the couple until you are once again together.
 
 Presented are a collection of gift ideas for a couple seeking to strengthen their bond, organized to fit everyone's targets. Personalized items solidify in writing, literally, the couple's bond. Experiences are suggested, showing that just because you are separated by miles you can still celebrate together. Gifts for techy folks are offered for fun and to show that tech tools can offer some bonding opportunities. Fun gifts are suggested to keep the feelings light and celebrate each other's sense of humor. And, for those with come crafty interest, several of the gifts offer ranges of guidance from the most artistic to those willing to follow directions all the way through their project.
 
