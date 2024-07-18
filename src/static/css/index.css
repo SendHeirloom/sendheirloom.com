@@ -989,6 +989,13 @@ body .TwoUp--content-h4 {
   margin-bottom: .125em;
 }
 
+
+@media (min-width: 1025px) {
+  .Review .Link {
+    font-size: 14px;
+  }
+}
+
 .Review---dialog-full .Review--title {
   font-size: 1.25em;
   line-height: 1.3;
