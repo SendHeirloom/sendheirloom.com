@@ -367,7 +367,7 @@ span.line--pink::after {
   background: #000;
   z-index: 9;
 }
-
+ 
 .GrandmaHandsSectionVideoMockup--background {
   z-index: 1;
 }
@@ -375,11 +375,59 @@ span.line--pink::after {
   letter-spacing: 0;
 }
 
+.Logo-banner--items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.Logo-banner--items:nth-child(1) {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.Logo-banner--items:nth-child(2) {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+@media( max-width: 900px) {
+  .Logo-banner--items:nth-child(3) {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+.Logo-banner--items.Logo-banner--mobile {
+  display: none;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.Logo-banner--items.Logo-banner--mobile .Logo-banner--item {
+  min-width: 100px;
+}
+
+@media( max-width: 768px) {
+  .Logo-banner--items.Logo-banner--mobile {
+    display: flex;
+  }
+  .Logo-banner--items.Logo-banner--desktop {
+    display: none;
+  }
+
+  .preview-on-hover .preview-on-hover__popup {
+    display: none !important;
+  }
+}
+
 .Logo-banner--item {
-  display: block;
-  max-width: 100%;
-  width: 50em;
-  margin: 0 auto 1em auto;
+  display: flex;
+  align-items: center;
+  flex: 1 1 0;
+  width: 0;
+  justify-content: center;
+  padding: 20px 10px;
+}
+.Logo-banner--image {
+  height: auto;
+  width: auto;
 }
 
 .PressKitBlocks {
@@ -421,7 +469,7 @@ span.line--pink::after {
 }
 
 .Section-is-solid.Logo-banner {
-  padding: 1em 1em 0;
+  padding: 1em;
   border-top-width: 0;
   background: #d8d3d4;
 }
@@ -1780,4 +1828,50 @@ body .TwoUp--content-h4 {
   .Free-trial-section {
     margin-bottom: 2em;
   }
+}
+
+
+.preview-on-hover {
+  display:flex;
+  align-items: center;
+  position:relative;
+  cursor: pointer;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.preview-on-hover:hover .preview-on-hover__popup {
+  opacity:1;
+  transform: translateX(-50%) translateY(0) scale(1);
+  visibility: visible;
+}
+
+.preview-on-hover:hover {
+  border-color: #333;
+}
+
+.preview-on-hover__popup {
+  transition:.2s ease-in-out opacity, .2s ease-in-out transform;
+  opacity:0;
+  position:absolute;
+  bottom: 110%;
+  left:50%;
+  box-shadow:0 1px 5px rgba(0,0,0,.5);
+  width:230px;
+  height:230px;
+  padding: 5px;
+  border: 4px solid #fff;
+  background-color: #fff;
+  overflow-x:hidden;
+  overflow-y:auto;
+  transform-origin:center bottom;
+  transform: translateX(-50%) translateY(10px) scale(.9);
+  z-index: 100;
+  font-size: 15px;
+  visibility: hidden;
+}
+
+.preview-on-hover__iframe iframe {
+  transform:scale(.2);
+  transform-origin:0 0;
 }
