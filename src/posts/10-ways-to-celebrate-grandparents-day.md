@@ -1,6 +1,7 @@
 ---
-title: "10 Meaningful Ways to Celebrate Grandparents' Day | SendHeirloom"
-description: "Looking to make Grandparents' Day special? Discover 10 heartfelt ways to celebrate and honor your grandparents' love and wisdom on Heirloom."
+title: 10 Meaningful Ways to Celebrate Grandparents' Day | SendHeirloom
+description: Looking to make Grandparents' Day special? Discover 10 heartfelt
+  ways to celebrate and honor your grandparents' love and wisdom on Heirloom.
 author: Randee Bloom, RN, MBA PhD
 date: 2021-08-21T20:26:15.623Z
 social_image: https://ucarecdn.com/d753f9f4-85c4-4a0a-8017-29f97b5170f1/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
@@ -12,7 +13,7 @@ Our Mother’s Day and Father’s Day are each written with apostrophes, while G
 Here are some fun ideas for how to celebrate Grandparents Day on Sunday, September 10, 2023.
 
 **As a Family Day**\
-How about arranging for a casual gathering, in person and virtual, making sure that those you wish to honor and hopefully wish to honor you back are in attendance. The simplicity of this idea honors the core tenant of the holiday’s design. In fact, one of the most instrumental advocates for this holiday, [Marian McQuade](https://grandparenteffect.com/we-have-this-woman-to-thank-for-grandparents-day/), held that this holiday should not be turned commercial.
+How about arranging for a casual gathering, in person and virtual, making sure that those you wish to honor and hopefully wish to honor you back are in attendance. The simplicity of this idea honors the core tenant of the holiday’s design. In fact, one of the most instrumental advocates for this holiday, [Marian McQuade](https://en.wikipedia.org/wiki/Marian_McQuade), held that this holiday should not be turned commercial.
 
 **Plant a Tree (not water required)**\
 [Think Family Tree](https://www.twinkl.com/resource/us2-ss-7-grandparents-day-family-tree-activity). Consider drawing the obvious tree with branches and fill in the names and details of as many past and present generations that you can. Your kids may help with small pictures of these treasured family members. Your grandchildren will enjoy learning how their lives are different and surprisingly the same in many ways, too.
