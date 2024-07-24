@@ -1,6 +1,7 @@
 ---
 title: "Immediate Grant Opportunities: 10 Applications Open | Heirloom"
-description: Discover 10 grants with open applications today. Explore potential funding options to support your projects and dreams. Apply now with Heirloom.
+description: Discover 10 grants with open applications today. Explore potential
+  funding options to support your projects and dreams. Apply now with Heirloom.
 author: Ashley Kenny
 date: 2021-03-05T04:07:07.516Z
 social_image: https://ucarecdn.com/0788d5e8-20e4-4647-8347-eeee86abe037/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
@@ -28,7 +29,7 @@ This grant encourages an application that speaks from the personal perspective, 
 [The Startup Runway Grant ](https://startuprunway.org/how-to-apply-f6s/)\
 The mission of this nonprofit organization is to introduce under-represented founders to their first investor. Qualified recipients are either a technical product, solution, or a tech-enabled service, currently at the point of first sales or trials, have not yet been through a national accelerator, and have not raised more than $250,000.  An open deadline for applications is currently available. 
 
-[The InnovateHER Challenge](https://worldscholarshipforum.com/innovateher-women-business-challenge-2019-2020/)\
+[The InnovateHER Challenge](https://peoplefund.org/innovateher-business-plan-challenge/)\
 The InnovateHER Challenge is sponsored by the Coastal Bend Business Innovation Center, a small business incubator promoting the development of innovative businesses. Cash prizes, up to $40,000, are available to American entrepreneurs providing the opportunity to launch innovative products and services that affect the lives of women and families. Applications must be submitted by May 22, 2021.
 
 [The Halstead Grant](https://grant.halsteadbead.com/)\
