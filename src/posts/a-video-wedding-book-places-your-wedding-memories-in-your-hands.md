@@ -20,7 +20,7 @@ It's time to treat your wedding video in the same way!\
 \
 At Heirloom we have developed a straightforward, inventive, and remarkable method for watching your wedding film again and again.\
 \
-Have your movie available whenever you want with our [wedding video book](https://sendheirloom.com/wedding-video-gifts/). Showoff the enchantment of your big day to yourself or your visitors by placing it on your coffee table next to your wedding album.\
+Have your movie available whenever you want with our [wedding video book](https://sendheirloom.com/wedding-video-book/). Showoff the enchantment of your big day to yourself or your visitors by placing it on your coffee table next to your wedding album.\
 \
 Our design offers a big surprise: Simply open the cover of this video wedding book, it will look and feel just like any other traditional album. The surprise is revealed when you lift the cover of your Heirloom wedding book and your video plays instantly and smoothly, thanks to embedded audio.  \
 \

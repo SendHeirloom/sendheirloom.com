@@ -14,7 +14,7 @@ items:
       - text: "Birthday"
         url: "/send-birthday-video-gift/"
       - text: "Wedding"
-        url: "/wedding-video-gifts/"
+        url: "/wedding-video-book/"
       - text: "Memorial"
         url: "/mail-memorial-video-book/"
 
