@@ -1822,11 +1822,22 @@ body .TwoUp--content-h4 {
   background-repeat: no-repeat;
   background-size: contain;
   top: -15px;
-  right: -20px;
+  right: -51px;
 }
 .SantaMagic--header .p-relative span {
   position: relative;
   z-index: 1;
+}
+
+@media (max-width: 516px) {
+  .SantaMagic--header .p-relative:before {
+    right: -31px;
+  }
+}
+@media (max-width: 447px) {
+  .SantaMagic--header .p-relative:before {
+    display: none;
+  }
 }
 
 .SantaMagic--columns {
