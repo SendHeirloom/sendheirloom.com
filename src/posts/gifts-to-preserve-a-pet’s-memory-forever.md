@@ -3,7 +3,7 @@ title: Create a Custom Song To Add To Your Video Book
 description: " Pairing YourSongmaker’s custom songs with Heirloom Video Books is
   the perfect way to keep memories alive."
 author: Randee Bloom, RN, MBA, PhD
-date: 2024-10-11T22:44:28.452Z
+date: 2024-10-12T22:44:28.452Z
 social_image: https://ucarecdn.com/152d750e-24cd-406a-950e-ec21d669f221/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 tags:
   - "The Perfect Blend: Music and Memories"
