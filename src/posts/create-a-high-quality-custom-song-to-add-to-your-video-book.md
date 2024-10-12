@@ -1,5 +1,5 @@
 ---
-title: Create a High Quality Custom Song To Add To Your Video Book
+title: Create a Custom Song To Add To Your Video Book
 description: Pairing YourSongmaker’s custom songs with Heirloom Video Books is
   the perfect way to keep memories alive.
 author: Randee Bloom, RN, MBA, PhD
