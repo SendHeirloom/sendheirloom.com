@@ -4,7 +4,7 @@ description: Pairing YourSongmaker’s custom songs with Heirloom Video Books is
   the perfect way to keep memories alive.
 author: Randee Bloom, RN, MBA, PhD
 date: 2024-10-12T14:35:11.991Z
-social_image: https://ucarecdn.com/4b0731cd-e0b5-4890-b2eb-d2e1abd6f378/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
+social_image: https://ucarecdn.com/4b0731cd-e0b5-4890-b2eb-d2e1abd6f378/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 tags:
   - Pairing YourSongmaker’s custom songs with Heirloom Video Books is the
     perfect way to keep memories alive.
