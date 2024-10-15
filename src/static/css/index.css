@@ -455,6 +455,10 @@ span.line--pink::after {
   padding-bottom: 4em;
 }
 
+.Section-padding-top {
+  padding-top: 4em;
+}
+
 .Section-padding-bottom {
   padding-bottom: 4em;
 }
@@ -542,6 +546,20 @@ span.line--pink::after {
 .How-it-works .List-steps--content {
   padding-left: 20px;
   max-width: 350px;
+}
+
+
+.List-steps.with-svg-icons .List-steps--content {
+  padding-left: 0;
+}
+.List-steps.with-svg-icons li {
+  display: flex;
+  text-align: left;
+}
+.List-steps.with-svg-icons svg {
+  margin-right: 20px;
+  height: 60px;
+  width: 60px;
 }
 @media (max-width: 1135px) and (min-width: 961px) {
   .How-it-works .List-steps--content {
@@ -820,6 +838,12 @@ span.line--pink::after {
   padding-right: 3em;
 }
 
+@media (max-width: 960px) {
+  .TwoUp__full-width-on-mobile .TwoUp--content,
+  .TwoUp__full-width-on-mobile {
+    width: auto !important;
+  }
+}
 .TwoUp--illustration {
   width: 22em;
   max-width: 100%;
