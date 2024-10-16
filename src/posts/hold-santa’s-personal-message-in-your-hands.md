@@ -1,5 +1,5 @@
 ---
-title: Hold Santa’s Personal Message in Your Hands!
+title: Hold Santa’s Personal Message in Your Hands
 description: Portable North Pole and Heirloom Video Books have come together to
   help you save, store, and share your personalized Santa video in a way that
   tells your story and captures the joy of the season.
@@ -7,8 +7,7 @@ author: Randee Bloom, RN, MBA, PhD
 date: 2024-10-15T01:06:44.681Z
 social_image: https://ucarecdn.com/45478dc3-370e-43bf-af3d-4c178dd8b254/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 ---
-**Hold Santa’s Personal Message in Your Hands!**\
-The magic of the holiday season just got even more special!
+
 
 ![](https://ucarecdn.com/c84ba326-4d2e-40cc-9e21-316d7156bdf9/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
@@ -36,4 +35,4 @@ The magic of this partnership lies in how beautifully Portable North Pole and He
 
 Ready to create something unforgettable? Head over to Portable North Pole and Heirloom Video Books today to build your custom message and video book. This holiday season, give the gift of memories that will last a lifetime.
 
-![Video-playing book featuring Santa Claus](https://ucarecdn.com/04147b43-d247-4ad8-8343-79740cacd1f0/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Hold Santa’s Personal Message in Your Hands!")
+![Video-playing book featuring Santa Claus]( "Hold Santa’s Personal Message in Your Hands!")
