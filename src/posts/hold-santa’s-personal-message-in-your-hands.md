@@ -5,9 +5,9 @@ description: Portable North Pole and Heirloom Video Books have come together to
   tells your story and captures the joy of the season.
 author: Randee Bloom, RN, MBA, PhD
 date: 2024-10-15T01:06:44.681Z
-social_image: https://ucarecdn.com/45478dc3-370e-43bf-af3d-4c178dd8b254/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
+social_image: https://ucarecdn.com/7e08637b-04fa-4c5b-87ec-33838d8d2da7/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 ---
-![](https://ucarecdn.com/c84ba326-4d2e-40cc-9e21-316d7156bdf9/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
+![](https://ucarecdn.com/efe608f7-84b6-49ba-87d5-e1542b2bed07/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
 We’re thrilled to announce a heartwarming partnership between Portable North Pole and Heirloom Video Books. Now, you can pair your custom Santa video—complete with your loved one’s name—with a video-playing book to treasure the moment forever.
 
