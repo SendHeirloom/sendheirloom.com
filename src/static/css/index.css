@@ -2041,14 +2041,17 @@ body .TwoUp--content-h4 {
 }
 .business__hero {
   padding-top: 3em;
+}
+
+.section-white-border-bottom {
   border-bottom: 3px solid #fff;
 }
 .business__hero__image {
   background-image: url(../images/hands-holding-goodness-card.png);
   background-repeat: no-repeat;
   width: 47%;
-  background-size: auto 100%;
-  background-position: center right;
+  background-size: auto 80%;
+  background-position: bottom right;
 }
 
 .business__hero__text {
