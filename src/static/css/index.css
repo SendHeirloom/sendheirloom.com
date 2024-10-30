@@ -2036,9 +2036,11 @@ body .TwoUp--content-h4 {
 .business__bg {
   background-color: #97c0ca;
 }
+.business__bg.darker {
+  background-color: #6396a6;
+}
 .business__hero {
   padding-top: 3em;
-  margin-bottom: 5em;
   border-bottom: 3px solid #fff;
 }
 .business__hero__image {
