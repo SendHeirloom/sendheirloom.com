@@ -2062,6 +2062,8 @@ body .TwoUp--content-h4 {
 .business__hero__heading {
   font-size: 3em;
   color: #fff;
+  line-height: 1em;
+  margin-bottom: .2em;
 }
 .business__hero__wrapper {
   display: flex;
