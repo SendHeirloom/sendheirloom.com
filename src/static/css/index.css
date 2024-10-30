@@ -2115,13 +2115,13 @@ body .TwoUp--content-h4 {
 
 
 .business__testimonial {
-  padding: 1.5em;
+  padding: 1em;
   text-align: center;
   color: #fff;
   background-color: #fab1aa;
-  font-size: 1.3em;
+  font-size: 1em;
   border-radius: 1em;
-  max-width: 800px;
+  max-width: 500px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 2em;
@@ -2144,7 +2144,7 @@ body .TwoUp--content-h4 {
 }
 .business__testimonial__stars {
   display: flex;
-  max-width: 18em;
+  max-width: 12em;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 1em;
