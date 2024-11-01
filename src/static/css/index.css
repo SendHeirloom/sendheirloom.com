@@ -2074,6 +2074,7 @@ body .TwoUp--content-h4 {
   margin-right: auto;
 }
 
+.business__hero__heading.show-on-mobile,
 .business__hero__image.show-on-mobile {
   display: none;
 }
@@ -2099,11 +2100,16 @@ body .TwoUp--content-h4 {
   .business__hero__image.hide-on-mobile {
     display: none;
   }
+  .business__hero__heading.show-on-mobile,
   .business__hero__image.show-on-mobile {
     display: block;
+  }
+  
+  .business__hero__image.show-on-mobile {
     margin-left: -2em;
     width: calc( 100% + 4em );
     margin-bottom: 2em;
+    background-position: 32% 0;
   }
   .business__hero__image {
     padding-top: 80%;
@@ -2122,7 +2128,6 @@ body .TwoUp--content-h4 {
     margin-top: .5em;
     margin-bottom: .5em;
   }
-
   .business__hero .line-break-on-mobile {
     display: block;
     height: 0;
