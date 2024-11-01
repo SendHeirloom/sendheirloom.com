@@ -184,4 +184,46 @@ description:
 
   <a href="mailto:help@sendheirloom.com" class="business__get-started__email-link">help@sendheirloom.com</a>
 </div>
+  
+  
+  <div>
+    <form class="business-form"
+            action="https://formspree.io/f/mkgnjbav"
+            method="POST"
+    >
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required>
+
+      <label for="company">Company:</label>
+      <input type="text" id="company" name="company">
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required>
+
+      <label>Services you're interested in:</label>
+      <div>
+        <input type="checkbox" id="videoBook" name="services" value="5 inch video book">
+        <label for="videoBook">5" video book</label>
+      </div>
+      <div>
+        <input type="checkbox" id="customCover" name="services" value="Custom-printed covers">
+        <label for="customCover">Custom-printed covers</label>
+      </div>
+      <div>
+        <input type="checkbox" id="giftBox" name="services" value="Gift boxes">
+        <label for="giftBox">Gift boxes</label>
+      </div>
+
+      <label for="projectOverview">Quick overview of your project:</label>
+      <textarea id="projectOverview" name="project_overview"></textarea>
+
+      <label for="budget">Per video book budget:</label>
+      <input type="text" id="budget" name="budget">
+
+      <label for="deadline">Project deadline:</label>
+      <input type="text" id="deadline" name="deadline">
+
+      <button type="submit">Send</button>
+    </form>
+  </div>
 </div>
