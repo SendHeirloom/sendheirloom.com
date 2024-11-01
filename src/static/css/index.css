@@ -2074,6 +2074,10 @@ body .TwoUp--content-h4 {
   margin-right: auto;
 }
 
+.business__hero__image.show-on-mobile {
+  display: none;
+}
+
 
 @media (max-width: 960px) {
   .mobile-menu-opened .business__hero {
@@ -2092,7 +2096,15 @@ body .TwoUp--content-h4 {
   .business__hero__text {
     width: 100%;
   }
-
+  .business__hero__image.hide-on-mobile {
+    display: none;
+  }
+  .business__hero__image.show-on-mobile {
+    display: block;
+    margin-left: -2em;
+    width: calc( 100% + 4em );
+    margin-bottom: 2em;
+  }
   .business__hero__image {
     padding-top: 80%;
     background-size: auto 100%;
@@ -2109,6 +2121,11 @@ body .TwoUp--content-h4 {
   .business__hero__heading {
     margin-top: .5em;
     margin-bottom: .5em;
+  }
+
+  .business__hero .line-break-on-mobile {
+    display: block;
+    height: 0;
   }
 }
 
@@ -2241,12 +2258,6 @@ body .TwoUp--content-h4 {
   }
 }
 
-@media (max-width: 425px) {
-  .business__testimonial {
-    margin-right: 1em;
-    margin-left: 1em;
-  }
-}
 
 .business__get-started {
   text-align: center;
