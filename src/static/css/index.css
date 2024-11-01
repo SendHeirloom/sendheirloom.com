@@ -2109,7 +2109,7 @@ body .TwoUp--content-h4 {
     margin-left: -2em;
     width: calc( 100% + 4em );
     margin-bottom: 2em;
-    background-position: 32% 0;
+    background-position: 0;
   }
   .business__hero__image {
     padding-top: 80%;
@@ -2138,6 +2138,12 @@ body .TwoUp--content-h4 {
   .business__hero__text {
     padding-left: 1em;
     padding-right: 1em;
+  }
+  .business__hero__image.show-on-mobile {
+    margin-left: -1em;
+    width: calc( 100% + 2em );
+    margin-bottom: 2em;
+    /*background-position: 32% 0;*/
   }
 }
 .business__cards {
