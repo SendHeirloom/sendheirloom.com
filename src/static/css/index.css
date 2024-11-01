@@ -2075,6 +2075,11 @@ body .TwoUp--content-h4 {
 }
 
 
+@media (max-width: 960px) {
+  .mobile-menu-opened .business__hero {
+    background: var(--background-color);
+  }
+}
 @media (max-width: 768px) {
   .business__hero {
     padding-top: 0;
@@ -2141,7 +2146,7 @@ body .TwoUp--content-h4 {
   padding-left: 1em;
   padding-right: 1em;
   background: #97c0ca;
-  z-index: 10;
+  z-index: 5;
 }
 
 @media (min-width: 769px) {
