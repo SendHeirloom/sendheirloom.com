@@ -302,10 +302,6 @@ span.line--pink::after {
   left: auto;
 }
 
-.text-right {
-  text-align: right;
-}
-
 @media (max-width: 1024px) {
   .GrandmaHandsSectionVideoMockup--content-accompanying-text {
     right: 4%;
@@ -2033,6 +2029,9 @@ body .TwoUp--content-h4 {
   text-decoration: underline;
   color: #000;
 }
+.business__hero .pricing__wrapper {
+  text-align: right;
+}
 .business__bg {
   background-color: #97c0ca;
 }
@@ -2059,6 +2058,7 @@ body .TwoUp--content-h4 {
   padding-bottom: 2em;
 }
 
+
 .business__hero__heading {
   font-size: 3em;
   color: #fff;
@@ -2074,6 +2074,45 @@ body .TwoUp--content-h4 {
   margin-right: auto;
 }
 
+
+@media (max-width: 768px) {
+  .business__hero {
+    padding-top: 0;
+  }
+  .business__hero__wrapper {
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+  }
+  .business__hero__image,
+  .business__hero__text {
+    width: 100%;
+  }
+
+  .business__hero__image {
+    padding-top: 80%;
+    background-size: auto 100%;
+    background-position: bottom center;
+  }
+  .business__hero .pricing__wrapper {
+    text-align: center;
+  }
+
+  .business__hero__text {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+  .business__hero__heading {
+    margin-top: .5em;
+    margin-bottom: .5em;
+  }
+}
+
+@media (max-width: 425px) {
+  .business__hero__text {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+}
 .business__cards {
   display: flex;
   flex-wrap: wrap;
@@ -2105,9 +2144,39 @@ body .TwoUp--content-h4 {
   z-index: 10;
 }
 
-.business__cards__item:nth-child(n+4) .business__cards__item__heading {
-  top: auto;
-  bottom: -5px;
+@media (min-width: 769px) {
+  .business__cards__item:nth-child(n+4) .business__cards__item__heading {
+    top: auto;
+    bottom: -5px;
+  }
+}
+@media (max-width: 768px) {
+  .business__cards__item {
+    flex: 1 1 42%;
+  }
+  .business__cards {
+    padding-left: 3em;
+    padding-right: 3em;
+  }
+}
+@media (max-width: 550px) {
+  .business__cards__item {
+    flex: 1 1 100%;
+  }
+}
+@media (max-width: 425px) {
+  .business__cards__item__heading {
+    font-size: 1.2em;
+    padding-left: .5em;
+    padding-right: .5em;
+    top: -20px;
+  }
+}
+@media (max-width: 350px) {
+  .business__cards {
+    padding-left: 1em;
+    padding-right: 1em;    
+  }
 }
 
 .business__cards__item .AspectRatio {
@@ -2160,6 +2229,20 @@ body .TwoUp--content-h4 {
   max-height: 3em;
 }
 
+@media (max-width: 550px) {
+  .business__testimonial {
+    margin-right: 3em;
+    margin-left: 3em;
+  }
+}
+
+@media (max-width: 425px) {
+  .business__testimonial {
+    margin-right: 1em;
+    margin-left: 1em;
+  }
+}
+
 .business__get-started {
   text-align: center;
   font-size: 1.3em;
@@ -2167,11 +2250,11 @@ body .TwoUp--content-h4 {
   padding-top: 3em;
 }
 
-.business__get-started ul {
+.business__get-started__questions {
   display: flex;
   justify-content: center;
 }
-.business__get-started ul li:not(:last-child):after {
+.business__get-started__questions li:not(:last-child):after {
   content: '|';
   margin-left: 1em;
   margin-right: 1em;
@@ -2186,5 +2269,37 @@ body .TwoUp--content-h4 {
 }
 .business__get-started__email-link {
   color: #fff
+}
+
+@media (max-width: 768px) {
+  .business__get-started__questions {
+    font-size: .7em;
+  }
+}
+@media (max-width: 550px) {
+  .business__get-started__questions {
+    font-size: 1em;
+    flex-direction: column;
+  }
+  .business__get-started__questions li:after{
+    display: none;
+  }
+  
+  .business__get-started picture {
+    position: relative;
+    padding-top: 60%;
+    display: block;
+    overflow: hidden;
+  }
+  .business__get-started picture img {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: auto;
+    max-width: none;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
 }
 
