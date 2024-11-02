@@ -138,6 +138,10 @@
   position: relative;
   background-color: #e5e7eb;
 }
+
+.Header-links--menu svg {
+  float: right;
+}
 .Header-links--menu + .Header-links--menu {
   margin-left: 5px;
 }
@@ -166,6 +170,12 @@
 }
 
 
+
+@media (min-width: 961px) {
+  .Header--content .show-on-mobile {
+    display: none;
+  }  
+}
 @media (max-width: 960px) {
   .Header--content {
     display: flex;
