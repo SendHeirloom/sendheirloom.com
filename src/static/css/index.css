@@ -2012,7 +2012,6 @@ body .TwoUp--content-h4 {
   display: inline-block;
   margin-left: auto;
   background-color: #6396a6;
-  margin-top: 3em;
 }
 .business__hero .pricing .label {
   margin-bottom: 1em;
@@ -2031,6 +2030,7 @@ body .TwoUp--content-h4 {
 }
 .business__hero .pricing__wrapper {
   text-align: right;
+  margin-top: 3em;
 }
 .business__bg {
   background-color: #97c0ca;
@@ -2049,13 +2049,14 @@ body .TwoUp--content-h4 {
   background-image: url(../images/hands-holding-goodness-card.png);
   background-repeat: no-repeat;
   width: 47%;
-  background-size: auto 80%;
+  background-size: auto 95%;
   background-position: bottom right;
 }
 
 .business__hero__text {
   width: 53%;
   padding-bottom: 2em;
+  padding-right: 2em;
 }
 
 
@@ -2080,6 +2081,37 @@ body .TwoUp--content-h4 {
 }
 
 
+.business__hero .pricing__wrapper {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+}
+.business__hero .business__get-started__button {
+  margin-left: auto;
+  margin-bottom: 2em;
+  margin-right: auto;
+  background-color: #fab1aa;
+}
+
+.business__hero .pricing {
+  margin-right: auto;
+}
+
+
+@media (min-width: 961px) {
+  .business__hero .pricing__wrapper {
+    flex-direction: row;
+    align-items: center;
+  }
+  .business__hero .pricing {
+    margin-right: 0;
+  }
+  .business__hero .business__get-started__button {
+    margin-right: auto;
+    margin-bottom: 0;
+  }
+}
 @media (max-width: 960px) {
   .mobile-menu-opened .business__hero {
     background: var(--background-color);
@@ -2288,11 +2320,14 @@ body .TwoUp--content-h4 {
 }
 
 .business__get-started__button {
-  margin-top: 1em;
-  margin-bottom: 2em;
   background: #97c0ca;
   color: #fff;
   border-color: #fff;
+}
+
+.business__get-started .business__get-started__button {
+  margin-top: 1em;
+  margin-bottom: 2em;
 }
 .business__get-started__email-link {
   color: #fff
