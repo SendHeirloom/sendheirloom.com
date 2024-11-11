@@ -2097,7 +2097,10 @@ body .TwoUp--content-h4 {
 .business__hero .pricing {
   margin-right: auto;
 }
-
+.business__hero .line-break-on-mobile {
+  display: block;
+  height: 0;
+}
 
 @media (min-width: 961px) {
   .business__hero .pricing__wrapper {
@@ -2160,11 +2163,9 @@ body .TwoUp--content-h4 {
     margin-top: .5em;
     margin-bottom: .5em;
   }
-  .business__hero .line-break-on-mobile {
-    display: block;
-    height: 0;
-  }
+
 }
+
 
 @media (max-width: 425px) {
   .business__hero__text {
