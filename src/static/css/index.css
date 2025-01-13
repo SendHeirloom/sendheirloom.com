@@ -1824,55 +1824,6 @@ body .TwoUp--content-h4 {
   margin-right: 1em;
 }
 
-.SantaMagic {
-  background-color: #fefef5;
-}
-
-.SantaMagic .red {
-  color: #ea3324;
-  font-weight: bold;
-  font-size: 1.2em;
-}
-.SantaMagic--header {
-  color: #388022;
-}
-
-.SantaMagic--header .p-relative:before {
-  content: '';
-  position: absolute;
-  width: 47px;
-  height: 42px;
-  background-image: url(../images/asterics.png);
-  background-repeat: no-repeat;
-  background-size: contain;
-  top: -15px;
-  right: -51px;
-}
-.SantaMagic--header .p-relative span {
-  position: relative;
-  z-index: 1;
-}
-
-@media (max-width: 516px) {
-  .SantaMagic--header .p-relative:before {
-    right: -31px;
-  }
-}
-@media (max-width: 447px) {
-  .SantaMagic--header .p-relative:before {
-    display: none;
-  }
-}
-
-.SantaMagic--columns {
-}
-.SantaMagic--column-image {
-  margin-bottom: 34px;
-}
-.SantaMagic--column-text {
-  text-align: center;
-}
-
 .p-relative {
   position: relative;
 }
@@ -1884,44 +1835,11 @@ body .TwoUp--content-h4 {
   text-align: center;
 }
 
-/*.SantaMagic--column-text .small-line-height{*/
-/*  line-height: 1.1;*/
-/*}*/
 
 .disclaimers {
   font-size: 14px;
   font-style: italic;
   margin-top: 20px;
-}
-
-.SantaMagic--column-text .long-paragraph {
-  max-width: 700px;
-  margin-left: auto;
-  margin-right: auto;
-}
-.SantaMagic--button {
-  background-color: #388022;
-  color: #fff;
-  border-color: #388022;
-}
-
-@media (min-width: 961px) {
-  .SantaMagic--columns {
-    display: flex;
-    max-width: 1200px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .SantaMagic--column-image {
-    width: 35%;
-    margin: 104px -120px 0 30px;
-  }
-  .SantaMagic--column-text {
-    width: 75%;
-    text-align: center;
-    margin-right: -30px;
-    margin-left: auto;
-  }
 }
 
 @media (max-width: 768px) {
