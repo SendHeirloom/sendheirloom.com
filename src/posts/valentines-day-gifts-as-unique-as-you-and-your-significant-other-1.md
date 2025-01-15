@@ -6,9 +6,9 @@ author: Randee Bloom, RN, MBA, PhD
 date: 2025-01-15T11:46:39.141Z
 social_image: /static/images/og-image.jpg
 ---
-![](https://ucarecdn.com/06c6c5cd-dfbb-4e4f-ad85-3780e4e487fa/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
+![Heirloom Video Book LOVE cover](https://ucarecdn.com/06c6c5cd-dfbb-4e4f-ad85-3780e4e487fa/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
-![](https://ucarecdn.com/97b04b91-1376-4d44-8fdb-8fbd6f2dbf52/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
+![Heirloom Video Book couples photo](https://ucarecdn.com/97b04b91-1376-4d44-8fdb-8fbd6f2dbf52/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
 Valentine’s Day is unlike any other holiday. First, there are no established ceremonies, no anticipation of everyone you know participating and certainly no specific gift giving. Rather, it's emotional sharing, personal message sharing and most of all usually between only a few people in your life.
 
