@@ -114,6 +114,17 @@
                 videoEl.play()
                 videoEl.muted = false
               }
+
+              const iframeEl = el.querySelector('iframe')
+              if( iframeEl ) {
+                videoFound = 1
+                // play video in iframe
+                const src = iframeEl.getAttribute('sendheirloom-src')
+                const separator = src.includes('?') ? '&' : '?'
+                if (!src.includes('autoplay=1')) {
+                  iframeEl.setAttribute('src', src + separator + 'autoplay=1')
+                }
+              }
             }
           })
 
@@ -128,6 +139,9 @@
       document.querySelectorAll('.CustomerVideosModal video').forEach(el => {
         el.pause()
         el.currentTime = 0
+      })
+      document.querySelectorAll('.CustomerVideosModal iframe').forEach(el => {
+        el.setAttribute('src', '')
       })
     })
   }
