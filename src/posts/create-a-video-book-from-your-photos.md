@@ -1,5 +1,5 @@
 ---
-title: "# Create a Video Book From Your Photos"
+title: Create a Video Book From Your Photos
 description: A slideshow of you photos can be in your hands with an Heirloom Video Book!
 author: Randee Bloom, RN, MBA, PhD
 date: 2025-03-06T17:46:25.504Z
