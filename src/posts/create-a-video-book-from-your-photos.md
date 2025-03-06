@@ -19,6 +19,8 @@ O﻿ur video books store and play hundreds of your photos as a video slideshow. 
 
 \--Receive a beautiful video book in the mail, loaded with a slideshow of your photos!
 
+![](https://ucarecdn.com/8773d2cf-1d8f-4192-b6c6-9906c14e41b9/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
+
 **H﻿ow Are Video Books Different Than Photo Albums?**
 
 B﻿efore the invention of the Video Book, the best option we had for sharing our photos was a photo album. All too often photo albums become a photo graveyard, rarely opened and enjoyed.
