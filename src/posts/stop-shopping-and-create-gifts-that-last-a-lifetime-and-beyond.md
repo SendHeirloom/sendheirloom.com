@@ -19,7 +19,7 @@ C﻿onsider how a customized gift, created with only your recipient in mind, can
 
 **There are many reasons why a personalized gift may almost always be the right choice:**
 
-1. Y﻿our gift can demonstrate the strong connection you have to your recipient.
+1. Y﻿our gift can demonstrate the strong connection you have to your recipient. 
 
 2﻿. Your gift can illuminate your level of thoughtfulness, bringing with it a sustained feeling of the moment he first saw your personalized creation, strengthening your relationship for a long time to come.
 
@@ -39,7 +39,7 @@ A﻿ new and exciting gift idea that will be uniquely customized by you and pers
 
 4﻿. Customer-friendly instructions.
 
-5. Start-to-finish tools for creating a memory book online.
+5. Start-to-finish tools for creating a memory book online. 
 
 6﻿. Easily accessible photo and video uploading tools.
 
