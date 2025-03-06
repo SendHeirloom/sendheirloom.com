@@ -39,7 +39,7 @@ A﻿ new and exciting gift idea that will be uniquely customized by you and pers
 
 4﻿. Customer-friendly instructions.
 
-5 . Start-to-finish tools for creating a memory book online.
+5. Start-to-finish tools for creating a memory book online.
 
 6﻿. Easily accessible photo and video uploading tools.
 
