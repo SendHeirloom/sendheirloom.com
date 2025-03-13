@@ -45,7 +45,7 @@ Telephone communication has become an even more vital means of social connection
 
 Many seniors are simply never going to learn to bridge their barriers to operate computers, iPads or even smartphones. However, advances in technology are bringing helpful tools to the hands of those in forced social isolation. Consider how products can provide much needed connections, even for those with little or no experience or knowledge in their use. An expansive report by the National Council for Biotechnology Information of the National Institutes of Health [reported](https://www.ncbi.nlm.nih.gov/books/NBK557966/) that IT provides a means to deliver targeted, personalized interventions that can directly address the challenges of loneliness and social isolation.
 
-Consider sending a senior you love an [Heirloom Video Book](sendheirloom.com) (available on this site), which offers non-tech users a personalized physical book with an integrated video player that automatically plays when opened. This small business' mission is to make it possible for special moments to be shared with family and friends, even when those you love don't have access to the internet or a smartphone.
+Consider sending a senior you love an [Heirloom Video Book](sendheirloom.com) (available on this site), which offers non-tech users a personalized physical book with an integrated video player that automatically plays when opened. This [small business' mission](https://sendheirloom.com/about-us/) is to make it possible for special moments to be shared with family and friends, even when those you love don't have access to the internet or a smartphone.
 
 #### Start Your Own Friendly Call Program
 
