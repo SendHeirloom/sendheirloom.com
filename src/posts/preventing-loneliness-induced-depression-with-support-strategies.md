@@ -35,25 +35,25 @@ You may recall some of the hobbies or interests chosen by your loved senior in y
 
 #### Encourage A New Hobby Or Interest
 
-Benefit from all you know about your loved senior as you explore ideas for new hobbies. How about bringing the gardener inside with a new house plant to manage. Or offer to deliver supplies for a new hobby such as drawing or knitting. Many people, possibility in a depressed state, are unable to consider a new venture. Presented as an opportunity to create objects of art for others, such as their grandchildren, may be just the trick.
+Benefit from all you know about your loved senior as you explore ideas for new hobbies. How about bringing the gardener inside with a new house plant to manage. Or offer to deliver supplies for a new hobby such as drawing or knitting. Many people, possibility in a depressed state, are unable to consider a new venture. Presented as an opportunity to create objects of art for others, such as for their grandchildren, may be just the trick.
 
 #### Use The Technology You Have
 
-Telephone communication has become an even more vital means of social connection. You may find value in exploring local and national programs that offer seniors a friendly voice. AARP's Friendly Voice program welcomes seniors to sign up for a social call from a trained volunteer. (Learn more by calling 888-281-0145.)
+Telephone communication has become an even more vital means of social connection. You may find value in exploring local and national programs that offer seniors a friendly voice. [AARP's Friendly Voice program ](https://www.aarp.org/home-family/friends-family/friendly-voice/)welcomes seniors to sign up for a social call from a trained volunteer. (Learn more by calling 888-281-0145).
 
 #### Seek Out New Tech
 
 Many seniors are simply never going to learn to bridge their barriers to operate computers, iPads or even smartphones. However, advances in technology are bringing helpful tools to the hands of those in forced social isolation. Consider how products can provide much needed connections, even for those with little or no experience or knowledge in their use. An expansive report by the National Council for Biotechnology Information of the National Institutes of Health [reported](https://www.ncbi.nlm.nih.gov/books/NBK557966/) that IT provides a means to deliver targeted, personalized interventions that can directly address the challenges of loneliness and social isolation.
 
-Consider sending a senior you love an Heirloom Video Book (available on this site), which offers non-tech users a personalized physical book with an integrated video player that automatically plays when opened. This small business' mission is to make it possible for special moments to be shared with family and friends, even when those you love don't have access to the internet or a smartphone.
+Consider sending a senior you love an [Heirloom Video Book](sendheirloom.com) (available on this site), which offers non-tech users a personalized physical book with an integrated video player that automatically plays when opened. This small business' mission is to make it possible for special moments to be shared with family and friends, even when those you love don't have access to the internet or a smartphone.
 
 #### Start Your Own Friendly Call Program
 
-This effort can be as simple as organizing your family, including the younger members, to call your senior on a regular basis. And, to encourage the calls try helping your senior keep notes for the next call: talk about their meals, their favorite books and movies, a special memory they shared together, a funny story when they were the grandchild's age. With a little pre-planning, you can fill a 15 minute phone call. Consider asking your senior some engaging questions:
+This effort can be as simple as organizing your family, including the younger members, to call your senior on a regular basis. And, to encourage the calls, try helping your senior keep notes for the next call: talk about their meals, their favorite books and movies, a special memory they shared together, a funny story when they were the grandchild's age. With a little pre-planning, you can fill a 15-minute phone call. Consider asking your senior some engaging questions:
 
-* "Grandma, please tell me more about your school, days when you were in my grade".
+* "Grandma, please tell me more about your school days when you were in my grade".
 * "Grandpa, please tell me about your first job; or a job that you loved the most".
-* "Uncle, please tell me more about what you did with my Dad for fun. What games did you like the play the most".
+* "Uncle, please tell me more about what you did with my Dad for fun. What games did you like to play the most".
 * "Mom, please tell me about two of your favorite recipes. I want to write them down and save them for all the family".
 
 And remember, you can write down their answers and save them in a family journal, or record them to save your senior's voice and exact words.
@@ -66,10 +66,8 @@ A new company, [Joy For All Companion Pets](https://joyforall.com/?gclid=CjwKCA
 
 #### Volunteer
 
-The act of offering your time and talent to help others, without the expectation of payment, is an altruistic act we named volunteering. We all must learn that this act should also be known as good for the doer. Volunteering offers many benefits, none more important than the feeling of belonging and promoting your sense of purpose. Consider exploring for opportunities that your isolated senior can do from the safety of their home. AARP's [Create the Good](http://createthegood.org/) website allows you to search for volunteer opportunities. It's loaded with helpful tips to Do-It-Yourself Volunteer projects. Consider, for example, intergenerational programs that encourage a senior to help a young child, possibly by reading to them via telephone or sharing pen pal letters and art work.
+The act of offering your time and talent to help others, without the expectation of payment, is an altruistic act we named volunteering. We all must learn that this act should also be known as [good for the doer](https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/3-health-benefits-of-volunteering#:~:text=Volunteers%20report%20better%20physical%20health,relaxed%20feelings%20by%20releasing%20dopamine.). Volunteering offers many benefits, none more important than the feeling of belonging and promoting your sense of purpose. Consider exploring for opportunities that your isolated senior can do from the safety of their home. AARP's [Create the Good](http://createthegood.org/) website allows you to search for volunteer opportunities. It's loaded with helpful tips and Do-It-Yourself Volunteer projects. Consider, for example, intergenerational programs that encourage a senior to help a young child, possibly by reading to them via telephone or sharing pen pal letters and art work.
 
-We all hope for the day when our public health and medical professionals tell us we can return to normal socialization. For our seniors this will mean active days, complete with social engagements, visitors and outings, leading to less loneliness and more joy overall.
+Accepting limitations due to illness and aging should not mean accepting social isolation. Seniors, with the personalized help from caring others, can enjoy activities, social engagements and meaningful hobbies.
 
-***Dr. Randee Bloom, RN, MBA, PhD** is a retired nurse and healthcare administrator. She has a PhD in nonprofit management and serves on the board of several national healthcare nonprofits. Dr. Bloom is a national volunteer ambassador for AARP and two of her children, Ashley and Zack, are the founders of Heirloom. Dr. Bloom's own mother is in her 90's and is forced to remain isolated to protect her health as COVID-19 remains uncontrolled.*
-
-* [](https://www.facebook.com/sendheirloomofficial)
+**\*Dr. Randee Bloom, RN, MBA, PhD** is a retired nurse and healthcare administrator. She has a PhD in nonprofit management and serves on the board of several national healthcare nonprofit o﻿organizations. Two of her children, Ashley and Zack, are the founders of Heirloom.
