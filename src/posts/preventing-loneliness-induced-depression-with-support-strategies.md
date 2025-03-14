@@ -4,7 +4,7 @@ description: Learn how to safeguard your loved ones from loneliness-induced
   depression. Explore practical strategies to provide care and emotional support
   from Heirloom.
 author: Randee Bloom, RN, MBA, PhD
-date: 2025-03-13T14:35:09.526Z
+date: 2025-03-14T14:35:09.526Z
 social_image: /static/images/og-image.jpg
 ---
 Most of us know what it means to be lonely. We can feel it. Maybe we have felt sad because a friend is no longer around us or our family has moved away. This seems quite natural and easy to explain. Now consider when this state of sadness grows deeper and lasts longer with no means of making it stop. This may now be defined as "[depression](https://www.psychiatry.org/patients-families/depression/what-is-depression)", as described by the American Psychiatric Association.
