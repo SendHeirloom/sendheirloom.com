@@ -14,7 +14,7 @@ During challenging times gift giving can mean so much. Consider how you can tran
 
 Lars Tornstam, a Swedish gerontologist, coined his theory "gerotranscendence" to describe noted changes among aging adults. Among the characteristics of gerotranscendence are an "[increased affinity with previous generations](https://www.sloww.co/gerotranscendence/)" and "[decreased interest in material objects](https://www.lasa-vu.nl/themes/emotional/gerotranscendence.htm)." This science seeks to document the idea that, as guiding principles, grandparents typically want fewer items and more bonding with their current and past relationships.
 
-Consider these thoughtful gift ideas that will help nurture your bond from a distance and provide a much needed connection. This type of gift giving perspective can be even more meaningful when you focus first on your recipient's current state of needs. Read our article "[Gift Ideas for Great-Grandparents](https://sendheirloom.com/posts/great-gift-ideas-for-great-grandparents/)" for more great suggestions.
+Consider these [thoughtful gift ideas](https://www.greatseniorliving.com/articles/gifts-for-elderly-people) that will help nurture your bond from a distance and provide a much needed connection. This type of gift giving perspective can be even more meaningful when you focus first on your recipient's current state of needs. Read our article "[Gift Ideas for Great-Grandparents](https://sendheirloom.com/posts/great-gift-ideas-for-great-grandparents/)" for more great suggestions.
 
 ## DIY Gifts
 
@@ -24,7 +24,7 @@ A Do-It-Yourself (DIY) gift, simply meaning a hand-crafted item that your grandp
 
 ## Rekindle A Hobby
 
-Consider a gift that brings your grandparent back to one of their past hobbies. What did they enjoy doing before their family grew and their time became more limited?
+Consider a gift that brings your grandparent back to one of their past [hobbies](https://askchapter.org/magazine/happy-retirement-tips/retirement-activities/senior-hobbies-for-older-men-and-women?utm_campaign=GO_MC_OS_LP_00_00_00_00). What did they enjoy doing before their family grew and their time became more limited?
 
 ![A Garden](/static/images/blog/gifts-grandparents-actually-want/garden.jpg)
 
@@ -38,7 +38,7 @@ The gift of literature may be your loved ones' lifelong pleasure and one that wa
 
 ![Tea Service](/static/images/blog/gifts-grandparents-actually-want/tea.jpg)
 
-Check out [book-of-the-month](https://www.bookofthemonth.com/?irclickid=X%3AT0Lk3uRxyLUYB05-R4sULoUkEWEGUprzeoyY0&utm_medium=affiliate&utm_source=impact&utm_campaign=36676&irgwc=1) clubs. Or, the simpler, and frankly much cheaper way: a library card. When elders move, such as from their family home to a senior residence, their nearby library may change. You can contact their local library, provide all the necessary sign up information and a library card account is now their key to the world of literature. Libraries often have arrangements with senior centers for deliveries of ordered books. And don't miss the benefits of books on tape, or CD, or virtual e-books.
+Check out [book-of-the-month](https://www.bookofthemonth.com/?irclickid=X%3AT0Lk3uRxyLUYB05-R4sULoUkEWEGUprzeoyY0&utm_medium=affiliate&utm_source=impact&utm_campaign=36676&irgwc=1) clubs. Or, the simpler, and frankly much cheaper way: a [library card](https://www.libbylife.com/2023-09-07-top-5-reasons-you-need-a-library-card). When elders move, such as from their family home to a senior residence, their nearby library may change. You can contact their local library, provide all the necessary sign up information and a library card account is now their key to the world of literature. Libraries often have arrangements with senior centers for deliveries of ordered books. And don't miss the benefits of books on tape, or CD, or virtual e-books.
 
 We have recently discovered my 92-year-old mother has an affinity for biographies. She has enjoyed reading them and I have encouraged our family to ask her about the character's life during our phone call gatherings. That's right, my elderly Mom, their elderly grandmother, is preparing book reports!
 
@@ -60,9 +60,9 @@ Plan an outing that meets the desire of togetherness with the people of the pres
 
 I once organized a day of remembrance for my mother and two brothers. We started at my mother's first house, where she lived as a child and then traveled through the city to her elementary school, and onward. We ended at the home where she raised the three of us. This time, this day, these sites brought back decades of happy memories. We shared stories, and created new memories, too. If you are able to do this together safely, go for it. If not, how about presenting her with an album of pictures of these locations and personalized memories offered by many members of her family.
 
-## Stay Safe
+## Create a Family Heirloom
 
-How about asking your grandmother to spend the day teaching you something? Perhaps have a voice recorder nearby as you recreate her masterpieces in your kitchen with grandma providing all the coaching, encouragement, laughter and togetherness in person or by phone.
+How about asking your grandmother to spend the day [teaching you something](https://createmycookbook.com/home_family_alt?utm_source=google&utm_medium=cpc&utm_campaign=(D)_Generic-Main_(CORE)_27768224&utm_content=6096754004&utm_term=writing%20a%20cookbook&gad_source=1&gclid=Cj0KCQjwytS-BhCKARIsAMGJyzrD5Fx50NxrdJhPWCBriti5TxuoyRg-DPBuCyULMtSnvpicy2Wo9zcaAoCLEALw_wcB)? Perhaps have a voice recorder nearby as you recreate her masterpieces in your kitchen with grandma providing all the coaching, encouragement, laughter and togetherness in person or by phone.
 
 ![A Kitchen](/static/images/blog/gifts-grandparents-actually-want/kitchen.jpg)
 
