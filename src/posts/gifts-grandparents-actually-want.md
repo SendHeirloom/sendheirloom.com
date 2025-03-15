@@ -4,7 +4,7 @@ description: Discover meaningful gift ideas that grandparents will truly
   appreciate. Find the perfect presents that reflect your love and gratitude on
   Heirloom.
 author: Randee Bloom, RN, MBA PhD
-date: 2021-02-10T00:55:29.298Z
+date: 2025-03-15T23:55:29.298Z
 social_image: /static/images/blog/gifts-grandparents-actually-want/crafts.jpg
 tags:
   - gifts
