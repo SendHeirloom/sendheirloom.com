@@ -10,7 +10,7 @@ tags:
   - unlike loans
   - are sources of free money that generally do not have to be
     repaid. Grants can come from the government or private or nonprofit
-    organization.
+    organizations.
 ---
 ![](https://ucarecdn.com/f754bcca-1437-4f81-8aa9-db514ab8857e/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
@@ -45,10 +45,10 @@ This grant is valued up to $30,000 offered to US 501(c)3 nonprofit organizations
 
 #### **Government-funded Grants** 
 
-[GRANTS.gov](http://grants.gov)\
+[GRANTS.gov](https://www.grants.gov/)\
 This government supported site is packed full of helpful information, tools, education and support for companies searching for relevant federal grant funding. Federal funding opportunities are for organizations and entities supporting the development and management of government programs and projects. Each awarding agency defines the specific eligibility along with application requirements and deadlines. Search tools assist with your research, including keywords and specific opportunity titles.\
 \
 [America’s Seed Fund](https://seedfund.nsf.gov/apply/?utm_source=google&utm_medium=cpc&utm_campaign=psc&utm_term=keyword&utm_content=now_open) \
 The National Science Foundation supports this congressionally mandated program granting project, helping startups and small businesses (fewer than 500 employees), working within the US transform their ideas into marketable products and services. Annual total awards exceed $200 million to entrepreneurs fostering innovation and creating jobs in the US. Seed capital is offered for defined periods of time when the company is immersed in the NSF network, receiving training and mentorship. Companies with no prior government work must register, as detailed on this site.
 
-**\*Ashley Kenny** spent the last 15-years producing ground-breaking, award-winning documentaries for organizations like National Geographic, Al Jazeera America and The Atlantic, many earning awards like the Edward R. Murrow and Alfred I. duPont Awards. She is the founder of [Heirloom](https://sendheirloom.com) and lives in Washington, DC.*
+**\*Ashley Kenny** spent the last 15-years producing ground-breaking, award-winning documentaries for organizations like National Geographic, Al Jazeera America and The Atlantic, many earning awards like the Edward R. Murrow and Alfred I. duPont Awards. She is the Co-Founder of [Heirloom](https://sendheirloom.com) and lives in Washington, DC.*
