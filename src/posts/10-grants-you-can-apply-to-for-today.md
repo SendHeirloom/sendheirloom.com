@@ -1,6 +1,6 @@
 ---
-title: "Immediate Grant Opportunities: 10 Applications Open | Heirloom"
-description: Discover 10 grants with open applications today. Explore potential
+title: "Immediate Grant Opportunities: 1Applications Open | Heirloom"
+description: Discover grants with open applications today. Explore potential
   funding options to support your projects and dreams. Apply now with Heirloom.
 author: Ashley Kenny
 date: 2021-03-05T04:07:07.516Z
