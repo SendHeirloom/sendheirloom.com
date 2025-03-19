@@ -1,5 +1,5 @@
 ---
-title: "Immediate Grant Opportunities: 1Applications Open | Heirloom"
+title: "Immediate Grant Opportunities: Applications Open | Heirloom"
 description: Discover grants with open applications today. Explore potential
   funding options to support your projects and dreams. Apply now with Heirloom.
 author: Ashley Kenny
@@ -41,7 +41,7 @@ This business development grant is worth up to $4,000 to members of the National
 This unique organization seeks to contribute beyond their initial support toward a worldwide impact through the awarding grants demonstrating community-driven grassroots initiatives seeking to empower individuals and inspire others. Any charitable work that aims to better the world is considered, recognizing the importance of effective seed funding. Ongoing grant applications are welcome recognizing their effort to award a new project $1,000 in seed funding each day of the year. Awardees are then welcomed to access business support development including connectivity with others. 
 
 [The Ben & Jerry’s Foundation Grant](https://benandjerrysfoundation.org/the-grassroots-organizing-for-social-change-program/)\
-This grant is valued up to $30,000 offered to US 501(c)3 nonprofit organizations with annual budgets under $500,000.  Successful grants generally are to grassroots, constituent-led organizations focused on activities and strategies used for creating social change. Pre-application deadline is May 1, 2021 with a final due date of August 16, 2021.
+This grant is valued up to $30,000 offered to US 501(c)3 nonprofit organizations with annual budgets under $500,000.  Successful grants generally are to grassroots, constituent-led organizations focused on activities and strategies used for creating social change. This foundation uses a rolling process, you may submit anytime throughout the year.
 
 #### **Government-funded Grants** 
 
