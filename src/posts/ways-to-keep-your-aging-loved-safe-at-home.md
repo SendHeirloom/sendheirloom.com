@@ -3,7 +3,7 @@ title: Ensuring Safety for Aging Loved Ones at Home | Heirloom
 description: Discover effective strategies to keep your aging loved ones safe
   and secure in their home. Practical tips for providing a safe environment.
 author: Randee Bloom, RN, MBA PhD
-date: 2021-03-07T21:52:09.433Z
+date: 2025-03-20T20:52:09.433Z
 social_image: https://ucarecdn.com/89322761-3a90-4feb-a875-1e4dbee8582f/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 tags:
   - Aging
@@ -32,10 +32,12 @@ Emergency preparedness actions can also be enacted, much like for any residence.
 
 Does his or her home environment promote safe physical activity throughout the day, within physical limitations? Simple walking, possibly with assistive devices, can be encouraged. Self-exercise programs, safely from a chair, can energize, strengthen and assist with multiple physical functioning and mental stimulation.  Providing a few simple exercise-focused items such as minimal pound hand weights and [foot stationary petals](https://www.amazon.com/Exerciser-AGM-Adjustable-Resistance-Training/dp/B07DL11C3R/ref=sr_1_4_sspa?crid=3E5FD14DTG54P&dib=eyJ2IjoiMSJ9.kKAGL3fR8P7emMDjViYMXZOrW2xnFlcv6PDUKbvz1vsej37M-ozC_FbAMaqo8Yz4iJ3UegRrIPAbhOBRRRe7zGJteY8PN16Uh_SfMRrvVsoaa0TaXWqQqWZVplQl-RcMTLdUJi2_jdy_D2osbt_1FSjAFIxfD0-eFkEBtlKQMwB8vCoacD8Tv-HC7hKF4bkv__zjMSNIQhhUwaALXhFWljesct38K0T7nWvfSTVmtizvZ1IdYjJwXpt6tKpvoVNkd8b_bPZFLPpGuTn220-Mz5vbnsaHUGai8O4hgMIXjDE.6N-VsiOqSnxaCaMow1JdzT0GYOdq6LkZNik5zzefxiU&dib_tag=se&keywords=foot%2Bstationary%2Bpetals&qid=1742491809&sprefix=foot%2Bstationary%2Bpetals%2Caps%2C427&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) can be just the answer. 
 
-Here is a great opportunity for the younger family members to play with their elder distantly, sharing exercise moves safely or mentally challenging games on the phone. Consider how a child can be filmed doing fun exercises and this “show” can be shared with your elder on a device like an , which is available on this website. Your elder can watch this show daily knowing their muscles and bond with their grandchild is strengthened**Future and Forward Thinking** 
+Here is a great opportunity for the younger family members to play with their elder distantly, sharing exercise moves safely or mentally challenging games on the phone. Consider how a child can be filmed doing fun exercises and this “show” can be shared with your elder on a device like an [Heirloom Video Book](https://sendheirloom.com), which is available on this website. Your elder can watch this show daily knowing their muscles and bond with their grandchild is strengthened. 
+
+**Future and Forward Thinking** 
 
 The rest of the solutions lay within your family unit. Have all your family members been informed and then recruited into this plan? Your goal to maintain your loved ones’ sense of self and dignity can be realized as you ask for their opinions, offer realistic choices and remember that at the root of all of us is our desire for a quality life. Maintain their sense of familiarity with personal objects as well as choice and autonomy. Pancakes for dinner is just that demonstration of self-control, choice, independence and happiness. And that’s how a loving family cares for their elders. 
 
 Thinking about this topic, what I’m most perplexed by is the inevitably we share. We hope that we live a long life, measured in years that pass into the “elderly” classification, hoping we become elderly ourselves. Our lifetime of experiences and education should create a natural elevation in value rather than disregard because of some natural physical frailties.
 
-**\*Dr. Randee Bloom, RN, MBA, PhD** is a retired nurse and healthcare administrator. She has a PhD in nonprofit management and serves on the board of several national healthcare nonprofits. Dr. Bloom is a national volunteer ambassador for AARP and two of her children, Ashley and Zack, are the founders of Heirloom. Dr. Bloom's own mother is in her 90's and is forced to remain isolated to protect her health as COVID-19 remains uncontrolled.*
+**\*Dr. Randee Bloom, RN, MBA, PhD** is a retired nurse and healthcare administrator. She has a PhD in nonprofit management and serves on the board of several national healthcare nonprofits. Two of her children, Ashley and Zack, are the founders of Heirloom.**\***
