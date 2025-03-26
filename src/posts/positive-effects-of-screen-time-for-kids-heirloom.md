@@ -1,6 +1,6 @@
 ---
-title: "* # Positive Effects of Screen Time for Kids | Heirloom"
-description: "* Discover how controlled screen time can benefit children. Learn
+title: Positive Effects of Screen Time for Kids | Heirloom
+description: "Discover how controlled screen time can benefit children. Learn
   about educational and creative aspects to make informed decisions on screen
   time with Heirloom.Read for:"
 author: Randee Bloom, RN, MBA, PhD
@@ -35,4 +35,4 @@ Broadening our horizons, literally with travel and being with others, offers uni
 
 There is research seeming to [describe bad effects of childhood television watching](https://www.raisesmartkid.com/all-ages/1-articles/13-the-good-and-bad-effects-of-tv-on-your-kid) but much of the studies are decades old, and thus not incorporating new technology and advancements in the science of child development. Among these declared ill effects include misdirecting very young children from activities that work to positively develop the young brain, including the development of language, creativity and motor skills.  There is also a body of work documenting a [correlation between television watching and childhood obesity](https://pmc.ncbi.nlm.nih.gov/articles/PMC6357794/). This science should be considered, respected and balanced with moderation and creative parenting. Moderation as an overriding consideration, along with supervision, joint viewing, informative programming, and current and post-interactions, all of which may move the needle from not very beneficial to a very helpful part of a child’s development.
 
-* ***Dr. Randee Bloom, RN, MBA, PhD** is a retired nurse and healthcare administrator. She has a PhD in nonprofit management and serves on the board of several national healthcare nonprofits. Two of her children, Ashley and Zack, are the founders of Heirloom.* [](https://www.facebook.com/sendheirloomofficial)
+**\*Dr. Randee Bloom, RN, MBA, PhD** is a retired nurse and healthcare administrator. She has a PhD in nonprofit management and serves on the board of several national healthcare nonprofits. Two of her children, Ashley and Zack, are the founders of Heirloom.* [](https://www.facebook.com/sendheirloomofficial)
