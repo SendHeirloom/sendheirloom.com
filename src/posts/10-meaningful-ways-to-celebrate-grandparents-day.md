@@ -6,15 +6,11 @@ author: Randee Bloom, RN, MBA, PhD
 date: 2025-03-29T14:02:23.074Z
 social_image: /static/images/og-image.jpg
 ---
-
-
-Looking to make Grandparents' Day special? Discover 10 heartfelt ways to celebrate and honor your grandparents' love and wisdom.
-
-# 10 Meaningful Ways to Celebrate Grandparents' Day | SendHeirloom
+# 10 Meaningful Ways to Celebrate Grandparents' Day 
 
 ![Randee on a walk with her 3 grandkids](https://ucarecdn.com/76036a8b-a478-429c-9eb0-e9a62399366f/-/resize/1000x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
-Our Mother’s Day and Father’s Day are each written with apostrophes, while Grandparents Day is officially not. Researchers site the holiday’s advocate Marian McQuade as envisioning the celebration not of one just for the Grandparent but rather the connection to grandparents. With this simple writing style we can remind ourselves that grandparents are also welcomed to honor their position and with it their developed legacy to future generations.
+Our Mother’s Day and Father’s Day are each written with apostrophes, while Grandparents Day is officially not. Researchers site the holiday’s advocate Marian McQuade as envisioning the celebration not of one just for the Grandparent but rather [the connection to grandparents](https://www.psychologytoday.com/us/blog/explorations-of-the-mind/202311/in-praise-of-grandparents#:~:text=Grandparents%20often%20have%20the%20opportunity,the%20context%20of%20one's%20family.). With this simple writing style we can remind ourselves that grandparents are also welcomed to honor their position and with it their developed legacy to future generations.
 
 Here are some fun ideas for how to celebrate Grandparents Day in September on the first Sunday after Labor Day.
 
@@ -39,8 +35,6 @@ Consider how you can tell your grandchildren [your life’s story](https://thewe
 **The Gift of Time**\
 This past year, as we all struggled to adjust to restrictions and isolations, we may have created more time to focus on hobbies, but not together. Consider how, in the safest ways possible, you can be together with your generations of family and friends. Maybe you need to do activities, outside, with masks on, without being as close and maybe not eating. But, always keep your eye on the prize…being together. If you are looking for a tangible gift to present, read our article "[Thoughtful Gifts for Grandma](https://sendheirloom.com/posts/thoughtful-gifts-for-grandma/)".
 
-**Cultivate Your Reporter**﻿ Helping your child become a good conversationalist is a skill they will benefit from all their lives. Consider starting now by helping them create a set of questions they can ask each grandparent. They may ask some of the most obvious, such as “tell me about your first day in school” or “what was the sport you were the best at playing?” Then, gently guide your child to be even more creative. You will be surprised when they want to ask Grandpa how many speeding tickets he got or ask Grandma how many boyfriends she had. It’s not the question your child is really interested in. It’s the answer, and how their grandparents share their living memories.f
-
 **Cultivate Your Reporter**\
 Helping your child become a good conversationalist is a skill they will benefit from all their lives. Consider starting now by helping them [create a set of questions](https://blog.ohiohealth.com/interviewing-grandma-grandpa-20-questions-every-child-ask-grandparent/) they can ask each grandparent. They may ask some of the most obvious, such as “tell me about your first day in school” or “what was the sport you were the best at playing?” Then, gently guide your child to be even more creative. You will be surprised when they want to ask Grandpa how many speeding tickets he got or ask Grandma how many boyfriends she had. It’s not the question your child is really interested in. It’s the answer, and how their grandparents share their living memories.
 
@@ -48,10 +42,10 @@ Helping your child become a good conversationalist is a skill they will benefit 
 Your grandchildren may know you love to knit, especially every night when their snuggle under your handmade blankets. But, do they know about some other of your [hobbies or special skills](https://www.parents.com/parenting/dynamics/grandparents/sweet-ways-for-kids-to-celebrate-grandparents-day/)? Maybe you are an “expert” playing card shuffler, magician, baseball catcher or pianist. Our grandchildren not only can learn a lot from us but usually want to. There is so much good that can happen and last a lifetime. The child may actually like or even show some shared talent once introduced to the hobby or skill. They most certainly may remember when they first tried and you will show up in the memory.
 
 **Be Active Together**\
-The best way to keep you young and your grandkids healthy is to get moving. It can be a short walk or fun scooter ride down the sidewalk. Just get up and moving! You will see things you can’t predict, learn along the way and make some memories, too.
+The best way to keep you young and your grandkids healthy is to [get moving.](https://www.gransnet.com/grandparenting/good-granny-guide/at-the-park) It can be a short walk or fun scooter ride down the sidewalk. Just get up and moving! You will see things you can’t predict, learn along the way and make some memories, too.
 
 The celebration of every holiday has one thing in common. The opportunity to pause from our daily lives’ tasks and responsibilities and focus. Grandparents Day offers this opportunity with the focus begin both inward and around us. Consider this opportunity and make your own traditions and meaningful memories that can last many lifetimes.
 
-*Click to learn about the [History of Grandparents Day](https://deploy-preview-66--sendheirloomcom.netlify.app/posts/what-is-grandparents-day/)*
+*Click to here to visit [Heirloom Video Books](https://sendheirloom.com) and learn about the [History of Grandparents Day](https://sendheirloom.com/posts/exploring-grandparents-day-significance-celebration/)*
 
-* [](https://www.facebook.com/sendheirloomofficial)
+[](https://www.facebook.com/sendheirloomofficial)
