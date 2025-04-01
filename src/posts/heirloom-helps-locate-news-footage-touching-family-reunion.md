@@ -15,7 +15,7 @@ Fortunate to be alive during a time that video recording technology is readily a
 
 When Tyler’s Grandmother, Wallie Reinprecht, saw [Heirloom Video Books ](https://sendheirloom.com)featured [on the TODAY Show](https://sendheirloom.com/#today-show), she instantly knew this new product would connect her and her family to their treasured memories of Tyler.  Tyler’s zest for life was often documented on video and Wallie and her family had many moments to choose from. 
 
-While creating her Heirloom video book, Wallie was reminded of an on-air tribute once paid to Tyler by their local Toledo News Station, WTOL, several years ago.  Tyler touched the lives of so many people in Toledo, including the news broadcaster and the entire ice hockey community.
+While creating her Heirloom video book, Wallie was reminded of an on-air tribute once paid to Tyler by their local [Toledo News Station, WTOL](https://www.youtube.com/@WTOL11), several years ago.  Tyler touched the lives of so many people in Toledo, including the news broadcaster and the entire ice hockey community.
 
 While Wallie remembered this segment, she did not have access to it or even know where to begin.  The Heirloom team helped Wallie research the story and contact the TV station, then incorporated this footage with several other clips from his life, including Tyler’s favorite music, the Frozen movie song: “I’m Holding on Tight to You”, bound within a personalized cover quoting Tyler’s hero, Buzz, “To the Moon and Back.”
 
@@ -23,4 +23,4 @@ While Wallie remembered this segment, she did not have access to it or even know
 
 “We take videos at weddings, graduations, and many other of our lives significant happy times. We don’t realize at the moment if we have these in-between videos until after our loved one is gone,” said Wallie.  “Every time I open my Heirloom video book it makes me cry but it also makes me feel good at the same time.”
 
-Heirloom’s family-owned business has proven to be a heartwarming tool to comfort families through the toughest of times.
+[Heirloom’s family-owned business](https://sendheirloom.com/about-us/) has proven to be a heartwarming tool to comfort families through the toughest of times.
