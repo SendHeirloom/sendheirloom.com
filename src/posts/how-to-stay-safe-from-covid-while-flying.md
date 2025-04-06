@@ -3,7 +3,7 @@ title: "Staying Safe from COVID and other Respiratory Illnesses While Flying "
 description: "Discover expert advice on staying safe from COVID-19 and other
   respiratory illnesses while traveling by air. "
 author: Randee Bloom, RN, MBA, PhD
-date: 2021-09-23T20:51:44.606Z
+date: 2025-04-06T20:51:44.606Z
 social_image: https://ucarecdn.com/2c5213be-7dfa-414c-b59c-0289b06b1536/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 tags:
   - Airplane
