@@ -1,21 +1,16 @@
 ---
-title: "Guide to Crafting Group Video Gifts | HeirloomLearn how to create
-  memorable group video gifts for any occasion. Follow our step-by-step guide to
-  make moments special on HeirloomRead for: Guide to Crafting Group Video Gifts
-  | Heirloom "
+title: "Guide to Crafting Group Video Gifts "
 description: "Learn how to create memorable group video gifts for any occasion.
-  Follow our step-by-step guide to make moments special on Heirloom "
+  Follow our step-by-step guide to make moments special on Heirloom. "
 author: Ashley Kenny
 date: 2025-04-06T18:48:01.562Z
 social_image: /static/images/og-image.jpg
 ---
-
-
 ![](https://ucarecdn.com/e60a4656-7358-4f3d-b1a3-a9560229f43f/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
 Watch the video Alyson made for her husband’s 40th birthday.
 
-One of the most thoughtful gifts you can give is a video-playing book full of video messages from family and friends.   Whether as a celebration of a special occasion or to show appreciation and love, your group can express these feelings even when you can’t all be together.
+One of the most thoughtful gifts you can give is a [video-playing book](https://sendheirloom.com) full of video messages from family and friends.   Whether as a celebration of a special occasion or to show appreciation and love, your group can express these feelings even when you can’t all be together.
 
 After collecting video messages from friends and family, you can celebrate special birthdays, graduations, retirements, congratulations, bridal showers, in memory and more! 
 
@@ -29,9 +24,9 @@ It’s easy and fun to make a group video gift.  Just follow these easy steps a
 
 Kimmy’s message for her Father’s 70th birthday.
 
-* It's wise to ask for videos all in one orientation, meaning all of the videos shot with your phone either straight upright or all held sideways.  You can easily request that all of the videos come vertically or horizontally. It’s also a good idea to put a time limit on the video or give your group a suggested duration for the video.
+* It's wise to ask for videos all in one orientation, meaning all of the videos shot with your phone either straight upright or all held sideways. You can easily request that all of the videos come vertically or horizontally. It’s also a good idea to put a time limit on the video or give your group a suggested duration for the video.
 * If you think your family could use a visual example, you can share Kimmy’s message for her Father's 70th birthday.
-* Let your family and friends know that the moment the book arrives at the recipient’s home you’ll also get a digital link to watch the video, too, which you’ll share with them.
+* Let your family and friends know that the moment the book arrives at the recipient’s home you’ll also receive a digital link to watch the video too, which you’ll share with them.
 
 ## Step 2: Collect The Videos
 
@@ -41,7 +36,7 @@ Kimmy’s message for her Father’s 70th birthday.
 
 * You can also send a reminder to friends and family a few days before the messages are due to you.  Feel free to say something short and sweet.
 
-> Example: “Hey, Just a quick reminder to send me a short video for Bill’s 70th birthday video-book by Friday. We’ve received 10 videos but are waiting for 4 more.”
+> Example: *“Hey, Just a quick reminder to send me a short video for Bill’s 70th birthday video-book by Friday. We’ve received 10 videos but are waiting for 4 more.”*
 
 * It’s a good idea to keep a list of the people you invited to contribute and cross off their names once you receive their videos.
 
@@ -49,10 +44,12 @@ Kimmy’s message for her Father’s 70th birthday.
 
 Holly has made 6 different Heirloom group video books to send to friends and family! We can all learn from her.
 
-* Once you receive all of the videos from friends and family, you can begin uploading your videos to Heirloom.
-* Simply click [“Buy Now”](https://sendheirloom.com/) to purchase a video book.  You can select either a 10-minute book or a 20-minute book, depending on how many minutes of video you have collected.
+* Once you receive all of the videos from friends and family, you can begin uploading your videos to [Heirloom's Book Builder](https://make.sendheirloom.com).
+* Simply click [“Buy Now”](https://sendheirloom.com/) to purchase a video book.  You can select either a 10-minute, 20-minute, or one-hour book depending on how many minutes of video you have collected.
 * Immediately after you buy a book, you’ll receive a link via email to upload your videos.
-* Just drag and drop them into the video builder, select your cover, add your gift message, and tell us what address you want us to send the video book to.
+* Just drag and drop them into the video builder.select your cover, add your gift message, and fill in the shipping information.
+* T﻿he next step is to create a custom cover or select from one of our [standard cover designs](https://sendheirloom.com/covers/).
+* Adding a [gift box](https://make.sendheirloom.com/order/o_BBvoolAouxj2/design/m_UdvF4SAJktjL/destination/d_ERIGs3oKwTuw/box) to your purchase will create an even more exciting presentation! 
 * Our video books ship in 48 hours and arrives in 5 to 10 business days.  We offer expedited shipping, should you have some family or friends who take their sweet time :)
 
 ## Step 4: Heirloom Mails Your Video Book
