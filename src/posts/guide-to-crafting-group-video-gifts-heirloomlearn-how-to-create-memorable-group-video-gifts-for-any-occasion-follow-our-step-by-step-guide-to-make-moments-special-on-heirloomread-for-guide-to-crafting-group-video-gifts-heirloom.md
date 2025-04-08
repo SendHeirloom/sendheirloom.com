@@ -6,11 +6,9 @@ author: Ashley Kenny
 date: 2025-04-06T18:48:01.562Z
 social_image: /static/images/og-image.jpg
 ---
-![](https://iframe.videodelivery.net/0f3e22ce850e03fa1542d65f4a29404c?preload=true "Watch the video Alyson made for her husband’s 40th birthday.")
+![Watch the video Alyson made for her husband’s 40th birthday.](https://iframe.videodelivery.net/0f3e22ce850e03fa1542d65f4a29404c?preload=true)
 
-Watch the video Alyson made for her husband’s 40th birthday.
-
-One of the most thoughtful gifts you can give is a [video-playing book](https://sendheirloom.com) full of video messages from family and friends.   Whether as a celebration of a special occasion or to show appreciation and love, your group can express these feelings even when you can’t all be together.
+One of the most thoughtful gifts you can give is a [video-playing book](https://sendheirloom.com) full of video messages from family and friends. Whether as a [celebration of a special occasion](https://www.vidday.com/) or to [show appreciation and love](https://www.celebrate.buzz/), your group can express these feelings even when you can’t all be together.
 
 After collecting video messages from friends and family, you can celebrate special birthdays, graduations, retirements, congratulations, bridal showers, in memory and more! 
 
