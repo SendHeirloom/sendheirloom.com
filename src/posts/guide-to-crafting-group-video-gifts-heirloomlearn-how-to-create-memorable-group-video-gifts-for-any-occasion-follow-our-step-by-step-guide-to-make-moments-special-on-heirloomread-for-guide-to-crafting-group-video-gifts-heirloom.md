@@ -6,7 +6,7 @@ author: Ashley Kenny
 date: 2025-04-06T18:48:01.562Z
 social_image: /static/images/og-image.jpg
 ---
-![](https://ucarecdn.com/e60a4656-7358-4f3d-b1a3-a9560229f43f/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
+![](https://iframe.videodelivery.net/0f3e22ce850e03fa1542d65f4a29404c?preload=true "Watch the video Alyson made for her husband’s 40th birthday.")
 
 Watch the video Alyson made for her husband’s 40th birthday.
 
