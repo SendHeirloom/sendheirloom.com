@@ -3,7 +3,7 @@ title: Guide to Crafting Group Video Gifts | Heirloom
 description: Learn how to create memorable group video gifts for any occasion.
   Follow our step-by-step guide to make moments special on Heirloom
 author: Ashley Kenny
-date: 2021-11-17T18:10:10.519Z
+date: 2025-04-09T17:10:10.519Z
 social_image: https://ucarecdn.com/bd0675da-3bfb-4350-bfc1-0c52bd88489b/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 ---
 ![](https://ucarecdn.com/e60a4656-7358-4f3d-b1a3-a9560229f43f/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
@@ -40,7 +40,7 @@ social_image: https://ucarecdn.com/bd0675da-3bfb-4350-bfc1-0c52bd88489b/-/resize
   <span>Watch the video Alyson made for her husband’s 40th birthday.</span>
 </div>
 
-One of the most thoughtful gifts you can give is a video-playing book full of video messages from family and friends.   Whether as a celebration of a special occasion or to show appreciation and love, your group can express these feelings even when you can’t all be together.  
+One of the most thoughtful gifts you can give is a video-playing book full of video messages from family and friends.   Whether as a celebration of a [special occasion](https://www.celebrate.buzz/) or to [show appreciation and love](https://www.vidday.com/), your group can express these feelings even when you can’t all be together.  
 
 Just by collecting video messages from friends and family, you can celebrate special birthdays, graduations, retirements, congratulations, bridal showers, in memory and more!
 
