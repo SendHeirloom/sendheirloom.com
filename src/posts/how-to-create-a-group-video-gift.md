@@ -40,11 +40,11 @@ social_image: https://ucarecdn.com/bd0675da-3bfb-4350-bfc1-0c52bd88489b/-/resize
   <span>Watch the video Alyson made for her husband’s 40th birthday.</span>
 </div>
 
-One of the most thoughtful gifts you can give is a video-playing book full of video messages from family and friends.   Whether as a celebration of a [special occasion](https://www.celebrate.buzz/) or to [show appreciation and love](https://www.vidday.com/), your group can express these feelings even when you can’t all be together.  
+One of the most thoughtful gifts you can give is a [video-playing book](https://sendheirloom.com) full of video messages from family and friends.   Whether as a celebration of a [special occasion](https://www.celebrate.buzz/) or to [show appreciation and love](https://www.vidday.com/), your group can express these feelings even when you can’t all be together.  
 
 Just by collecting video messages from friends and family, you can celebrate special birthdays, graduations, retirements, congratulations, bridal showers, in memory and more!
 
-It’s easy and fun to make a group video gift.  Just follow these easy steps and if you run into any trouble, we’re here to help you every step of the way (email us at help@sendheirloom.com).
+It’s easy and fun to make a group video gift. Just follow these easy steps and if you run into any trouble, we’re here to help you every step of the way (email us at help@sendheirloom.com).
 
 <div style="clear: both"></div>
 
@@ -61,7 +61,7 @@ It’s easy and fun to make a group video gift.  Just follow these easy steps a
   <span>Kimmy’s message for her Father’s 70th birthday.</span>
 </div>
 
-* It's wise to ask for videos all in one orientation, meaning all of the videos shot with your phone either straight upright or all held sideways.  You can easily request that all of the videos come vertically or horizontally. It’s also a good idea to put a time limit on the video or give your group a suggested duration for the video.
+* It's wise to ask for videos all in one orientation, meaning all of the videos shot with your phone either straight upright or all held sideways. You can easily request that all of the videos come vertically or horizontally. It’s also a good idea to put a time limit on the video or give your group a suggested duration for the video.
 * If you think your family could use a visual example, you can share Kimmy’s message for her Father's 70th birthday.
 * Let your family and friends know that the moment the book arrives at the recipient’s home you’ll also get a digital link to watch the video, too, which you’ll share with them. 
 
@@ -73,7 +73,7 @@ It’s easy and fun to make a group video gift.  Just follow these easy steps a
 
 <img src="https://ucarecdn.com/07a6a54b-ea2e-436e-a851-24d4d618335b/-/resize/600x/-/stretch/off/-/format/auto/-/progressive/yes/" style="width: 300px; margin: 0 auto" alt="Grandma Fran">
 
-* You can also send a reminder to friends and family a few days before the messages are due to you.  Feel free to say something short and sweet.
+* You can also send a reminder to friends and family a few days before the messages are due to you. Feel free to say something short and sweet.
 
 <blockquote>
 Example:  “Hey, Just a quick reminder to send me a short video for Bill’s 70th birthday video-book by Friday. We’ve received 10 videos but are waiting for 4 more.”
@@ -91,7 +91,7 @@ Example:  “Hey, Just a quick reminder to send me a short video for Bill’s 70
 </div>
 
 * Once you receive all of the videos from friends and family, you can begin uploading your videos to Heirloom.
-* Simply click [“Buy Now”](https://sendheirloom.com) to purchase a video book.  You can select either a 10-minute book or a 20-minute book, depending on how many minutes of video you have collected. 
+* Simply click [“Buy Now”](https://sendheirloom.com) to purchase a video book.  You can select either a 10-minute, 20-minute, or one-hour book, depending on how many minutes of video you have collected.  
 * Immediately after you buy a book, you’ll receive a link via email to upload your videos.
 * Just drag and drop them into the video builder, select your cover, add your gift message, and tell us what address you want us to send the video book to.  
 * Our video books ship in 48 hours and arrives in 5 to 10 business days.  We offer expedited shipping, should you have some family or friends who take their sweet time :)
