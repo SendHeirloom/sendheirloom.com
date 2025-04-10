@@ -10,10 +10,6 @@ social_image: /static/images/og-image.jpg
 
 \
 <style>\
-  ul, p {\
-    pointer-events: none;\
-  }\
-\
   .floated-video {\
     float: right;\
     margin-left: 15px;\
