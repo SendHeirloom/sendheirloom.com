@@ -6,35 +6,10 @@ author: Ashley Kenny
 date: 2025-04-06T18:48:01.562Z
 social_image: /static/images/og-image.jpg
 ---
-![Watch the video Alyson made for her husband’s 40th birthday.](https://iframe.videodelivery.net/0f3e22ce850e03fa1542d65f4a29404c?preload=true)
 
-
-<style>
-  .floated-video {
-    float: right;
-    margin-left: 15px;
-    width: 300px;
-  }
-
-  .floated-video span {
-    color: #888;
-    padding: 10px;
-    font-size: 0.8em;
-    display: block;
-  }
-
-  @media only screen and (max-width: 560px) {
-    .floated-video {
-      width: 100%;
-    }
-  }
-</style>
-
-<div class="floated-video">
-  <div style="position: relative; padding-top: 177%;">
-    <iframe src="https://iframe.videodelivery.net/0f3e22ce850e03fa1542d65f4a29404c?preload=true" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe>
-  </div>
-  <span>Watch the video Alyson made for her husband’s 40th birthday.</span>
+<div>
+  <iframe src="https://iframe.videodelivery.net/0f3e22ce850e03fa1542d65f4a29404c?preload=true" style="border: none; height: 717px; width: 400px;"  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe>
+  <div style="margin-top: 10px">Watch the video Alyson made for her husband’s 40th birthday.</div>
 </div>
 
 One of the most thoughtful gifts you can give is a [video-playing book](https://sendheirloom.com) full of video messages from family and friends. Whether as a [celebration of a special occasion](https://www.vidday.com/) or to [show appreciation and love](https://www.celebrate.buzz/), your group can express these feelings even when you can’t all be together.
