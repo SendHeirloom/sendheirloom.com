@@ -32,7 +32,7 @@ social_image: /static/images/og-image.jpg
 
 <div class="floated-video">
   <div style="position: relative; padding-top: 177%;">
-    <iframe src="https://iframe.videodelivery.net/0f3e22ce850e03fa1542d65f4a29404c?preload=true" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></​iframe>
+    <iframe src="https://iframe.videodelivery.net/0f3e22ce850e03fa1542d65f4a29404c?preload=true" style="border: none; position: absolute; top: 0; left: 0; height: 100%; width: 100%;"  allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe>
   </div>
   <span>Watch the video Alyson made for her husband’s 40th birthday.</span>
 </div>
