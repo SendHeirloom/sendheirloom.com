@@ -1,17 +1,17 @@
 ---
-title: "Sending Warmth Across Miles: How to Mail Videos with Care | Heirloom Blog"
+title: "Sending Warmth Across Miles: How to Mail Videos with Care "
 description: Discover the art of sharing videos through the mail with thoughtful
   tips and techniques. Create touching surprises for your loved ones with
   Heirloom's guidance.
 author: Randee Bloom, RN, MBA, PhD
-date: 2022-01-28T00:58:13.388Z
+date: 2025-04-20T23:58:13.388Z
 social_image: https://ucarecdn.com/a908d1b4-ba32-4d56-b381-c019f914106b/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 tags:
   - VideoBook
 ---
 ![Video Book ](https://ucarecdn.com/9dcaab5c-438f-4d67-9dfa-2717d0961e9e/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Hands holding video book")
 
-Naturally, my 93-year-old mother craves seeing her great-grandsons play, laugh and talk. And that’s exactly why during these times of forced separation, for our own health, we must become more creative. She does not own, and would not be able to independently operate, a smartphone or have access the internet. We simply can't let this limitation prevent sending anyone life-affirming, enduring videos. 
+Naturally, seniors crave seeing their grandchildren play, laugh and talk. And that’s exactly why those of us living miles away from our senior family members must become more creative. She does not own, and would not be able to independently operate, a smartphone or have access the internet. We simply can't let this limitation prevent sending anyone life-affirming, enduring videos. senior grandchildren those of us living miles away from our senior family members
 
 Here are a few ways you can send your videos, let them know they are loved, and stay close even when isolated.
 
