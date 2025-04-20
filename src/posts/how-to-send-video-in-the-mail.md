@@ -1,5 +1,5 @@
 ---
-title: "Sending Warmth Across Miles: How to Mail Videos with Care "
+title: "Sending Warmth Across Miles: How to Build and Mail Videos with Care "
 description: Discover the art of sharing videos through the mail with thoughtful
   tips and techniques. Create touching surprises for your loved ones with
   Heirloom's guidance.
