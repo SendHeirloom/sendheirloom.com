@@ -4,14 +4,14 @@ description: Learn effective ways to bridge the gap and create lasting
   connections by sharing videos with grandparents. Strengthen family bonds
   withHeirloom's expert advice
 author: Randee Bloom, RN, MBA, PhD
-date: 2022-01-28T02:32:13.464Z
+date: 2025-04-24T01:32:13.464Z
 social_image: https://ucarecdn.com/8dcb43c4-3283-4abc-8a04-a26efd6b6ee3/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 tags:
   - Video
 ---
 ![Video Book](https://ucarecdn.com/94d97f9c-d724-4eb4-b4cf-a675d453f4ad/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Heirloom Video Book")
 
-My adult kids are avid video producers! They film themselves, and especially their little children, nearly every day. Their smartphones provide the always ready to film convenience. I am joyful to receive these videos, most of them just seconds long, holding in my thoughts the whole day and often beyond. Imagine this feeling shared by others, especially their grandparents. For those grandparents owning and easily operating their smartphone or computer, this little click can also create their smiles. For those not so tech savvy, not having this 10-ounce device should not limit their enjoyment. Here are some of the easiest and fastest ways to share video with your grandparents and so many others who share your joys of life.
+My adult kids are avid video producers! They film themselves, and especially their little children, nearly every day. Their smartphones provide the always ready to film convenience. I am [joyful to receive these videos](https://sendheirloom.com/posts/how-to-create-a-group-video-gift/), most of them just seconds long, holding in my thoughts the whole day and often beyond. Imagine this feeling shared by others, especially their grandparents. For those grandparents owning and easily operating their smartphone or computer, this little click can also create their smiles. For those not so tech savvy, not having this 10-ounce device should not limit their enjoyment. Here are some of the easiest and fastest ways to share video with your grandparents and so many others who share your joys of life.
 
 ## Send your video in a text message
 
