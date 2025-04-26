@@ -1,6 +1,7 @@
 ---
 title: "Spreading Joy: Heartwarming Gifts to Lift Friends and Family | Heirloom Blog"
-description: Explore thoughtful gift ideas that bring smiles and warmth to your loved ones. Share joy and positivity with meaningful presents from Heirloom
+description: Explore thoughtful gift ideas that bring smiles and warmth to your
+  loved ones. Share joy and positivity with meaningful presents from Heirloom
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-02-15T21:09:59.993Z
 social_image: https://ucarecdn.com/b6eb7cf5-71e3-4718-8e36-03f1e3948f5c/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
@@ -9,7 +10,7 @@ tags:
 ---
 ![Helping a family or friend who is suffering ](https://ucarecdn.com/0815c24c-dadf-455d-83e1-38b06b69321f/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Image of sad face on a corkboard ")
 
-Sometimes we wish we owned a magic wand, a handful of pixie dust, or you name it. Something that can magically help a friend or family member who is suffering. Wouldn’t that be nice, and convenient. We could send them this magic and their stress, problems, worries, or even pain would be gone. We care, we want you to be feeling better. So, just what might we send, purchase, or better yet create, to send this message of concern? Here are a few suggestions.
+Sometimes we wish we owned a magic wand, a handful of pixie dust, or you name it. Something that can magically help a friend or family member who is suffering. Wouldn’t that be nice, and convenient? We could send them this magic and their stress, problems, worries, or even pain would be gone. We care, we want you to be feeling better. So, just what might we send, purchase, or better yet create, to send this message of concern? Here are a few suggestions. 
 
 Consider that your effort should be less about the item you send or create and much more about how you may make your recipient feel. I think you are striving to evoke the feelings of being cared about, cared for, even from a distance. Experiencing pain, from a loss, for example, is held within each of us, our own way. The best others can usually do is show that the suffering is recognized and respected.
 
