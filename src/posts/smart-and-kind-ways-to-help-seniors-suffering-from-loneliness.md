@@ -1,0 +1,57 @@
+---
+title: "Empathy in Action: Assisting Lonely Seniors with Smart Kindness |
+  Heirloom Blog"
+description: Discover thoughtful ways to support and connect with lonely seniors
+  through smart and compassionate gestures. Make a positive impact with insights
+  from Heirloom.
+author: Randee Bloom, RN, MBA, PhD
+date: 2022-04-01T14:36:04.441Z
+social_image: https://ucarecdn.com/2dfb1319-b869-49e9-bfb2-5f7b52ad4f85/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
+tags:
+  - Lonely
+---
+![Lonely, isolated senior](https://ucarecdn.com/4d5f8ee4-5f24-46a3-9257-bedbac97f7de/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Man with a book on bench")
+
+As we age, we become more and more isolated, and isolation brings feelings of loneliness. Known and expected changes brought about by the natural aging process can contribute to feelings of loneliness. Driving might not be possible, mobility can be limiting, and opportunities for social interaction become more rare, especially during the COVID pandemic.   
+
+Loneliness is being thrust upon seniors due to circumstances out of their control at an alarming rate.  More than 40 percent of seniors regularly experience loneliness, according to a University of California, San Francisco (UCSF) [study](https://www.ucsf.edu/news/2012/06/98644/loneliness-linked-serious-health-problems-and-death-among-elderly). Researchers also report that seniors self-identifying as lonely demonstrated a 59% greater risk of mental health decline and 45% greater risk of death. Researchers at Brigham Young University found that social isolation and the self-perceived feeling of loneliness is a very serious condition, reporting it to be a [risk for early mortality](https://journals.sagepub.com/doi/abs/10.1177/1745691614568352?journalCode=ppsa&). These startling statistics prove we need to help our seniors reduce their adverse feelings of loneliness, and those without the means of physical and mental health to begin to improve their situation are at an additional disadvantage. 
+
+This is where loving friends, family and caregivers can truly make a positive difference. Here are some ways to help seniors suffering from loneliness. 
+
+## Visit and Leave A Memento
+
+A simple visualization of interpersonal contact can assure ourselves that we are not alone. When we have a visitor, to our home or common area, we instantly know that we are connected. The many ways we communicate, with body language and words, demonstrate our shared experience. Seniors may not offer the same dynamic interactions as our other friends and family, but the connectedness is present. We can expand the memory of the visit first with a shared activity. A simple “sharing of a dessert” or leaving behind a book to discuss during our next time together, may at first glance seem too simple to matter. But all of our senses are alerted and our seniors may recall the moment more vividly with such a kind gesture.
+
+## A Distant Contact with Meaning
+
+When we must visit our senior friends and family from a distance, consider a few tips to strengthen the meaning and value of the visit. Plan ahead with an “invitation” of sorts. Make sure your senior is expecting your call. This can provide time to plan what they want to share with you, what they want to ask you. The call may offer more importance with such advanced notice. In addition, make sure that your senior knows with whom they are speaking. Quite often our spoken voice is less familiar when conveyed this way, without the benefit of facial recognition and other clues. Ask your senior if they can easily hear your voice. All kinds of reasons can impact their quality of hearing. This is a great time to consider whether a [hearing aid or phone voice amplification device](https://www.seniorlink.com/blog/my-loved-one-is-lonely-how-can-i-help) can rehabilitate their mild-to-moderate hearing loss. Their background may produce too much ambient noise, some of which you can ask to be minimized. Also, remember to schedule your calls when your senior is most alert, rested, alone or with only their primary caregiver. 
+
+## Add Value to Your Distant Contact, Face it
+
+Consider if you can add value to your senior’s contact by using a face-to-face phone device. Perhaps their caregiver can provide the use of their smartphone and you can make a Facetime call. Known by many as a video-chat, these sessions can provide needed contact and extend further, [reducing your isolated senior’s risk of developing depression](https://familymattershc.com/introducing-seniors-to-video-chatting/). Facial recognition and nonverbal communication can really add to their ability to pay attention and recall the conversation. In addition, offering a view of your surroundings may provide an added sense of familiarity and comfort. And, don’t miss this chance to see their physical condition and environment. This information can really help you in your conversation as well as awareness of their needs.
+
+## Produce and Share a Video Message
+
+This state of loneliness can be improved during a phone call or personal visit, but then we must say goodbye. Consider instead how your message of love and concern can extend beyond by creating a heartfelt video message. Your senior may enjoy watching this message often, returning to their warm feelings and memories. One innovative company, [Heirloom](https://sendheirloom.com/), now offers a very simple no-tech way for your senior to view a video-playing book. Your recipient opens the book and your video instantly plays. They can watch and re-watch often, and the device is easily rechargeable. No internet connection or technology at all is required. If they can open a greeting card, they can open a card that plays videos of people they love. 
+
+## Share Something
+
+A feeling of connectedness to others may stem from a shared experience. Consider how you can create a link, or rekindle a past one, with your senior. She or he may no longer be able to cook from scratch, but their memories and skills may remain in focus. Consider asking them to share a few of those recipes that have made her famous. During chats you can ask about special tips and tricks she has for her perfect pie crust. Perhaps she wants to recall the kitchen gadgets she used during those simpler times. This encouragement to share and show value in her past accomplishments can provide that needed link that proves she is not isolated, at least not in your shared memories and present needs. This type of dialogue can produce that very needed sense of purpose. 
+
+## Skip a Generation, or Two
+
+Our younger generations offer a vitality, lust for life, in almost every word spoken. Imagine the power of a conversation with a young person, describing their everyday life. Consider how your family can encourage your senior’s grandchildren and beyond to see how their joyful and repeated contact with grandparents can enrich everyone’s life. They may find some common interests to discuss, learning about their elder’s pretty similar struggles to make the baseball team or asking a girl out on a date. And, the child may never find a more patient and encouraging homework helper. While the subject matter may be a struggle for some (don’t ask me to help with calculus homework, ever), the time spent offering the child a few friendly tips may do wonders. Grandparents may offer suggestions for an interview paper, a book report or even participate in a video project. Just start the connection. These intergenerational relationships can last a lifetime, actually two lifetimes.
+
+## Volunteer Service, Good for Seniors
+
+We may consider the act of volunteer service to require a substantial amount of energy and alertness, along with transportation and certain skills. Not only is this not so, the reality is oh so bright. Seniors who obtain and sustain meaningful volunteer activities receive personal benefits that range from physical activity to brain stimulation, all beneficial for overall health. In addition, these activities can reduce or diminish their feelings of loneliness. The goal is to find meaningful volunteer service that is within the senior’s level of ability, accessible and brings benefits of friendships and service. Local senior centers are often a good place to start, inquiring about both onsite and virtual events. Online tools, such as AARP’s free [Create the Good](https://createthegood.aarp.org/) lists thousands of volunteer service events posted by local and national organizations. In addition, we can help our seniors and ourselves develop service projects, starting with great ideas on the Create the Good’s Do-It-Yourself listings. Much like supporting their grand and great-grandchildren’s school work, seniors can find high value in their efforts to teach reading to the young, including long-distance.
+
+## Pet Adoption, a New Source of Purpose
+
+While not for everyone, the adoption of a new furry family member may be a good option for many seniors. Research and [support organizations](https://www.petsfortheelderly.org/) have documented that the act of caring for a pet can provide needed physical and mental benefits. Pet owners give and receive the loving, unconditional bonds, literally triggering a brain response that positively [effects mood](https://www.agingcare.com/articles/benefits-of-elderly-owning-pets-113294.htm). Pet care can positively contribute to the senior’s active lifestyle and may increase their social interaction (think pet playdates). Additionally, the required tasks of keeping their pet healthy and happy can only add to one’s sense of purpose, a direct opposite from the sense of living lonely. And, if they can’t quite care for a living animal, there is an innovative company called [Joy For All](https://joyforall.com/) aimed to “bring comfort, companionship, and fun to elder loved ones' ' through their robotic pets. 
+
+## Perhaps Technology Can Help
+
+Consider how your everyday tasks are assisted with every new piece of technology you acquire. Yes, some tasks are great to surrender in this way (think dishwashing) and others may actually leave you missing the pleasure (think watering your lawn). Broadening your point of reference, consider how your senior, possibly suffering from loneliness, may actually benefit from some devices, as long as they are not accompanied by frustration. Some technology offers the realistic potential of making your [senior’s life safer](https://www.seniorlink.com/blog/my-loved-one-is-lonely-how-can-i-help), easier, brighter, and even more friendly. My elderly mother simply could not operate a smartphone. Hers seemed to break after, or even before, every attempted call. However, she wears her safety alert button every hour of every day, commenting often about its purpose. Senior-focused cellular phones remove many barriers, such as vision (larger buttons), hearing (louder rings), and memory (programmed numbers). 
+
+Not much new here. Most of the information and suggestions offered above you already do, and do well. You call your friends, share life experiences with many generations, enjoy life in the tech-world, and provide direct care to many people and often pets. You are a proven expert at all these behaviors, and a proven recipient of their contributions to your quality of life. The suggestion is to provide your special seniors with these gifts of attention, time, value and purpose. And, in doing so, each future contact will return gifts to yourself.  Such a deal, such a purpose.
