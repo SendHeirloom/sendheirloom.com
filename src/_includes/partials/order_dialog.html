@@ -854,6 +854,7 @@ input:checked + div.checkbox-replacement svg {
   }
 
   function initPayment(){
+    // var stripe = Stripe("pk_test_51JPwtdAHAhN8nuhgoOcZtasegdGpbhZMlCKPdmFy5TxDpVhtMIIDLlu3uZdvi5MoNH7JXsKC3LkstaKHN9cQRfxL000gpQa6U7");
     var stripe = Stripe("pk_live_51JPwtdAHAhN8nuhgn3MvHmOe3dya0HLjA8UH1PuvF83vWQfG2vjscPXl07fnca1GOqSrjMP0DxNJ6zorBnvn39We00UF94fL3X");
 
     const quantity = +(qtyField.value) || +params['qty']
