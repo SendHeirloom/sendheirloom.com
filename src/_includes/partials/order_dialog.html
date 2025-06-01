@@ -63,6 +63,40 @@
       </form>
     </div>
 
+    <div step="booktype">
+      <p class="Dialog--subtitle">What size display would you like in your video book?</p>
+
+      <form dialog-form>
+        <div class="Dialog--content" dialog-content>
+          <div class="Stack">
+            <div class="FormField">
+              <div class="grid gap-4">
+                <label class="cursor-pointer text-sm">
+                  <input type="radio" name="booktype" value="five_inch" class="sr-only peer" checked="checked" />
+                  <div class="block p-2 bg-gray-100 border border-blue-100 peer-checked:bg-gray-200 peer-checked:border-blue-500">
+                    <span class="font-bold">5" display</span>
+                    <span>included</span>
+                  </div>
+                </label>
+                <label class="cursor-pointer text-sm">
+                  <input type="radio" name="booktype" value="seven_inch" class="sr-only peer" />
+                  <div class="block p-2 bg-gray-100	border border-blue-100 peer-checked:bg-gray-200 peer-checked:border-blue-500">
+                    <span class="font-bold">7" display</span>
+                    <span>+$29</span>
+                  </div>
+                </label>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="Dialog--output mb-2 bg-red-200" dialog-output></div>
+
+        <div class="Dialog--actions">
+          <button class="Button Button-is-bordered Button-is-primary" type="submit" dialog-submit>Next</button>
+        </div>
+      </form>
+    </div>
+
     <div step="duration">
       <p class="Dialog--subtitle">Perfect! How much video would you like to include? We have different video book sizes which fit up to a full hour.</p>
 
@@ -127,6 +161,7 @@
             <div>
               Purchase <a class="Link" data-action="change-quantity"><output class="quantity"></output></a>
               &nbsp;<output class="duration"></output>&nbsp;video book<span if-qty-greater-than-one hidden>s</span>
+              with a&nbsp;<output class="booktype"></output>&nbsp;display
               (<output class="unit-price"></output>&nbsp;+ $5 shipping<span if-qty-greater-than-one hidden> each</span>)
               for a total of&nbsp;<output class="total-price"></output>.
             </div>
@@ -327,6 +362,9 @@ input:checked + div.checkbox-replacement svg {
   const durStep = dialogEl.querySelector('[step="duration"]')
   const durForm = durStep.querySelector('form')
 
+  const typeStep = dialogEl.querySelector('[step="booktype"]')
+  const typeForm = typeStep.querySelector('form')
+
   const thanksStep = dialogEl.querySelector('[step="thanks"]')
   const thanksAction = thanksStep.querySelector('[when-link-loaded]')
   const thanksButton = thanksAction.querySelector('[dialog-submit]')
@@ -356,7 +394,6 @@ input:checked + div.checkbox-replacement svg {
 
   emailField.value = localStorage.customerEmailAddress || ''
 
-  const cost = 49
   const shippingCost = 5
   const shippingSpeed = 'economy'
   let discountCode = null
@@ -668,7 +705,21 @@ input:checked + div.checkbox-replacement svg {
   qtyForm.addEventListener('submit', async function(e){
     e.preventDefault()
 
-    if (params['duration']){
+    if (params['booktype']){
+      if (params['duration']) {
+        setStep('pay')
+      } else {
+        setStep('duration')
+      }
+    } else {
+      setStep('booktype')
+    }
+  })
+
+  typeForm.addEventListener('submit', async function(e){
+    e.preventDefault()
+
+    if (params['duration']) {
       setStep('pay')
     } else {
       setStep('duration')
@@ -688,7 +739,7 @@ input:checked + div.checkbox-replacement svg {
     const randomId = Math.random().toString()
 
     fbq('track', 'InitiateCheckout', {}, {eventID: randomId})
-    fbTrack('InitiateCheckout', {quantity: qty, email, id: randomId, contentName: "Video Book " + getDuration() + " min"})
+    fbTrack('InitiateCheckout', {quantity: qty, email, id: randomId, contentName: "Video Book " + getDuration() + " min " + getBookType()});
 
     // Google Ads Begin Checkout Event
     gtag('event', 'conversion', {
@@ -736,8 +787,17 @@ input:checked + div.checkbox-replacement svg {
     return +(params['duration'] || document.querySelector('input[name="duration"]:checked').value)
   }
 
+  function getBookType() {
+    return params['booktype'] || document.querySelector('input[name="booktype"]:checked').value || 'five_inch'
+  }
+
   function getCost() {
     const duration = getDuration()
+    const bookType = getBookType()
+    let cost = 49
+    if (bookType === "seven_inch") {
+      cost += 29
+    }
     if (duration === 20) {
       return cost + 20
     } else if (duration === 60) {
@@ -749,6 +809,7 @@ input:checked + div.checkbox-replacement svg {
   function renderCosts(unitPrice, totalPrice) {
     const quantity = +(qtyField.value) || 1
     const duration = getDuration()
+    const bookType = getBookType()
 
     const localCost = getCost()
     const savings = localCost - unitPrice
@@ -770,6 +831,12 @@ input:checked + div.checkbox-replacement svg {
     }
     payStep.querySelectorAll('output.duration').forEach(el => el.textContent = friendlyDuration)
 
+    let friendlyBookType = "5\"";
+    if (bookType === "seven_inch") {
+        friendlyBookType = "7\"";
+    }
+    payStep.querySelectorAll('output.booktype').forEach(el => el.textContent = friendlyBookType);
+
     renderGreaters(quantity)
   }
 
@@ -787,12 +854,12 @@ input:checked + div.checkbox-replacement svg {
   }
 
   function initPayment(){
-    // var stripe = Stripe("pk_test_51JPwtdAHAhN8nuhgoOcZtasegdGpbhZMlCKPdmFy5TxDpVhtMIIDLlu3uZdvi5MoNH7JXsKC3LkstaKHN9cQRfxL000gpQa6U7");
     var stripe = Stripe("pk_live_51JPwtdAHAhN8nuhgn3MvHmOe3dya0HLjA8UH1PuvF83vWQfG2vjscPXl07fnca1GOqSrjMP0DxNJ6zorBnvn39We00UF94fL3X");
 
     const quantity = +(qtyField.value) || +params['qty']
     const email = emailField.value || params['email']
     const duration = getDuration()
+    const bookType = getBookType()
 
     if (!email) {
       return
@@ -827,6 +894,7 @@ input:checked + div.checkbox-replacement svg {
         discountId: discountCode || '',
         duration,
         shippingSpeed,
+        bookType
         // referral
       }),
       signal,
