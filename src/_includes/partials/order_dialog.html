@@ -145,7 +145,7 @@
       <div class="Dialog--actions">
         <div when-link-loaded hidden>
           <p class="Dialog--content mb-2 font-bold">
-            Ready? Start building your <span if-qty-greater-than-one hidden>first</span> video book:
+            Ready? Start building your <span if-qty="plural:show">first</span> video book:
           </p>
           <a class="Button Button-is-bordered Button-is-primary m-auto block" dialog-submit>Go to Book Builder</a>
         </div>
@@ -160,9 +160,9 @@
           <div class="Stack">
             <div>
               Purchase <a class="Link" data-action="change-quantity"><output class="quantity"></output></a>
-              &nbsp;<output class="duration"></output>&nbsp;video book<span if-qty-greater-than-one hidden>s</span>
-              with a&nbsp;<output class="booktype"></output>&nbsp;display
-              (<output class="unit-price"></output>&nbsp;+ $5 shipping<span if-qty-greater-than-one hidden> each</span>)
+              &nbsp;<output class="duration"></output>&nbsp;video book<span if-qty="plural:show">s</span>
+              with <span if-qty="plural:hide">a&nbsp;</span><output class="booktype"></output>&nbsp;display<span if-qty="plural:show">s</span>
+              (<output class="unit-price"></output>&nbsp;+ $5 shipping<span if-qty="plural:show"> each</span>)
               for a total of&nbsp;<output class="total-price"></output>.
             </div>
 
@@ -175,7 +175,7 @@
 
             <div class="text-xs my-2">Immediately after your purchase, you will be sent a link to begin building your video book.</div>
 
-            <div class="text-xs mt-2">Express shipping options will be available when you build your video book<span if-qty-greater-than-one hidden>s</span>. Order with confidence, we have a no-questions-asked full refund policy. <a class="Link" data-action="apply-discount">Apply discount code.</a></div>
+            <div class="text-xs mt-2">Express shipping options will be available when you build your video book<span if-qty="plural:show">s</span>. Order with confidence, we have a no-questions-asked full refund policy. <a class="Link" data-action="apply-discount">Apply discount code.</a></div>
             <div class="pay-discount-section mt-3 flex" hidden>
               <label class="w-8/12 mr-2 text-xs">
                 Discount code
@@ -381,7 +381,6 @@ input:checked + div.checkbox-replacement svg {
   const payDiscountInput = payDiscountSection.querySelector('input[name="discount-code"]')
 
   const closeButton = dialogEl.querySelector('[dialog-close]')
-  const greaters = dialogEl.querySelectorAll('[if-qty-greater-than-one]')
 
   let lastPaymentInit = null
   let lastPaymentReq = null
@@ -550,10 +549,12 @@ input:checked + div.checkbox-replacement svg {
     dialog.close()
   }
 
-  function renderGreaters(qty){
-    for (let i=greaters.length; i--;){
-      greaters[i].hidden = (qty <= 1)
-    }
+  function renderGreaters(qty) {
+    const isPlural = qty > 1;
+    dialogEl.querySelectorAll('[if-qty]').forEach(el => {
+      const action = el.getAttribute('if-qty').split(':')[1];
+      el.hidden = (action === 'show') ? !isPlural : isPlural;
+    });
   }
 
   function checkForLink(orderId, verification) {
