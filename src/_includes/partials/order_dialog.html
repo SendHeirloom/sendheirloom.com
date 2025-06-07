@@ -75,14 +75,14 @@
                   <input type="radio" name="booktype" value="five_inch" class="sr-only peer" checked="checked" />
                   <div class="block p-2 bg-gray-100 border border-blue-100 peer-checked:bg-gray-200 peer-checked:border-blue-500">
                     <span class="font-bold">5" display</span>
-                    <span>included</span>
+                    <span>$49</span>
                   </div>
                 </label>
                 <label class="cursor-pointer text-sm">
                   <input type="radio" name="booktype" value="seven_inch" class="sr-only peer" />
                   <div class="block p-2 bg-gray-100	border border-blue-100 peer-checked:bg-gray-200 peer-checked:border-blue-500">
                     <span class="font-bold">7" display</span>
-                    <span>+$29</span>
+                    <span>$78</span>
                   </div>
                 </label>
               </div>
@@ -868,7 +868,7 @@ input:checked + div.checkbox-replacement svg {
     }
 
     // Only load the payment once for each set of configuration
-    const values = quantity + "|" + email + "|" + discountCode + "|" + duration
+    const values = quantity + "|" + email + "|" + discountCode + "|" + duration + "|" + bookType
     if (values === lastPaymentInit) {
       return
     }
