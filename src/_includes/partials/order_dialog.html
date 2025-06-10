@@ -160,9 +160,10 @@
           <div class="Stack">
             <div>
               Purchase <a class="Link" data-action="change-quantity"><output class="quantity"></output></a>
-              &nbsp;<output class="duration"></output>&nbsp;video book<span if-qty="plural:show">s</span>
+              &nbsp;video book<span if-qty="plural:show">s</span>
               with <span if-qty="plural:hide">a&nbsp;</span><output class="booktype"></output>&nbsp;display<span if-qty="plural:show">s</span>
-              (<output class="unit-price"></output>&nbsp;+ $5 shipping<span if-qty="plural:show"> each</span>)
+              (<output class='booktype-price'></output><output class='perunit-savings'></output>)
+              that hold<span if-qty="plural:hide">s</span> up to&nbsp;<output class="duration"></output>&nbsp;and shipping (+$5<span if-qty="plural:show"> each</span>)
               for a total of&nbsp;<output class="total-price"></output>.
             </div>
 
@@ -814,6 +815,8 @@ input:checked + div.checkbox-replacement svg {
 
     const localCost = getCost()
     const savings = localCost - unitPrice
+    const bookTypePrice = bookType === "seven_inch" ? 78 : 49
+    const perUnitAfterSavings = bookTypePrice - savings
 
     let priceOut = "$" + round(totalPrice)
     if (savings  > 0) {
@@ -823,12 +826,14 @@ input:checked + div.checkbox-replacement svg {
     payStep.querySelectorAll('output.total-price').forEach(el => el.textContent = priceOut)
     payStep.querySelectorAll('output.unit-price').forEach(el => el.textContent = "$" + localCost)
     payStep.querySelectorAll('output.quantity').forEach(el => el.textContent = quantity)
+    payStep.querySelectorAll('output.booktype-price').forEach(el => el.textContent = "$" + bookTypePrice)
+    payStep.querySelectorAll('output.perunit-savings').forEach(el => el.textContent = savings > 0 ? " - $" + round(savings) + " = $" + perUnitAfterSavings : "");
 
-    let friendlyDuration = "ten minute"
+    let friendlyDuration = "ten minutes"
     if (duration === 20) {
-      friendlyDuration = "twenty minute"
+      friendlyDuration = "twenty minutes (+$20)"
     } else if (duration === 60) {
-      friendlyDuration = "one hour"
+      friendlyDuration = "one hour (+$40)"
     }
     payStep.querySelectorAll('output.duration').forEach(el => el.textContent = friendlyDuration)
 
