@@ -39,4 +39,28 @@
   }
   
   initMobileHeader()
+
+  document.addEventListener('DOMContentLoaded', function () {
+    const toggles = document.querySelectorAll('.Header-nested--toggle');
+
+    toggles.forEach(toggle => {
+      toggle.addEventListener('change', function () {
+        if (this.checked) {
+          toggles.forEach(otherToggle => {
+            if (otherToggle !== this) {
+              otherToggle.checked = false;
+            }
+          });
+        }
+      });
+    });
+    document.addEventListener('click', function (e) {
+      const isMenuClick = e.target.closest('.Header-links--menu');
+      if (!isMenuClick) {
+        toggles.forEach(toggle => toggle.checked = false);
+      }
+    });
+  });
+
+  
 })()

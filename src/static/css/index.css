@@ -267,6 +267,9 @@ span.line--pink::after {
   text-align: center;
   font-size: 20px;
 }
+.MailAVideoCard--buttons .Button-is-primary {
+  margin-right: 1em;
+}
 
 .MailAVideoCard--system-note {
   margin: 0;
@@ -298,7 +301,7 @@ span.line--pink::after {
 .GrandmaHandsSectionVideoMockup--content-accompanying-text {
   position: absolute;
   top: 5%;
-  right: 5%;
+  right: 0;
   left: auto;
 }
 
@@ -485,42 +488,93 @@ span.line--pink::after {
   }
 }
 
-.Custom-printed-covers h2,
-.Custom-printed-covers h3 {
-  text-transform: uppercase;
-
-}
-.Custom-printed-covers h2.capitalize {
-  text-transform: capitalize;
-}
 .Custom-printed-covers h2 {
+  text-transform: uppercase;
+  color: rgba(var(--color-rgb), .3);
   font-family: var(--sans-serif-font-family);
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 .Custom-printed-covers h3 {
   color: #db3e58;
-  font-size: 3em;
+  font-size: 2.2em;
   font-weight: 600;
   letter-spacing: 3px;
+  text-transform: capitalize;
 }
 
-@media (max-width: 1081px) {
+/*@media (max-width: 1081px) {*/
+/*  .Custom-printed-covers h2 {*/
+/*    font-size: 1.8em;*/
+/*  }*/
+
+/*  .Custom-printed-covers h3 {*/
+/*    font-size: 2em;*/
+/*  }*/
+/*}*/
+@media (max-width: 550px) {
   .Custom-printed-covers h2 {
-    font-size: 1.8em;
+    font-size: 1.2em;
   }
-
   .Custom-printed-covers h3 {
-    font-size: 2em;
-  }
-}
-@media (max-width: 500px) {
-  .Custom-printed-covers h2,
-  .Custom-printed-covers h3 {
-    letter-spacing: initial;
+    font-size: 1.4em;
   }
 }
 
+
+@media (min-width: 961px) {
+  .How-it-works {
+    padding-top: 6em;
+    padding-bottom: 6em;
+  }
+  .How-it-works .Illustration {
+    position: relative;
+    transform: scale(1.6) translateX(-60px);
+  }
+}
+@media (min-width: 1201px) {
+  .How-it-works .Illustration {
+    transform: scale(1.6) translateX(-110px);
+  }
+}
+
+.How-it-works .List-steps {
+  margin-top: 60px;
+}
+.How-it-works .List-steps li {
+  position: relative;
+}
+.How-it-works .List-steps li:not(:last-child) {
+  margin-bottom: 60px;
+}
+
+.How-it-works .List-steps svg ~ div {
+  margin-top: -30px;
+}
+  
+.How-it-works .step {
+  font-size: 14px;
+  position: absolute;
+  padding: 3px 13px;
+  color: #fff;
+  background: var(--primary-color);
+  border-radius: 35px;
+  transform: scale(.8);
+  top: -25px;
+  left: -5px;
+}
+@media (max-width: 360px) {
+  .How-it-works .step {
+    left: -20px;
+  }
+}
+
+
+.How-it-works .step-1-li svg,
+.How-it-works .step-3-li svg {
+  position: relative;
+  left: -3px;
+}
 .How-it-works .Illustration {
   position: relative;
 }
@@ -639,7 +693,9 @@ span.line--pink::after {
 .Gift-box .TwoUp--illustration {
   width: 30em;
   padding: 0 2.5em;
-
+}
+.Gift-box .TwoUp--illustration img {
+  border-radius: 1em;
 }
 .Gift-image {
   max-width: 19em;
@@ -649,12 +705,57 @@ span.line--pink::after {
   font-weight: 500;
 }
 .Gift-box .TwoUp--content-h2 {
-  padding: 0 1em;
+  /*padding: 0 1em;*/
   line-height: 1;
   margin-bottom: .3em;
-  max-width: 6em;
+  max-width: 8em;
   margin-left: auto;
   margin-right: auto;
+}
+
+
+.Whats-video-book .TwoUp--illustration {
+border-radius: 1em;
+overflow: hidden;
+}
+
+.Whats-video-book .list-with-hearts,
+.list-with-hearts {
+padding-left: 0;
+}
+.list-with-hearts li {
+list-style: none;
+}
+.list-with-hearts li:before {
+content : "❥";
+color: var(--primary-color);
+margin-right: .6em;
+transform: scale(.8);
+display: inline-block;
+}
+
+@media( min-width: 961px ) {
+.Whats-video-book {
+  padding-top: 8em;
+  padding-bottom: 8em;
+}
+
+.Whats-video-book .color-heading-grey {
+  margin-top: 1.5em;
+  margin-bottom: .5em;
+}
+.Whats-video-book .ButtonGroup {
+  margin-top: 1.5em;
+}
+}
+
+.color-heading-grey {
+color: #928e8c;
+}
+
+
+.list-with-circles li {
+list-style: circle;
 }
 
 @media( max-width: 960px ) {
@@ -929,6 +1030,9 @@ body .TwoUp--content-h4 {
   list-style: none;
   width:50%;
   display: inline-block;
+}
+.AboutDesign ul:nth-of-type(1) {
+  padding-left: 0;
 }
 
 @media (min-width: 961px) {
@@ -1473,7 +1577,7 @@ body .TwoUp--content-h4 {
 .VideoWithPlayButton:after {
   content: '';
   display: block;
-  background: url('data:image/svg+xml;utf8,<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 481 481" style="enable-background:new 0 0 481 481;" xml:space="preserve"><g><g><path fill="%23fff" d="M410.6,70.4C365.1,25,304.7,0,240.5,0S115.9,25,70.4,70.4C25,115.9,0,176.3,0,240.5s25,124.6,70.4,170.1C115.8,456,176.2,481,240.5,481s124.6-25,170.1-70.4C456,365.2,481,304.8,481,240.5S456,115.9,410.6,70.4z M240.5,454C122.8,454,27,358.2,27,240.5S122.8,27,240.5,27S454,122.8,454,240.5S358.2,454,240.5,454z"/><path fill="%23fff" d="M349.2,229.1l-152.6-97.9c-4.2-2.7-9.4-2.9-13.8-0.5c-4.3,2.4-7,6.9-7,11.8v195.7c0,4.9,2.7,9.5,7,11.8c2,1.1,4.3,1.7,6.5,1.7c2.5,0,5.1-0.7,7.3-2.1l152.6-97.9c3.9-2.5,6.2-6.8,6.2-11.4S353,231.6,349.2,229.1z M202.8,313.7V167.3l114.1,73.2L202.8,313.7z"/></g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>');
+  background-image: url('data:image/svg+xml;utf8,<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 481 481" style="enable-background:new 0 0 481 481;" xml:space="preserve"><g><g><path fill="%23fff" d="M410.6,70.4C365.1,25,304.7,0,240.5,0S115.9,25,70.4,70.4C25,115.9,0,176.3,0,240.5s25,124.6,70.4,170.1C115.8,456,176.2,481,240.5,481s124.6-25,170.1-70.4C456,365.2,481,304.8,481,240.5S456,115.9,410.6,70.4z M240.5,454C122.8,454,27,358.2,27,240.5S122.8,27,240.5,27S454,122.8,454,240.5S358.2,454,240.5,454z"/><path fill="%23fff" d="M349.2,229.1l-152.6-97.9c-4.2-2.7-9.4-2.9-13.8-0.5c-4.3,2.4-7,6.9-7,11.8v195.7c0,4.9,2.7,9.5,7,11.8c2,1.1,4.3,1.7,6.5,1.7c2.5,0,5.1-0.7,7.3-2.1l152.6-97.9c3.9-2.5,6.2-6.8,6.2-11.4S353,231.6,349.2,229.1z M202.8,313.7V167.3l114.1,73.2L202.8,313.7z"/></g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>');
   position: absolute;
   top: 50%;
   left: 50%;
@@ -1692,37 +1796,67 @@ body .TwoUp--content-h4 {
 }
 
 /* Customer Video Books --start */
+.Holidays-Books .customerVideoBooks {
+  max-width: 1800px;
+  width: 100vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media (max-width: 1300px) {
+  .Holidays-Books .customerVideoBooks {
+    width: 100%;
+  }  
+}
 .customerVideoBook {
   box-sizing: border-box;
   position: relative;
   margin-bottom: 1%;
+  flex: 1;
 }
-.customerVideoBook--image {
-  border: 10px solid #6396a6;
+
+.Holidays-Books .TwoUp--content-h2 {
+  color: #6c6768;
+  font-weight: 600;
+  margin-bottom: 2em;
 }
+
+.Holidays-Books {
+  background: linear-gradient(to bottom, #f1f0f0, #fff);
+}
+
+.Holidays-Books .customerVideoBook .VideoWithPlayButton:after {
+  top: 100%;
+  background-color: #797070;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
 .customerVideoBook--type {
   display: inline-block;
-  background-color: #6396a6;
   position: absolute;
-  left: 0;
-  bottom: 0;
+  left: 50%;
+  top: -40px;
+  transform: translateX(-50%);
   z-index: 10;
   padding: 10px 15px;
+  text-transform: capitalize;
   line-height: 1;
-  color: #fff;
+  color: #000;
   font-weight: normal;
   min-width: 48%;
   text-align: center;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1300px) {
   .customerVideoBook {
-    margin-bottom: 2%;
+    flex: 0 0 25%;
+    margin-bottom: 4em;
   }
 }
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   .customerVideoBook {
-    flex: 0 0 49% !important;
+    flex: 0 0 50% !important;
   }
 }
 @media (max-width: 450px) {
@@ -1794,17 +1928,30 @@ body .TwoUp--content-h4 {
 .Free-trial-section {
   background: #efe0d1;
   text-align: center;
-  padding: 3em 0;
+  padding: 4em 0;
 }
 
 .Free-trial-section--button {
-  margin-top: 1em;
+  font-size: 1.5em;
+  margin-bottom: 1em;
 }
 .Free-trial-section--header {
   margin-bottom: .5em;
   position: relative;
   display: inline-block;
+  letter-spacing: -.03em;
 }
+.Free-trial-section--header em {
+  transform: skew(5.4deg, 0deg);
+}
+
+.Free-trial-section--header svg {
+  transform: rotate(-25deg);
+}
+.Free-trial-section--header g {
+  transform: scale(1.2) translate(-27.6px, -15px);
+}
+
 .Free-trial-section--header--icon {
   position: absolute;
   top: -50px;
@@ -1823,7 +1970,18 @@ body .TwoUp--content-h4 {
   margin-left: 1em;
   margin-right: 1em;
 }
-
+.Free-trial-section .list-with-circles {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    font-size: .8em;
+}
+@media (min-width: 768px) {
+  .Free-trial-section .list-with-circles {
+    transform: translateX(100px);
+  }
+}
 .p-relative {
   position: relative;
 }
