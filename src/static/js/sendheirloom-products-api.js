@@ -36,6 +36,8 @@ async function sendheirloomGetAndShowCovers() {
       }
 
       const covers = result.data.stock.books[0].covers
+      
+      console.log(covers)
 
       covers.sort((a, b) => {
         if (!a.metadata || !a.metadata.sortOrder) {
@@ -50,7 +52,10 @@ async function sendheirloomGetAndShowCovers() {
 
       let html = '';
       covers.forEach(cover => {
-        html += '<div class="product__item scale-on-hover-desktop"><div class="product__item__inner" style="background-image: url(' + cover.images[0].trim().replace(" ", "%20") + ')"></div></div>'
+        const imgUrl = cover.images[0].trim().replace(" ", "%20");
+        if( imgUrl ) {
+          html += '<div class="product__item scale-on-hover-desktop"><div class="product__item__inner" style="background-image: url(' + cover.images[0].trim().replace(" ", "%20") + ')"></div></div>'
+        }
       })
       document.getElementById('products-container').innerHTML = html;
     });

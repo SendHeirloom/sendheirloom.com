@@ -7,7 +7,9 @@ body.mobile-menu-opened {
   overflow: hidden;
   height: 100vh;
 }
-
+.opacity-50 {
+  opacity: .5
+}
 .Column {
   margin: 0 auto;
   width: var(--column-width);
@@ -185,6 +187,12 @@ ul.List-steps {
 .Pricing {
   font-size: .85em;
 }
+.Pricing .shipping-text {
+  color: #564e4f;
+  font-size: .9em;
+  position: relative;
+  top: 1px;
+}
 
 @media (max-width: 768px) {
   .Pricing {
@@ -203,9 +211,9 @@ ul.List-steps {
   text-align: center;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1440px) {
   .MailAVideoCard {
-    margin-bottom: 2em;
+    margin-bottom: 1em;
   }
 }
 
@@ -266,6 +274,18 @@ span.line--pink::after {
   margin: 1.5em 0 .5em;
   text-align: center;
   font-size: 20px;
+  
+}
+
+@media (min-width: 432px) {
+  .MailAVideoCard--buttons {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+  }
+}
+.MailAVideoCard--buttons .Button-is-primary {
+  margin-right: 1em;
 }
 
 .MailAVideoCard--system-note {
@@ -276,6 +296,11 @@ span.line--pink::after {
 
 .GrandmaHandsSection {
   padding-top: 2em;
+}
+@media (max-width: 1440px) {
+  .GrandmaHandsSection {
+    padding-top: 0;
+  }
 }
 
 
@@ -298,7 +323,7 @@ span.line--pink::after {
 .GrandmaHandsSectionVideoMockup--content-accompanying-text {
   position: absolute;
   top: 5%;
-  right: 5%;
+  right: 64px;
   left: auto;
 }
 
@@ -351,10 +376,22 @@ span.line--pink::after {
     margin-left: 0;
   }
 }
+
+/*@media (max-width: 1440px) {*/
+/*  .GrandmaHandsSectionVideoMockup--content-inner {*/
+/*    width: 75%;*/
+/*    margin-left: 0;*/
+/*  }*/
+/*}*/
 @media (max-width: 650px) {
   .GrandmaHandsSectionVideoMockup--content-inner {
     width: 150%;
     margin-left: -50%;
+  }
+}
+@media (max-width: 437px) {
+  .GrandmaHandsSection .Button-is-primary {
+    margin-bottom: 1em;
   }
 }
 
@@ -485,42 +522,99 @@ span.line--pink::after {
   }
 }
 
-.Custom-printed-covers h2,
-.Custom-printed-covers h3 {
-  text-transform: uppercase;
-
-}
-.Custom-printed-covers h2.capitalize {
-  text-transform: capitalize;
-}
 .Custom-printed-covers h2 {
+  text-transform: uppercase;
+  color: rgba(var(--color-rgb), .3);
   font-family: var(--sans-serif-font-family);
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 .Custom-printed-covers h3 {
   color: #db3e58;
-  font-size: 3em;
+  font-size: 2.2em;
   font-weight: 600;
   letter-spacing: 3px;
+  text-transform: capitalize;
 }
 
-@media (max-width: 1081px) {
+/*@media (max-width: 1081px) {*/
+/*  .Custom-printed-covers h2 {*/
+/*    font-size: 1.8em;*/
+/*  }*/
+
+/*  .Custom-printed-covers h3 {*/
+/*    font-size: 2em;*/
+/*  }*/
+/*}*/
+@media (max-width: 550px) {
   .Custom-printed-covers h2 {
-    font-size: 1.8em;
+    font-size: 1.2em;
   }
-
   .Custom-printed-covers h3 {
-    font-size: 2em;
-  }
-}
-@media (max-width: 500px) {
-  .Custom-printed-covers h2,
-  .Custom-printed-covers h3 {
-    letter-spacing: initial;
+    font-size: 1.4em;
   }
 }
 
+
+@media (min-width: 961px) {
+  .How-it-works {
+    padding-top: 6em;
+    padding-bottom: 6em;
+  }
+  .How-it-works .Illustration {
+    position: relative;
+    transform: scale(1.6) translateX(-60px);
+  }
+}
+@media (min-width: 1201px) {
+  .How-it-works .Illustration {
+    transform: scale(1.6) translateX(-110px);
+  }
+}
+
+.How-it-works .List-steps {
+  margin-top: 60px;
+}
+.How-it-works .List-steps li {
+  position: relative;
+}
+.How-it-works .List-steps li:not(:last-child) {
+  margin-bottom: 60px;
+}
+
+.How-it-works .List-steps svg ~ div {
+  margin-top: -30px;
+}
+  
+.How-it-works .step {
+  font-size: 14px;
+  position: absolute;
+  padding: 3px 13px;
+  color: #fff;
+  background: var(--primary-color);
+  border-radius: 35px;
+  transform: scale(.8);
+  top: -25px;
+  left: -5px;
+}
+@media (max-width: 360px) {
+  .How-it-works .step {
+    left: -20px;
+  }
+}
+
+.How-it-works .step-1-li svg {
+  position: relative;
+  left: 1px;
+}
+.How-it-works .step-2-li svg {
+  position: relative;
+  left: 5px;
+}
+.How-it-works .step-3-li svg {
+  position: relative;
+  left: 3px;
+}
 .How-it-works .Illustration {
   position: relative;
 }
@@ -639,8 +733,10 @@ span.line--pink::after {
 .Gift-box .TwoUp--illustration {
   width: 30em;
   padding: 0 2.5em;
-
 }
+/*.Gift-box .TwoUp--illustration img {*/
+/*  border-radius: 1em;*/
+/*}*/
 .Gift-image {
   max-width: 19em;
   margin: 0 auto 1.5em auto;
@@ -649,12 +745,64 @@ span.line--pink::after {
   font-weight: 500;
 }
 .Gift-box .TwoUp--content-h2 {
-  padding: 0 1em;
+  /*padding: 0 1em;*/
   line-height: 1;
   margin-bottom: .3em;
-  max-width: 6em;
+  max-width: 8em;
   margin-left: auto;
   margin-right: auto;
+}
+
+.ImageRoundedBorder {
+  border-radius: 1em;
+  overflow: hidden;
+}
+
+/*.owl-item {*/
+/*  padding-top: 1em;*/
+/*  padding-bottom: 1em;*/
+/*}*/
+
+.Whats-video-book .TwoUp--illustration {
+}
+
+.Whats-video-book .list-with-hearts,
+.list-with-hearts {
+padding-left: 0;
+}
+.list-with-hearts li {
+list-style: none;
+}
+.list-with-hearts li:before {
+content : "❥";
+color: var(--primary-color);
+margin-right: .6em;
+transform: scale(.8);
+display: inline-block;
+}
+
+@media( min-width: 961px ) {
+.Whats-video-book {
+  padding-top: 8em;
+  padding-bottom: 8em;
+}
+
+.Whats-video-book .color-heading-grey {
+  margin-top: 1.5em;
+  margin-bottom: .5em;
+}
+.Whats-video-book .ButtonGroup {
+  margin-top: 1.5em;
+}
+}
+
+.color-heading-grey {
+color: #928e8c;
+}
+
+
+.list-with-circles li {
+list-style: circle;
 }
 
 @media( max-width: 960px ) {
@@ -927,8 +1075,25 @@ body .TwoUp--content-h4 {
 
 .AboutDesign ul {
   list-style: none;
-  width:50%;
-  display: inline-block;
+}
+
+@media (max-width: 414px) {
+  .AboutDesign ul {
+    margin-bottom: .7em;
+    padding-left: 0;
+  }
+}
+@media (min-width: 415px) {
+  .AboutDesign ul {
+    list-style: none;
+    width:50%;
+    display: inline-block;
+    float: left;
+  }
+}
+
+.AboutDesign ul:nth-of-type(1) {
+  padding-left: 0;
 }
 
 @media (min-width: 961px) {
@@ -941,12 +1106,7 @@ body .TwoUp--content-h4 {
     font-size:.9em;
   }
 }
-@media (max-width: 414px) {
-  .AboutDesign ul {
-    width: 100%;
-    margin-bottom: .7em;
-  }
-}
+
 .AboutDesign ul li {
   line-height: 1;
 }
@@ -986,7 +1146,6 @@ body .TwoUp--content-h4 {
   flex-wrap: wrap;
   align-items: flex-start;
   justify-content: center;
-  margin-top: -1em;
 }
 
 .Review---wall .Review {
@@ -1000,6 +1159,15 @@ body .TwoUp--content-h4 {
     background: #fff;
   }
 }
+.Review---wall .owl-prev svg,
+.Review---wall .owl-next svg {
+  padding: .2em;
+  border-radius: .5em;
+}
+.Review---wall .owl-prev:hover svg,
+.Review---wall .owl-next:hover svg {
+    background-color: #fff;
+  }
 
 .Review {
   font-family: var(--system-font-family);
@@ -1122,6 +1290,13 @@ body .TwoUp--content-h4 {
 .owl-nav .owl-next:focus {
   outline: none;
 }
+
+.owl-nav .owl-prev svg,
+.owl-nav .owl-next svg{
+  padding: 1em;
+  border-radius: .5em;
+  width: 3.5em;
+}
 .owl-nav .owl-prev {
   margin-left: -4em;
 }
@@ -1138,6 +1313,10 @@ body .TwoUp--content-h4 {
   }
 }
 @media (max-width: 768px) {
+  .owl-nav {
+    top: -55px;
+  }
+  
   .owl-nav .owl-prev {
     margin-left: -1.8em;
   }
@@ -1289,6 +1468,19 @@ body .TwoUp--content-h4 {
 .bg-white {
   background-color: #fff;
 }
+.BigImageWrapper {
+  max-width: 62.5em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.BigImageWrapper.smaller {
+  max-width: 42em;
+}
+
+.BackgroundLightTan {
+  background-color: #f9ebdf;
+}
 .WeddingWrapper {
   max-width: 42.5em;
   margin-left: auto;
@@ -1375,9 +1567,14 @@ body .TwoUp--content-h4 {
 }
 .WeddingBookVideoMockup--video-wrapper {
   position: absolute;
-  right: 9.8%;
-  top: 26.3%;
-  width: 30%;
+  right: 7%;
+  top: 28%;
+  width: 37%;
+}
+@media (max-width: 780px) {
+  .WeddingBookVideoMockup--video-wrapper {
+    right: 5.5%;
+  }
 }
 @media (max-width: 600px) {
   .WeddingBook {
@@ -1473,7 +1670,7 @@ body .TwoUp--content-h4 {
 .VideoWithPlayButton:after {
   content: '';
   display: block;
-  background: url('data:image/svg+xml;utf8,<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 481 481" style="enable-background:new 0 0 481 481;" xml:space="preserve"><g><g><path fill="%23fff" d="M410.6,70.4C365.1,25,304.7,0,240.5,0S115.9,25,70.4,70.4C25,115.9,0,176.3,0,240.5s25,124.6,70.4,170.1C115.8,456,176.2,481,240.5,481s124.6-25,170.1-70.4C456,365.2,481,304.8,481,240.5S456,115.9,410.6,70.4z M240.5,454C122.8,454,27,358.2,27,240.5S122.8,27,240.5,27S454,122.8,454,240.5S358.2,454,240.5,454z"/><path fill="%23fff" d="M349.2,229.1l-152.6-97.9c-4.2-2.7-9.4-2.9-13.8-0.5c-4.3,2.4-7,6.9-7,11.8v195.7c0,4.9,2.7,9.5,7,11.8c2,1.1,4.3,1.7,6.5,1.7c2.5,0,5.1-0.7,7.3-2.1l152.6-97.9c3.9-2.5,6.2-6.8,6.2-11.4S353,231.6,349.2,229.1z M202.8,313.7V167.3l114.1,73.2L202.8,313.7z"/></g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>');
+  background-image: url('data:image/svg+xml;utf8,<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 481 481" style="enable-background:new 0 0 481 481;" xml:space="preserve"><g><g><path fill="%23fff" d="M410.6,70.4C365.1,25,304.7,0,240.5,0S115.9,25,70.4,70.4C25,115.9,0,176.3,0,240.5s25,124.6,70.4,170.1C115.8,456,176.2,481,240.5,481s124.6-25,170.1-70.4C456,365.2,481,304.8,481,240.5S456,115.9,410.6,70.4z M240.5,454C122.8,454,27,358.2,27,240.5S122.8,27,240.5,27S454,122.8,454,240.5S358.2,454,240.5,454z"/><path fill="%23fff" d="M349.2,229.1l-152.6-97.9c-4.2-2.7-9.4-2.9-13.8-0.5c-4.3,2.4-7,6.9-7,11.8v195.7c0,4.9,2.7,9.5,7,11.8c2,1.1,4.3,1.7,6.5,1.7c2.5,0,5.1-0.7,7.3-2.1l152.6-97.9c3.9-2.5,6.2-6.8,6.2-11.4S353,231.6,349.2,229.1z M202.8,313.7V167.3l114.1,73.2L202.8,313.7z"/></g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg>');
   position: absolute;
   top: 50%;
   left: 50%;
@@ -1617,6 +1814,11 @@ body .TwoUp--content-h4 {
 .pt-4 {
   padding-top: 1em;
 }
+
+.py-6 {
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
+}
 @media (max-width: 600px) {
   .PackagePlan {
     margin-bottom: 50px;
@@ -1692,37 +1894,67 @@ body .TwoUp--content-h4 {
 }
 
 /* Customer Video Books --start */
+.Holidays-Books .customerVideoBooks {
+  max-width: 1700px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media (max-width: 1300px) {
+  .Holidays-Books .customerVideoBooks {
+    width: 100%;
+  }  
+}
 .customerVideoBook {
   box-sizing: border-box;
   position: relative;
   margin-bottom: 1%;
+  flex: 1;
 }
-.customerVideoBook--image {
-  border: 10px solid #6396a6;
+
+.Holidays-Books .TwoUp--content-h2 {
+  color: #6c6768;
+  font-weight: 600;
+  margin-bottom: 2em;
 }
+
+.Holidays-Books {
+  background: linear-gradient(to bottom, #f1f0f0, #fff);
+}
+
+.Holidays-Books .customerVideoBook .VideoWithPlayButton:after {
+  top: 100%;
+  background-color: #797070;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+}
+
 .customerVideoBook--type {
   display: inline-block;
-  background-color: #6396a6;
   position: absolute;
-  left: 0;
-  bottom: 0;
+  left: 50%;
+  top: -40px;
+  transform: translateX(-50%);
   z-index: 10;
   padding: 10px 15px;
+  text-transform: capitalize;
   line-height: 1;
-  color: #fff;
+  color: #000;
   font-weight: normal;
   min-width: 48%;
   text-align: center;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1300px) {
   .customerVideoBook {
-    margin-bottom: 2%;
+    flex: 0 0 25%;
+    margin-bottom: 4em;
   }
 }
-@media (max-width: 600px) {
+@media (max-width: 768px) {
   .customerVideoBook {
-    flex: 0 0 49% !important;
+    flex: 0 0 50% !important;
   }
 }
 @media (max-width: 450px) {
@@ -1792,25 +2024,38 @@ body .TwoUp--content-h4 {
 }
 
 .Free-trial-section {
-  background: #efe0d1;
+  background: #f9ebdf;
   text-align: center;
-  padding: 3em 0;
+  padding: 4em 0;
 }
 
 .Free-trial-section--button {
-  margin-top: 1em;
+  font-size: 1.5em;
+  margin-bottom: 1em;
 }
 .Free-trial-section--header {
   margin-bottom: .5em;
   position: relative;
   display: inline-block;
+  letter-spacing: -.03em;
 }
+.Free-trial-section--header em {
+  transform: skew(5.4deg, 0deg);
+}
+
+.Free-trial-section--header svg {
+  transform: rotate(-25deg);
+}
+.Free-trial-section--header g {
+  transform: scale(1.2) translate(-27.6px, -15px);
+}
+
 .Free-trial-section--header--icon {
   position: absolute;
   top: -50px;
   width: 200px;
   height: auto;
-  left: -130px;
+  left: -140px;
 }
 .Free-trial-section p {
   background: #f6a79b;
@@ -1823,7 +2068,27 @@ body .TwoUp--content-h4 {
   margin-left: 1em;
   margin-right: 1em;
 }
-
+.Free-trial-section .list-with-circles {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    font-size: 1em;
+}
+@media (min-width: 769px) {
+  .Free-trial-section .list-with-circles {
+    transform: translateX(100px);
+  }
+}
+@media (max-width: 768px) {
+  .Free-trial-section .list-with-circles {
+    position: relative;
+    left: 50%;
+    transform: translateX(-45%);
+    margin-left: 0;
+    max-width: 252px;
+  }
+}
 .p-relative {
   position: relative;
 }
@@ -1855,9 +2120,9 @@ body .TwoUp--content-h4 {
   }
   .Free-trial-section--header--icon {
     top: -40px;
-    width: 150px;
+    width: 141px;
     height: auto;
-    left: -80px;
+    left: -86px;
   }
   .Free-trial-section--separator {
     display: block;
@@ -1865,10 +2130,7 @@ body .TwoUp--content-h4 {
     visibility: hidden;
   }
   .Free-trial-section--button {
-    margin-top: 2em;
-  }
-  .Free-trial-section {
-    margin-bottom: 2em;
+    margin-top: .5em;
   }
 }
 
@@ -1898,7 +2160,7 @@ body .TwoUp--content-h4 {
   position:absolute;
   bottom: 110%;
   left:50%;
-  box-shadow:0 1px 5px rgba(0,0,0,.5);
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, .1), 0 3px 14px -3px rgba(0, 0, 0, .1);
   width:230px;
   height:230px;
   padding: 5px;
@@ -1911,6 +2173,7 @@ body .TwoUp--content-h4 {
   z-index: 100;
   font-size: 15px;
   visibility: hidden;
+  border-radius: .5em;
 }
 
 .preview-on-hover__iframe iframe {
@@ -2284,3 +2547,23 @@ body .TwoUp--content-h4 {
   
 }
 
+
+.seven-inches-books .TwoUp--content-h2 {
+  margin-top: 0;
+}
+.seven-inches-books .TwoUp--illustration {
+  width: 42em;
+}
+.numbered-list {
+  list-style: auto;
+  padding-left: 1em;
+}
+
+@media (max-width: 500px) {
+  .grandma-illustration {
+    max-width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

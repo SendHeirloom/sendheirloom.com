@@ -290,6 +290,12 @@ html[is-fullscreen] body {
   transition: box-shadow .3s ease;
 }
 
+.Link.underline-bold {
+  --underline-color: rgb(151 192 202 / 57%);
+  --underline-size: .3em;
+  cursor: pointer;
+}
+
 @-moz-document url-prefix() {
   .Link:not([is-focus-visible]) {
     --focus-color: var(--background-color);
@@ -1622,4 +1628,8 @@ html[is-dialog] body {
 
 .Faq-Section p {
   font-size: 17px;
+}
+
+.clearfix {
+  clear: both;
 }
