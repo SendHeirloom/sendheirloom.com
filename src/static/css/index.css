@@ -1998,7 +1998,7 @@ body .TwoUp--content-h4 {
     margin-left: auto;
     margin-right: auto;
     text-align: left;
-    font-size: .8em;
+    font-size: 1em;
 }
 @media (min-width: 768px) {
   .Free-trial-section .list-with-circles {
