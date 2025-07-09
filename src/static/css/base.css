@@ -1629,3 +1629,7 @@ html[is-dialog] body {
 .Faq-Section p {
   font-size: 17px;
 }
+
+.clearfix {
+  clear: both;
+}
