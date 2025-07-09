@@ -1274,6 +1274,10 @@ body .TwoUp--content-h4 {
   }
 }
 @media (max-width: 768px) {
+  .owl-nav {
+    top: -55px;
+  }
+  
   .owl-nav .owl-prev {
     margin-left: -1.8em;
   }
@@ -2016,7 +2020,7 @@ body .TwoUp--content-h4 {
 }
 @media (max-width: 487px) {
   .Free-trial-section .list-with-circles {
-    padding-left: 30px;
+    padding-left: 40px;
   }
 }
 .p-relative {
@@ -2052,7 +2056,7 @@ body .TwoUp--content-h4 {
     top: -40px;
     width: 150px;
     height: auto;
-    left: -100px;
+    left: -94px;
   }
   .Free-trial-section--separator {
     display: block;
@@ -2060,7 +2064,7 @@ body .TwoUp--content-h4 {
     visibility: hidden;
   }
   .Free-trial-section--button {
-    margin-top: 2em;
+    margin-top: .5em;
   }
   .Free-trial-section {
     margin-bottom: 2em;
@@ -2480,3 +2484,20 @@ body .TwoUp--content-h4 {
   
 }
 
+
+.seven-inches-books .TwoUp--illustration {
+  width: 42em;
+}
+.numbered-list {
+  list-style: auto;
+  padding-left: 1em;
+}
+
+@media (max-width: 500px) {
+  .grandma-illustration {
+    max-width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
