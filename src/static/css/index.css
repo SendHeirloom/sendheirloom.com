@@ -274,8 +274,15 @@ span.line--pink::after {
   margin: 1.5em 0 .5em;
   text-align: center;
   font-size: 20px;
-  display: flex;
-  justify-content: center;
+  
+}
+
+@media (min-width: 432px) {
+  .MailAVideoCard--buttons {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+  }
 }
 .MailAVideoCard--buttons .Button-is-primary {
   margin-right: 1em;
@@ -1535,9 +1542,14 @@ body .TwoUp--content-h4 {
 }
 .WeddingBookVideoMockup--video-wrapper {
   position: absolute;
-  right: 9.8%;
-  top: 26.3%;
-  width: 30%;
+  right: 7%;
+  top: 28%;
+  width: 37%;
+}
+@media (max-width: 780px) {
+  .WeddingBookVideoMockup--video-wrapper {
+    right: 5.5%;
+  }
 }
 @media (max-width: 600px) {
   .WeddingBook {
@@ -1982,7 +1994,7 @@ body .TwoUp--content-h4 {
 }
 
 .Free-trial-section {
-  background: #efe0d1;
+  background: #f9ebdf;
   text-align: center;
   padding: 4em 0;
 }
@@ -2074,9 +2086,9 @@ body .TwoUp--content-h4 {
   }
   .Free-trial-section--header--icon {
     top: -40px;
-    width: 150px;
+    width: 141px;
     height: auto;
-    left: -94px;
+    left: -86px;
   }
   .Free-trial-section--separator {
     display: block;
@@ -2505,6 +2517,9 @@ body .TwoUp--content-h4 {
 }
 
 
+.seven-inches-books .TwoUp--content-h2 {
+  margin-top: 0;
+}
 .seven-inches-books .TwoUp--illustration {
   width: 42em;
 }
