@@ -211,9 +211,9 @@ ul.List-steps {
   text-align: center;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1440px) {
   .MailAVideoCard {
-    margin-bottom: 2em;
+    margin-bottom: 1em;
   }
 }
 
@@ -297,6 +297,11 @@ span.line--pink::after {
 .GrandmaHandsSection {
   padding-top: 2em;
 }
+@media (max-width: 1440px) {
+  .GrandmaHandsSection {
+    padding-top: 0;
+  }
+}
 
 
 .GrandmaHandsSectionVideoMockup {
@@ -366,6 +371,13 @@ span.line--pink::after {
 }
 
 @media (max-width: 1050px) {
+  .GrandmaHandsSectionVideoMockup--content-inner {
+    width: 75%;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 1440px) {
   .GrandmaHandsSectionVideoMockup--content-inner {
     width: 75%;
     margin-left: 0;
@@ -1456,6 +1468,15 @@ body .TwoUp--content-h4 {
 .bg-white {
   background-color: #fff;
 }
+.BigImageWrapper {
+  max-width: 62.5em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.BackgroundLightTan {
+  background-color: #f9ebdf;
+}
 .WeddingWrapper {
   max-width: 42.5em;
   margin-left: auto;
@@ -1865,8 +1886,8 @@ body .TwoUp--content-h4 {
 
 /* Customer Video Books --start */
 .Holidays-Books .customerVideoBooks {
-  max-width: 1800px;
-  width: 100vw;
+  max-width: 1700px;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -2045,14 +2066,18 @@ body .TwoUp--content-h4 {
     text-align: left;
     font-size: 1em;
 }
-@media (min-width: 768px) {
+@media (min-width: 769px) {
   .Free-trial-section .list-with-circles {
     transform: translateX(100px);
   }
 }
-@media (max-width: 487px) {
+@media (max-width: 768px) {
   .Free-trial-section .list-with-circles {
-    padding-left: 40px;
+    position: relative;
+    left: 50%;
+    transform: translateX(-45%);
+    margin-left: 0;
+    max-width: 252px;
   }
 }
 .p-relative {
@@ -2097,9 +2122,6 @@ body .TwoUp--content-h4 {
   }
   .Free-trial-section--button {
     margin-top: .5em;
-  }
-  .Free-trial-section {
-    margin-bottom: 2em;
   }
 }
 
