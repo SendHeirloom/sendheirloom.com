@@ -1474,6 +1474,10 @@ body .TwoUp--content-h4 {
   margin-right: auto;
 }
 
+.BigImageWrapper.smaller {
+  max-width: 42em;
+}
+
 .BackgroundLightTan {
   background-color: #f9ebdf;
 }
@@ -1809,6 +1813,11 @@ body .TwoUp--content-h4 {
 }
 .pt-4 {
   padding-top: 1em;
+}
+
+.py-6 {
+  padding-top: 1.5em;
+  padding-bottom: 1.5em;
 }
 @media (max-width: 600px) {
   .PackagePlan {
