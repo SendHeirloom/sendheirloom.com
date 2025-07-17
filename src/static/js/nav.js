@@ -10,8 +10,8 @@
       const menuLinks = el.getElementsByClassName('Header--links')
       if( aboveMenuHeight && menuLinks.length ) {
         menuLinks[0].style.top = aboveMenuHeight + 'px'
-      } 
-      
+      }
+      menuLinks[0].style.setProperty('--vh', `${window.innerHeight * 0.01}px`);
 
       el.classList.toggle('data-is-open')
       document.body.classList.toggle('mobile-menu-opened')
@@ -21,7 +21,6 @@
   
   const getHeightOfElementsAboveMobileMenu = () => {
     const calculateHeightElClasses = ['TopBanner', 'Header']
-    const addHeight = 20
     let heightSum = 0
 
     calculateHeightElClasses.forEach(function (className) {
@@ -31,9 +30,6 @@
       }
     })
     
-    if( heightSum > 0 ) {
-      heightSum += addHeight
-    }
     
     return heightSum
   }
