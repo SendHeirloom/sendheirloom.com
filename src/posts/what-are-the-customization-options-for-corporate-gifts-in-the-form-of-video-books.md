@@ -9,9 +9,7 @@ social_image: /static/images/og-image.jpg
 ---
 ![]()
 
-
 Get ready to wow your clients, clients, team, or partners with something to remember! your business is appreciated".
-
 
 [Heirloom Video Books ](www.sendheirloom.com)has created an exceptionally personalized way to say “thank you”,
 “welcome aboard”, and "your business is appreciated".
@@ -22,17 +20,21 @@ In the world of corporate giving, customization is paramount — and here is how
 
 **B﻿randed Covers** - Include your company logo, feature your brand colors and add custom artwork for a polished appearance. With a video book as your messenger, you will be leveraging this personalization to captivate your unique presentation.
 
-I﻿impactful Video Messages - Create a video message, sure to complete a personal connection with your directed audience.
+**Impactful Video Messages** - Create a video message, sure to complete a personal connection with your directed audience.
+
+E﻿xpand Your Audience While Entertaining - Video book formats capture a greater audience than a written letter. Your message will be enjoyed by a wide audience as the unique video book is sure to be passed around with pride.
+
+
+
+P﻿ersonalized Messages - Please a printed note inside the cove for a personal and permanent reminder.
 
 
 
 
 
-###### 
- ** r  suBranded Covers – Include your company logo, feature your brand colors and add custom
-artwork for a polished appearance. With a video book as your messenger you will be leveraging
-this personalization to captivate your unique presentation.**tsImpactful Video Messages – Create a video message, sure to complete a personal connection
-with your directed audience.
+###### E﻿xpand Your Audience - 
+
+
 **otExpand Your Audience – Video book formats capture a greater audience than a written letter.**
 moInform While Entertaining – Your message will be enjoyed by a wide audience as the
 unique video book is sure to be passed around with pride.
