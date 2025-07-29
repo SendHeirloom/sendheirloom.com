@@ -14,7 +14,7 @@ Get ready to wow your clients, clients, team, or partners with something to reme
 [Heirloom Video Books ](www.sendheirloom.com)has created an exceptionally personalized way to say “thank you”,
 “welcome aboard”, and "your business is appreciated".
 
-In the world of corporate giving, customization is paramount — and here is how we make it simple. Your audience will be captivated by the clever design and delighted they can watch a video rather than read yet another printed message.
+In the world of corporate giving, customization is paramount — and here is how we make it simple. Your audience will be captivated by the clever design and delighted they can watch a video rather than read yet another printed message. Digital messages are known for their very short life, read and clicked away. An Heirloom Video Book is tangible, literally held in each viewers hands, appreciated for its closeness and cherished for it's unique way to preserve memories.
 
 ***Compare these features with a standard written letter or invitation:***
 
@@ -39,13 +39,3 @@ M﻿arketing And Advertising: Your business can leverage a personalized video an
 H﻿eirloom Video Books feature high-definition screens, convenient side controls (play/pause, volume, fast-forward, reverse) and built in speakers. 
 
 \#﻿corporategifting #videobooks #customcorporategifts #personalizedgifts #employeeappreciation #clientgifts #heirloomvideobooks #giftideas #brandingtools #unique corporategifts
-
-
- Creates a lasting keepsake: Unlike fleeting digital content, personalized video
-books are tangible objects that can be kept and cherished for years, preserving
-memories or showcasing achievements in a unique and enduring way. 
-In essence, a personalized video book provides a unique, engaging, and
-memorable experience that standard video or print cannot replicate. It&#39;s a
-powerful tool for connecting with your audience, whether for personal or
-professional purposes, leaving a lasting impression and making your
-message truly stand out.
