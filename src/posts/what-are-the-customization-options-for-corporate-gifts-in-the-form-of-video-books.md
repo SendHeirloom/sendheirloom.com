@@ -24,7 +24,7 @@ In the world of corporate giving, customization is paramount — and here is how
 
 **E﻿xpand Your Audience While Entertaining** - Video book formats capture a greater audience than a written letter. Your message will be enjoyed by a wide audience as the unique video book is sure to be passed around with pride.
 
-M﻿arketing And Advertising: Your business can leverage a personalized video and photo book to showcase y your brand'd narratives. 
+**M﻿arketing And Advertising:** Your business can leverage a personalized video and photo book to showcase your brand's narratives. 
 
 **P﻿ersonalized Messages** - Please a printed note inside the cove for a personal and permanent reminder.
 
