@@ -7,20 +7,20 @@ author: Randee Bloom, RN, MBA, PhD
 date: 2025-07-29T12:33:40.490Z
 social_image: /static/images/og-image.jpg
 ---
-![]()
+![](https://ucarecdn.com/86535959-5c5b-426f-a6f3-130b53a8826d/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
 Get ready to wow your clients, clients, team, or partners with something to remember! your business is appreciated".
 
 [Heirloom Video Books ](www.sendheirloom.com)has created an exceptionally personalized way to say “thank you”,
 “welcome aboard”, and "your business is appreciated".
 
-In the world of corporate giving, customization is paramount — and here is how we make it simple. Your audience will be captivated by the clever design and delighted they can watch a video rather than read yet another printed message. Digital messages are known for their very short life, read and clicked away. An Heirloom Video Book is tangible, literally held in each viewers hands, appreciated for its closeness and cherished for it's unique way to preserve memories.
+In the world of corporate giving, customization is paramount — and here is how we make it simple. Your audience will be captivated by the clever design and delighted they can watch a video rather than read yet another printed message. Digital messages are known for their very short life, read and clicked away. An Heirloom Video Book is tangible, literally held in each viewer's hands, appreciated for its closeness and cherished for its unique way to preserve memories.
 
 ***Compare these features with a standard written letter or invitation:***
 
 **B﻿randed Covers** - Include your company logo, feature your brand colors and add custom artwork for a polished appearance. With a video book as your messenger, you will be leveraging this personalization to captivate your unique presentation.
 
-**Impactful Video Messages** - Create a video message, sure to complete a personal connection with your directed audience.
+**Impactful Video Messages** - Create a video message, sure to complete a personal connection with your targeted audience.
 
 **E﻿xpand Your Audience While Entertaining** - Video book formats capture a greater audience than a written letter. Your message will be enjoyed by a wide audience as the unique video book is sure to be passed around with pride.
 
