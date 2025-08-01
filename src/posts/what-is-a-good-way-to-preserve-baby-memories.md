@@ -16,6 +16,18 @@ T﻿hose hundreds of photos and videos taken of the new baby can now become the 
 
 U﻿pload the media directly from your phone and gather more from family and friends. You'll want to add sweet messages and we will turn them into a luxury video book. Your family and friends will cherish the ultimate  personalized book for generations to come.
 
+[Heirloom’s Video Books](https://sendheirloom.com/) include: 
+
+\*﻿\*Standard and custom-printed covers
+
+\*﻿\*5" and 7" modules, that play videos, photos and background music
+
+\*﻿\*Amazing sound quality
+
+\*﻿\*All user-friendly: no internet or passwords required
+
+\*﻿\*Playback buttons for viewing control
+
 W﻿hether it's a first birthday, newborn moments, or a collection of "firsts," your Heirloom Video Book will become a keepsake. Give your memories the home they deserve - no cloud storage required. Fast shipping is available across the U.S. and internationally.
 
 F﻿or the next, and next, Mother's Day, Father's Day and Grandparent's Day, you will have the perfect gift for them all! You will quickly see why a video book is an ideal gift for tech-averse seniors. And, for the most sentimental on your gift list, you will surprise and please them, for sure!
