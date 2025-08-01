@@ -18,6 +18,10 @@ H﻿ere's a few of the many reasons why our customers order and reorder often:
 
 **\*﻿\*Latest Technology -** High-definition screens, built-in speakers and the easily accessible recharge port (cord included) will please every user.
 
+**\*﻿\*Experienced Fulfillment -** The Art and Fulfillment Teams of Heirloom Video Books are experienced and highly talented to create and deliver beautiful productions with a fast order turnaround.
+
+**\*﻿\*Creative Designs -** A video book can become the best place to share videos and photos when partnering with an experienced team and outstanding customer service.
+
 **\*﻿\*Luxury Design -** We incorporate premium materials with custom cover options, creating a unique book to be treasured for a lifetime and beyond.
 
 **\*﻿\*Built-In Simplicity -** Upload your videos and photos, enter a message and we do the rest - printing, assembly, and shipping.
