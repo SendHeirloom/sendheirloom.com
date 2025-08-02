@@ -43,7 +43,11 @@ Y﻿ou'll create a most unique gift when you confirm that your selected product 
 
 ***Here is a quick video demonstrating the steps to create your video and photo tribute, thank you or corporate promotion:***
 
-[\*\*https://www.youtube.com/watch?v=9rgv_0VitfE.\*\*](**https://www.youtube.com/watch?v=9rgv_0VitfE.**)
+[\*\*https://www.youtube.com/watch?v=9rgv_0VitfE\*\*](**https://www.youtube.com/watch?v=9rgv_0VitfE**)
+
+**https://www.youtube.com/watch?v=9rgv_0VitfE**
+
+
 
 H﻿eirloom Video Books feature high-definition screens, convenient side controls (play/pause, volume, fast-forward, reverse) and built in speakers. 
 
