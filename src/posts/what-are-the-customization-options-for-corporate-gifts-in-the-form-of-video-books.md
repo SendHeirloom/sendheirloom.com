@@ -39,7 +39,7 @@ In the world of corporate giving, customization is paramount — and here is how
 
 **W﻿orld-Wide Reach -** Take advantage of Heirloom's international shipping, including corporate branding,  custom gift boxes and enclosure gifts and messages.
 
-Y﻿ou'll create a most unique gift when you confirm that your selected product offers all these features, options, and outstanding customer service. 
+Y﻿ou'll create a most unique gift when you confirm that your selected product offers all these features, options, and outstanding customer service. H﻿eirloom Video Books feature high-definition screens, convenient side controls (play/pause, volume, fast-forward, reverse) and built in speakers. 
 
 ***Here is a quick video demonstrating the steps to create your video and photo tribute, thank you or corporate promotion:***
 
@@ -48,7 +48,5 @@ Y﻿ou'll create a most unique gift when you confirm that your selected product 
 **https://www.youtube.com/watch?v=9rgv_0VitfE**
 
 
-
-H﻿eirloom Video Books feature high-definition screens, convenient side controls (play/pause, volume, fast-forward, reverse) and built in speakers. 
 
 \#﻿corporategifting #videobooks #customcorporategifts #personalizedgifts #employeeappreciation #clientgifts #heirloomvideobooks #giftideas #brandingtools #unique corporategifts
