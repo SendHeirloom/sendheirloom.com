@@ -29,21 +29,21 @@ In the world of corporate giving, customization is paramount — and here is how
 
 **C﻿urated Video Content** **\-** Fill your video book with product demonstrations, your company's story and history, event highlights, and client testimonials, all geared to connect with your customers on a new, deeper level. 
 
-**C﻿ustom Packaging** - Take the unboxing experience to the next level with a custom gift box, inserts, and personalized message.
+**C﻿ustom Packaging** - Take the unboxing experience to the next level with a custom gift box, inserts, and personalized messages.
 
 **B﻿ulk Ordering Made Easy** - Simplified options for orders of any size, with personalization at scale.
 
 **Special Occasions and C﻿elebrations -** Holidays, client appreciation, employee anniversaries, weddings and birthdays are just a few of the times when our video books turn your message into a keepsake.  
 
-**C﻿ustomizable rechargeable Video Book -** Your unique gift will become a sharable promotion thanks to the rechargeable capability, with the cord included with each book.
+**C﻿ustomizable Rechargeable Video Book -** Your unique gift will become a sharable promotion thanks to the rechargeable capability, with a cord included for each book. 
 
-**W﻿orld-Wide Reach -** Take advantage of Heirloom international shipping, including corporate branding,  custom gift boxes and enclosure gifts and messages.
+**W﻿orld-Wide Reach -** Take advantage of Heirloom's international shipping, including corporate branding,  custom gift boxes and enclosure gifts and messages.
 
 Y﻿ou'll create a most unique gift when you confirm that your selected product offers all these features, options, and outstanding customer service. 
 
-Here is a quick video demonstrating the steps to create your video and photo tribute, thank you or corporate promotion:
+***Here is a quick video demonstrating the steps to create your video and photo tribute, thank you or corporate promotion:***
 
-***https://www.youtube.com/watch?v=9rgv_0VitfE***
+[\*\*https://www.youtube.com/watch?v=9rgv_0VitfE.\*\*](**https://www.youtube.com/watch?v=9rgv_0VitfE.**)
 
 H﻿eirloom Video Books feature high-definition screens, convenient side controls (play/pause, volume, fast-forward, reverse) and built in speakers. 
 
