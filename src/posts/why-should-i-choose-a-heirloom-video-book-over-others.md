@@ -24,12 +24,14 @@ H﻿ere's a few of the many reasons why our customers order and reorder often:
 
 **\*﻿\*Luxury Design -** We incorporate premium materials with custom cover options, creating a unique book to be treasured for a lifetime and beyond.
 
-**\*﻿\*Built-In Simplicity -** Upload your videos and photos, enter a message and we do the rest - printing, assembly, and shipping.
+**\*﻿\*Built-In Simplicity -** Upload your videos and photos, enter a message and we do the rest - printing, assembly, and shipping. ***Here's a quick video demonstrating the building of an Heirloom Video Book!***
+
+**https://www.youtube.com/watch?v=9rgv_0VitfE**
 
 **\*﻿\*For Every Moment in Life -** Whether it's a wedding, birthday, new baby, corporate thank you, retirement or memorial, we help you deliver emotion in the most heartfelt way. Your sentiment and the treasured videos and photos elevate the celebration into a memorable moment. Selecting Heirloom Video Books is selecting something that will last, something they'll often return to and proudly share. 
 
-![](https://ucarecdn.com/07a8c7ea-1052-4a2e-8271-455c166563f1/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
-
 **\*﻿\*Customized Packaging -** Incorporate an Heirloom Video Book with your chosen holiday gift sure to excite every lucky recipient.
+
+![](https://ucarecdn.com/07a8c7ea-1052-4a2e-8271-455c166563f1/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
 \#﻿personalizedvideobook #heirloomvideobook #meaningfulgifts #giftideas #uniqueweddinggift #birthdaygiftideas #corporategifting #customgifts #memorablemoments #videogifts #thoughtfulgifting #special occasions #keepsakegift #anniversarygiftideas #giftthatlasts
