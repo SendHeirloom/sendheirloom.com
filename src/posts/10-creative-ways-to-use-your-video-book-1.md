@@ -71,7 +71,7 @@ Capture interviews with grandparents, veterans, or anyone with a powerful story.
 
 - - -
 
-### ![🎁](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f381/72.png) Final Thoughts
+### Final Thoughts
 
 Whether it’s for love, remembrance, or pure fun, a Video Book transforms digital memories into something you can hold, gift, and keep forever. It’s more than a screen—it’s a storytelling experience that plays again and again.
 
