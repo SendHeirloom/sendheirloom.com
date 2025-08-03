@@ -75,13 +75,7 @@ Capture interviews with grandparents, veterans, or anyone with a powerful story.
 
 Whether it’s for love, remembrance, or pure fun, a Video Book transforms digital memories into something you can hold, gift, and keep forever. It’s more than a screen—it’s a storytelling experience that plays again and again.
 
-\--
 
-*Ashley Bloom Kenny*
-
-[Heirloom](http://sendheirloom.com/), Founder 
-
-[Instagram](https://www.instagram.com/sendheirloom/) | [Facebook](https://www.facebook.com/sendheirloomofficial) | [Twitter](https://twitter.com/SendHeirloom)
 
 ![](https://ucarecdn.com/a7d3a88b-a87b-4eec-91b1-e068b41533d3/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
