@@ -1633,3 +1633,9 @@ html[is-dialog] body {
 .clearfix {
   clear: both;
 }
+
+@media (max-width: 425px) {
+  .video-books-designed-for-business .TwoUp--content-h2 {
+    font-size: 1.4em;
+  }
+}
