@@ -10,8 +10,6 @@ social_image: /static/images/og-image.jpg
 ---
 ## **The Book That Changed How We Share Memories**
 
-
-
 ![](https://ucarecdn.com/0af3c6c0-6725-4d7e-8a8e-a5bf020b9d6c/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
 What started as a simple gift for our 92-year-old grandmother turned into a product featured on the **TODAY Show, Good Morning America, CBS News, QVC**, and in the hands of tens of thousands of families across the country.
@@ -109,9 +107,3 @@ Just choose your cover, upload your media, and let us take care of the rest.
 ![👉](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f449/72.png) [Create Your Video Book](https://sendheirloom.com/)\
 ![📦](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f4e6/72.png) Ships anywhere. No app or Wi-Fi needed.\
 ![💬](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f4ac/72.png) Questions? Email us at [help@sendheirloom.com](<>)
-
-- - -
-
-**Heirloom**\
-*Memories you can hold. Stories that play.*\
-[sendheirloom.com](https://sendheirloom.com/) | [@sendheirloom on Instagram](https://instagram.com/sendheirloom)
