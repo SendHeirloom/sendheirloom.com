@@ -7,9 +7,13 @@ description: Getting your small business featured on national TV can feel
   America**, **CBS News**, and even **QVC**.
 author: Ashley Bloom Kenny
 date: 2025-08-06T12:59:18.379Z
-social_image: /static/images/og-image.jpg
+social_image: https://ucarecdn.com/0f720237-fc62-496e-8447-cd314c03616a/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 ---
-![](https://www.youtube.com/watch?v=sV7AN4rQw_E&t=1s)
+![]()
+
+```
+
+```
 
 In this post, I’ll walk you through exactly how we did it, what worked, and how you can apply the same strategies to get **press coverage for your business**—without hiring an expensive PR firm.
 
@@ -96,7 +100,7 @@ All of these updates helped us maintain momentum—and gave us new angles for pr
 ### **Bonus: Watch the Segment That Launched It All**
 
 Want to see what a national TV feature looks like?\
-[![👉](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f449/72.png) Watch 60 seconds of Heirloom on TODAY, GMA, CBS, and QVC](https://www.youtube.com/watch?v=sV7AN4rQw_E&t=1s)
+[![👉](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f449/72.png) ](https://www.youtube.com/watch?v=sV7AN4rQw_E&t=1s)[[Watch 60 seconds of Heirloom on TODAY, GMA, CBS, and QVC](https://www.youtube.com/watch?v=sV7AN4rQw_E&t=1s)](https://mail.google.com/mail/u/1/#inbox/FMfcgzQbgcRdljcCWmmVcMwhCqdhCjvV?projector=1)
 
 - - -
 
