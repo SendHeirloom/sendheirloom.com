@@ -3,7 +3,7 @@ title: The Book That Changed How We Share Memories
 description: In a world overflowing with digital noise, we set out to create
   something different—something real. A way to hold memories in your hands,
   share love with a single gesture, and connect across generations. That’s
-  how **Heirloom Video Books** were born.
+  how Heirloom Video Books were born.
 author: Ashley Bloom Kenny
 date: 2025-08-06T13:04:23.785Z
 social_image: /static/images/og-image.jpg
