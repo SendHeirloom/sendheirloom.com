@@ -12,7 +12,7 @@ tags:
 ---
 During challenging times gift giving can mean so much. Consider how you can transform your isolated grandparents' feelings of loneliness by giving them something they'll actually want, and even more importantly, what they really need.
 
-Lars Tornstam, a Swedish gerontologist, coined his theory "gerotranscendence" to describe noted changes among aging adults. Among the characteristics of gerotranscendence are an "[increased affinity with previous generations](https://www.sloww.co/gerotranscendence/)" and "[decreased interest in material objects](https://www.lasa-vu.nl/themes/emotional/gerotranscendence.htm)." This science seeks to document the idea that, as guiding principles, grandparents typically want fewer items and more bonding with their current and past relationships.
+Lars Tornstam, a Swedish gerontologist, coined his theory "gerotranscendence" to describe noted changes among aging adults. Among the characteristics of gerotranscendence are an "[increased affinity with previous generations](https://www.sloww.co/gerotranscendence/)" and "decreased interest in material objects."[](\) This science seeks to document the idea that, as guiding principles, grandparents typically want fewer items and more bonding with their current and past relationships.
 
 Consider these [thoughtful gift ideas](https://www.greatseniorliving.com/articles/gifts-for-elderly-people) that will help nurture your bond from a distance and provide a much needed connection. This type of gift giving perspective can be even more meaningful when you focus first on your recipient's current state of needs. Read our article "[Gift Ideas for Great-Grandparents](https://sendheirloom.com/posts/great-gift-ideas-for-great-grandparents/)" for more great suggestions.
 
@@ -68,6 +68,6 @@ How about asking your grandmother to spend the day [teaching you something](http
 
 These gifts ideas as simply suggestions to possibly redirect your gift shopping away from the already produced objects to the ones that actually emote your emotional goals. Your grandparent may have already provided you with all the gift giving hints you need. Just think back a little, bring yourself joy and your gift will surely do the same in their lives.
 
-L﻿ooking for more gift ideas? Take a look at our [gift ideas for great-grandparents](https://sendheirloom.com/posts/great-gift-ideas-for-great-grandparents/) and our[ heartwarming gifts for grandma](https://sendheirloom.com/posts/thoughtful-gifts-for-grandma/). 
+L﻿ooking for more gift ideas? Take a look at our [gift ideas for great-grandparents](https://sendheirloom.com/posts/great-gift-ideas-for-great-grandparents/) and our [heartwarming gifts for grandma.](https://sendheirloom.com/posts/heartwarming-gifts-for-grandma-show-your-love-1/) 
 
 **Dr. Randee Bloom, RN, MBA, PhD** is a retired nurse and healthcare administrator. She has a PhD in nonprofit management and serves on the board of several national healthcare nonprofits. Two of her children, Ashley and Zack, are the founders of Heirloom.
