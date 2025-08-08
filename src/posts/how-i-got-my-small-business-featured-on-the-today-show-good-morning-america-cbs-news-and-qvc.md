@@ -4,7 +4,7 @@ title: How I Got My Small Business Featured on the TODAY Show, Good Morning
 description: Getting your small business featured on national TV can feel
   impossible—but it’s not. My brother and I turned a simple idea into a product
   that’s now been spotlighted on the TODAY Show, Good Morning America, CBS News,
-  and even QVC.
+  and even QVC.(https://www.youtube.com/watch?v=sV7AN4rQw_E&t=1s)
 author: Ashley Bloom Kenny
 date: 2025-08-07T12:59:18.379Z
 social_image: https://ucarecdn.com/0f720237-fc62-496e-8447-cd314c03616a/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
