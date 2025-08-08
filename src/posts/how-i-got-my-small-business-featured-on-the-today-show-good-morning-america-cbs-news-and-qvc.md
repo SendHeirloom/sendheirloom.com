@@ -97,7 +97,7 @@ All of these updates helped us maintain momentum—and gave us new angles for pr
 
 Want to see what a national TV feature looks like[](https://www.youtube.com/watch?v=sV7AN4rQw_E&t=1s)
 
-[](https://www.youtube.com/watch?v=sV7AN4rQw_E&t=1s)[\[Watch 60 seconds of Heirloom on TODAY, GMA, CBS, and QVC]](https://www.youtube.com/watch?v=sV7AN4rQw_E&t=1s)
+[](https://www.youtube.com/watch?v=sV7AN4rQw_E&t=1s)[[[Watch 60 seconds of Heirloom on TODAY, GMA, CBS, and QVC](https://www.youtube.com/watch?v=sV7AN4rQw_E&t=1s)]]
 
 - - -
 
