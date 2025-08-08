@@ -6,7 +6,7 @@ description: Getting your small business featured on national TV can feel
   that’s now been spotlighted on the **TODAY Show**, **Good Morning
   America**, **CBS News**, and even **QVC**.
 author: Ashley Bloom Kenny
-date: 2025-08-06T12:59:18.379Z
+date: 2025-08-07T12:59:18.379Z
 social_image: https://ucarecdn.com/0f720237-fc62-496e-8447-cd314c03616a/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 ---
 ![]()
