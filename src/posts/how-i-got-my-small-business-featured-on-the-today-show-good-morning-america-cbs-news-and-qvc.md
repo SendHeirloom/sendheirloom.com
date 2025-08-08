@@ -100,7 +100,7 @@ All of these updates helped us maintain momentum—and gave us new angles for pr
 ### **Bonus: Watch the Segment That Launched It All**
 
 Want to see what a national TV feature looks like?\
-[![👉](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f449/72.png) ](https://www.youtube.com/watch?v=sV7AN4rQw_E&t=1s)[[Watch 60 seconds of Heirloom on TODAY, GMA, CBS, and QVC](https://www.youtube.com/watch?v=sV7AN4rQw_E&t=1s)](https://mail.google.com/mail/u/1/#inbox/FMfcgzQbgcRdljcCWmmVcMwhCqdhCjvV?projector=1)
+[![👉](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f449/72.png) ](https://www.youtube.com/watch?v=sV7AN4rQw_E&t=1s)[[Watch 60 seconds of Heirloom on TODAY, GMA, CBS, and QVC]](https://www.youtube.com/watch?v=sV7AN4rQw_E&t=1s)
 
 - - -
 
