@@ -17,7 +17,7 @@ That’s the idea behind the booming businesses selling subscription boxes. Basi
 
 ## For The Tea Lover
 
-[Sips by](https://www.sipsby.com/) is perfectly named: a personalized collection of teas. The lucky recipient is invited to share their tea likes and dislikes. And, more excitedly, this is a chance to ask for samples of newly discovered flavor blends and sourced tea from around the world. No tea lover or even tea tester would not appreciate these beautiful collections of teas, arranged following the recipient’s specific likes and wishes to try arriving monthly for as long as you select.
+[Art of Tea](https://www.artoftea.com/pages/tea-of-the-month?tw_source=google&tw_adid=&tw_campaign=20888487778&tw_kwdid=&utm_term=&utm_campaign=LF-Performance+Max-Tea+of+the+Month&utm_source=adwords&utm_medium=ppc&hsa_acc=7166010788&hsa_cam=20888487778&hsa_grp=&hsa_ad=&hsa_src=x&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=20884813673&gbraid=0AAAAAD_VbWbgTCznc-OznLXnoD5tXsI5U&gclid=CjwKCAjwhuHEBhBHEiwAZrvdci0TQHKnN5wzsPZ5sj2bJbcSkSOQKCJJXrlbMoJe-NJbGm9XrHSFpRoCPJcQAvD_BwE) is perfectly named: a personalized collection of teas. The lucky recipient is invited to share their tea likes and dislikes. And, more excitedly, this is a chance to ask for samples of newly discovered flavor blends and sourced tea from around the world. No tea lover or even tea tester would not appreciate these beautiful collections of teas, arranged following the recipient’s specific likes and wishes to try arriving monthly for as long as you select.Art of Tea
 
 ## Clothes Lover With Little Time To Shop
 
