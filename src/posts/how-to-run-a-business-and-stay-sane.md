@@ -38,10 +38,10 @@ As reported by the Clean Method, a [cluttered work environment](https://cleanmet
 
 ## **Start a Fitness Routine**
 
-For entrepreneurs feeling overburdened by the stress of running a business, exercising is the [perfect solution](https://www.zenbusiness.com/blog/can-working-home-improve-mental-health/) to regain clarity of thought and feel yourself again. According to the CDC, adults should exercise at least [150 minutes a week](https://www.cdc.gov/physicalactivity/basics/adults/index.htm), which comes down to around 20 minutes a day. Even with a hectic schedule, dedicating 20 minutes daily to exercise is a realistic goal for entrepreneurs to follow.
+For entrepreneurs feeling overburdened by the stress of running a business, exercising is the [perfect solution](https://www.zenbusiness.com/blog/can-working-home-improve-mental-health/) to regain clarity of thought and feel yourself again. According to the CDC, adults should exercise at least [150 minutes a week](https://www.cdc.gov/physical-activity-basics/adding-adults/what-counts.html?CDC_AAref_Val=https://www.cdc.gov/physicalactivity/basics/adults/index.htm), which comes down to around 20 minutes a day. Even with a hectic schedule, dedicating 20 minutes daily to exercise is a realistic goal for entrepreneurs to follow.
 
 Your exercise regime can include a combination of aerobic and weight-based exercises such as jogging, cycling, bodyweight exercises, etc. Depending on your schedule, plan your workout before or after work. Additionally, following a fitness routine will help you sleep and eat better as well, resulting in a better quality of life which will translate into greater productivity and better performance at work.
 
 Pursuing hobbies, committing to a fitness regime, and taking time off are as important as chasing business goals. Not only will these activities help you perform better at work, but also avoid burnout and maintain good mental health.
 
-*This resource guide is just one example of the great content you can find on the [Heirloom](https://sendheirloom.com/) [](http://sendheirloom.com)website.*
+*This resource guide is just one example of the great content you can find on the [Heirloom](https://sendheirloom.com/)* [](http://sendheirloom.com)*website.*
