@@ -29,7 +29,7 @@ For a sweet surprise, why not bake a batch of heart-shaped cookies? Or, even sim
 
 ![M&Ms](https://ucarecdn.com/0fe94a0b-ce3b-4e19-b4dc-d0dedb3482e0/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
-Throughout the year, most of us enjoy a handful (or more) of M and M's candies. Valentine's Day is no different, of course! This year you can bump up the excitement by adding some special touches. How about a [personalized M and M](https://www.mms.com/en-us/personalizable-mms-gift-jar-in-you-stole-my-heart-gift-tube/p/stole-my-heart-gift-jar) jar full of love?
+Throughout the year, most of us enjoy a handful (or more) of M and M's candies. Valentine's Day is no different, of course! This year you can bump up the excitement by adding some special touches. How about a [personalized M and M](https://www.mms.com/en-us/gifts/candy-dispenser-customized/ct1202-p.html?template=grad-year-dsp) jar full of love?
 
 For chocolate lovers of all ages, this can be a perfect Valentine's Day gift selection. You'll be creating a unique jar full of yummy fun. Start with choosing the color choices. Then, imagine this, add an actual picture image and words on the sweet treats! While truly personal with the customization, they are also very sharable! Imagine enjoying the gift while receiving the thanks! A Happy Valentine's Day to all!
 
