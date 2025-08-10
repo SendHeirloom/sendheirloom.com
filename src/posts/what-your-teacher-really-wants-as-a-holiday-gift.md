@@ -7,7 +7,6 @@ author: Randee Bloom PhD RN MBA
 date: 2022-11-29T13:18:54.715Z
 social_image: https://ucarecdn.com/ac179622-93d6-4a5b-a307-676a87ac00d4/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 ---
-
 ![Chalk drawing](https://ucarecdn.com/e35440ca-7a23-4162-bb6e-f9d4946593e1/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
 Photo by [David Ballew](https://unsplash.com/@daveballew?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/kids-school?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
@@ -50,9 +49,7 @@ Some of the best gifts are the simplest. No matter what you choose, make sure it
 
 ### A must, alone or with an item
 
-![Teacher with Student](https://ucarecdn.com/759da49c-3972-468a-8bc7-1f5ac2a79de8/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
-
-Photo by [Sebastian Pandelache](https://unsplash.com/@pandelache?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/child-gift-giving?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+![Teacher with Student](https://ucarecdn.com/84230b9f-6717-4519-99a1-808f84efa8d1/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
 Handwritten cards are the one item that makes a perfect gift. Your child can participate in writing the words, signing their name, or at least decorating the card with pictures and stickers. Your child might dictate a personal note, and chances are the teacher will read the note back to the child for an exceptionally tender moment.
 
