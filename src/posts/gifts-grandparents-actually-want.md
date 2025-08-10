@@ -12,7 +12,7 @@ tags:
 ---
 During challenging times gift giving can mean so much. Consider how you can transform your isolated grandparents' feelings of loneliness by giving them something they'll actually want, and even more importantly, what they really need.
 
-Lars Tornstam, a Swedish gerontologist, coined his theory "gerotranscendence" to describe noted changes among aging adults. Among the characteristics of gerotranscendence are an "[increased affinity with previous generations](https://www.sloww.co/gerotranscendence/)" and "decreased interest in material objects."[](\) This science seeks to document the idea that, as guiding principles, grandparents typically want fewer items and more bonding with their current and past relationships.
+Lars Tornstam, a Swedish gerontologist, coined his theory "gerotranscendence" to describe noted changes among aging adults. Among the characteristics of gerotranscendence are a decreased interest in material objects. This science seeks to document the idea that, as guiding principles, grandparents typically want fewer items and more bonding with their current and past relationships.
 
 Consider these [thoughtful gift ideas](https://www.greatseniorliving.com/articles/gifts-for-elderly-people) that will help nurture your bond from a distance and provide a much needed connection. This type of gift giving perspective can be even more meaningful when you focus first on your recipient's current state of needs. Read our article "[Gift Ideas for Great-Grandparents](https://sendheirloom.com/posts/great-gift-ideas-for-great-grandparents/)" for more great suggestions.
 
