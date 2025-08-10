@@ -19,7 +19,7 @@ Let’s explore the different types of available tests, by their science, their 
 
 ## What are the different types of COVID-19 tests?
 
-There are basically [two types of tests](https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html) routinely conducted looking for the presence of the COVID-19 virus. The viral test, sometimes referred to as the molecular or the antigen test, tries to answer your important question: Do I currently have an infection with the virus SARS-CoV-2 that causes COVID-19? The antibody or serological test seeks to answer your other question: Have I previously had an infection with the virus SARS-CoV-2 that causes COVID-19?
+There are basically [two types of tests](https://www.cdc.gov/covid/?CDC_AAref_Val=https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html) routinely conducted looking for the presence of the COVID-19 virus. The viral test, sometimes referred to as the molecular or the antigen test, tries to answer your important question: Do I currently have an infection with the virus SARS-CoV-2 that causes COVID-19? The antibody or serological test seeks to answer your other question: Have I previously had an infection with the virus SARS-CoV-2 that causes COVID-19?
 
 ## What are the different ways to conduct home tests?
 
