@@ -27,7 +27,7 @@ Currently there are two ways to conduct your home test: collection only or colle
 
 ## Are there different levels of accuracy in these tests?
 
-Yes. The method of specimen collection (nasal canal, higher in the nasal canal, saliva) as well as the site of analysis, home or laboratory, create many of these differences in accuracy. Generally speaking, [laboratory-based NAATs are considered to offer more sensitivity](https://www.cdc.gov/coronavirus/2019-ncov/lab/naats.html) than self-administered home-based tests.  Many healthcare providers consider the use of a laboratory-based tests as a means of confirming a positive home-based result.
+Yes. The method of specimen collection (nasal canal, higher in the nasal canal, saliva) as well as the site of analysis, home or laboratory, create many of these differences in accuracy. Generally speaking, [laboratory-based NAATs are considered to offer more sensitivity](https://www.cdc.gov/covid/hcp/clinical-care/clinical-specimen-guidelines.html?CDC_AAref_Val=https://www.cdc.gov/coronavirus/2019-nCoV/lab/guidelines-clinical-specimens.html) than self-administered home-based tests.  Many healthcare providers consider the use of a laboratory-based tests as a means of confirming a positive home-based result.
 
 ## What’s the accuracy of at-home COVID test kits?
 
