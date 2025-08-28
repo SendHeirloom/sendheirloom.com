@@ -13,7 +13,7 @@ T﻿urn them into a beautiful slideshow which plays on a video book! A video boo
 
 O﻿ur video books store and play hundreds of your photos as a video slideshow. Simply load your photos to our book builder tool and receive a physical video book in the mail that plays your slideshow.
 
-\--B﻿uy a video book on our site, [Heirloom Video Books](https://sendheirloom.com/posts/create-a-video-book-from-your-photos/sendheirloom.com), sendheirloom.com
+\--B﻿uy a video book on our site, [Heirloom Video Books](https://sendheirloom.com), sendheirloom.com
 
 \--Drag-and-drop photos from your computer or phone
 
