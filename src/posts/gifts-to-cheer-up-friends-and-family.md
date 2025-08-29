@@ -28,7 +28,7 @@ Sometimes we have a tight group of family or friends that are forced to separate
 
 ## Pets are Friends Too
 
-I’ve surprised myself this year. When I have wanted to offer a gift to some people, I have discovered a new way to make them happy. I have [sent a gift to their pet](https://www.etsy.com/market/gift_pet_lovers?utm_source=google&utm_medium=cpc&utm_term=gift%20pet%20lovers_b&utm_campaign=Search_US_Nonbrand_GGL_ENG_Gifts_AUTO_All&utm_ag=Catch%2BAll&utm_custom1=_k_Cj0KCQjwiLLABhCEARIsAJYS6ukUx4Zu0jQVTanYd3A_DtJYj44-qoIipb5eWF77nWmXRZhlFIRoaRkaAqIEEALw_wcB_k_&utm_content=go_20544625824_154942041833_745315968363_kwd-312726382211_c_&utm_custom2=20544625824&gad_source=1&gbraid=0AAAAADtcfRIMWZnxUioVdz0cyZGgxEXcp&gclid=Cj0KCQjwiLLABhCEARIsAJYS6ukUx4Zu0jQVTanYd3A_DtJYj44-qoIipb5eWF77nWmXRZhlFIRoaRkaAqIEEALw_wcB). Yes, their dog or cat. This can work for goldfish and parakeets, too. I have noticed how surprised and appreciative they are to see that their pet, who has given them so much love and attention, is now being showered with love from others. So, when you want to make your pet owner-friend smile, go to the pet store.
+I’ve surprised myself this year. When I have wanted to offer a gift to some people, I have discovered a new way to make them happy. I have sent a gift to their pet. Yes, their dog or cat. This can work for goldfish and parakeets, too. I have noticed how surprised and appreciative they are to see that their pet, who has given them so much love and attention, is now being showered with love from others. So, when you want to make your pet owner-friend smile, go to the pet store. 
 
 ## Treat Loneliness with a Sharing Opportunity
 
