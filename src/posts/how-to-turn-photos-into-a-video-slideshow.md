@@ -16,9 +16,9 @@ Imagine this: you no longer need to go through your photographs one-by-one when 
 
 An ideal tool to accomplish this task is [Heirloom’s video book](https://make.sendheirloom.com/) builder. This tool was designed for first-timers like most of us with detailed instructions and a quick responding help line are also at your fingertips. Let’s begin to use the builder and you will see how many of your questions are answered and satisfied.
 
-## Step 1: Visit [make.sendheirloom.com](https://make.sendheirloom.com)
+## Step 1: Visit the Heirloom Video Book Builder
 
-\
+**h﻿ttps://make.sendheirloom.com**\
 This website welcomes you to the Heirloom video book builder. Your first question: Do you have your photos ready?
 
 Ready, in this case, means you know where they are, such as in your phone or on your computer. You can select them before you begin or wait for this first prompt. (Then you will begin your first tough choice: how do I pick between 14 great pictures of my grandson’s first Halloween costume modeling?!)
