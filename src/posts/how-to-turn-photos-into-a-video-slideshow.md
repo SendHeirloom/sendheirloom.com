@@ -5,7 +5,7 @@ description: Ever spend 20 minutes searching for a couple pictures on your phone
   your photos into a video slideshow. Consider these ideas as your starting
   point, and soon you will be creating them for gifts and your own enjoyment.
 author: Randee Bloom, RN, MBA, PhD
-date: 2022-10-14T19:47:00.994Z
+date: 2025-08-29T19:47:00.994Z
 social_image: https://ucarecdn.com/df99366b-ca20-4541-8a69-54b4129c5bb1/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
 tags:
   - slideshow
