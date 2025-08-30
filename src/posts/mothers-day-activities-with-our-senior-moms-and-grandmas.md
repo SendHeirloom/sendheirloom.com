@@ -12,7 +12,7 @@ tags:
 ---
 ![Family](https://ucarecdn.com/794cc56c-629c-49e7-b272-2fe770b6db05/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Grandma, Mother and Child on Mother's Day ")
 
-There are simply not enough holidays, or days in fact, to celebrate our mothers and grandmothers. These women have lead our families for generations. For those of us fortunate enough to have them for many years into our own adulthood, we clearly see their strong and important contributions to our families. Let’s not miss Mother’s Day as just one of these special times to honor our mothers and grandmothers, those by birth and often many by personal recognition. The holiday is [celebrated around the world](https://www.history.com/articles/mothers-day-world-traditions), with each way, and your way, perfect. 
+There are simply not enough holidays, or days in fact, to celebrate our mothers and grandmothers. These women have lead our families for generations. For those of us fortunate enough to have them for many years into our own adulthood, we clearly see their strong and important contributions to our families. Let’s not miss Mother’s Day as just one of these special times to honor our mothers and grandmothers, those by birth and often many by personal recognition. The holiday is celebrated around the world, with each way, and your way, perfect. 
 
 Here are some ideas for an extra special gift for the senior mothers and grandmothers in your life. They are not elaborate as gifts may seem, nor are they hard to find. In fact, they do not even require wrapping paper and bows. They are special activities, the gift of time and attention, and that’s just the message we all want to convey.
 
