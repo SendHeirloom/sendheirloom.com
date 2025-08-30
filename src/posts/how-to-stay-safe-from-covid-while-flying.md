@@ -20,7 +20,7 @@ If you decide air travel is worth your risk, follow these tips while traveling:Â
 2. Maintain [handwashing practices](https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/hand-washing/art-20046253).
 3. Avoid crowded areas, inside and outside, most especially when others are mask-less.
 4. Learn and follow all local health department requirements and recommendations.
-5. Pack plenty of well-fitting masks and [hand sanitizer](https://www.amazon.com/individual-hand-sanitizer/s?k=individual+hand+sanitizer).
+5. Pack plenty of well-fitting masks and hand sanitizer.
 6. Remain alert to crowds, such as within the airport, finding ways to avoid contacts. Staying cautious will continue to reduce your risk of exposure and potential transmission.
 7. Consider obtaining and wearing a medical-quality face mask, such as an [N95.](https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-surgical-masks-face-masks-and-barrier-face-coverings) Otherwise, consider double-masking while traveling.
 8. While permitted, consider limiting or eliminating eating and drinking during your airplane flight.
