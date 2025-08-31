@@ -29,7 +29,7 @@ Sure, this grandmother likes a new sweater just as much as the next gal. But, fo
 
 ## Make Grandma Smile Every Morning
 
-Grandma knows you are their warm, comforting, joy of their life. How about proving it to her every day as she reaches for her cup of tea. This [ceramic tea cup](https://www.etsy.com/market/grandma_mug?utm_source=google&utm_medium=cpc&utm_term=grandma%20mug_b&utm_campaign=Search_US_Nonbrand_GGL_ENG_Home-Living_AUTO_All&utm_ag=Kitchen%2B&%2BDining_Drink%2B&%2BBarware&utm_custom1=_k_CjwKCAjwhuHEBhBHEiwAZrvdcvprUcHRBQZUQCkGoi80Jcg0z2HVgB-aE7mz8fM-CU_FSrh5kkhmRhoCEE0QAvD_BwE_k_&utm_content=go_20544625821_154942027913_745339211407_kwd-88805369_c_&utm_custom2=20544625821&gad_source=1&gad_campaignid=20544625821&gbraid=0AAAAADtcfRKEL1XsRPcaM8qIVlg20p3-_&gclid=CjwKCAjwhuHEBhBHEiwAZrvdcvprUcHRBQZUQCkGoi80Jcg0z2HVgB-aE7mz8fM-CU_FSrh5kkhmRhoCEE0QAvD_BwE) can be personalized with the faces of children and grandchildren. Imagine her holding the mug, with her fingers wrapped around you!
+Grandma knows you are their warm, comforting, joy of their life. How about proving it to her every day as she reaches for her cup of tea. This ceramic tea cup can be personalized with the faces of children and grandchildren. Imagine her holding the mug, with her fingers wrapped around you!
 
 ## Bring Grandpa Into The Picture
 
