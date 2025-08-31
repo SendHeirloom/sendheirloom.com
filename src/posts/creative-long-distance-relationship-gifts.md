@@ -147,7 +147,7 @@ Start a book club with your significant other as a fun activity to pass the time
 
 ## Book Lovers Mark the Spot
 
-Consider how your book-lover partner can hold your image in their hand. This custom-printed wooden [bookmark](https://www.etsy.com/listing/1233763523/custom-metal-photo-booth-bookmark?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=custom+book+mark&ref=sr_gallery-1-1&pro=1&frs=1&edd=1&sts=1&organic_search_click=1) is a small gift, custom printed with your selection of photos. Every time the book is visited, and the page is found, so too will be your chosen images. This is such a unique gift that expresses the delicate message that you want to be thought of with every turn of the page.
+Consider how your book-lover partner can hold your image in their hand. This custom-printed wooden bookmark is a small gift, custom printed with your selection of photos. Every time the book is visited, and the page is found, so too will be your chosen images. This is such a unique gift that expresses the delicate message that you want to be thought of with every turn of the page.
 
 ## Jewelry Gift
 
