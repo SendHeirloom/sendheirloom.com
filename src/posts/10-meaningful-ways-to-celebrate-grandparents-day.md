@@ -6,7 +6,7 @@ author: Randee Bloom, RN, MBA, PhD
 date: 2025-03-29T14:02:23.074Z
 social_image: /static/images/og-image.jpg
 ---
-# 10 Meaningful Ways to Celebrate Grandparents' Day 
+# 10 Meaningful Ways to Celebrate Grandparents' Day
 
 ![Randee on a walk with her 3 grandkids](https://ucarecdn.com/76036a8b-a478-429c-9eb0-e9a62399366f/-/resize/1000x/-/stretch/off/-/format/auto/-/progressive/yes/)
 
@@ -27,7 +27,7 @@ Families can work together throughout the year collecting items or writing down 
 Volunteer service offers opportunities to contribute to the welfare and benefit of the recipient. Consider, as well, the benefit to the doer. And in this specific case, the relationship between doers. Grandparents and grandchildren can explore local opportunities to serve together, within their individual physical limitations and developed shared interests. Additional opportunities are available for more stay-near-home and [do-it-yourself projects](https://createthegood.aarp.org/volunteer-guides/) suggested by AARP, all with this one goal in common. Serving others while bonding together.
 
 **Begin A Book Club (comic books allowed)**\
-Grandparents often hold a special place in a young person’s heart because of their devotion to their safety while not being overwhelming responsible for a lifetime. Thus, the extra cookie for dessert or later-than-usual bedtime when together becomes a “secret between the couple” that further bonds their precious relationship. As the child ages some of these “secrets” may become less important and grandparents may feel more out-of-touch with the child. Consider developing new connections with such shared experiences as a [book club ](https://www.nextavenue.org/grandparent-grandchild-book-clubs/)with a very limited membership! The child can pick the book and after reading it together or separately, great discussions can arise.
+Grandparents often hold a special place in a young person’s heart because of their devotion to their safety while not being overwhelming responsible for a lifetime. Thus, the extra cookie for dessert or later-than-usual bedtime when together becomes a “secret between the couple” that further bonds their precious relationship. As the child ages some of these “secrets” may become less important and grandparents may feel more out-of-touch with the child. Consider developing new connections with such shared experiences as a book club with a very limited membership! The child can pick the book and after reading it together or separately, great discussions can arise.
 
 **Document Your History**\
 Consider how you can tell your grandchildren [your life’s story](https://thewespot.com/sharing-your-life-story-with-your-kids-tell-it-like-it-was/), and create a lasting document. In addition to writing the story, how about an oral presentation? You can add your own expressions and emotions that are sure to capture your personality and further leave your legacy.
