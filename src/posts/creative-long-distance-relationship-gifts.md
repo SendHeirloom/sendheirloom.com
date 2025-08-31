@@ -109,11 +109,11 @@ If a picture is worth 1,000 words, imagine what your video message will convey. 
 
 ## Time Zone Clocks
 
-When you and your long-distance partner live in different time zones, you each can be challenged to keep up with the right times to connect. Add to that the time changes in the Spring and Fall. How about ending this worry by purchasing [a set of clocks](https://www.etsy.com/listing/1142021377/2-customizable-zones-time-zone-clock?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=time+zone+tracker&ref=sr_gallery-1-17&frs=1&edd=1&organic_search_click=1), set for the two locals you share? Right onto the clocks, you'll personalize the times, with your names and locals. This new wall decor will ensure that each of you never misses a call or be ready for a video chat.
+When you and your long-distance partner live in different time zones, you each can be challenged to keep up with the right times to connect. Add to that the time changes in the Spring and Fall. How about ending this worry by purchasing a set of clocks, set for the two locals you share? Right onto the clocks, you'll personalize the times, with your names and locals. This new wall decor will ensure that each of you never misses a call or be ready for a video chat.
 
 ## Long-Distance Custom Friendship Mug
 
-For every long-distance couple, how about holding each other in your hand? A [ceramic mug](https://www.etsy.com/listing/1068022477/distance-friendship-mug-long-distance?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=long+distance+coffee+mug&ref=sr_gallery-1-2&pro=1&edd=1&sts=1&organic_search_click=1) with your two names and images is sure to be used every day. From your morning coffee to your late-night warm tea or hot chocolate, you each are such to want to reach for this personalized mug. What a perfect gift you can have made for your long-distance special someone. You identify the two states and cities, names, and colors. Such a simple way to feel close when far away.
+For every long-distance couple, how about holding each other in your hand? A ceramic mug with your two names and images is sure to be used every day. From your morning coffee to your late-night warm tea or hot chocolate, you each are such to want to reach for this personalized mug. What a perfect gift you can have made for your long-distance special someone. You identify the two states and cities, names, and colors. Such a simple way to feel close when far away.
 
 ## Love(ly) Stationery
 
@@ -151,7 +151,7 @@ Consider how your book-lover partner can hold your image in their hand. This cus
 
 ## Jewelry Gift
 
-Selecting jewelry for another person can be a challenge that knows no direction. How about picking jewelry for two? You can consider a piece that you both will wear and emotionally share. A best friend or significant other [personalized design jewelry](https://www.etsy.com/listing/648227465/best-friend-gift-personalized-friendship?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=distance+jewelry&ref=sr_gallery-1-1&pro=1&sts=1&organic_search_click=1) is sure to add connection no matter how far away. Your creation can become a partner gift as you both wear these bond touch bracelets. Your present locale is represented with the symbolic sign for love seemingly shortening your actual distance.
+Selecting jewelry for another person can be a challenge that knows no direction. How about picking jewelry for two? You can consider a piece that you both will wear and emotionally share. A best friend or significant other personalized design jewelry is sure to add connection no matter how far away. Your creation can become a partner gift as you both wear these bond touch bracelets. Your present locale is represented with the symbolic sign for love seemingly shortening your actual distance.
 
 ## Welcome Home
 
