@@ -99,7 +99,7 @@ When you’re in a long-distance relationship, you can feel pretty, well, distan
 
 ## Personalized Hoodie
 
-Do you think you two will enjoy the same comfies? How about [personalized somewhat matching hoodies](https://www.etsy.com/market/custom_hoodie) to hug each other long-distance? With your creativity, you can match your message and colors. You two will enjoy the same comfy feeling when wearing them, no matter how far apart.
+Do you think you two will enjoy the same comfies? How about personalized somewhat matching hoodies to hug each other long-distance? With your creativity, you can match your message and colors. You two will enjoy the same comfy feeling when wearing them, no matter how far apart.
 
 ## Video-Playing Book
 
