@@ -25,6 +25,8 @@ items:
       - text: "Blog"
         url: "/blog/"
       - text: ""
+      - text: "Shipping"
+        url: "/shipping/"
       - text: "Videographers"
         url: "/for-photographers-and-videographers/"
       - text: "Photobooks"
