@@ -448,10 +448,6 @@ span.line--pink::after {
   .Logo-banner--items.Logo-banner--desktop {
     display: none;
   }
-
-  .preview-on-hover .preview-on-hover__popup {
-    display: none !important;
-  }
 }
 
 .Logo-banner--item {
@@ -515,6 +511,12 @@ span.line--pink::after {
   background: #d8d3d4;
 }
 
+@media(max-width: 750px) {
+  .Logo-banner .Column {
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+  }
+}
 @media(max-width: 650px) {
   .Section-is-solid.Logo-banner {
     padding-left: 0;
