@@ -27,6 +27,8 @@ items:
       - text: ""
       - text: "Shipping"
         url: "/shipping/"
+      - text: "Returns"
+        url: "/returns/"
       - text: "Videographers"
         url: "/for-photographers-and-videographers/"
       - text: "Photobooks"
