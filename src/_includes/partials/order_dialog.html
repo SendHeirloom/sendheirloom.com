@@ -159,12 +159,12 @@
         <div class="Dialog--content" dialog-content>
           <div class="Stack">
             <div>
-              Purchase <a class="Link" data-action="change-quantity"><output class="quantity"></output></a>
+              You're purchasing <a class="Link" data-action="change-quantity"><output class="quantity"></output></a>
               &nbsp;video book<span if-qty="plural:show">s</span>
               with <span if-qty="plural:hide">a&nbsp;</span><output class="booktype"></output>&nbsp;display<span if-qty="plural:show">s</span>
               (<output class='booktype-price'></output><output class='perunit-savings'></output>)
-              that hold<span if-qty="plural:hide">s</span> up to&nbsp;<output class="duration"></output>&nbsp;and shipping
-              for a total of&nbsp;<output class="total-price"></output>.
+              which hold<span if-qty="plural:hide">s</span> up to&nbsp;<output class="duration"></output>&nbsp;of video and photos, with shipping ($7)
+              for a total of&nbsp;<output class="total-price"></output>&nbsp;today.
             </div>
 
             <div class="FormField">
@@ -174,9 +174,10 @@
               </svg>
             </div>
 
-            <div class="text-xs my-2">Immediately after your purchase, you will be sent a link to begin building your video book.</div>
+            <div class="text-xs my-2">Immediately after your purchase, you’ll receive an email with a secure link to begin creating your video book. You can also access our builder anytime at <a class="Link text-blue-link" href="https://make.sendheirloom.com">make.sendheirloom.com</a>.</div>
 
-            <div class="text-xs mt-2">Express shipping options will be available when you build your video book<span if-qty="plural:show">s</span>. Order with confidence, we have a no-questions-asked full refund policy. <a class="Link" data-action="apply-discount">Apply discount code.</a></div>
+            <div class="text-xs mt-2">Express shipping options will be available when you build your video book<span if-qty="plural:show">s</span>. Order with confidence, we have a no-questions-asked full refund policy.</div>
+            <div class="text-xs mt-2"><a class="Button Button-is-bordered" data-action="apply-discount">Apply discount code</a></div>
             <div class="pay-discount-section mt-3 flex" hidden>
               <label class="w-8/12 mr-2 text-xs">
                 Discount code
@@ -230,6 +231,10 @@ input:checked + div.checkbox-replacement svg {
 }
 [hidden] {
   display: none;
+}
+
+[dialog="order"] .Link.text-blue-link {
+  color: #4971ac !important;
 }
 
 .result-message {
