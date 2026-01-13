@@ -4,7 +4,7 @@ description: Valentine’s Day is all about celebrating the love and memories yo
   share with your partner. Instead of the usual flowers or chocolates, why not
   give a personalized video book from Heirloom—a gift that tells your story and
   preserves your most cherished moments?
-author: Randee Bloom, RN, MBA, PhD
+author: Ashley Bloom Kenny
 date: 2026-01-13T06:26:49.405Z
 social_image: /static/images/og-image.jpg
 ---
