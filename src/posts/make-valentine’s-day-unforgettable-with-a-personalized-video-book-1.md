@@ -4,7 +4,7 @@ description: Valentine’s Day is the perfect opportunity to show your loved one
   how much they mean to you. This year, skip the generic flowers and chocolates,
   and give a gift that truly captures your shared memories—a personalized video
   book from Heirloom Video Books.
-author: Randee Bloom, RN, MBA, Phd
+author: Randee Bloom, RN, MBA, PhD
 date: 2026-01-13T06:22:47.895Z
 social_image: /static/images/og-image.jpg
 ---
