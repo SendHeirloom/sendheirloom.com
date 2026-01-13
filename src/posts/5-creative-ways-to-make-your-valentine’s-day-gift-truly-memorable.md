@@ -8,6 +8,8 @@ author: Ashley Bloom Kenny
 date: 2026-01-13T06:26:49.405Z
 social_image: /static/images/og-image.jpg
 ---
+![](https://ucarecdn.com/5d76b683-1320-4981-9f9c-1f9c6012c65a/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
+
 ## 1. Capture Your Love Story
 
 A **custom [Heirloom video book](https://sendheirloom.com)** lets you compile photos and videos from your relationship, from your first date to your most recent adventures together. This turns ordinary memories into a **sentimental keepsake** that your partner will treasure forever.
