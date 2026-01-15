@@ -9,6 +9,10 @@ author: Ashley Bloom Kenny
 date: 2026-01-15T20:29:10.894Z
 social_image: /static/images/og-image.jpg
 ---
+![](https://ucarecdn.com/0aff9fcb-7321-40a9-9bbd-62d9b79f420a/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
+
+![](https://ucarecdn.com/4a86ae7a-a47b-45db-8f01-f2c4e4506871/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/)
+
 **This is where the Heirloom Video Book has become a standout choice for modern weddings.**
 
 Unlike traditional photo albums or cloud-based video links that get lost over time, wedding video books combine the emotion of video with the permanence of a physical heirloom. Couples want more than static memories—they want voices, laughter, vows, and movement preserved in a way that feels tangible, meaningful, and lasting.
