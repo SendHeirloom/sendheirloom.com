@@ -1,7 +1,6 @@
 ---
-title: "Guide to Crafting Group Video Gifts "
-description: "Learn how to create memorable group video gifts for any occasion.
-  Follow our step-by-step guide to make moments special on Heirloom. "
+title: "How to Create a Group Video Gift That Lasts"
+description: "Discover how to create a meaningful group video gift using a personalized video book everyone will cherish."
 author: Ashley Kenny
 date: 2025-04-06T18:48:01.562Z
 social_image: /static/images/og-image.jpg

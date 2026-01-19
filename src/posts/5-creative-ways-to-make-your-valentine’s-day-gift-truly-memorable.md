@@ -1,9 +1,6 @@
 ---
-title: 5 Creative Ways to Make Your Valentine’s Day Gift Truly Memorable
-description: Valentine’s Day is all about celebrating the love and memories you
-  share with your partner. Instead of the usual flowers or chocolates, why not
-  give a personalized video book from Heirloom—a gift that tells your story and
-  preserves your most cherished moments?
+title: "Creative Valentine’s Day Gift Ideas 2026 with Video Books"
+description: Looking for Valentine’s Day gift ideas? Discover creative, personalized video book gifts made with photos and videos they’ll cherish forever.
 author: Ashley Bloom Kenny
 date: 2026-01-13T06:26:49.405Z
 social_image: /static/images/og-image.jpg

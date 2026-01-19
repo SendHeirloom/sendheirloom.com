@@ -1,6 +1,6 @@
 ---
-title: Create a Video Book From Your Photos
-description: A slideshow of you photos can be in your hands with an Heirloom Video Book!
+title: Create a Video Book from Your Photos & Videos
+description: Learn how to turn your photos and videos into a beautiful video memory book that plays with sound.
 author: Randee Bloom, RN, MBA, PhD
 date: 2025-03-06T17:46:25.504Z
 social_image: /static/images/og-image.jpg

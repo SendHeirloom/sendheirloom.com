@@ -1,7 +1,6 @@
 ---
 title: "10 Meaningful Ways to Celebrate Grandparents' Day "
-description: Looking to make Grandparents' Day special? Discover 10 heartfelt
-  ways to celebrate and honor your grandparents' love and wisdom.
+description: Celebrate Grandparents Day with meaningful gifts like video books filled with family photos and videos.
 author: Randee Bloom, RN, MBA, PhD
 date: 2025-03-29T14:02:23.074Z
 social_image: /static/images/og-image.jpg

@@ -1,7 +1,6 @@
 ---
-title: Custom Memory Books Using Video
-description: Learn how you can create a custom memory books utilizing the
-  well-designed and user-friendly platform offered by Heirloom Video Books.
+title: Custom Memory Books Using Video | Video Books
+description: Discover how custom memory books using video can preserve your most important moments beautifully.
 author: Randee Bloom, RN, MBA, PhD
 date: 2024-01-26T20:17:18.251Z
 social_image: /static/images/og-image.jpg

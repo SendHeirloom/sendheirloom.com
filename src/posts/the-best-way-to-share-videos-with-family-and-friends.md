@@ -1,6 +1,6 @@
 ---
 title: "Elevate Your Video Sharing: The Ultimate Guide | Heirloom Blog"
-description: "Explore innovative ways to share videos with loved ones. From premium video books to personalized experiences, discover the art of meaningful sharing with Heirloom."
+description: "Learn why video books are the best way to share videos with family and friends in a lasting, personal format."
 author: Randee Bloom, RN, MBA, PhD
 date: 2022-11-15T02:55:46.938Z
 social_image: https://ucarecdn.com/ed0f4541-7018-4863-92df-e0df5491ad2f/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/
