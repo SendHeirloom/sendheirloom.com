@@ -1,5 +1,5 @@
 ---
-title: "**How to Capture a Company’s Origin Story Using Video Books**"
+title: How to Capture a Company’s Origin Story Using Video Books
 description: Every successful company has a beginning shaped by vision,
   persistence, and defining moments. Capturing that origin story is more than a
   branding exercise—it is a way to preserve institutional memory, humanize the
