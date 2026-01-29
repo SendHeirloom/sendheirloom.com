@@ -39,6 +39,8 @@ For milestone moments or emotional storytelling, many people want something more
 
 **How Personalized Video Books Go Beyond Digital Greeting Cards**  
 
+![](https://i.ibb.co/VW3DMJn6/16-copy-1.jpg)
+
 [Personalized video books](https://sendheirloom.com) transform digital memories into a physical gift that plays videos and photos when opened. Unlike a digital greeting card, a video book is meant to be kept, revisited, and cherished for years.
 
 This makes personalized video books especially meaningful for birthdays, anniversaries, weddings, memorials, and family milestones.
