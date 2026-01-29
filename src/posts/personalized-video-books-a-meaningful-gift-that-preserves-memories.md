@@ -10,6 +10,8 @@ social_image: /static/images/og-image.jpg
 ---
 [Personalized video books](https://sendheirloom.com/) bring together storytelling, technology, and tangibility in a way few gifts can. By combining videos, photos, and a physical book format, they transform personal moments into a lasting keepsake. If you are looking for a personalized gift book that feels thoughtful, emotional, and enduring, this guide explains the best options available—and why video books stand out.
 
+![](https://i.ibb.co/84dyt0HF/5.jpg)
+
 **What Makes a Personalized Gift Truly Meaningful?**
 
 The gifts people remember longest tend to share a few qualities:
