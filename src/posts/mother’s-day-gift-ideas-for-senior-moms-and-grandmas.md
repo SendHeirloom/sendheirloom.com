@@ -11,6 +11,8 @@ social_image: /static/images/og-image.jpg
 ---
 Shared experiences, thoughtful activities, and memory-preserving keepsakes—such as personalized video books—allow families to celebrate in ways that feel personal and lasting. Especially for older mothers and grandmothers, Mother’s Day celebrations should balance joy with safety, familiarity, and emotional connection. These ideas focus on creating warm moments today while preserving memories for tomorrow through [Heirloom Video Books](https://sendheirloom.com) and family traditions.
 
+![](https://i.ibb.co/Q3mxvDjx/Email2.jpg)
+
 **How Can You Share a Meaningful Meal with Mom or Grandma on Mother’s Day?**  
 
 Sharing a meal has always been one of the simplest and most powerful ways to connect. Whether dining at a favorite local restaurant or enjoying a home-cooked meal together, the real gift is the shared time and conversation.
