@@ -7,7 +7,7 @@ description: Grandparents Day is a meaningful opportunity to honor family
   role grandparents play in shaping family identity and preserving traditions.
 author: Ashley Bloom Kenny
 date: 2026-01-29T15:40:24.613Z
-social_image: /static/images/og-image.jpg
+social_image: https://i.ibb.co/m5qVqb3D/Heirloom-Video-Book-1-main-product.jpg
 ---
 One of the most lasting ways to celebrate Grandparents Day is by focusing on memory preservation. Creating space for stories, experiences, and shared moments ensures that wisdom and family history are not lost over time. A [video memory book](https://sendheirloom.com/) offers a unique way to capture these moments—preserving voices, expressions, and stories in a format families can revisit for generations.
 
