@@ -82,7 +82,7 @@
                   <input type="radio" name="booktype" value="seven_inch" class="sr-only peer" />
                   <div class="block p-2 bg-gray-100	border border-blue-100 peer-checked:bg-gray-200 peer-checked:border-blue-500">
                     <span class="font-bold">7" display</span>
-                    <span>$78</span>
+                    <span>$88</span>
                   </div>
                 </label>
               </div>
@@ -820,7 +820,7 @@ input:checked + div.checkbox-replacement svg {
 
     const localCost = getCost()
     const savings = localCost - unitPrice
-    const bookTypePrice = bookType === "seven_inch" ? 78 : 49
+    const bookTypePrice = bookType === "seven_inch" ? 88 : 49
     const perUnitAfterSavings = bookTypePrice - savings
 
     let priceOut = "$" + round(totalPrice)
