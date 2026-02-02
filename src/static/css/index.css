@@ -2569,3 +2569,21 @@ body .TwoUp--content-h4 {
     margin-right: auto;
   }
 }
+
+.Footer--links-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+}
+
+@media (min-width: 600px) {
+  .Footer--links-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (min-width: 1024px) {
+  .Footer--links-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
