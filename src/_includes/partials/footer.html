@@ -1,3 +1,40 @@
+{% set footerLinks = [
+{
+title: "Occasions",
+links: [
+{ href: "/", text: "Browse All Occasions" },
+{ href: "/send-birthday-video-gift/", text: "Birthday Video Book" },
+{ href: "/wedding-video-book/", text: "Wedding Video Book" },
+{ href: "/mail-memorial-video-book/", text: "Memorial Video Book" }
+]
+},
+{
+title: "Products",
+links: [
+{ href: "/covers/", text: "Custom Covers" },
+{ href: "/photobooks/", text: "Photobooks / Video Photobooks" }
+]
+},
+{
+title: "Business",
+links: [
+{ href: "/business/", text: "Video Books for Business" },
+{ href: "/for-photographers-and-videographers/", text: "For Photographers Videographers" }
+]
+},
+{
+title: "Support",
+links: [
+{ href: "/faq/", text: "Frequently Asked Questions" },
+{ href: "/about-us/", text: "About Heirloom" },
+{ href: "/contact/", text: "Contact Us" },
+{ href: "/returns/", text: "Returns & Shipping" },
+{ href: "/privacy/", text: "Privacy" },
+{ href: "/terms/", text: "Terms" }
+]
+}
+] %}
+
 <footer class="Page-Footer font-heading">
   <div class="Footer">
     <ul class="Footer--social-links">
@@ -33,48 +70,12 @@
 
   <div class="max-w-2xl	w-11/12 mx-auto mt-6">
     <div class="Footer--links-grid">
-      {% set footerLinks = [
-      {
-      title: "Occasions",
-      links: [
-      { href: "/", text: "Browse All Occasions" },
-      { href: "/send-birthday-video-gift/", text: "Birthday Video Book" },
-      { href: "/wedding-video-book/", text: "Wedding Video Book" },
-      { href: "/mail-memorial-video-book/", text: "Memorial Video Book" }
-      ]
-      },
-      {
-      title: "Products",
-      links: [
-      { href: "/covers/", text: "Custom Covers" },
-      { href: "/photobooks/", text: "Photobooks / Video Photobooks" }
-      ]
-      },
-      {
-      title: "Business",
-      links: [
-      { href: "/business/", text: "Video Books for Business" },
-      { href: "/for-photographers-and-videographers/", text: "For Photographers Videographers" }
-      ]
-      },
-      {
-      title: "Support",
-      links: [
-      { href: "/faq/", text: "Frequently Asked Questions" },
-      { href: "/about-us/", text: "About Heirloom" },
-      { href: "/contact/", text: "Contact Us" },
-      { href: "/returns/", text: "Returns & Shipping" },
-      { href: "/privacy/", text: "Privacy" },
-      { href: "/terms/", text: "Terms" }
-      ]
-      }
-      ] %}
       {% for column in footerLinks %}
       <div class="Footer--links-column">
-        <h3>{{ column.title }}</h3>
-        <ul>
+        <h3 class="mb-3" style="font-weight: 600;">{{ column.title }}</h3>
+        <ul style="font-size: 0.8em;">
           {% for link in column.links %}
-          <li><a href="{{ link.href }}">{{ link.text }}</a></li>
+          <li><a href="{{ link.href }}" class="Link--underline-hover">{{ link.text }}</a></li>
           {% endfor %}
         </ul>
       </div> 
@@ -82,6 +83,6 @@
     </div>
   </div>
   <div class="Footer--legal">
-    <a class="Link Link-without-underline" href="/">© 2025 Send Heirloom, Inc.</a>
+    <a class="Link Link-without-underline" href="/" style="font-size: 0.8em;">© 2026 Send Heirloom, Inc.</a>
   </div>
 </footer>

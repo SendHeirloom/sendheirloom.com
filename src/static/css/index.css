@@ -1895,6 +1895,14 @@ body .TwoUp--content-h4 {
   text-decoration: none;
 }
 
+.Link--underline-hover:hover {
+  text-decoration: underline;
+}
+
+.Link--underline-hover:focus {
+  outline: 1px solid;
+}
+
 /* Customer Video Books --start */
 .Holidays-Books .customerVideoBooks {
   max-width: 1700px;
