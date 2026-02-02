@@ -1,3 +1,40 @@
+{% set footerLinks = [
+{
+title: "Occasions",
+links: [
+{ href: "/", text: "All Occasions" },
+{ href: "/send-birthday-video-gift/", text: "Birthday Video Book" },
+{ href: "/wedding-video-book/", text: "Wedding Video Book" },
+{ href: "/mail-memorial-video-book/", text: "Memorial Video Book" }
+]
+},
+{
+title: "Products",
+links: [
+{ href: "/covers/", text: "Custom Covers" },
+{ href: "/photobooks/", text: "Photo Books" }
+]
+},
+{
+title: "Business",
+links: [
+{ href: "/business/", text: "For Business" },
+{ href: "/for-photographers-and-videographers/", text: "For Videographers" }
+]
+},
+{
+title: "Support",
+links: [
+{ href: "/faq/", text: "FAQ" },
+{ href: "/about-us/", text: "About" },
+{ href: "/contact/", text: "Contact Us" },
+{ href: "/returns/", text: "Returns" },
+{ href: "/privacy/", text: "Privacy" },
+{ href: "/terms/", text: "Terms" }
+]
+}
+] %}
+
 <footer class="Page-Footer font-heading">
   <div class="Footer">
     <ul class="Footer--social-links">
@@ -31,14 +68,21 @@
     </ul>
   </div>
 
+  <div class="max-w-2xl	w-11/12 mx-auto mt-6">
+    <div class="Footer--links-grid">
+      {% for column in footerLinks %}
+      <div class="Footer--links-column">
+        <h3 class="mb-3" style="font-weight: 600;">{{ column.title }}</h3>
+        <ul style="font-size: 0.8em;">
+          {% for link in column.links %}
+          <li><a href="{{ link.href }}" class="Link--underline-hover">{{ link.text }}</a></li>
+          {% endfor %}
+        </ul>
+      </div> 
+      {% endfor %}
+    </div>
+  </div>
   <div class="Footer--legal">
-    <a class="Link Link-without-underline" href="/">© 2025 Send Heirloom, Inc.</a>
-    <span mobile-only><br/></span>
-    <span desktop-only>&nbsp;·&nbsp;</span>
-    <a class="Link Link-without-underline" href="/terms/">Terms</a>
-    &nbsp;·&nbsp;
-    <a class="Link Link-without-underline" href="/returns/">Returns</a>
-    &nbsp;·&nbsp;
-    <a class="Link Link-without-underline" href="/privacy/">Privacy</a>
+    <a class="Link Link-without-underline" href="/" style="font-size: 0.8em;">© 2026 Send Heirloom, Inc.</a>
   </div>
 </footer>
