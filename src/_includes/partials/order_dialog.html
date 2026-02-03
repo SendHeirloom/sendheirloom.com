@@ -680,6 +680,10 @@ input:checked + div.checkbox-replacement svg {
         'user_id': hash(email),
       });
 
+      if (window.identifyPosthogUser) {
+        window.identifyPosthogUser(email);
+      }
+
       window.woopra
         && window.woopra.identify({email})
         && window.woopra.push();
