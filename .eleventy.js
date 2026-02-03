@@ -28,6 +28,9 @@ async function imageShortcode(src, alt, widths, sizes, classes) {
 }
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addFilter("stripHtml", (string) => {
+    return string.replace(/<[^>]+>/g, "").trim();
+  });
   // Disable automatic use of your .gitignore
   eleventyConfig.setUseGitIgnore(false);
 
