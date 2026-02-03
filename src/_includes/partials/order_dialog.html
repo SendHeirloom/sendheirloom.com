@@ -644,6 +644,17 @@ input:checked + div.checkbox-replacement svg {
     window.rewardful && rewardful('convert', {
       email: p['email'],
     });
+
+    if (window.posthog && window.posthog.capture) {
+      window.posthog.capture('stripe_purchase', {
+        order_id: p['orderId'],
+        amount_usd: value,
+        quantity: p['qty'],
+        email: p['email'] || null,
+        hashed_email: p['hashedEm'] || null,
+        discount_code: discountCode,
+      });
+    }
   }
 
   if (params['flow'] === 'order' && params['step'] === 'thanks'){
