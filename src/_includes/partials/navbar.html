@@ -23,10 +23,10 @@
           {% for item in navigation.items %}
             {% if item.items %}
               <div class="Header-links--menu">
-                <label class="Header--link" for="{{ item.text }}-toggle">
+                <label class="Header--link" for="{{ item.text | stripHtml }}-toggle"> 
                   {{ item.text | safe }}
                 </label>
-                <input class="Header-nested--toggle" id="{{ item.text }}-toggle" type="checkbox" is-visually-hidden />
+                <input class="Header-nested--toggle" id="{{ item.text | stripHtml }}-toggle" type="checkbox" is-visually-hidden />
                 <ul class="Header-nested--links">
                   {% for innerItem in item.items %}
                     <li>
