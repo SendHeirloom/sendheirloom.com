@@ -85,6 +85,13 @@
                     <span>$88</span>
                   </div>
                 </label>
+                <label class="cursor-pointer text-sm">
+                  <input type="radio" name="booktype" value="ten_inch" class="sr-only peer" />
+                  <div class="block p-2 bg-gray-100	border border-blue-100 peer-checked:bg-gray-200 peer-checked:border-blue-500">
+                    <span class="font-bold">10" display</span>
+                    <span>$129</span>
+                  </div>
+                </label>
               </div>
             </div>
           </div>
@@ -819,6 +826,8 @@ input:checked + div.checkbox-replacement svg {
     let cost = 49
     if (bookType === "seven_inch") {
       cost += 29
+    } else if (bookType === "ten_inch") {
+      cost += 80
     }
     if (duration === 20) {
       return cost + 20
@@ -835,7 +844,7 @@ input:checked + div.checkbox-replacement svg {
 
     const localCost = getCost()
     const savings = localCost - unitPrice
-    const bookTypePrice = bookType === "seven_inch" ? 88 : 49
+    const bookTypePrice = bookType === "ten_inch" ? 129 : bookType === "seven_inch" ? 88 : 49
     const perUnitAfterSavings = bookTypePrice - savings
 
     let priceOut = "$" + round(totalPrice)
@@ -860,6 +869,8 @@ input:checked + div.checkbox-replacement svg {
     let friendlyBookType = "5\"";
     if (bookType === "seven_inch") {
         friendlyBookType = "7\"";
+    } else if (bookType === "ten_inch") {
+        friendlyBookType = "10\"";
     }
     payStep.querySelectorAll('output.booktype').forEach(el => el.textContent = friendlyBookType);
 
