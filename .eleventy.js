@@ -60,6 +60,7 @@ module.exports = function (eleventyConfig) {
     "./_tmp/static/css/tailwind.css": "./static/css/tailwind.css",
     "./src/admin/config.yml": "./admin/config.yml",
     "./src/robots.txt": "./robots.txt",
+    "./src/llms.txt": "./llms.txt",
     "./src/static/well-known/*": "./.well-known",
   });
 
