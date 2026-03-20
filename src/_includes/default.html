@@ -91,6 +91,15 @@
         secure_cookie: true,
         cross_subdomain_cookie: true,
     })
+
+    window.identifyPosthogUser = function(email) {
+        if (!email) return
+        posthog.identify(email, { email: email })
+    }
+
+    if (localStorage.customerEmailAddress) {
+        window.identifyPosthogUser(localStorage.customerEmailAddress)
+    }
     </script>
 
     <script>(function(w,r){w._rwq=r;w[r]=w[r]||function(){(w[r].q=w[r].q||[]).push(arguments)}})(window,'rewardful');</script>
