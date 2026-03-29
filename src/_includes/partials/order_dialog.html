@@ -653,7 +653,7 @@ input:checked + div.checkbox-replacement svg {
     });
 
     if (window.posthog && window.posthog.capture) {
-      window.posthog.capture('stripe_purchase', {
+      window.posthog.capture('stripe_payment_succeeded', {
         order_id: p['orderId'],
         amount_usd: value,
         quantity: p['qty'],
