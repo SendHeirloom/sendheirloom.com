@@ -1,0 +1,613 @@
+---
+layout: false
+permalink: /preview-album/index.html
+---
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700;800&family=Caveat:wght@400;500;600&display=swap');
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #e8e0d8; font-family: 'Nunito Sans', 'Avenir Next', 'Avenir', sans-serif; display: flex; justify-content: center; padding: 40px 20px; }
+  .email { max-width: 600px; width: 100%; background: white; overflow: hidden; }
+
+  .header { padding: 20px 32px; text-align: center; background: white; }
+  .logo { font-size: 26px; font-weight: 700; color: #2d2d2d; letter-spacing: -0.5px; }
+  .logo .heart { color: #c4545a; }
+
+  .hero {
+    position: relative;
+    background: linear-gradient(180deg, #f7f3ef 0%, #ede5db 100%);
+    padding: 40px 32px 0;
+    text-align: center;
+    overflow: hidden;
+  }
+
+  .badge {
+    display: inline-block;
+    background: linear-gradient(135deg, #97c0ca, #7ab0bc);
+    color: white;
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding: 6px 18px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+  }
+
+  .hero h1 {
+    font-size: 34px;
+    font-weight: 700;
+    color: #2d2d2d;
+    line-height: 1.25;
+    margin-bottom: 12px;
+  }
+  .hero h1 span { color: #97c0ca; }
+
+  .hero p {
+    font-size: 15px;
+    color: #888;
+    line-height: 1.7;
+    max-width: 440px;
+    margin: 0 auto 32px;
+  }
+
+  .product-scene {
+    position: relative;
+    width: 520px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+  }
+
+  .surface {
+    position: absolute;
+    bottom: 0;
+    left: -40px;
+    right: -40px;
+    height: 80px;
+    background: linear-gradient(180deg, #e8dfd4, #ddd4c8);
+    border-radius: 4px 4px 0 0;
+  }
+
+  .album-shadow {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 420px;
+    height: 20px;
+    background: radial-gradient(ellipse, rgba(0,0,0,0.15) 0%, transparent 70%);
+    filter: blur(8px);
+  }
+
+  .album {
+    position: relative;
+    z-index: 2;
+    width: 480px;
+    margin: 0 auto;
+    transform: perspective(1200px) rotateX(3deg);
+  }
+
+  .book-cover-back {
+    position: absolute;
+    top: 4px; left: -3px; right: -3px; bottom: -6px;
+    background: linear-gradient(145deg, #8b7b6b, #6b5b4b);
+    border-radius: 4px 8px 8px 4px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  }
+
+  .pages-edge {
+    position: absolute;
+    top: 3px; left: -1px; right: -1px; bottom: -4px;
+    background: repeating-linear-gradient(0deg, #f5f0ea, #f5f0ea 1px, #e8e0d8 1px, #e8e0d8 2px);
+    border-radius: 2px 6px 6px 2px;
+  }
+
+  .spread {
+    position: relative;
+    display: flex;
+    background: white;
+    border-radius: 2px 4px 4px 2px;
+    overflow: hidden;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.06), 0 8px 24px rgba(0,0,0,0.1);
+  }
+
+  .page {
+    flex: 1;
+    position: relative;
+    overflow: hidden;
+    height: 240px;
+  }
+
+  .spine-divider {
+    width: 10px;
+    background: linear-gradient(90deg,
+      rgba(0,0,0,0.04) 0%, rgba(0,0,0,0.08) 20%,
+      rgba(0,0,0,0.02) 50%, rgba(0,0,0,0.08) 80%,
+      rgba(0,0,0,0.04) 100%
+    );
+    flex-shrink: 0;
+  }
+
+  /* ── Left page: full layout with sketched photos ── */
+  .page-left {
+    background: #faf8f5;
+  }
+
+  .page-left svg {
+    width: 100%;
+    height: 100%;
+  }
+
+  /* ── Right page: photo + touch screen ── */
+  .page-right {
+    background: #faf8f5;
+  }
+
+  .page-right svg {
+    width: 100%;
+    height: 100%;
+  }
+
+  /* Features strip */
+  .features {
+    display: flex;
+    border-top: 1px solid #f0ebe5;
+    border-bottom: 1px solid #f0ebe5;
+  }
+  .feature {
+    flex: 1;
+    text-align: center;
+    padding: 24px 16px;
+  }
+  .feature + .feature { border-left: 1px solid #f0ebe5; }
+  .feature-num { font-size: 28px; font-weight: 800; color: #97c0ca; line-height: 1; margin-bottom: 4px; }
+  .feature-label { font-size: 11px; font-weight: 600; color: #aaa; text-transform: uppercase; letter-spacing: 1px; }
+
+  .social-proof {
+    padding: 24px 32px;
+    text-align: center;
+    background: #faf8f5;
+  }
+  .stars { color: #f0c040; font-size: 18px; letter-spacing: 2px; margin-bottom: 8px; }
+  .testimonial { font-size: 14px; font-style: italic; color: #888; line-height: 1.6; max-width: 420px; margin: 0 auto 6px; }
+  .testimonial-author { font-size: 12px; color: #bbb; font-weight: 600; }
+
+  .cta {
+    padding: 32px;
+    text-align: center;
+    background: white;
+  }
+  .cta h2 { font-size: 22px; font-weight: 700; color: #2d2d2d; margin-bottom: 6px; }
+  .cta p { font-size: 13px; color: #aaa; margin-bottom: 20px; }
+  .cta-form {
+    display: flex;
+    max-width: 380px;
+    margin: 0 auto;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  }
+  .cta-input {
+    flex: 1;
+    padding: 14px 16px;
+    border: 1px solid #e0d8d0;
+    border-right: none;
+    border-radius: 8px 0 0 8px;
+    font-family: inherit;
+    font-size: 14px;
+    color: #555;
+    background: #faf8f5;
+    outline: none;
+  }
+  .cta-btn {
+    background: linear-gradient(135deg, #97c0ca, #7ab0bc);
+    color: white;
+    border: none;
+    padding: 14px 28px;
+    font-family: inherit;
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    white-space: nowrap;
+    border-radius: 0 8px 8px 0;
+  }
+  .cta-fine { font-size: 11px; color: #ccc; margin-top: 10px; }
+
+  .footer {
+    padding: 20px 32px;
+    text-align: center;
+    background: #f5f0eb;
+  }
+  .footer-text { font-size: 11px; color: #bbb; line-height: 1.8; }
+  .footer-text a { color: #97c0ca; text-decoration: none; }
+</style>
+</head>
+<body>
+
+<div class="email">
+  <div class="header">
+    <div class="logo"><span class="heart">&hearts;</span> Heirloom</div>
+  </div>
+
+  <div class="hero">
+    <div class="badge">Coming Soon</div>
+    <h1>A Photo Album<br>That <span>Comes Alive</span></h1>
+    <p>
+      The world's first printed photo album that also plays your videos.
+    </p>
+
+    <div class="product-scene">
+      <div class="surface"></div>
+      <div class="album-shadow"></div>
+      <div class="album">
+        <div class="book-cover-back"></div>
+        <div class="pages-edge"></div>
+        <div class="spread">
+          <!-- LEFT PAGE: full layout with sketched family photos -->
+          <div class="page page-left">
+            <svg viewBox="0 0 235 240" xmlns="http://www.w3.org/2000/svg">
+              <defs>
+                <filter id="pencil" x="-2%" y="-2%" width="104%" height="104%">
+                  <feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="4" result="noise"/>
+                  <feDisplacementMap in="SourceGraphic" in2="noise" scale="1.5" xChannelSelector="R" yChannelSelector="G"/>
+                </filter>
+              </defs>
+
+              <!-- Background -->
+              <rect width="235" height="240" fill="#faf8f5"/>
+
+              <!-- Large hero photo: family at beach -->
+              <g filter="url(#pencil)">
+                <rect x="8" y="8" width="219" height="130" rx="3" fill="#d4c8a0"/>
+                <!-- Sky -->
+                <rect x="8" y="8" width="219" height="60" rx="3" fill="#a8c8e0"/>
+                <ellipse cx="180" cy="28" rx="15" ry="12" fill="#f0e8d0" opacity="0.6"/>
+                <!-- Sand -->
+                <rect x="8" y="68" width="219" height="70" fill="#e8d8b0"/>
+                <!-- Water line -->
+                <rect x="8" y="60" width="219" height="12" fill="#88b8d8" opacity="0.5"/>
+                <!-- Family figures -->
+                <!-- Adult 1 -->
+                <circle cx="90" cy="65" r="7" fill="#c49060"/>
+                <rect x="85" y="72" width="10" height="20" rx="3" fill="#6888a8"/>
+                <line x1="85" y1="78" x2="78" y2="85" stroke="#c49060" stroke-width="2" stroke-linecap="round"/>
+                <line x1="95" y1="78" x2="102" y2="72" stroke="#c49060" stroke-width="2" stroke-linecap="round"/>
+                <!-- Adult 2 -->
+                <circle cx="115" cy="63" r="8" fill="#d4a870"/>
+                <rect x="109" y="71" width="12" height="22" rx="3" fill="#c47070"/>
+                <line x1="109" y1="78" x2="102" y2="72" stroke="#d4a870" stroke-width="2" stroke-linecap="round"/>
+                <line x1="121" y1="78" x2="128" y2="85" stroke="#d4a870" stroke-width="2" stroke-linecap="round"/>
+                <!-- Child -->
+                <circle cx="140" cy="72" r="5" fill="#e0c090"/>
+                <rect x="137" y="77" width="7" height="14" rx="2" fill="#70a870"/>
+                <!-- Dog -->
+                <ellipse cx="160" cy="85" rx="10" ry="6" fill="#c8a070"/>
+                <circle cx="170" cy="80" r="4" fill="#c8a070"/>
+                <circle cx="172" cy="79" r="1" fill="#333"/>
+              </g>
+
+              <!-- Bottom row: two smaller photos -->
+              <!-- Photo 2: birthday cake -->
+              <g filter="url(#pencil)">
+                <rect x="8" y="146" width="107" height="86" rx="3" fill="#f0e0d0"/>
+                <!-- Table -->
+                <rect x="8" y="195" width="107" height="37" fill="#d8c0a0"/>
+                <!-- Cake -->
+                <rect x="42" y="170" width="38" height="30" rx="4" fill="#f0c8d8"/>
+                <rect x="38" y="165" width="46" height="10" rx="3" fill="#e0a0b8"/>
+                <rect x="42" y="158" width="38" height="10" rx="3" fill="#f0d0e0"/>
+                <!-- Candles -->
+                <line x1="50" y1="150" x2="50" y2="158" stroke="#70a0d0" stroke-width="2"/>
+                <line x1="61" y1="148" x2="61" y2="158" stroke="#d07070" stroke-width="2"/>
+                <line x1="72" y1="150" x2="72" y2="158" stroke="#70d070" stroke-width="2"/>
+                <!-- Flames -->
+                <ellipse cx="50" cy="147" rx="2" ry="3" fill="#f0c040"/>
+                <ellipse cx="61" cy="145" rx="2" ry="3" fill="#f0c040"/>
+                <ellipse cx="72" cy="147" rx="2" ry="3" fill="#f0c040"/>
+                <!-- Person behind -->
+                <circle cx="61" cy="175" r="6" fill="#d4a870" opacity="0.4"/>
+              </g>
+
+              <!-- Photo 3: garden/flowers -->
+              <g filter="url(#pencil)">
+                <rect x="120" y="146" width="107" height="86" rx="3" fill="#d0e0c8"/>
+                <!-- Grass -->
+                <rect x="120" y="200" width="107" height="32" fill="#90b870"/>
+                <!-- Flowers -->
+                <circle cx="140" cy="185" r="6" fill="#e0a0b8"/>
+                <circle cx="140" cy="185" r="2.5" fill="#f0d070"/>
+                <line x1="140" y1="191" x2="140" y2="210" stroke="#60a040" stroke-width="2"/>
+
+                <circle cx="165" cy="178" r="7" fill="#d0a0e0"/>
+                <circle cx="165" cy="178" r="3" fill="#f0e070"/>
+                <line x1="165" y1="185" x2="165" y2="212" stroke="#60a040" stroke-width="2"/>
+
+                <circle cx="190" cy="182" r="5" fill="#f0c070"/>
+                <circle cx="190" cy="182" r="2" fill="#e08040"/>
+                <line x1="190" y1="187" x2="190" y2="208" stroke="#60a040" stroke-width="2"/>
+
+                <circle cx="210" cy="188" r="6" fill="#a0c0e0"/>
+                <circle cx="210" cy="188" r="2.5" fill="#f0e090"/>
+                <line x1="210" y1="194" x2="210" y2="215" stroke="#60a040" stroke-width="2"/>
+
+                <!-- Butterfly -->
+                <ellipse cx="175" cy="168" rx="4" ry="3" fill="#e0a0d0" opacity="0.7" transform="rotate(-20 175 168)"/>
+                <ellipse cx="180" cy="167" rx="4" ry="3" fill="#d090c0" opacity="0.7" transform="rotate(20 180 167)"/>
+                <line x1="177" y1="168" x2="177" y2="165" stroke="#888" stroke-width="0.5"/>
+              </g>
+            </svg>
+          </div>
+
+          <div class="spine-divider"></div>
+
+          <!-- RIGHT PAGE: photos filling area around touch screen -->
+          <div class="page page-right">
+            <svg viewBox="0 0 235 240" xmlns="http://www.w3.org/2000/svg">
+              <defs>
+                <filter id="pencil2" x="-2%" y="-2%" width="104%" height="104%">
+                  <feTurbulence type="fractalNoise" baseFrequency="0.03" numOctaves="4" result="noise"/>
+                  <feDisplacementMap in="SourceGraphic" in2="noise" scale="1.5" xChannelSelector="R" yChannelSelector="G"/>
+                </filter>
+              </defs>
+
+              <rect width="235" height="240" fill="#faf8f5"/>
+
+              <!-- Top-left photo: grandparents portrait -->
+              <g filter="url(#pencil2)">
+                <rect x="8" y="8" width="100" height="82" rx="3" fill="#e8d8c8"/>
+                <!-- Couch -->
+                <rect x="8" y="55" width="100" height="35" rx="3" fill="#a08060"/>
+                <!-- Grandma -->
+                <circle cx="40" cy="40" r="8" fill="#e0c8a0"/>
+                <rect x="33" y="48" width="14" height="18" rx="3" fill="#8888c0"/>
+                <path d="M32 38 Q40 28 48 38" fill="#d8d0c0" stroke="none"/>
+                <!-- Grandpa -->
+                <circle cx="70" cy="38" r="9" fill="#d8c090"/>
+                <rect x="63" y="47" width="14" height="20" rx="3" fill="#608060"/>
+                <rect x="63" y="32" width="14" height="3" rx="1" fill="#888"/>
+              </g>
+
+              <!-- Bottom-left photo: baby -->
+              <g filter="url(#pencil2)">
+                <rect x="8" y="98" width="100" height="134" rx="3" fill="#f0e8e0"/>
+                <!-- Blanket -->
+                <rect x="8" y="140" width="100" height="92" fill="#e0d0e8"/>
+                <!-- Baby -->
+                <circle cx="58" cy="155" r="12" fill="#f0d8c0"/>
+                <ellipse cx="58" cy="170" rx="16" ry="20" fill="#f0f0f0"/>
+                <!-- Eyes -->
+                <circle cx="53" cy="152" r="2" fill="#555"/>
+                <circle cx="63" cy="152" r="2" fill="#555"/>
+                <!-- Smile -->
+                <path d="M54 158 Q58 163 62 158" fill="none" stroke="#c09080" stroke-width="1.5" stroke-linecap="round"/>
+                <!-- Toy -->
+                <circle cx="80" cy="185" r="6" fill="#f0c070"/>
+                <circle cx="80" cy="185" r="3" fill="#e0a040"/>
+                <!-- Stars decoration -->
+                <text x="30" y="130" font-size="8" fill="#d0c0b0" opacity="0.5">&#9734; &#9734; &#9734;</text>
+              </g>
+
+              <!-- TOUCH SCREEN: showing a video scene -->
+              <g>
+                <!-- Screen bezel -->
+                <rect x="116" y="8" width="112" height="82" rx="4" fill="#111118"/>
+                <!-- Screen content: living room video scene -->
+                <rect x="120" y="12" width="104" height="68" rx="2" fill="#2a3040"/>
+
+                <!-- Room scene sketch -->
+                <!-- Wall -->
+                <rect x="120" y="12" width="104" height="45" fill="#3a4a5a"/>
+                <!-- Floor -->
+                <rect x="120" y="57" width="104" height="23" fill="#4a3a30"/>
+                <!-- Window -->
+                <rect x="130" y="18" width="20" height="24" rx="1" fill="#5a7a9a"/>
+                <line x1="140" y1="18" x2="140" y2="42" stroke="#3a4a5a" stroke-width="1"/>
+                <line x1="130" y1="30" x2="150" y2="30" stroke="#3a4a5a" stroke-width="1"/>
+                <!-- Curtains -->
+                <path d="M128 18 Q126 30 128 42" fill="none" stroke="#c8a080" stroke-width="2"/>
+                <path d="M152 18 Q154 30 152 42" fill="none" stroke="#c8a080" stroke-width="2"/>
+                <!-- Person sitting -->
+                <circle cx="185" cy="42" r="6" fill="#d8b890"/>
+                <rect x="180" y="48" width="10" height="14" rx="2" fill="#7888a8"/>
+                <!-- Child on floor -->
+                <circle cx="165" cy="60" r="4" fill="#e0c8a0"/>
+                <ellipse cx="165" cy="66" rx="5" ry="4" fill="#90b870"/>
+                <!-- Play button overlay -->
+                <circle cx="172" cy="45" r="10" fill="rgba(0,0,0,0.3)"/>
+                <polygon points="169,40 169,50 177,45" fill="rgba(255,255,255,0.8)"/>
+
+                <!-- Screen label -->
+                <text x="172" y="76" text-anchor="middle" font-family="Helvetica, sans-serif" font-size="5" fill="rgba(255,255,255,0.3)" letter-spacing="1">TOUCH TO PLAY</text>
+              </g>
+
+              <!-- Right side below screen: pet photo -->
+              <g filter="url(#pencil2)">
+                <rect x="116" y="98" width="112" height="68" rx="3" fill="#e0d8c8"/>
+                <!-- Cat on windowsill -->
+                <rect x="116" y="138" width="112" height="28" fill="#c8b8a0"/>
+                <!-- Window behind -->
+                <rect x="140" y="100" width="60" height="30" rx="2" fill="#a8c8e0"/>
+                <!-- Cat body -->
+                <ellipse cx="175" cy="130" rx="16" ry="10" fill="#f0a050"/>
+                <!-- Cat head -->
+                <circle cx="190" cy="122" r="8" fill="#f0a050"/>
+                <!-- Ears -->
+                <polygon points="185,115 188,108 191,115" fill="#e09040"/>
+                <polygon points="191,115 194,108 197,115" fill="#e09040"/>
+                <!-- Eyes -->
+                <circle cx="187" cy="121" r="1.5" fill="#4a8040"/>
+                <circle cx="193" cy="121" r="1.5" fill="#4a8040"/>
+                <!-- Whiskers -->
+                <line x1="183" y1="124" x2="175" y2="122" stroke="#c88030" stroke-width="0.5"/>
+                <line x1="183" y1="126" x2="175" y2="127" stroke="#c88030" stroke-width="0.5"/>
+                <line x1="197" y1="124" x2="205" y2="122" stroke="#c88030" stroke-width="0.5"/>
+                <line x1="197" y1="126" x2="205" y2="127" stroke="#c88030" stroke-width="0.5"/>
+                <!-- Tail -->
+                <path d="M160 130 Q145 120 150 110" fill="none" stroke="#f0a050" stroke-width="3" stroke-linecap="round"/>
+              </g>
+
+              <!-- Bottom right: holiday photo -->
+              <g filter="url(#pencil2)">
+                <rect x="116" y="172" width="112" height="60" rx="3" fill="#c8d8e8"/>
+                <!-- Snow -->
+                <rect x="116" y="210" width="112" height="22" fill="#e8e8f0"/>
+                <!-- Tree -->
+                <polygon points="150,180 135,210 165,210" fill="#408050"/>
+                <polygon points="150,190 138,210 162,210" fill="#509060"/>
+                <rect x="147" y="210" width="6" height="8" fill="#8b6b4b"/>
+                <!-- Star -->
+                <text x="148" y="183" font-size="8" fill="#f0d040">&#9733;</text>
+                <!-- Snowman -->
+                <circle cx="195" cy="208" r="8" fill="#f0f0f8"/>
+                <circle cx="195" cy="196" r="6" fill="#f0f0f8"/>
+                <circle cx="195" cy="193" r="1" fill="#333"/>
+                <circle cx="198" cy="193" r="1" fill="#333"/>
+                <line x1="193" y1="196" x2="197" y2="195" stroke="#f0a040" stroke-width="1.5"/>
+                <!-- Snowflakes -->
+                <text x="170" y="188" font-size="5" fill="#a0b0c0" opacity="0.6">&#10052;</text>
+                <text x="210" y="195" font-size="4" fill="#a0b0c0" opacity="0.5">&#10052;</text>
+                <text x="130" y="192" font-size="6" fill="#a0b0c0" opacity="0.4">&#10052;</text>
+              </g>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div style="padding: 28px 40px 32px; background: white;">
+    <div style="max-width: 460px; margin: 0 auto; font-size: 15px; color: #666; line-height: 1.8;">
+      <p style="margin-bottom: 14px;">
+        Many of us still use traditional photo albums to preserve our special memories. There&rsquo;s something about flipping through printed pages that a phone screen can never replace.
+      </p>
+      <p style="margin-bottom: 14px;">
+        <strong>But you can&rsquo;t capture a baby&rsquo;s laugh in a photo</strong>.
+      </p>
+      <p style="margin-bottom: 14px;">
+        Our video books have been loved by thousands of families &mdash; but we&rsquo;ve known for a long time that photo albums still have their place on people&rsquo;s shelves. So for the first time, we&rsquo;ve combined the two.
+      </p>
+      <p>
+        A photo album for your pictures, with an embedded video player for your videos &mdash; all packaged together to preserve and present your memories for a lifetime.
+      </p>
+    </div>
+  </div>
+
+  <div class="features">
+    <div class="feature">
+      <div class="feature-num">64</div>
+      <div class="feature-label">Photo Pages</div>
+    </div>
+    <div class="feature">
+      <div class="feature-num">HD</div>
+      <div class="feature-label">Touch Screen</div>
+    </div>
+    <div class="feature">
+      <div class="feature-num">&infin;</div>
+      <div class="feature-label">Memories</div>
+    </div>
+  </div>
+
+  <div class="social-proof">
+    <div class="stars">&starf;&starf;&starf;&starf;&starf;</div>
+    <div class="testimonial">
+      &ldquo;My mom cried when she opened her video book. This album version is going to be even more special.&rdquo;
+    </div>
+    <div class="testimonial-author">&mdash; Sarah K., Heirloom customer</div>
+  </div>
+
+  <!-- Founder's note -->
+  <div style="padding: 36px 32px; background: #fdfbf8; position: relative;">
+    <!-- Paper texture effect -->
+    <div style="
+      max-width: 460px;
+      margin: 0 auto;
+      background: white;
+      border-radius: 2px;
+      padding: 32px 36px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.06), 2px 3px 0 #f5f0ea, 4px 5px 0 #efe8e0;
+      position: relative;
+      transform: rotate(-0.5deg);
+    ">
+      <!-- Tape effect -->
+      <div style="
+        position: absolute;
+        top: -8px;
+        left: 50%;
+        transform: translateX(-50%) rotate(1deg);
+        width: 80px;
+        height: 20px;
+        background: rgba(200, 190, 170, 0.3);
+        border-radius: 2px;
+      "></div>
+
+      <p style="
+        font-family: 'Caveat', cursive;
+        font-size: 20px;
+        color: #4a4a4a;
+        line-height: 1.6;
+        margin-bottom: 16px;
+      ">
+        We've spent the last three years developing something we're really proud of &mdash; a photo album with a built-in video player that actually feels magical to hold.
+      </p>
+      <p style="
+        font-family: 'Caveat', cursive;
+        font-size: 20px;
+        color: #4a4a4a;
+        line-height: 1.6;
+        margin-bottom: 16px;
+      ">
+        We started Heirloom because we believe the best memories deserve more than a phone screen. Our video books have been loved by thousands families. Now we're bringing that same feeling to a full photo album &mdash; printed pages you can flip through, with videos your family can watch anytime.
+      </p>
+      <p style="
+        font-family: 'Caveat', cursive;
+        font-size: 20px;
+        color: #4a4a4a;
+        line-height: 1.6;
+        margin-bottom: 20px;
+      ">
+        It's almost ready. We'd love for you to be one of the first to try it. Drop your email below and we'll let you know the moment it launches &mdash; along with an exclusive early-bird price just for our waitlist.
+      </p>
+      <div style="display: flex; align-items: center; gap: 12px;">
+        <img src="https://sendheirloom.com/img/2LgGMvahDR-407.jpeg" alt="Zack and Ashley" style="
+          width: 48px;
+          height: 48px;
+          border-radius: 50%;
+          object-fit: cover;
+          object-position: center 20%;
+          border: 2px solid #e8e0d8;
+        ">
+        <div>
+          <div style="font-family: 'Caveat', cursive; font-size: 22px; color: #2d2d2d;">
+            &mdash; Zack &amp; Ashley
+          </div>
+          <div style="font-family: 'Nunito Sans', sans-serif; font-size: 11px; color: #bbb; margin-top: -2px;">
+            Founders, Heirloom
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="cta">
+    <h2>Be the first to get one</h2>
+    <p>Sign up for early access and launch-day pricing.</p>
+    <div class="cta-form">
+      <input class="cta-input" type="email" placeholder="Your email address">
+      <button class="cta-btn">Notify Me</button>
+    </div>
+    <div class="cta-fine">No spam. We'll only email you when it's ready.</div>
+  </div>
+
+  <div class="footer">
+    <div class="footer-text">
+      <span style="color: #c4545a;">&hearts;</span> <strong>Heirloom</strong> &middot; Books that play your memories<br>
+      <a href="#">Unsubscribe</a> &middot; <a href="#">Privacy</a>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
