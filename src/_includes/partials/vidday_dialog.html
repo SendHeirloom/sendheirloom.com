@@ -100,6 +100,21 @@
     const dialog = new Dialog(dialogEl);
     window.viddayDialog = dialog;
 
+    // Buttons that used to go to Heirloom ordering pages. Their href is the
+    // VidDay referral link, so they still work if this script doesn't run.
+    document
+      .querySelectorAll("[intent='open-vidday-dialog']")
+      .forEach((el) => {
+        el.addEventListener("click", (event) => {
+          event.preventDefault();
+          dialog.open();
+          window.gtag &&
+            gtag("event", "vidday_modal_open", {
+              cta_id: el.getAttribute("cta-id"),
+            });
+        });
+      });
+
     dialogEl
       .querySelector("[vidday-referral-link]")
       .addEventListener("click", () => {

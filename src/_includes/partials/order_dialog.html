@@ -1,7 +1,5 @@
 <script src="https://js.stripe.com/v3/"></script>
 
-{% include "partials/vidday_dialog.html" %}
-
 <div class="Dialog---backdrop" dialog-backdrop>
   <div
     class="Dialog Dialog-is-small"
@@ -779,7 +777,7 @@
 
         if (ORDERS_DISABLED) {
           // Heirloom is no longer taking orders: refer customers to VidDay.
-          window.viddayDialog.open();
+          window.viddayDialog && window.viddayDialog.open();
           gtag("event", "vidday_modal_open", {
             cta_id: el.getAttribute("cta-id"),
           });
