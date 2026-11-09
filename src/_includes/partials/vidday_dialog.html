@@ -1,0 +1,74 @@
+<div class="Dialog---backdrop" dialog-backdrop>
+  <div
+    class="Dialog Dialog-is-medium VidDayDialog"
+    aria-labelledby="dialog-vidday-title"
+    dialog="vidday"
+  >
+    <h2 class="Dialog--title" id="dialog-vidday-title">
+      Meet our new video book partner, VidDay!
+    </h2>
+
+    <p class="Dialog--subtitle">
+      We’ve partnered with VidDay to help you continue creating and sharing
+      special memories.
+    </p>
+
+    <p class="Dialog--subtitle">
+      Create a video with VidDay or use one you already have. They’ll preload
+      it into your Video Book, so it arrives ready to give.
+    </p>
+
+    <div class="Dialog--actions VidDayDialog--actions">
+      <a
+        class="Button Button-is-pill Button-is-bordered Button-is-primary"
+        href="https://www.vidday.com/ref/heirloom?utm_content=modal"
+        target="_blank"
+        rel="noopener"
+        vidday-referral-link
+        >Shop Video Books</a
+      >
+    </div>
+
+    <div class="Dialog--close-positioner">
+      <button class="Button Button-is-close" aria-label="Close" dialog-close>
+        <svg viewBox="0 0 8 8">
+          <path
+            stroke="currentColor"
+            stroke-width=".75"
+            d="M0 0 L8 8 M8 0 L0 8"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>
+</div>
+
+<style>
+  .VidDayDialog .Dialog--subtitle {
+    margin: 0 0 1em;
+  }
+
+  .VidDayDialog--actions {
+    margin-top: 1.5em;
+    text-align: center;
+  }
+</style>
+
+<script>
+  (function () {
+    const dialogEl = document.querySelector('[dialog="vidday"]');
+    if (!dialogEl) return;
+
+    const dialog = new Dialog(dialogEl);
+    window.viddayDialog = dialog;
+
+    dialogEl
+      .querySelector("[vidday-referral-link]")
+      .addEventListener("click", () => {
+        window.gtag &&
+          gtag("event", "vidday_referral_click", { placement: "modal" });
+        window.woopra && woopra.track("vidday_referral_click");
+        dialog.close();
+      });
+  })();
+</script>

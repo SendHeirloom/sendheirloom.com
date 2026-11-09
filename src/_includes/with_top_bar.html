@@ -4,10 +4,15 @@
 {% if top_bar.body | trim %}
   <div class="TopBanner">
     {% if top_bar.opener | trim %}
-      <span class="TopBanner--accented">{{ top_bar.opener | safe }}:</span>&nbsp;
+      {% set opener = top_bar.opener | trim %}
+      <span class="TopBanner--accented">{{ opener | safe }}{% if ".!?:".indexOf(opener | last) == -1 %}:{% endif %}</span>&nbsp;
     {% endif %}
 
-    {{ top_bar.body | safe }}
+    {% if top_bar.link | trim %}
+      <a class="TopBanner--link" href="{{ top_bar.link | trim }}" target="_blank" rel="noopener">{{ top_bar.body | safe }}</a>
+    {% else %}
+      {{ top_bar.body | safe }}
+    {% endif %}
   </div>
 {% endif %}
 {% endblock %}
