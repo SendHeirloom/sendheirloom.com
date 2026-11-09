@@ -1,0 +1,127 @@
+<div class="Dialog---backdrop" dialog-backdrop>
+  <div
+    class="Dialog Dialog-is-large VidDayDialog"
+    aria-labelledby="dialog-vidday-title"
+    dialog="vidday"
+  >
+    <img
+      class="VidDayDialog--image"
+      src="/static/images/vidday-video-books.jpg"
+      width="1000"
+      height="699"
+      alt="Four white VidDay Video Books with silver foil covers: Happy Birthday, Let's Celebrate!, Made with love., and Memories"
+      loading="lazy"
+    />
+
+    <h2 class="VidDayDialog--title" id="dialog-vidday-title">
+      Meet our new video book partner, VidDay!
+    </h2>
+
+    <p class="VidDayDialog--text">
+      We’ve partnered with VidDay to help you continue creating and sharing
+      special memories.
+    </p>
+
+    <p class="VidDayDialog--text">
+      Create a video with VidDay or use one you already have. They’ll preload
+      it into your Video Book, so it arrives ready to give.
+    </p>
+
+    <div class="VidDayDialog--actions">
+      <a
+        class="Button Button-is-pill Button-is-bordered Button-is-primary"
+        href="https://www.vidday.com/ref/heirloom?utm_content=modal"
+        target="_blank"
+        rel="noopener"
+        vidday-referral-link
+        >Shop Video Books</a
+      >
+    </div>
+
+    <div class="Dialog--close-positioner">
+      <button class="Button Button-is-close" aria-label="Close" dialog-close>
+        <svg viewBox="0 0 8 8">
+          <path
+            stroke="currentColor"
+            stroke-width=".75"
+            d="M0 0 L8 8 M8 0 L0 8"
+          />
+        </svg>
+      </button>
+    </div>
+  </div>
+</div>
+
+<style>
+  .VidDayDialog {
+    text-align: center;
+    font-family: var(--sans-serif-font-family);
+  }
+
+  .VidDayDialog--image {
+    display: block;
+    width: 100%;
+    max-width: 22em;
+    height: auto;
+    margin: 0 auto 1.5em;
+    border-radius: .75em;
+  }
+
+  .VidDayDialog--title {
+    font-family: var(--sans-serif-font-family);
+    font-size: 1.5em;
+    font-weight: 700;
+    line-height: 1.25;
+    margin: 0 0 .75em;
+  }
+
+  .VidDayDialog--text {
+    font-size: .95em;
+    line-height: 1.5;
+    margin: 0 0 1em;
+  }
+
+  .VidDayDialog--actions {
+    margin-top: 1.5em;
+  }
+
+  @media (max-width: 576px) {
+    .VidDayDialog--title {
+      font-size: 1.25em;
+    }
+  }
+</style>
+
+<script>
+  (function () {
+    const dialogEl = document.querySelector('[dialog="vidday"]');
+    if (!dialogEl) return;
+
+    const dialog = new Dialog(dialogEl);
+    window.viddayDialog = dialog;
+
+    // Buttons that used to go to Heirloom ordering pages. Their href is the
+    // VidDay referral link, so they still work if this script doesn't run.
+    document
+      .querySelectorAll("[intent='open-vidday-dialog']")
+      .forEach((el) => {
+        el.addEventListener("click", (event) => {
+          event.preventDefault();
+          dialog.open();
+          window.gtag &&
+            gtag("event", "vidday_modal_open", {
+              cta_id: el.getAttribute("cta-id"),
+            });
+        });
+      });
+
+    dialogEl
+      .querySelector("[vidday-referral-link]")
+      .addEventListener("click", () => {
+        window.gtag &&
+          gtag("event", "vidday_referral_click", { placement: "modal" });
+        window.woopra && woopra.track("vidday_referral_click");
+        dialog.close();
+      });
+  })();
+</script>

@@ -61,10 +61,7 @@
                     </g>
                   </svg>
                 </div>
-                <span class="text-xs"
-                  >Would you like a $10 off coupon? Subscribe to our
-                  emails.</span
-                >
+                <span class="text-xs">Subscribe to our emails.</span>
               </label>
             </div>
           </div>
@@ -591,7 +588,6 @@
 <script>
   (function () {
     const ORDERS_DISABLED = true;
-    const TRANSITION_URL = "https://make.sendheirloom.com/";
 
     const dialogEl = document.querySelector('[dialog="order"]');
     const dialog = new Dialog(dialogEl);
@@ -780,7 +776,11 @@
         event.preventDefault();
 
         if (ORDERS_DISABLED) {
-          window.location.href = TRANSITION_URL;
+          // Heirloom is no longer taking orders: refer customers to VidDay.
+          window.viddayDialog && window.viddayDialog.open();
+          gtag("event", "vidday_modal_open", {
+            cta_id: el.getAttribute("cta-id"),
+          });
           return;
         }
 

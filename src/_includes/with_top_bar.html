@@ -1,13 +1,18 @@
 {% extends "./default.html" %}
 
 {% block top_of_body %}
-{% if top_bar.body | trim %}
+{% if top_bar.body | trim or top_bar.link_text | trim %}
   <div class="TopBanner">
     {% if top_bar.opener | trim %}
-      <span class="TopBanner--accented">{{ top_bar.opener | safe }}:</span>&nbsp;
+      {% set opener = top_bar.opener | trim %}
+      <span class="TopBanner--accented">{{ opener | safe }}{% if ".!?:".indexOf(opener | last) == -1 %}:{% endif %}</span>&nbsp;
     {% endif %}
 
     {{ top_bar.body | safe }}
+
+    {% if top_bar.link | trim and top_bar.link_text | trim %}
+      &nbsp;<a class="TopBanner--link" href="{{ top_bar.link | trim }}" target="_blank" rel="noopener">{{ top_bar.link_text | safe }}</a>
+    {% endif %}
   </div>
 {% endif %}
 {% endblock %}

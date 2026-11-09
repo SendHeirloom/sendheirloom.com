@@ -50,6 +50,18 @@ body.mobile-menu-opened {
   color: var(--accent-color);
 }
 
+.TopBanner--link {
+  color: #fff;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: .2em;
+  white-space: nowrap;
+}
+
+.TopBanner--link:hover {
+  color: var(--accent-color);
+}
+
 .Logo {
   font-size: 2.5em;
   width: 3.8em;
