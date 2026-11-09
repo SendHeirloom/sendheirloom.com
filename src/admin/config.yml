@@ -67,4 +67,5 @@ collections:
         fields:
           - { label: Opener, name: opener, widget: string, hint: "Leave blank for no pink opening phrase", required: false }
           - { label: Body, name: body, widget: string, hint: "Leave blank to hide top bar from homepage", required: false }
-          - { label: Link, name: link, widget: string, hint: "Optional URL. When set, the body text becomes a link to it.", required: false }
+          - { label: Link Text, name: link_text, widget: string, hint: "Optional clickable text shown after the body", required: false }
+          - { label: Link, name: link, widget: string, hint: "URL the link text points to", required: false }
