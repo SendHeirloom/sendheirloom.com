@@ -38,7 +38,7 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
       <h1><span class="line line--light-green">Mail</span> a <span class="line line--white">video book</span> to someone you <span class="line line--pink">love.</span></h1>
 
       <p class="MailAVideoCard--buttons mb-5">
-        <a class="Button Button-is-pill Button-is-bordered Button-is-primary" intent="open-order-dialog" cta-id="above-the-fold">Buy Now</a>
+        <a class="Button Button-is-pill Button-is-bordered Button-is-primary" href="https://www.vidday.com/ref/heirloom?utm_content=modal" intent="open-vidday-dialog" cta-id="above-the-fold">Buy Now</a>
         <a class="Button Button-is-pill Button-is-bordered" href="#" intent="open-customers-video-dialog"
            step="video-hero-how-it-works"><svg fill="#000000" height="800px" width="800px" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" style="width: 20px; height: 20px; display: inline; margin-right: 3px; margin-top: -2px"
                xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -72,52 +72,35 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
           </div>
 
           </div>
-        <div class="GrandmaHandsSectionVideoMockup--content-accompanying-text">
+        <div class="GrandmaHandsSectionVideoMockup--content-accompanying-text HeroFeatures--container">
 
-          <div class="Pricing">
-            <div class="mb-4 price-col tablet-half-width tablet-text-center">
-              <div>
-                <span class="Pricing--price">
-                  <span class="Price">
-                    <span class="Price--currency">$</span>
-                    <span class="bit-bigger-letter-spacing">49</span>
-                  </span>
-                </span>
-                <span class="whitespace-nowrap shipping-text">
-                  + shipping
-                </span>
-              </div>
-              <div>up to <span class="whitespace-nowrap">10-minute</span> video book</div>
-            </div>
-            <div class="mb-4 tablet-half-width tablet-text-center price-col">
-              <div>
-                <span class="Pricing--price">
-                  <span class="Price">
-                    <span class="Price--currency">$</span>
-                    <span class="bit-bigger-letter-spacing">69</span>
-                  </span>
-                </span>
-                <span class="whitespace-nowrap shipping-text">
-                  + shipping
-                </span>
-              </div>
-              <div>up to <span class="whitespace-nowrap">20-minute</span> video book</div>
-            </div>
-            <div class="tablet-half-width tablet-text-center price-col">
-              <div>
-                <span class="Pricing--price">
-                  <span class="Price">
-                    <span class="Price--currency">$</span>
-                    <span class="bit-bigger-letter-spacing">89</span>
-                  </span>
-                </span>
-                <span class="whitespace-nowrap shipping-text">
-                  + shipping
-                </span>
-              </div>
-              <div>up to <span class="whitespace-nowrap">1-hour</span> video book</div>
-            </div>
-          </div>
+          <ul class="HeroFeatures">
+            <li class="HeroFeatures--item">
+              <svg class="HeroFeatures--icon" viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="9.25"/>
+                <path d="M10 8.5v7l5.5-3.5z"/>
+              </svg>
+              Plays automatically when opened
+            </li>
+            <li class="HeroFeatures--item">
+              <svg class="HeroFeatures--icon" viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M2.5 8.5a14 14 0 0 1 19 0"/>
+                <path d="M5.5 12a9.5 9.5 0 0 1 13 0"/>
+                <path d="M8.75 15.25a5 5 0 0 1 6.5 0"/>
+                <circle cx="12" cy="18.75" r=".6" fill="currentColor"/>
+                <path d="M3.5 3.5l17 17"/>
+              </svg>
+              No Wi-Fi or app needed
+            </li>
+            <li class="HeroFeatures--item">
+              <svg class="HeroFeatures--icon" viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="3.5" y="8" width="17" height="4.5" rx=".75"/>
+                <path d="M5 12.5v8h14v-8M12 8v12.5"/>
+                <path d="M12 8C10.5 4.5 7 4.5 7 6.25S10 8 12 8zM12 8c1.5-3.5 5-3.5 5-1.75S14 8 12 8z"/>
+              </svg>
+              Preloaded and ready to gift
+            </li>
+          </ul>
         </div>
       </div>
     </div>
@@ -191,7 +174,7 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
       </div>
       <br/>
       <div class="ButtonGroup Row-is-centered">
-        <a class="Button Button-is-pill Button-is-bordered Button-is-primary" intent="open-order-dialog" cta-id="video">Buy Now</a>
+        <a class="Button Button-is-pill Button-is-bordered Button-is-primary" href="https://www.vidday.com/ref/heirloom?utm_content=modal" intent="open-vidday-dialog" cta-id="video">Buy Now</a>
         <a href="/faq/" class="Button Button-is-pill Button-is-bordered">Read our FAQ</a>
       </div>
     </div>
@@ -262,7 +245,7 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
             <span class="step">Step 1</span>
             <div>
               <div class="List-steps--step">Buy the Book</div>
-              <div class="List-steps--content">Click <span class="opacity-50">"</span><a class="Link underline-bold" intent="open-order-dialog" cta-id="video">Buy Now</a><span class="opacity-50">"</span> to  order a  10-, 20- or 60-minute book<br>
+              <div class="List-steps--content">Click <span class="opacity-50">"</span><a class="Link underline-bold" href="https://www.vidday.com/ref/heirloom?utm_content=modal" intent="open-vidday-dialog" cta-id="video">Buy Now</a><span class="opacity-50">"</span> to  order a  10-, 20- or 60-minute book<br>
             </div>
             </div>
           </li>
@@ -310,11 +293,11 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
       <div class="Markdown">
         <h4 class="TwoUp--content-h4">Introducing</h4>
         <h2 class="TwoUp--content-h2">7" & 10" Video Books</h2>
-        <p><strong>Level up your video book</strong> — starting at just $39 more, enjoy a 50% larger screen and powerful upgraded speakers</p>
+        <p><strong>Level up your video book</strong> — enjoy a 50% larger screen and powerful upgraded speakers</p>
         <p>Now featuring <strong>custom-designed covers and premium gift boxes</strong> for 7" & 10" books—available while supplies last.</p>
       </div>
       <div class="ButtonGroup mt-2">
-        <a class="Button Button-is-pill Button-is-bordered Button-is-primary" intent="open-order-dialog" cta-id="specs">Buy Now</a>
+        <a class="Button Button-is-pill Button-is-bordered Button-is-primary" href="https://www.vidday.com/ref/heirloom?utm_content=modal" intent="open-vidday-dialog" cta-id="specs">Buy Now</a>
       </div>
     </div>
     
@@ -375,11 +358,11 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
 
     <div class="mt-2">
       <p>Custom covers ship in <strong>5–7 business days</strong>.</p>
-      <p>Order as few as one — starting at just <strong>$20 each</strong>.</p>
+      <p>Order as few as one.</p>
     </div>
 
     <div class="ButtonGroup Row-is-centered mt-2">
-      <a class="Button Button-is-pill Button-is-bordered Button-is-primary" intent="open-order-dialog" cta-id="specs">Buy Now</a>
+      <a class="Button Button-is-pill Button-is-bordered Button-is-primary" href="https://www.vidday.com/ref/heirloom?utm_content=modal" intent="open-vidday-dialog" cta-id="specs">Buy Now</a>
     </div>
   </div>
 </div>
@@ -420,7 +403,7 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
             {% image "./src/static/images/christmas-gift-box.png", "Gift Box", "", "", "AspectRatio--content" %}
           </div>
         </div>
-        <p>Starting at only $12. Limited Supply.</p>
+        <p>Limited Supply.</p>
       </div>
 
     </div>
@@ -482,7 +465,7 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
       </div>
       <br/>
       <div class="ButtonGroup ">
-        <a class="Button Button-is-pill Button-is-bordered Button-is-primary" intent="open-order-dialog" cta-id="specs">Buy Now</a>
+        <a class="Button Button-is-pill Button-is-bordered Button-is-primary" href="https://www.vidday.com/ref/heirloom?utm_content=modal" intent="open-vidday-dialog" cta-id="specs">Buy Now</a>
       </div>
     </div>
 
@@ -692,14 +675,6 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
         <div class="Review">
           <div class="Review--stars"></div>
           <div class="Review--header">
-            <span class="Review--username">chris_gillette-5</span>
-          </div>
-          <div class="Review--title">Easy, Fast, Connects my Family in a Special Way!</div>
-          <div class="Review--text">I am so glad I found this app. My Grandma had been having a really hard time through COVID-19 since physical distancing has uprooted most social events. Calling and waving from the window is great, but I wanted to give her something she could hold onto when I can’t be there. And this is where Heirloom comes in! I added 10 videos of my dogs to the app and mailed my Grandma a video card. She loves my dogs, and she hasn’t been able to see them because of all this. But once she got the card, she called me and told me it made her week! Please please please download this app and send some love to your grandparents. They will treasure this forever, and it’s only $50! What a steal!</div>
-        </div>
-        <div class="Review">
-          <div class="Review--stars"></div>
-          <div class="Review--header">
             <span class="Review--username">emalkin23</span>
           </div>
           <div class="Review--title">Great way to stay connected, without a connection!</div>
@@ -766,14 +741,6 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
         <div class="Review">
           <div class="Review--stars"></div>
           <div class="Review--header">
-            <span class="Review--username">ggarnaas2</span>
-          </div>
-          <div class="Review--title">Amazing way to stay connected!!</div>
-          <div class="Review--text">This app has created a new way to share joy!! It’s made that joy sharing TANGIBLE for the ones I love...and that has been what we have all been yearning for these days. It could not be easier to do and for $49 the response is truly priceless. It’s perfect and just in time for the holidays 🌲❤️!</div>
-        </div>
-        <div class="Review">
-          <div class="Review--stars"></div>
-          <div class="Review--header">
             <span class="Review--username">jessica.b.md</span>
           </div>
           <div class="Review--title">Perfect gift! Easy to use.</div>
@@ -829,7 +796,7 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
       </div>
       <br/>
       <!--<div class="ButtonGroup Row-is-centered">
-        <a class="Button Button-is-pill Button-is-bordered Button-is-primary" intent="open-order-dialog" cta-id="share-the-moment">Buy Now</a>
+        <a class="Button Button-is-pill Button-is-bordered Button-is-primary" href="https://www.vidday.com/ref/heirloom?utm_content=modal" intent="open-vidday-dialog" cta-id="share-the-moment">Buy Now</a>
       </div>-->
     </div>
     <div class="TwoUp--illustration">
@@ -851,7 +818,7 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
         <h2 class="TwoUp--content-h2">Video Books Designed for Business</h2>
         <p>Video books are a new, impactful way to deliver your message and engage your audience.</p>
         <p>With applications across <strong>sales, marketing, branding, education, real estate, retail, fundraising, and events</strong>, video books help you stand out and make a lasting impression.</p>
-        <p>Custom-printed covers are ready in just <strong>5–7 business days. Bulk discounts available</strong> — email us for a custom quote.</p>
+        <p>Custom-printed covers are ready in just <strong>5–7 business days</strong>. Email us to get started.</p>
         <div class="ButtonGroup Row-is-centered">
           <a class="Button Button-is-pill Button-is-bordered Button-is-blue" href="mailto:help@sendheirloom.com">Email Us</a>
         </div>
@@ -893,7 +860,6 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
           <li>Easy-to-follow instructions</li>
           <li>A USB cord for uploading and charging</li>
         </ul>
-        <p class="small center">Only <s>$69</s> $49 (free shipping)</p>
         <div class="ButtonGroup Row-is-centered">
           <span>
             <a class="Button Button-is-pill Button-is-bordered Button-is-primary" href="https://www.vidday.com/ref/heirloom?utm_content=modal" intent="open-vidday-dialog" cta-id="kit">Order Kit</a>
@@ -961,7 +927,7 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
         <p>Nothing sounds sweeter than your voice—or your laughter.</p>
         <p>Every Heirloom video book includes a built-in speaker that plays your original audio with rich, crystal-clear quality.</p>
         <div class="">
-        <a class="Button Button-is-pill Button-is-bordered Button-is-primary" intent="open-order-dialog" cta-id="sound">Buy Now</a>
+        <a class="Button Button-is-pill Button-is-bordered Button-is-primary" href="https://www.vidday.com/ref/heirloom?utm_content=modal" intent="open-vidday-dialog" cta-id="sound">Buy Now</a>
         </div>
       </div>
     </div>
@@ -996,7 +962,7 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
       </div>
       <br/>
       <div class="ButtonGroup ">
-        <a class="Button Button-is-pill Button-is-bordered Button-is-primary" intent="open-order-dialog" cta-id="share-the-moment">Buy Now</a>
+        <a class="Button Button-is-pill Button-is-bordered Button-is-primary" href="https://www.vidday.com/ref/heirloom?utm_content=modal" intent="open-vidday-dialog" cta-id="share-the-moment">Buy Now</a>
       </div>
     </div>
   </div>
@@ -1011,7 +977,7 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
         <p>We accept virtually every file format, including .mp4, .mov, .jpeg, and everything created by an Android or iPhone.</p>
         <br />
         <div class="ButtonGroup ">
-          <a class="Button Button-is-pill Button-is-bordered Button-is-primary" intent="open-order-dialog" cta-id="combine">Buy Now</a>
+          <a class="Button Button-is-pill Button-is-bordered Button-is-primary" href="https://www.vidday.com/ref/heirloom?utm_content=modal" intent="open-vidday-dialog" cta-id="combine">Buy Now</a>
         </div>
       </div>
     </div>
@@ -1028,7 +994,8 @@ customer_video_books: [birthday, family, holiday, memorials, memories, surprises
 </div>
 
 {% include "partials/customer_videos_dialog.html" %}
-{% include "partials/order_dialog.html" %}
+<!-- ShareASale Tracking -->
+<script src="https://www.dwin1.com/19038.js" type="text/javascript" defer="defer"></script>
 {% include "partials/sms_dialog.html" %}
 
 <script>

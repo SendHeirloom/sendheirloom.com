@@ -55,5 +55,3 @@ Whether it’s for your boyfriend, girlfriend, husband, or wife, a **personaliz
 ## Make This Valentine’s Day Truly Special
 
 This Valentine’s Day, give a gift that tells your love story in a way words alone can’t. **Order your personalized video book today** and create a meaningful, lasting memory your loved one will cherish forever.
-
-**Shop now and take advantage of our Early Valentine’s Day Sale – Get $10 off your order with code VDAY2026, valid thru Jan 30.**

@@ -12,25 +12,25 @@ Important notes:
 
 ## Products
 
-- [5" Video Book — $49 + shipping](https://sendheirloom.com/): 854x480 HD IPS screen, up to 10 minutes of video or ~200 photos, 256 MB storage, ~1 hour battery, USB-rechargeable, built-in speaker
-- [7" Video Book — $69+ shipping](https://sendheirloom.com/): 1024x600 HD IPS screen, up to 20 minutes, larger speakers, available with premium gift box
-- [10" Video Book — $89+ shipping](https://sendheirloom.com/): Up to 60 minutes of video, largest screen option
-- [Custom Printed Covers — $20 each](https://sendheirloom.com/): Full-color UV-printed front cover; back, spine, and inside cover available for additional cost. 5–7 business day production. No minimum quantity
-- [Gift Cards — from $12](https://order.sendheirloom.com/products/gift-card): Recipient creates their own video book
-- [Gift Boxes](https://sendheirloom.com/): Premium packaging for 7" and 10" books, starting at $12
+- [5" Video Book](https://sendheirloom.com/): 854x480 HD IPS screen, up to 10 minutes of video or ~200 photos, 256 MB storage, ~1 hour battery, USB-rechargeable, built-in speaker
+- [7" Video Book](https://sendheirloom.com/): 1024x600 HD IPS screen, up to 20 minutes, larger speakers, available with premium gift box
+- [10" Video Book](https://sendheirloom.com/): Up to 60 minutes of video, largest screen option
+- [Custom Printed Covers](https://sendheirloom.com/): Full-color UV-printed front cover; back, spine, and inside cover also available. 5–7 business day production. No minimum quantity
+- [Gift Cards](https://order.sendheirloom.com/products/gift-card): Recipient creates their own video book
+- [Gift Boxes](https://sendheirloom.com/): Premium packaging for 7" and 10" books
 
 ## Use Cases
 
 - [Birthday Video Books](https://sendheirloom.com/send-birthday-video-gift/): Compile birthday messages from family and friends into a physical keepsake
 - [Wedding Video Books](https://sendheirloom.com/wedding-video-book/): Preserve wedding videos and photo slideshows in a tangible format
 - [Memorial Video Books](https://sendheirloom.com/mail-memorial-video-book/): Commemorate loved ones with video tributes
-- [Business Video Books](https://sendheirloom.com/business/): Sales, marketing, branding, real estate, fundraising, and events. B2B customers report 30% higher conversion rates. Bulk discounts: 20% off 10+, 30% off 50+, 40% off 100+ units
-- [Photographers & Videographers](https://sendheirloom.com/for-photographers-and-videographers/): Bulk orders starting at $38/book for client delivery, with custom covers and direct-ship options
+- [Business Video Books](https://sendheirloom.com/business/): Sales, marketing, branding, real estate, fundraising, and events. B2B customers report 30% higher conversion rates. Bulk orders welcome
+- [Photographers & Videographers](https://sendheirloom.com/for-photographers-and-videographers/): Bulk orders for client delivery, with custom covers and direct-ship options
 - [Photo Books](https://sendheirloom.com/photobooks/): Photos auto-combined into slideshows (~4 seconds per photo). 10-minute book fits ~150 photos, 20-minute fits ~300
 
 ## Builder & Technical
 
-- [Video Book Builder](https://make.sendheirloom.com): Free to try before purchasing. Upload from computer, phone, Facebook, or Instagram. Drag-and-drop arrangement, cover selection/design, background music (library or custom), inside message, preview
+- [Video Book Builder](https://make.sendheirloom.com): Free to try. Upload from computer, phone, Facebook, or Instagram. Drag-and-drop arrangement, cover selection/design, background music (library or custom), inside message, preview
 - [Load My Book (for blank books)](https://sendheirloom.com/load-my-book/): Instructions for loading media onto blank video books via USB
 - [Local Builder (for reloading)](https://make.sendheirloom.com/local): Update or change media on books you already own
 - Supported formats: .mp4, .mov, .jpeg, and all standard Android/iPhone formats
@@ -39,19 +39,19 @@ Important notes:
 
 ## Docs
 
-- [FAQ](https://sendheirloom.com/faq/): Pricing, specifications, shipping, custom covers, supported formats, and ordering details
+- [FAQ](https://sendheirloom.com/faq/): Specifications, shipping, custom covers, supported formats, and ordering details
 - [Knowledge Base](https://help.sendheirloom.com/): How-to articles for manual loading, custom covers, charging, changing media, importing addresses, and troubleshooting
 - [About Us](https://sendheirloom.com/about-us/): Origin story and founding team
 - [Blog](https://sendheirloom.com/blog/): Gift guides, occasion ideas, dementia communication, nonprofit fundraising with video, and product updates
 
 ## Shipping & Fulfillment
 
-- [Shipping Information](https://sendheirloom.com/shipping/): Standard USPS delivery in 5–7 business days (free over $75). Expedited 2-day available for ~$15. International shipping $15–$40 USD. Fulfillment from Bethesda, MD
+- [Shipping Information](https://sendheirloom.com/shipping/): Standard USPS delivery in 5–7 business days. Expedited 2-day and international shipping available. Fulfillment from Bethesda, MD
 - [Returns](https://sendheirloom.com/returns/): Return policy details
 - Production: 2–3 days for standard books, 5–7 additional days for custom covers. Books ship same day they are completed
 
 ## Contact
 
 - Email: help@sendheirloom.com
-- Custom/bulk quotes: help@sendheirloom.com
+- Custom/bulk orders: help@sendheirloom.com
 - Payment: Visa, MasterCard, JCB, AmEx, PayPal, Amazon Pay, Shop Pay, Google Pay

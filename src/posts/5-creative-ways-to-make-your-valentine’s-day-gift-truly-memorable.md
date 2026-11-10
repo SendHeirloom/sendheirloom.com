@@ -36,5 +36,3 @@ Unlike generic gifts, a Heirloom **video book** is:
 * Easy to create, even at the last minute
 
 Whether it’s for your boyfriend, girlfriend, husband, or wife, a **custom video gift** is a **romantic, memorable Valentine’s Day present** that will be cherished for years to come.
-
-**Order your Heirloom video book today and take advantage of our Early Valentine’s Day Sale – Get $10 off your order with code VDAY2026, valid thru Jan 30.**

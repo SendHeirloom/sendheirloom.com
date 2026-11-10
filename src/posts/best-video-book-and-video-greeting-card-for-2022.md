@@ -22,7 +22,7 @@ Let’s start with what is most likely the same for all Video Memory Book choice
 
 Consider your purchase goal: a celebration or memorial gift, a business message, or perhaps a personal storage project. Your selection of which product best fits your needs may consider some of these product differences. Here are three products to compare. 
 
-Our top choice not only provides all the features we listed above, but shines past the competitors in two major areas: Cost and Customer Service. We consider these features to be exceptionally important for this product class. You can pay more (and the other choices do offer a few more features to help balance their double and triple cost). You can not over appreciate the need for quick, accurate, personalized and just plain nice customer service. Here is where our Top Choice excels.
+Our top choice not only provides all the features we listed above, but shines past the competitors in two major areas: Ease of Use and Customer Service. We consider these features to be exceptionally important for this product class. You can not over appreciate the need for quick, accurate, personalized and just plain nice customer service. Here is where our Top Choice excels.
 
 ![Heirloom Video Book](https://ucarecdn.com/9178fe0a-4395-4b1f-a975-3efd490e6832/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Video Book")
 
@@ -32,7 +32,7 @@ Our top choice not only provides all the features we listed above, but shines pa
 
 #### [sendheirloom.com](https://sendheirloom.com)
 
-This product is our top pick for most first-time users and those concerned with challenging their tech skills. Heirloom Video Books scores for the best price, half the cost or less than its leading competitors. Your purchase of a video book, and your work to create your masterpiece, may very well be your first attempt. The ease of understanding user instructions is evident, clearly enjoyed by customers as you read their feedback and reviews. Outstanding customer service begins with their easy to submit requests for assistance and is boosted by personal contacts when special care is required.
+This product is our top pick for most first-time users and those concerned with challenging their tech skills. Your purchase of a video book, and your work to create your masterpiece, may very well be your first attempt. The ease of understanding user instructions is evident, clearly enjoyed by customers as you read their feedback and reviews. Outstanding customer service begins with their easy to submit requests for assistance and is boosted by personal contacts when special care is required.
 
 ![Motion Books](https://ucarecdn.com/c5a47779-e8de-45b1-82f0-d93bb7a99c73/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Motion Video Book")
 
@@ -42,7 +42,7 @@ This product is our top pick for most first-time users and those concerned with 
 
 #### [themotionbooks.com](https://themotionbooks.com/)
 
-We present this product as also one offering all the basic features of video books. This product expands its operation with an additional feature at double the comparable cost. The device provides controls for play/pause and volume. This can be excessively complex for some, but others may find those options valuable and worth the price. The product is more limited in basic cover designs.
+We present this product as also one offering all the basic features of video books. This product expands its operation with an additional feature. The device provides controls for play/pause and volume. This can be excessively complex for some, but others may find those options valuable. The product is more limited in basic cover designs.
 
 ![Photo Flash Drive](https://ucarecdn.com/20d65f03-783e-49fb-a8d1-313ae20fe4a7/-/resize/1560x/-/stretch/off/-/format/auto/-/progressive/yes/ "Photo book")
 
@@ -52,6 +52,6 @@ We present this product as also one offering all the basic features of video boo
 
 #### [photoflashdrive.com/playbook/](https://www.photoflashdrive.com/playbook/)
 
-More experienced video book users may appreciate this product for business services. At up to three times the cost of the top choice, business and experienced customers may still be interested. While only white or black basic covers are available, this product offers customized front and back cover printing.
+More experienced video book users may appreciate this product for business services. Business and experienced customers may still be interested. While only white or black basic covers are available, this product offers customized front and back cover printing.
 
 Video Memory Books are a great gift or personal project for many reasons. Knowing your needs, skills, time and budget will guide your selection. Additionally, exploring the device as a first time user, you can always build upon your skills. You’ll soon identify many spot-in uses for this tool. Welcome to the world of technology as more than a way of doing your expected tasks of phone calls and picture taking. You will be entering the world of new gift creation and memory preservation, sure to excite you and please your many recipients.
